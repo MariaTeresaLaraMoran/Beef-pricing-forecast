@@ -4,7 +4,6 @@ Forecasting weekly wholesale beef prices in Mexico with deep learning (LSTM/GRU)
 using US beef prices, the USD/MXN exchange rate, and US beef exports to Mexico.
 The deep learning model is compared against a linear regression baseline.
 
-Deep learning course project. Presentation: December 1, 2026.
 
 ## Problem
 
