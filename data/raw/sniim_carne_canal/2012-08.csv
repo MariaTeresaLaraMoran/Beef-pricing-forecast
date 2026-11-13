@@ -1,0 +1,1153 @@
+date,slaughterhouse,type,avg_weight_kg,carcasses,price_min_mxn_kg,price_max_mxn_kg
+2012-08-01,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,26.0,34.0,36.0
+2012-08-01,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,145.0,22.0,23.0
+2012-08-02,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,23.0,34.0,36.0
+2012-08-02,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,114.0,22.0,23.0
+2012-08-03,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,31.0,34.0,36.0
+2012-08-03,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,132.0,22.0,23.0
+2012-08-04,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,27.0,34.0,36.0
+2012-08-04,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,123.0,22.0,23.0
+2012-08-06,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,29.0,34.0,36.0
+2012-08-06,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,134.0,22.0,23.0
+2012-08-07,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,32.0,34.0,36.0
+2012-08-07,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,130.0,22.0,23.0
+2012-08-08,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,41.0,34.0,36.0
+2012-08-08,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,132.0,22.0,23.0
+2012-08-09,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,34.0,34.0,36.0
+2012-08-09,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,148.0,22.0,23.0
+2012-08-10,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,27.0,34.0,36.0
+2012-08-10,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,135.0,22.0,23.0
+2012-08-11,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,27.0,34.0,36.0
+2012-08-11,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,125.0,22.0,23.0
+2012-08-13,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,30.0,34.0,36.0
+2012-08-13,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,141.0,22.0,23.0
+2012-08-14,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,22.0,34.0,36.0
+2012-08-14,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,117.0,22.0,23.0
+2012-08-15,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,29.0,34.0,36.0
+2012-08-15,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,133.0,22.0,23.0
+2012-08-16,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,28.0,34.0,36.0
+2012-08-16,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,111.0,22.0,23.0
+2012-08-17,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,23.0,34.0,36.0
+2012-08-17,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,130.0,22.0,23.0
+2012-08-18,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,30.0,34.0,36.0
+2012-08-18,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,131.0,22.0,23.0
+2012-08-20,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,29.0,34.0,36.0
+2012-08-20,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,143.0,22.0,23.0
+2012-08-21,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,28.0,34.0,36.0
+2012-08-21,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,120.0,22.0,23.0
+2012-08-22,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,34.0,34.0,36.0
+2012-08-22,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,127.0,22.0,23.0
+2012-08-23,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,24.0,34.0,36.0
+2012-08-23,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,137.0,22.0,23.0
+2012-08-24,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,31.0,34.0,36.0
+2012-08-24,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,141.0,22.0,23.0
+2012-08-25,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,23.0,34.0,36.0
+2012-08-25,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,116.0,22.0,23.0
+2012-08-27,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,27.0,34.0,36.0
+2012-08-27,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,127.0,22.0,23.0
+2012-08-28,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,29.0,34.0,36.0
+2012-08-28,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,133.0,22.0,23.0
+2012-08-29,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,30.0,34.0,36.0
+2012-08-29,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,129.0,22.0,23.0
+2012-08-30,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,29.0,34.0,36.0
+2012-08-30,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,122.0,22.0,23.0
+2012-08-31,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,23.0,34.0,36.0
+2012-08-31,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,138.0,22.0,23.0
+2012-08-01,Ags. : R.M. Aguascalientes,Toros,455.0,27.0,35.0,38.0
+2012-08-01,Ags. : R.M. Aguascalientes,Vaca,360.0,80.0,25.0,26.0
+2012-08-02,Ags. : R.M. Aguascalientes,Toros,455.0,10.0,35.0,38.0
+2012-08-02,Ags. : R.M. Aguascalientes,Vaca,360.0,82.0,25.0,26.0
+2012-08-03,Ags. : R.M. Aguascalientes,Toros,455.0,27.0,35.0,38.0
+2012-08-03,Ags. : R.M. Aguascalientes,Vaca,360.0,71.0,25.0,26.0
+2012-08-04,Ags. : R.M. Aguascalientes,Toros,455.0,18.0,35.0,38.0
+2012-08-04,Ags. : R.M. Aguascalientes,Vaca,360.0,65.0,25.0,26.0
+2012-08-06,Ags. : R.M. Aguascalientes,Novillona,295.0,2.0,30.0,34.0
+2012-08-06,Ags. : R.M. Aguascalientes,Toros,455.0,18.0,35.0,38.0
+2012-08-06,Ags. : R.M. Aguascalientes,Vaca,360.0,90.0,25.0,26.0
+2012-08-07,Ags. : R.M. Aguascalientes,Toros,455.0,17.0,35.0,38.0
+2012-08-07,Ags. : R.M. Aguascalientes,Vaca,360.0,74.0,25.0,26.0
+2012-08-08,Ags. : R.M. Aguascalientes,Toros,455.0,18.0,35.0,38.0
+2012-08-08,Ags. : R.M. Aguascalientes,Vaca,360.0,85.0,25.0,26.0
+2012-08-09,Ags. : R.M. Aguascalientes,Toros,455.0,18.0,35.0,38.0
+2012-08-09,Ags. : R.M. Aguascalientes,Vaca,360.0,91.0,25.0,26.0
+2012-08-10,Ags. : R.M. Aguascalientes,Toros,455.0,21.0,35.0,38.0
+2012-08-10,Ags. : R.M. Aguascalientes,Vaca,360.0,76.0,25.0,26.0
+2012-08-11,Ags. : R.M. Aguascalientes,Novillona,295.0,2.0,30.0,34.0
+2012-08-11,Ags. : R.M. Aguascalientes,Toros,455.0,16.0,35.0,38.0
+2012-08-11,Ags. : R.M. Aguascalientes,Vaca,360.0,83.0,25.0,26.0
+2012-08-13,Ags. : R.M. Aguascalientes,Toros,455.0,22.0,35.0,38.0
+2012-08-13,Ags. : R.M. Aguascalientes,Vaca,360.0,93.0,25.0,26.0
+2012-08-14,Ags. : R.M. Aguascalientes,Toros,455.0,18.0,35.0,38.0
+2012-08-14,Ags. : R.M. Aguascalientes,Vaca,360.0,73.0,25.0,26.0
+2012-08-15,Ags. : R.M. Aguascalientes,Novillona,295.0,2.0,30.0,34.0
+2012-08-15,Ags. : R.M. Aguascalientes,Toros,455.0,16.0,35.0,38.0
+2012-08-15,Ags. : R.M. Aguascalientes,Vaca,360.0,92.0,25.0,26.0
+2012-08-16,Ags. : R.M. Aguascalientes,Toros,455.0,18.0,35.0,38.0
+2012-08-16,Ags. : R.M. Aguascalientes,Vaca,360.0,65.0,25.0,26.0
+2012-08-17,Ags. : R.M. Aguascalientes,Toros,455.0,18.0,35.0,38.0
+2012-08-17,Ags. : R.M. Aguascalientes,Vaca,360.0,92.0,25.0,26.0
+2012-08-18,Ags. : R.M. Aguascalientes,Toros,455.0,18.0,35.0,38.0
+2012-08-18,Ags. : R.M. Aguascalientes,Vaca,360.0,78.0,25.0,26.0
+2012-08-20,Ags. : R.M. Aguascalientes,Toros,455.0,17.0,35.0,38.0
+2012-08-20,Ags. : R.M. Aguascalientes,Vaca,360.0,91.0,25.0,26.0
+2012-08-21,Ags. : R.M. Aguascalientes,Toros,455.0,17.0,35.0,38.0
+2012-08-21,Ags. : R.M. Aguascalientes,Vaca,360.0,79.0,25.0,26.0
+2012-08-22,Ags. : R.M. Aguascalientes,Toros,455.0,28.0,35.0,38.0
+2012-08-22,Ags. : R.M. Aguascalientes,Vaca,360.0,75.0,25.0,26.0
+2012-08-23,Ags. : R.M. Aguascalientes,Toros,455.0,18.0,35.0,38.0
+2012-08-23,Ags. : R.M. Aguascalientes,Vaca,360.0,58.0,25.0,26.0
+2012-08-24,Ags. : R.M. Aguascalientes,Toros,455.0,10.0,35.0,38.0
+2012-08-24,Ags. : R.M. Aguascalientes,Vaca,100.0,87.0,25.0,26.0
+2012-08-25,Ags. : R.M. Aguascalientes,Toros,455.0,13.0,35.0,38.0
+2012-08-25,Ags. : R.M. Aguascalientes,Vaca,360.0,73.0,25.0,26.0
+2012-08-27,Ags. : R.M. Aguascalientes,Novillona,295.0,2.0,30.0,34.0
+2012-08-27,Ags. : R.M. Aguascalientes,Toros,455.0,18.0,35.0,38.0
+2012-08-27,Ags. : R.M. Aguascalientes,Vaca,360.0,77.0,25.0,26.0
+2012-08-28,Ags. : R.M. Aguascalientes,Toros,455.0,18.0,35.0,38.0
+2012-08-28,Ags. : R.M. Aguascalientes,Vaca,360.0,88.0,25.0,26.0
+2012-08-29,Ags. : R.M. Aguascalientes,Toros,455.0,18.0,35.0,38.0
+2012-08-29,Ags. : R.M. Aguascalientes,Vaca,360.0,90.0,25.0,26.0
+2012-08-30,Ags. : R.M. Aguascalientes,Toros,455.0,17.0,35.0,38.0
+2012-08-30,Ags. : R.M. Aguascalientes,Vaca,360.0,89.0,25.0,26.0
+2012-08-31,Ags. : R.M. Aguascalientes,Novillona,295.0,2.0,30.0,34.0
+2012-08-31,Ags. : R.M. Aguascalientes,Toros,455.0,17.0,35.0,38.0
+2012-08-31,Ags. : R.M. Aguascalientes,Vaca,360.0,84.0,25.0,26.0
+2012-08-06,B.C.S. : R.M. La Paz B.C.S.,Pradera,182.0,77.0,30.0,35.0
+2012-08-13,B.C.S. : R.M. La Paz B.C.S.,Pradera,206.0,29.0,30.0,35.0
+2012-08-21,B.C.S. : R.M. La Paz B.C.S.,Pradera,199.0,80.0,30.0,35.0
+2012-08-01,Camp. : R.M. Campeche,Pradera,190.0,24.0,33.0,35.0
+2012-08-02,Camp. : R.M. Campeche,Pradera,190.0,22.0,33.0,35.0
+2012-08-03,Camp. : R.M. Campeche,Pradera,190.0,25.0,33.0,35.0
+2012-08-06,Camp. : R.M. Campeche,Pradera,190.0,21.0,33.0,35.0
+2012-08-07,Camp. : R.M. Campeche,Pradera,190.0,23.0,33.0,35.0
+2012-08-09,Camp. : R.M. Campeche,Pradera,190.0,20.0,33.0,35.0
+2012-08-10,Camp. : R.M. Campeche,Pradera,190.0,25.0,33.0,35.0
+2012-08-13,Camp. : R.M. Campeche,Pradera,190.0,21.0,33.0,35.0
+2012-08-14,Camp. : R.M. Campeche,Pradera,190.0,23.0,33.0,35.0
+2012-08-15,Camp. : R.M. Campeche,Pradera,190.0,25.0,33.0,35.0
+2012-08-16,Camp. : R.M. Campeche,Pradera,190.0,22.0,33.0,35.0
+2012-08-17,Camp. : R.M. Campeche,Pradera,190.0,24.0,33.0,35.0
+2012-08-20,Camp. : R.M. Campeche,Pradera,190.0,20.0,33.0,35.0
+2012-08-21,Camp. : R.M. Campeche,Pradera,190.0,22.0,34.0,36.0
+2012-08-22,Camp. : R.M. Campeche,Pradera,190.0,24.0,34.0,36.0
+2012-08-23,Camp. : R.M. Campeche,Pradera,190.0,21.0,34.0,36.0
+2012-08-24,Camp. : R.M. Campeche,Pradera,190.0,26.0,34.0,36.0
+2012-08-27,Camp. : R.M. Campeche,Pradera,190.0,21.0,34.0,36.0
+2012-08-28,Camp. : R.M. Campeche,Pradera,190.0,23.0,34.0,36.0
+2012-08-29,Camp. : R.M. Campeche,Pradera,190.0,24.0,34.0,36.0
+2012-08-30,Camp. : R.M. Campeche,Pradera,190.0,22.0,34.0,36.0
+2012-08-31,Camp. : R.M. Campeche,Pradera,190.0,25.0,34.0,36.0
+2012-08-01,Coah. : R.M. Torreón,Corral,222.0,43.0,38.0,40.0
+2012-08-02,Coah. : R.M. Torreón,Corral,222.0,61.0,38.0,40.0
+2012-08-02,Coah. : R.M. Torreón,Vaca,360.0,130.0,27.0,28.0
+2012-08-06,Coah. : R.M. Torreón,Corral,222.0,41.0,38.0,40.0
+2012-08-06,Coah. : R.M. Torreón,Vaca,360.0,118.0,27.0,28.0
+2012-08-07,Coah. : R.M. Torreón,Corral,222.0,41.0,38.0,40.0
+2012-08-07,Coah. : R.M. Torreón,Vaca,360.0,92.0,27.0,28.0
+2012-08-08,Coah. : R.M. Torreón,Corral,222.0,255.0,36.0,37.0
+2012-08-09,Coah. : R.M. Torreón,Corral,222.0,255.0,36.0,37.0
+2012-08-10,Coah. : R.M. Torreón,Corral,222.0,255.0,36.0,37.0
+2012-08-13,Coah. : R.M. Torreón,Corral,222.0,98.0,38.0,40.0
+2012-08-13,Coah. : R.M. Torreón,Vaca,360.0,173.0,27.0,28.0
+2012-08-14,Coah. : R.M. Torreón,Corral,222.0,85.0,38.0,40.0
+2012-08-14,Coah. : R.M. Torreón,Vaca,360.0,89.0,27.0,28.0
+2012-08-15,Coah. : R.M. Torreón,Corral,222.0,84.0,38.0,40.0
+2012-08-15,Coah. : R.M. Torreón,Vaca,360.0,141.0,27.0,28.0
+2012-08-16,Coah. : R.M. Torreón,Corral,222.0,47.0,38.0,40.0
+2012-08-16,Coah. : R.M. Torreón,Vaca,360.0,224.0,27.0,28.0
+2012-08-20,Coah. : R.M. Torreón,Corral,222.0,41.0,38.0,40.0
+2012-08-20,Coah. : R.M. Torreón,Vaca,360.0,97.0,27.0,28.0
+2012-08-21,Coah. : R.M. Torreón,Corral,222.0,51.0,38.0,40.0
+2012-08-21,Coah. : R.M. Torreón,Vaca,360.0,62.0,27.0,28.0
+2012-08-22,Coah. : R.M. Torreón,Corral,222.0,35.0,38.0,40.0
+2012-08-22,Coah. : R.M. Torreón,Vaca,360.0,68.0,27.0,28.0
+2012-08-23,Coah. : R.M. Torreón,Corral,222.0,73.0,38.0,40.0
+2012-08-23,Coah. : R.M. Torreón,Vaca,360.0,105.0,27.0,28.0
+2012-08-27,Coah. : R.M. Torreón,Corral,222.0,46.0,38.0,40.0
+2012-08-27,Coah. : R.M. Torreón,Vaca,360.0,243.0,27.0,28.0
+2012-08-28,Coah. : R.M. Torreón,Corral,222.0,31.0,38.0,40.0
+2012-08-28,Coah. : R.M. Torreón,Vaca,360.0,89.0,27.0,28.0
+2012-08-29,Coah. : R.M. Torreón,Corral,222.0,39.0,38.0,40.0
+2012-08-29,Coah. : R.M. Torreón,Vaca,360.0,200.0,27.0,28.0
+2012-08-30,Coah. : R.M. Torreón,Corral,222.0,41.0,38.0,40.0
+2012-08-30,Coah. : R.M. Torreón,Vaca,360.0,208.0,27.0,28.0
+2012-08-01,Coah. : TIF 40 Procarne,Corral,222.0,147.0,36.0,37.0
+2012-08-02,Coah. : TIF 40 Procarne,Corral,222.0,270.0,36.0,37.0
+2012-08-03,Coah. : TIF 40 Procarne,Corral,222.0,257.0,36.0,37.0
+2012-08-06,Coah. : TIF 40 Procarne,Corral,222.0,398.0,36.0,37.0
+2012-08-07,Coah. : TIF 40 Procarne,Corral,222.0,317.0,36.0,37.0
+2012-08-13,Coah. : TIF 40 Procarne,Corral,222.0,362.0,36.0,37.0
+2012-08-14,Coah. : TIF 40 Procarne,Corral,222.0,306.0,36.0,38.0
+2012-08-15,Coah. : TIF 40 Procarne,Corral,222.0,340.0,36.0,38.0
+2012-08-16,Coah. : TIF 40 Procarne,Corral,222.0,261.0,36.0,38.0
+2012-08-20,Coah. : TIF 40 Procarne,Corral,222.0,252.0,36.0,38.0
+2012-08-21,Coah. : TIF 40 Procarne,Corral,222.0,258.0,36.0,38.0
+2012-08-22,Coah. : TIF 40 Procarne,Corral,222.0,258.0,36.0,38.0
+2012-08-23,Coah. : TIF 40 Procarne,Corral,222.0,226.0,36.0,38.0
+2012-08-24,Coah. : TIF 40 Procarne,Corral,222.0,230.0,36.0,38.0
+2012-08-27,Coah. : TIF 40 Procarne,Corral,222.0,337.0,36.0,38.0
+2012-08-28,Coah. : TIF 40 Procarne,Corral,222.0,325.0,36.0,38.0
+2012-08-29,Coah. : TIF 40 Procarne,Corral,222.0,316.0,36.0,38.0
+2012-08-30,Coah. : TIF 40 Procarne,Corral,222.0,292.0,36.0,38.0
+2012-08-31,Coah. : TIF 40 Procarne,Corral,222.0,207.0,36.0,38.0
+2012-08-01,Col. : Procesadora municipal de carne de Colima,Corral,208.0,29.0,40.0,54.0
+2012-08-03,Col. : Procesadora municipal de carne de Colima,Corral,208.0,38.0,40.0,54.0
+2012-08-04,Col. : Procesadora municipal de carne de Colima,Corral,208.0,31.0,40.0,54.0
+2012-08-06,Col. : Procesadora municipal de carne de Colima,Corral,208.0,28.0,40.0,54.0
+2012-08-07,Col. : Procesadora municipal de carne de Colima,Corral,208.0,28.0,40.0,54.0
+2012-08-08,Col. : Procesadora municipal de carne de Colima,Corral,208.0,25.0,40.0,54.0
+2012-08-09,Col. : Procesadora municipal de carne de Colima,Corral,208.0,15.0,40.0,54.0
+2012-08-10,Col. : Procesadora municipal de carne de Colima,Corral,208.0,51.0,40.0,54.0
+2012-08-11,Col. : Procesadora municipal de carne de Colima,Corral,208.0,25.0,40.0,54.0
+2012-08-13,Col. : Procesadora municipal de carne de Colima,Corral,208.0,25.0,40.0,54.0
+2012-08-14,Col. : Procesadora municipal de carne de Colima,Corral,208.0,21.0,40.0,54.0
+2012-08-15,Col. : Procesadora municipal de carne de Colima,Corral,208.0,26.0,40.0,54.0
+2012-08-17,Col. : Procesadora municipal de carne de Colima,Corral,208.0,39.0,40.0,54.0
+2012-08-18,Col. : Procesadora municipal de carne de Colima,Corral,208.0,29.0,40.0,54.0
+2012-08-20,Col. : Procesadora municipal de carne de Colima,Corral,208.0,30.0,40.0,54.0
+2012-08-21,Col. : Procesadora municipal de carne de Colima,Corral,208.0,21.0,40.0,54.0
+2012-08-22,Col. : Procesadora municipal de carne de Colima,Corral,208.0,16.0,40.0,54.0
+2012-08-25,Col. : Procesadora municipal de carne de Colima,Corral,208.0,27.0,40.0,54.0
+2012-08-27,Col. : Procesadora municipal de carne de Colima,Corral,208.0,31.0,40.0,54.0
+2012-08-28,Col. : Procesadora municipal de carne de Colima,Corral,208.0,20.0,40.0,54.0
+2012-08-29,Col. : Procesadora municipal de carne de Colima,Corral,208.0,34.0,40.0,54.0
+2012-08-31,Col. : Procesadora municipal de carne de Colima,Corral,208.0,42.0,40.0,54.0
+2012-08-01,Chis. : TIF 78 Frigorífico del Sureste,Pradera,215.0,52.0,36.0,39.0
+2012-08-02,Chis. : TIF 78 Frigorífico del Sureste,Pradera,178.0,134.0,36.0,39.0
+2012-08-03,Chis. : TIF 78 Frigorífico del Sureste,Pradera,265.0,163.0,36.0,39.0
+2012-08-06,Chis. : TIF 78 Frigorífico del Sureste,Pradera,269.0,169.0,36.0,39.0
+2012-08-07,Chis. : TIF 78 Frigorífico del Sureste,Pradera,244.0,51.0,36.0,39.0
+2012-08-08,Chis. : TIF 78 Frigorífico del Sureste,Pradera,243.0,104.0,36.0,39.0
+2012-08-09,Chis. : TIF 78 Frigorífico del Sureste,Pradera,240.0,110.0,36.0,39.0
+2012-08-10,Chis. : TIF 78 Frigorífico del Sureste,Pradera,227.0,61.0,36.0,39.0
+2012-08-13,Chis. : TIF 78 Frigorífico del Sureste,Pradera,235.0,112.0,36.0,39.0
+2012-08-14,Chis. : TIF 78 Frigorífico del Sureste,Pradera,231.0,54.0,36.0,39.0
+2012-08-15,Chis. : TIF 78 Frigorífico del Sureste,Pradera,254.0,156.0,36.0,39.0
+2012-08-16,Chis. : TIF 78 Frigorífico del Sureste,Pradera,230.0,199.0,36.0,39.0
+2012-08-17,Chis. : TIF 78 Frigorífico del Sureste,Pradera,217.0,82.0,36.0,39.0
+2012-08-20,Chis. : TIF 78 Frigorífico del Sureste,Novillona,261.0,171.0,36.0,39.0
+2012-08-21,Chis. : TIF 78 Frigorífico del Sureste,Pradera,251.0,44.0,36.0,39.0
+2012-08-22,Chis. : TIF 78 Frigorífico del Sureste,Pradera,239.0,121.0,36.0,39.0
+2012-08-23,Chis. : TIF 78 Frigorífico del Sureste,Pradera,148.0,95.0,36.0,39.0
+2012-08-24,Chis. : TIF 78 Frigorífico del Sureste,Pradera,260.0,136.0,36.0,39.0
+2012-08-27,Chis. : TIF 78 Frigorífico del Sureste,Pradera,253.0,93.0,36.0,39.0
+2012-08-28,Chis. : TIF 78 Frigorífico del Sureste,Pradera,244.0,136.0,36.0,40.0
+2012-08-29,Chis. : TIF 78 Frigorífico del Sureste,Pradera,248.0,68.0,36.0,40.0
+2012-08-30,Chis. : TIF 78 Frigorífico del Sureste,Pradera,246.0,159.0,36.0,40.0
+2012-08-31,Chis. : TIF 78 Frigorífico del Sureste,Pradera,233.0,96.0,36.0,40.0
+2012-08-01,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,280.0,45.0,48.0,50.0
+2012-08-01,Dgo. : Planta TIF No. 546 (antes TIF No.65),Novillona,220.0,10.0,47.0,49.0
+2012-08-01,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,400.0,15.0,42.0,44.0
+2012-08-01,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,240.0,60.0,32.0,38.0
+2012-08-02,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,500.0,15.0,42.0,44.0
+2012-08-02,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,240.0,89.0,32.0,38.0
+2012-08-03,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,400.0,8.0,42.0,44.0
+2012-08-03,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,260.0,64.0,32.0,38.0
+2012-08-06,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,600.0,12.0,41.0,43.0
+2012-08-06,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,250.0,68.0,32.0,38.0
+2012-08-07,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,310.0,45.0,50.0,51.0
+2012-08-07,Dgo. : Planta TIF No. 546 (antes TIF No.65),Novillona,240.0,10.0,48.0,50.0
+2012-08-07,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,500.0,10.0,43.0,45.0
+2012-08-07,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,220.0,58.0,32.0,38.0
+2012-08-08,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,300.0,30.0,50.0,51.0
+2012-08-08,Dgo. : Planta TIF No. 546 (antes TIF No.65),Novillona,250.0,25.0,47.0,49.0
+2012-08-08,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,490.0,8.0,43.0,45.0
+2012-08-08,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,220.0,124.0,32.0,38.0
+2012-08-09,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,220.0,100.0,32.0,38.0
+2012-08-13,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,310.0,40.0,49.0,51.0
+2012-08-13,Dgo. : Planta TIF No. 546 (antes TIF No.65),Novillona,240.0,15.0,47.0,49.0
+2012-08-13,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,460.0,6.0,43.0,45.0
+2012-08-13,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,200.0,49.0,32.0,38.0
+2012-08-14,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,300.0,30.0,49.0,51.0
+2012-08-14,Dgo. : Planta TIF No. 546 (antes TIF No.65),Novillona,240.0,5.0,47.0,49.0
+2012-08-14,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,450.0,10.0,43.0,45.0
+2012-08-14,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,190.0,46.0,32.0,38.0
+2012-08-16,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,500.0,3.0,43.0,45.0
+2012-08-16,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,200.0,96.0,32.0,38.0
+2012-08-17,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,200.0,84.0,32.0,38.0
+2012-08-22,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,260.0,27.0,49.0,51.0
+2012-08-22,Dgo. : Planta TIF No. 546 (antes TIF No.65),Novillona,240.0,20.0,47.0,49.0
+2012-08-22,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,480.0,9.0,43.0,45.0
+2012-08-22,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,200.0,79.0,32.0,38.0
+2012-08-23,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,500.0,5.0,43.0,45.0
+2012-08-23,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,210.0,128.0,32.0,38.0
+2012-08-24,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,200.0,59.0,32.0,38.0
+2012-08-27,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,300.0,17.0,50.0,52.0
+2012-08-27,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,450.0,6.0,43.0,45.0
+2012-08-27,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,210.0,64.0,32.0,38.0
+2012-08-28,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,290.0,30.0,50.0,52.0
+2012-08-28,Dgo. : Planta TIF No. 546 (antes TIF No.65),Novillona,220.0,5.0,48.0,50.0
+2012-08-28,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,480.0,10.0,43.0,45.0
+2012-08-28,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,200.0,70.0,32.0,38.0
+2012-08-29,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,310.0,50.0,50.0,52.0
+2012-08-29,Dgo. : Planta TIF No. 546 (antes TIF No.65),Novillona,220.0,20.0,48.0,50.0
+2012-08-29,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,500.0,10.0,43.0,45.0
+2012-08-29,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,200.0,50.0,32.0,38.0
+2012-08-01,Edo. Méx. : Cerro Gordo,Pradera,278.0,68.0,,45.0
+2012-08-03,Edo. Méx. : Cerro Gordo,Pradera,278.0,40.0,,45.0
+2012-08-06,Edo. Méx. : Cerro Gordo,Pradera,278.0,114.0,,45.0
+2012-08-07,Edo. Méx. : Cerro Gordo,Pradera,278.0,107.0,,45.0
+2012-08-08,Edo. Méx. : Cerro Gordo,Pradera,278.0,94.0,,46.0
+2012-08-10,Edo. Méx. : Cerro Gordo,Pradera,278.0,39.0,,46.0
+2012-08-13,Edo. Méx. : Cerro Gordo,Pradera,278.0,164.0,,46.0
+2012-08-14,Edo. Méx. : Cerro Gordo,Pradera,278.0,41.0,,46.0
+2012-08-15,Edo. Méx. : Cerro Gordo,Pradera,278.0,107.0,,46.0
+2012-08-17,Edo. Méx. : Cerro Gordo,Pradera,278.0,110.0,,46.0
+2012-08-20,Edo. Méx. : Cerro Gordo,Pradera,278.0,139.0,,46.0
+2012-08-21,Edo. Méx. : Cerro Gordo,Pradera,278.0,139.0,,46.0
+2012-08-22,Edo. Méx. : Cerro Gordo,Pradera,278.0,152.0,,46.0
+2012-08-24,Edo. Méx. : Cerro Gordo,Pradera,278.0,60.0,,46.0
+2012-08-27,Edo. Méx. : Cerro Gordo,Pradera,278.0,150.0,,46.0
+2012-08-28,Edo. Méx. : Cerro Gordo,Pradera,278.0,86.0,,46.0
+2012-08-29,Edo. Méx. : Cerro Gordo,Pradera,278.0,126.0,,46.0
+2012-08-31,Edo. Méx. : Cerro Gordo,Pradera,278.0,132.0,,46.0
+2012-08-01,Edo. Méx. : La Paz,Corral,320.0,190.0,,44.5
+2012-08-02,Edo. Méx. : La Paz,Corral,320.0,218.0,,44.5
+2012-08-03,Edo. Méx. : La Paz,Corral,320.0,200.0,,44.5
+2012-08-06,Edo. Méx. : La Paz,Corral,320.0,226.0,,44.5
+2012-08-07,Edo. Méx. : La Paz,Corral,320.0,220.0,,45.0
+2012-08-08,Edo. Méx. : La Paz,Corral,320.0,210.0,,45.0
+2012-08-09,Edo. Méx. : La Paz,Corral,320.0,214.0,,45.0
+2012-08-10,Edo. Méx. : La Paz,Corral,320.0,205.0,,45.0
+2012-08-13,Edo. Méx. : La Paz,Corral,320.0,230.0,,45.0
+2012-08-14,Edo. Méx. : La Paz,Corral,320.0,270.0,,45.0
+2012-08-15,Edo. Méx. : La Paz,Corral,320.0,235.0,,45.0
+2012-08-16,Edo. Méx. : La Paz,Corral,320.0,250.0,,45.0
+2012-08-17,Edo. Méx. : La Paz,Corral,320.0,235.0,,45.0
+2012-08-20,Edo. Méx. : La Paz,Corral,320.0,240.0,,45.0
+2012-08-21,Edo. Méx. : La Paz,Corral,320.0,223.0,,45.0
+2012-08-22,Edo. Méx. : La Paz,Corral,320.0,195.0,,45.0
+2012-08-23,Edo. Méx. : La Paz,Corral,320.0,210.0,,45.0
+2012-08-24,Edo. Méx. : La Paz,Corral,320.0,235.0,,45.0
+2012-08-27,Edo. Méx. : La Paz,Corral,320.0,210.0,,45.0
+2012-08-28,Edo. Méx. : La Paz,Corral,320.0,208.0,,45.0
+2012-08-29,Edo. Méx. : La Paz,Corral,320.0,210.0,,45.0
+2012-08-30,Edo. Méx. : La Paz,Corral,320.0,209.0,,45.0
+2012-08-31,Edo. Méx. : La Paz,Corral,320.0,235.0,,45.0
+2012-08-01,Edo. Méx. : Temamatla,Corral,320.0,145.0,,44.0
+2012-08-02,Edo. Méx. : Temamatla,Corral,320.0,155.0,,44.0
+2012-08-03,Edo. Méx. : Temamatla,Corral,320.0,164.0,,44.0
+2012-08-06,Edo. Méx. : Temamatla,Corral,320.0,150.0,,44.5
+2012-08-07,Edo. Méx. : Temamatla,Corral,320.0,130.0,,44.5
+2012-08-08,Edo. Méx. : Temamatla,Corral,320.0,180.0,,44.5
+2012-08-09,Edo. Méx. : Temamatla,Corral,320.0,120.0,,44.5
+2012-08-10,Edo. Méx. : Temamatla,Corral,320.0,155.0,,44.5
+2012-08-13,Edo. Méx. : Temamatla,Corral,320.0,135.0,,44.5
+2012-08-14,Edo. Méx. : Temamatla,Corral,320.0,180.0,,44.5
+2012-08-15,Edo. Méx. : Temamatla,Corral,320.0,150.0,,44.5
+2012-08-16,Edo. Méx. : Temamatla,Corral,320.0,160.0,,45.0
+2012-08-17,Edo. Méx. : Temamatla,Corral,320.0,200.0,,44.5
+2012-08-20,Edo. Méx. : Temamatla,Corral,320.0,160.0,,45.0
+2012-08-21,Edo. Méx. : Temamatla,Corral,320.0,155.0,,45.0
+2012-08-22,Edo. Méx. : Temamatla,Corral,320.0,155.0,,45.0
+2012-08-23,Edo. Méx. : Temamatla,Corral,320.0,145.0,,45.0
+2012-08-24,Edo. Méx. : Temamatla,Corral,320.0,138.0,,45.0
+2012-08-27,Edo. Méx. : Temamatla,Corral,320.0,155.0,,45.0
+2012-08-28,Edo. Méx. : Temamatla,Corral,320.0,155.0,,45.0
+2012-08-29,Edo. Méx. : Temamatla,Corral,320.0,190.0,,45.0
+2012-08-30,Edo. Méx. : Temamatla,Corral,320.0,160.0,,45.0
+2012-08-31,Edo. Méx. : Temamatla,Corral,320.0,170.0,,45.0
+2012-08-01,Edo. Méx. : Tlalnepantla,Corral,290.0,45.0,45.0,46.0
+2012-08-01,Edo. Méx. : Tlalnepantla,Vaca,190.0,17.0,32.0,35.0
+2012-08-02,Edo. Méx. : Tlalnepantla,Corral,290.0,63.0,45.0,46.0
+2012-08-02,Edo. Méx. : Tlalnepantla,Vaca,190.0,13.0,32.0,35.0
+2012-08-03,Edo. Méx. : Tlalnepantla,Corral,290.0,44.0,45.0,46.0
+2012-08-03,Edo. Méx. : Tlalnepantla,Vaca,190.0,21.0,32.0,35.0
+2012-08-06,Edo. Méx. : Tlalnepantla,Corral,290.0,67.0,45.0,46.0
+2012-08-06,Edo. Méx. : Tlalnepantla,Pradera,190.0,28.0,32.0,36.0
+2012-08-07,Edo. Méx. : Tlalnepantla,Corral,290.0,67.0,45.0,46.0
+2012-08-07,Edo. Méx. : Tlalnepantla,Vaca,190.0,22.0,32.0,36.0
+2012-08-08,Edo. Méx. : Tlalnepantla,Corral,290.0,69.0,45.0,46.0
+2012-08-08,Edo. Méx. : Tlalnepantla,Pradera,190.0,20.0,32.0,36.0
+2012-08-09,Edo. Méx. : Tlalnepantla,Corral,290.0,51.0,45.0,46.0
+2012-08-09,Edo. Méx. : Tlalnepantla,Pradera,190.0,19.0,32.0,36.0
+2012-08-10,Edo. Méx. : Tlalnepantla,Corral,290.0,52.0,45.0,46.0
+2012-08-10,Edo. Méx. : Tlalnepantla,Vaca,190.0,18.0,32.0,36.0
+2012-08-13,Edo. Méx. : Tlalnepantla,Corral,290.0,66.0,45.0,46.0
+2012-08-13,Edo. Méx. : Tlalnepantla,Pradera,190.0,21.0,32.0,36.0
+2012-08-14,Edo. Méx. : Tlalnepantla,Corral,290.0,34.0,45.0,46.0
+2012-08-14,Edo. Méx. : Tlalnepantla,Vaca,190.0,20.0,32.0,36.0
+2012-08-15,Edo. Méx. : Tlalnepantla,Corral,290.0,31.0,45.0,46.0
+2012-08-15,Edo. Méx. : Tlalnepantla,Vaca,190.0,31.0,32.0,36.0
+2012-08-16,Edo. Méx. : Tlalnepantla,Corral,290.0,29.0,45.0,46.0
+2012-08-16,Edo. Méx. : Tlalnepantla,Vaca,190.0,13.0,32.0,36.0
+2012-08-17,Edo. Méx. : Tlalnepantla,Corral,290.0,55.0,45.0,46.0
+2012-08-17,Edo. Méx. : Tlalnepantla,Vaca,190.0,22.0,32.0,36.0
+2012-08-20,Edo. Méx. : Tlalnepantla,Corral,290.0,41.0,45.0,46.0
+2012-08-20,Edo. Méx. : Tlalnepantla,Vaca,190.0,16.0,32.0,36.0
+2012-08-21,Edo. Méx. : Tlalnepantla,Corral,290.0,67.0,45.0,46.0
+2012-08-21,Edo. Méx. : Tlalnepantla,Vaca,190.0,19.0,32.0,36.0
+2012-08-22,Edo. Méx. : Tlalnepantla,Corral,290.0,56.0,45.0,46.0
+2012-08-22,Edo. Méx. : Tlalnepantla,Vaca,190.0,29.0,32.0,36.0
+2012-08-23,Edo. Méx. : Tlalnepantla,Corral,290.0,37.0,45.0,46.0
+2012-08-23,Edo. Méx. : Tlalnepantla,Vaca,190.0,14.0,32.0,36.0
+2012-08-24,Edo. Méx. : Tlalnepantla,Corral,290.0,59.0,45.0,46.0
+2012-08-24,Edo. Méx. : Tlalnepantla,Vaca,190.0,11.0,32.0,36.0
+2012-08-27,Edo. Méx. : Tlalnepantla,Corral,290.0,70.0,45.0,46.0
+2012-08-27,Edo. Méx. : Tlalnepantla,Vaca,190.0,15.0,32.0,36.0
+2012-08-28,Edo. Méx. : Tlalnepantla,Corral,290.0,53.0,45.0,46.0
+2012-08-28,Edo. Méx. : Tlalnepantla,Vaca,190.0,12.0,32.0,36.0
+2012-08-29,Edo. Méx. : Tlalnepantla,Corral,290.0,71.0,45.0,46.0
+2012-08-29,Edo. Méx. : Tlalnepantla,Pradera,190.0,32.0,32.0,36.0
+2012-08-30,Edo. Méx. : Tlalnepantla,Corral,290.0,85.0,45.0,46.0
+2012-08-30,Edo. Méx. : Tlalnepantla,Vaca,190.0,31.0,32.0,36.0
+2012-08-31,Edo. Méx. : Tlalnepantla,Corral,290.0,68.0,45.0,46.0
+2012-08-31,Edo. Méx. : Tlalnepantla,Vaca,190.0,26.0,32.0,36.0
+2012-08-01,"Gto. : R.P. León, Serv. Integral",Novillona,,14.0,31.5,32.0
+2012-08-01,"Gto. : R.P. León, Serv. Integral",Toros,,151.0,36.0,37.0
+2012-08-01,"Gto. : R.P. León, Serv. Integral",Vaca,,93.0,27.0,28.0
+2012-08-02,"Gto. : R.P. León, Serv. Integral",Novillona,,8.0,31.5,32.0
+2012-08-02,"Gto. : R.P. León, Serv. Integral",Toros,,137.0,36.0,37.0
+2012-08-02,"Gto. : R.P. León, Serv. Integral",Vaca,,90.0,27.0,28.0
+2012-08-03,"Gto. : R.P. León, Serv. Integral",Novillona,,10.0,31.5,32.0
+2012-08-03,"Gto. : R.P. León, Serv. Integral",Toros,,138.0,36.0,37.0
+2012-08-03,"Gto. : R.P. León, Serv. Integral",Vaca,,92.0,27.0,28.0
+2012-08-06,"Gto. : R.P. León, Serv. Integral",Novillona,,10.0,31.5,32.0
+2012-08-06,"Gto. : R.P. León, Serv. Integral",Toros,,145.0,36.0,37.0
+2012-08-06,"Gto. : R.P. León, Serv. Integral",Vaca,,98.0,27.0,28.0
+2012-08-07,"Gto. : R.P. León, Serv. Integral",Novillona,,20.0,31.5,32.0
+2012-08-07,"Gto. : R.P. León, Serv. Integral",Toros,,196.0,36.0,37.0
+2012-08-07,"Gto. : R.P. León, Serv. Integral",Vaca,,114.0,27.0,28.0
+2012-08-08,"Gto. : R.P. León, Serv. Integral",Novillona,,8.0,31.5,32.0
+2012-08-08,"Gto. : R.P. León, Serv. Integral",Toros,,139.0,36.0,37.0
+2012-08-08,"Gto. : R.P. León, Serv. Integral",Vaca,,92.0,27.0,28.0
+2012-08-09,"Gto. : R.P. León, Serv. Integral",Novillona,,10.0,31.5,32.0
+2012-08-09,"Gto. : R.P. León, Serv. Integral",Toros,,124.0,36.0,37.0
+2012-08-09,"Gto. : R.P. León, Serv. Integral",Vaca,,87.0,27.0,28.0
+2012-08-10,"Gto. : R.P. León, Serv. Integral",Novillona,,10.0,31.5,32.0
+2012-08-10,"Gto. : R.P. León, Serv. Integral",Toros,,134.0,36.0,37.0
+2012-08-10,"Gto. : R.P. León, Serv. Integral",Vaca,,80.0,27.0,28.0
+2012-08-13,"Gto. : R.P. León, Serv. Integral",Novillona,,12.0,31.5,32.0
+2012-08-13,"Gto. : R.P. León, Serv. Integral",Toros,,131.0,36.0,37.0
+2012-08-13,"Gto. : R.P. León, Serv. Integral",Vaca,,103.0,27.0,28.0
+2012-08-14,"Gto. : R.P. León, Serv. Integral",Novillona,,26.0,31.5,32.0
+2012-08-14,"Gto. : R.P. León, Serv. Integral",Toros,,168.0,36.0,37.0
+2012-08-14,"Gto. : R.P. León, Serv. Integral",Vaca,,148.0,27.0,28.0
+2012-08-15,"Gto. : R.P. León, Serv. Integral",Novillona,,10.0,31.5,32.0
+2012-08-15,"Gto. : R.P. León, Serv. Integral",Toros,,128.0,36.0,37.0
+2012-08-15,"Gto. : R.P. León, Serv. Integral",Vaca,,88.0,27.0,28.0
+2012-08-16,"Gto. : R.P. León, Serv. Integral",Novillona,,10.0,31.5,32.0
+2012-08-16,"Gto. : R.P. León, Serv. Integral",Toros,,124.0,36.0,37.0
+2012-08-16,"Gto. : R.P. León, Serv. Integral",Vaca,,102.0,27.0,28.0
+2012-08-17,"Gto. : R.P. León, Serv. Integral",Novillona,,14.0,31.5,32.0
+2012-08-17,"Gto. : R.P. León, Serv. Integral",Toros,,141.0,36.0,37.0
+2012-08-17,"Gto. : R.P. León, Serv. Integral",Vaca,,93.0,27.0,28.0
+2012-08-20,"Gto. : R.P. León, Serv. Integral",Novillona,,14.0,31.5,32.0
+2012-08-20,"Gto. : R.P. León, Serv. Integral",Toros,,148.0,36.0,37.0
+2012-08-20,"Gto. : R.P. León, Serv. Integral",Vaca,,96.0,27.0,28.0
+2012-08-21,"Gto. : R.P. León, Serv. Integral",Novillona,,16.0,31.5,32.0
+2012-08-21,"Gto. : R.P. León, Serv. Integral",Toros,,211.0,36.0,37.0
+2012-08-21,"Gto. : R.P. León, Serv. Integral",Vaca,,128.0,27.0,28.0
+2012-08-22,"Gto. : R.P. León, Serv. Integral",Novillona,,6.0,31.5,32.0
+2012-08-22,"Gto. : R.P. León, Serv. Integral",Toros,,130.0,36.0,37.0
+2012-08-22,"Gto. : R.P. León, Serv. Integral",Vaca,,86.0,27.0,28.0
+2012-08-23,"Gto. : R.P. León, Serv. Integral",Novillona,,14.0,31.5,32.0
+2012-08-23,"Gto. : R.P. León, Serv. Integral",Toros,,133.0,36.0,37.0
+2012-08-23,"Gto. : R.P. León, Serv. Integral",Vaca,,96.0,27.0,28.0
+2012-08-24,"Gto. : R.P. León, Serv. Integral",Novillona,,10.0,31.5,32.0
+2012-08-24,"Gto. : R.P. León, Serv. Integral",Toros,,143.0,36.0,37.0
+2012-08-24,"Gto. : R.P. León, Serv. Integral",Vaca,,103.0,27.0,28.0
+2012-08-27,"Gto. : R.P. León, Serv. Integral",Novillona,,8.0,31.5,32.0
+2012-08-27,"Gto. : R.P. León, Serv. Integral",Toros,,135.0,36.0,37.0
+2012-08-27,"Gto. : R.P. León, Serv. Integral",Vaca,,93.0,27.0,28.0
+2012-08-28,"Gto. : R.P. León, Serv. Integral",Novillona,,24.0,31.5,32.0
+2012-08-28,"Gto. : R.P. León, Serv. Integral",Toros,,177.0,36.0,37.0
+2012-08-28,"Gto. : R.P. León, Serv. Integral",Vaca,,139.0,27.0,28.0
+2012-08-29,"Gto. : R.P. León, Serv. Integral",Novillona,,6.0,31.5,32.0
+2012-08-29,"Gto. : R.P. León, Serv. Integral",Toros,,138.0,36.0,37.0
+2012-08-29,"Gto. : R.P. León, Serv. Integral",Vaca,,96.0,27.0,28.0
+2012-08-30,"Gto. : R.P. León, Serv. Integral",Novillona,,8.0,31.5,32.0
+2012-08-30,"Gto. : R.P. León, Serv. Integral",Toros,,143.0,36.0,37.0
+2012-08-30,"Gto. : R.P. León, Serv. Integral",Vaca,,78.0,27.0,28.0
+2012-08-31,"Gto. : R.P. León, Serv. Integral",Novillona,,10.0,31.5,32.0
+2012-08-31,"Gto. : R.P. León, Serv. Integral",Toros,,135.0,36.0,37.0
+2012-08-31,"Gto. : R.P. León, Serv. Integral",Vaca,,103.0,27.0,28.0
+2012-08-01,Jal. : R.M. Guadalajara,Corral,300.0,384.0,,47.0
+2012-08-01,Jal. : R.M. Guadalajara,Vaca,200.0,206.0,,39.0
+2012-08-02,Jal. : R.M. Guadalajara,Corral,300.0,358.0,,47.0
+2012-08-02,Jal. : R.M. Guadalajara,Vaca,200.0,192.0,,39.0
+2012-08-03,Jal. : R.M. Guadalajara,Corral,300.0,648.0,,47.3
+2012-08-03,Jal. : R.M. Guadalajara,Vaca,200.0,349.0,,39.3
+2012-08-06,Jal. : R.M. Guadalajara,Corral,300.0,840.0,,47.2
+2012-08-06,Jal. : R.M. Guadalajara,Vaca,200.0,452.0,,39.2
+2012-08-07,Jal. : R.M. Guadalajara,Corral,300.0,546.0,,47.25
+2012-08-07,Jal. : R.M. Guadalajara,Toros,200.0,294.0,,39.25
+2012-08-08,Jal. : R.M. Guadalajara,Corral,300.0,326.0,,47.0
+2012-08-08,Jal. : R.M. Guadalajara,Vaca,200.0,175.0,,39.5
+2012-08-09,Jal. : R.M. Guadalajara,Corral,300.0,330.0,,47.0
+2012-08-09,Jal. : R.M. Guadalajara,Vaca,200.0,178.0,,39.3
+2012-08-10,Jal. : R.M. Guadalajara,Corral,300.0,330.0,,47.0
+2012-08-10,Jal. : R.M. Guadalajara,Vaca,200.0,178.0,,39.3
+2012-08-13,Jal. : R.M. Guadalajara,Corral,300.0,821.0,,47.0
+2012-08-13,Jal. : R.M. Guadalajara,Vaca,200.0,441.0,,39.5
+2012-08-14,Jal. : R.M. Guadalajara,Corral,300.0,468.0,,47.0
+2012-08-14,Jal. : R.M. Guadalajara,Vaca,200.0,252.0,,39.5
+2012-08-15,Jal. : R.M. Guadalajara,Corral,300.0,389.0,,47.0
+2012-08-15,Jal. : R.M. Guadalajara,Vaca,200.0,210.0,,39.5
+2012-08-16,Jal. : R.M. Guadalajara,Corral,300.0,299.0,,47.0
+2012-08-16,Jal. : R.M. Guadalajara,Vaca,200.0,161.0,,39.5
+2012-08-17,Jal. : R.M. Guadalajara,Corral,300.0,634.0,,47.0
+2012-08-17,Jal. : R.M. Guadalajara,Vaca,200.0,356.0,,39.5
+2012-08-20,Jal. : R.M. Guadalajara,Corral,300.0,299.0,,47.0
+2012-08-20,Jal. : R.M. Guadalajara,Vaca,200.0,161.0,,39.5
+2012-08-21,Jal. : R.M. Guadalajara,Corral,300.0,389.0,,47.0
+2012-08-21,Jal. : R.M. Guadalajara,Vaca,200.0,210.0,,39.5
+2012-08-22,Jal. : R.M. Guadalajara,Corral,300.0,345.0,,47.0
+2012-08-22,Jal. : R.M. Guadalajara,Vaca,200.0,185.0,,39.55
+2012-08-23,Jal. : R.M. Guadalajara,Corral,300.0,393.0,,47.0
+2012-08-23,Jal. : R.M. Guadalajara,Vaca,200.0,212.0,,39.5
+2012-08-24,Jal. : R.M. Guadalajara,Corral,300.0,592.0,,47.0
+2012-08-24,Jal. : R.M. Guadalajara,Vaca,200.0,318.0,,39.5
+2012-08-27,Jal. : R.M. Guadalajara,Corral,300.0,847.0,,47.0
+2012-08-27,Jal. : R.M. Guadalajara,Vaca,200.0,455.0,,39.5
+2012-08-28,Jal. : R.M. Guadalajara,Corral,300.0,510.0,,47.0
+2012-08-28,Jal. : R.M. Guadalajara,Vaca,200.0,275.0,,39.6
+2012-08-29,Jal. : R.M. Guadalajara,Corral,300.0,393.0,,47.0
+2012-08-29,Jal. : R.M. Guadalajara,Vaca,200.0,212.0,,39.5
+2012-08-30,Jal. : R.M. Guadalajara,Corral,300.0,337.0,,47.0
+2012-08-30,Jal. : R.M. Guadalajara,Vaca,200.0,182.0,,39.55
+2012-08-31,Jal. : R.M. Guadalajara,Corral,300.0,592.0,,47.0
+2012-08-31,Jal. : R.M. Guadalajara,Vaca,200.0,318.0,,39.5
+2012-08-01,Jal. : R.M. Tlaquepaque,Corral,300.0,20.0,,47.0
+2012-08-01,Jal. : R.M. Tlaquepaque,Vaca,200.0,60.0,,38.0
+2012-08-03,Jal. : R.M. Tlaquepaque,Corral,300.0,26.0,,47.0
+2012-08-03,Jal. : R.M. Tlaquepaque,Vaca,200.0,79.0,,38.5
+2012-08-06,Jal. : R.M. Tlaquepaque,Corral,300.0,53.0,,47.0
+2012-08-06,Jal. : R.M. Tlaquepaque,Vaca,200.0,162.0,,38.5
+2012-08-07,Jal. : R.M. Tlaquepaque,Corral,300.0,20.0,,47.0
+2012-08-07,Jal. : R.M. Tlaquepaque,Vaca,200.0,62.0,,38.5
+2012-08-08,Jal. : R.M. Tlaquepaque,Corral,300.0,23.0,,47.0
+2012-08-08,Jal. : R.M. Tlaquepaque,Vaca,200.0,68.0,,39.0
+2012-08-10,Jal. : R.M. Tlaquepaque,Corral,300.0,23.0,,47.0
+2012-08-10,Jal. : R.M. Tlaquepaque,Vaca,200.0,68.0,,38.9
+2012-08-13,Jal. : R.M. Tlaquepaque,Corral,300.0,48.0,,47.0
+2012-08-13,Jal. : R.M. Tlaquepaque,Vaca,200.0,146.0,,39.0
+2012-08-14,Jal. : R.M. Tlaquepaque,Corral,300.0,22.0,,47.0
+2012-08-14,Jal. : R.M. Tlaquepaque,Vaca,200.0,68.0,,39.0
+2012-08-15,Jal. : R.M. Tlaquepaque,Corral,300.0,24.0,,47.0
+2012-08-15,Jal. : R.M. Tlaquepaque,Vaca,200.0,73.0,,39.0
+2012-08-17,Jal. : R.M. Tlaquepaque,Corral,300.0,22.0,,47.0
+2012-08-17,Jal. : R.M. Tlaquepaque,Vaca,200.0,67.0,,39.0
+2012-08-20,Jal. : R.M. Tlaquepaque,Corral,300.0,24.0,,47.0
+2012-08-20,Jal. : R.M. Tlaquepaque,Vaca,200.0,73.0,,39.0
+2012-08-21,Jal. : R.M. Tlaquepaque,Corral,300.0,24.0,,47.0
+2012-08-21,Jal. : R.M. Tlaquepaque,Vaca,200.0,68.0,,39.0
+2012-08-22,Jal. : R.M. Tlaquepaque,Corral,300.0,26.0,,47.0
+2012-08-22,Jal. : R.M. Tlaquepaque,Vaca,200.0,79.0,,39.0
+2012-08-24,Jal. : R.M. Tlaquepaque,Corral,300.0,27.0,,47.0
+2012-08-24,Jal. : R.M. Tlaquepaque,Vaca,200.0,83.0,,39.0
+2012-08-27,Jal. : R.M. Tlaquepaque,Corral,300.0,51.0,,47.0
+2012-08-27,Jal. : R.M. Tlaquepaque,Vaca,200.0,154.0,,39.0
+2012-08-28,Jal. : R.M. Tlaquepaque,Corral,300.0,25.0,,47.0
+2012-08-28,Jal. : R.M. Tlaquepaque,Vaca,200.0,74.0,,39.0
+2012-08-29,Jal. : R.M. Tlaquepaque,Corral,300.0,27.0,,47.0
+2012-08-29,Jal. : R.M. Tlaquepaque,Vaca,200.0,81.0,,39.0
+2012-08-31,Jal. : R.M. Tlaquepaque,Corral,300.0,28.0,,47.0
+2012-08-31,Jal. : R.M. Tlaquepaque,Vaca,200.0,83.0,,39.0
+2012-08-01,Jal. : R.M. Tonalá,Corral,300.0,13.0,,47.0
+2012-08-01,Jal. : R.M. Tonalá,Vaca,200.0,35.0,,39.0
+2012-08-02,Jal. : R.M. Tonalá,Corral,300.0,15.0,,47.0
+2012-08-02,Jal. : R.M. Tonalá,Vaca,200.0,45.0,,39.0
+2012-08-06,Jal. : R.M. Tonalá,Corral,300.0,43.0,,47.3
+2012-08-06,Jal. : R.M. Tonalá,Vaca,200.0,130.0,,39.3
+2012-08-07,Jal. : R.M. Tonalá,Corral,300.0,10.0,,47.3
+2012-08-07,Jal. : R.M. Tonalá,Vaca,200.0,40.0,,39.3
+2012-08-08,Jal. : R.M. Tonalá,Corral,300.0,8.0,,47.0
+2012-08-08,Jal. : R.M. Tonalá,Vaca,200.0,33.0,,39.6
+2012-08-09,Jal. : R.M. Tonalá,Corral,300.0,19.0,,47.0
+2012-08-09,Jal. : R.M. Tonalá,Vaca,200.0,56.0,,39.4
+2012-08-10,Jal. : R.M. Tonalá,Corral,300.0,19.0,,47.0
+2012-08-10,Jal. : R.M. Tonalá,Vaca,200.0,56.0,,39.4
+2012-08-13,Jal. : R.M. Tonalá,Corral,300.0,32.0,,47.0
+2012-08-13,Jal. : R.M. Tonalá,Vaca,200.0,97.0,,39.4
+2012-08-14,Jal. : R.M. Tonalá,Corral,300.0,10.0,,47.0
+2012-08-14,Jal. : R.M. Tonalá,Vaca,200.0,41.0,,39.5
+2012-08-15,Jal. : R.M. Tonalá,Corral,300.0,16.0,,47.0
+2012-08-15,Jal. : R.M. Tonalá,Vaca,200.0,28.0,,39.5
+2012-08-16,Jal. : R.M. Tonalá,Corral,300.0,15.0,,47.0
+2012-08-16,Jal. : R.M. Tonalá,Vaca,200.0,45.0,,37.5
+2012-08-20,Jal. : R.M. Tonalá,Corral,300.0,15.0,,47.0
+2012-08-20,Jal. : R.M. Tonalá,Vaca,200.0,45.0,,39.5
+2012-08-21,Jal. : R.M. Tonalá,Corral,300.0,15.0,,47.0
+2012-08-21,Jal. : R.M. Tonalá,Vaca,200.0,28.0,,39.5
+2012-08-22,Jal. : R.M. Tonalá,Corral,300.0,7.0,,47.0
+2012-08-22,Jal. : R.M. Tonalá,Vaca,200.0,14.0,,39.6
+2012-08-23,Jal. : R.M. Tonalá,Corral,300.0,15.0,,47.0
+2012-08-23,Jal. : R.M. Tonalá,Vaca,200.0,45.0,,39.6
+2012-08-27,Jal. : R.M. Tonalá,Corral,300.0,30.0,,47.0
+2012-08-27,Jal. : R.M. Tonalá,Vaca,200.0,88.0,,39.6
+2012-08-28,Jal. : R.M. Tonalá,Corral,300.0,12.0,,47.0
+2012-08-28,Jal. : R.M. Tonalá,Vaca,200.0,38.0,,39.6
+2012-08-29,Jal. : R.M. Tonalá,Corral,300.0,9.0,,47.0
+2012-08-29,Jal. : R.M. Tonalá,Vaca,,24.0,,39.6
+2012-08-30,Jal. : R.M. Tonalá,Corral,300.0,15.0,,47.0
+2012-08-30,Jal. : R.M. Tonalá,Vaca,200.0,45.0,,39.6
+2012-08-14,Jal. : Rastro de Egosa,Corral,300.0,269.0,,47.0
+2012-08-14,Jal. : Rastro de Egosa,Vaca,200.0,30.0,,39.5
+2012-08-01,Jal. : Rastro de Zapopan,Corral,300.0,293.0,,47.0
+2012-08-01,Jal. : Rastro de Zapopan,Vaca,200.0,32.0,,39.0
+2012-08-02,Jal. : Rastro de Zapopan,Corral,300.0,269.0,,47.0
+2012-08-02,Jal. : Rastro de Zapopan,Vaca,200.0,30.0,,39.0
+2012-08-03,Jal. : Rastro de Zapopan,Corral,300.0,274.0,,47.3
+2012-08-03,Jal. : Rastro de Zapopan,Vaca,200.0,30.0,,39.3
+2012-08-06,Jal. : Rastro de Zapopan,Corral,300.0,288.0,,47.25
+2012-08-06,Jal. : Rastro de Zapopan,Vaca,200.0,32.0,,39.25
+2012-08-07,Jal. : Rastro de Zapopan,Corral,300.0,265.0,,47.35
+2012-08-07,Jal. : Rastro de Zapopan,Vaca,200.0,6.0,,39.35
+2012-08-08,Jal. : Rastro de Zapopan,Corral,300.0,51.0,,47.0
+2012-08-08,Jal. : Rastro de Zapopan,Vaca,200.0,3.0,,39.7
+2012-08-09,Jal. : Rastro de Zapopan,Corral,300.0,284.0,,47.0
+2012-08-09,Jal. : Rastro de Zapopan,Vaca,200.0,31.0,,39.5
+2012-08-10,Jal. : Rastro de Zapopan,Corral,300.0,284.0,,47.0
+2012-08-10,Jal. : Rastro de Zapopan,Vaca,200.0,31.0,,39.5
+2012-08-13,Jal. : Rastro de Zapopan,Corral,300.0,280.0,,47.0
+2012-08-13,Jal. : Rastro de Zapopan,Vaca,200.0,31.0,,39.5
+2012-08-15,Jal. : Rastro de Zapopan,Corral,300.0,294.0,,47.0
+2012-08-15,Jal. : Rastro de Zapopan,Vaca,200.0,60.0,,39.5
+2012-08-16,Jal. : Rastro de Zapopan,Corral,300.0,127.0,,47.0
+2012-08-16,Jal. : Rastro de Zapopan,Vaca,200.0,8.0,,39.6
+2012-08-17,Jal. : Rastro de Zapopan,Corral,300.0,270.0,,47.0
+2012-08-17,Jal. : Rastro de Zapopan,Vaca,200.0,30.0,,39.6
+2012-08-20,Jal. : Rastro de Zapopan,Corral,300.0,127.0,,47.0
+2012-08-20,Jal. : Rastro de Zapopan,Vaca,200.0,8.0,,39.6
+2012-08-21,Jal. : Rastro de Zapopan,Corral,300.0,127.0,,47.0
+2012-08-21,Jal. : Rastro de Zapopan,Vaca,200.0,60.0,,39.5
+2012-08-22,Jal. : Rastro de Zapopan,Corral,300.0,294.0,,47.0
+2012-08-22,Jal. : Rastro de Zapopan,Vaca,200.0,138.0,,39.55
+2012-08-24,Jal. : Rastro de Zapopan,Corral,300.0,252.0,,47.0
+2012-08-24,Jal. : Rastro de Zapopan,Vaca,200.0,73.0,,39.6
+2012-08-27,Jal. : Rastro de Zapopan,Corral,300.0,279.0,,47.0
+2012-08-27,Jal. : Rastro de Zapopan,Vaca,200.0,31.0,,39.6
+2012-08-28,Jal. : Rastro de Zapopan,Corral,300.0,132.0,,47.0
+2012-08-28,Jal. : Rastro de Zapopan,Vaca,200.0,54.0,,39.6
+2012-08-29,Jal. : Rastro de Zapopan,Corral,300.0,278.0,,47.0
+2012-08-29,Jal. : Rastro de Zapopan,Vaca,200.0,84.0,,39.6
+2012-08-30,Jal. : Rastro de Zapopan,Corral,300.0,145.0,,47.0
+2012-08-30,Jal. : Rastro de Zapopan,Vaca,200.0,19.0,,39.6
+2012-08-31,Jal. : Rastro de Zapopan,Corral,300.0,,,47.0
+2012-08-31,Jal. : Rastro de Zapopan,Vaca,200.0,18.0,,39.6
+2012-08-01,Mich. : R.M. Morelia,Corral,250.0,156.0,47.0,48.0
+2012-08-02,Mich. : R.M. Morelia,Corral,250.0,41.0,47.0,48.0
+2012-08-03,Mich. : R.M. Morelia,Corral,250.0,45.0,47.0,48.0
+2012-08-06,Mich. : R.M. Morelia,Corral,250.0,169.0,47.0,48.0
+2012-08-07,Mich. : R.M. Morelia,Corral,250.0,86.0,47.0,48.0
+2012-08-08,Mich. : R.M. Morelia,Corral,250.0,156.0,47.0,48.0
+2012-08-09,Mich. : R.M. Morelia,Corral,250.0,156.0,47.0,48.0
+2012-08-10,Mich. : R.M. Morelia,Corral,250.0,48.0,47.0,48.0
+2012-08-13,Mich. : R.M. Morelia,Corral,250.0,168.0,47.0,48.0
+2012-08-14,Mich. : R.M. Morelia,Corral,250.0,74.0,47.0,48.0
+2012-08-15,Mich. : R.M. Morelia,Corral,250.0,187.0,47.0,48.0
+2012-08-16,Mich. : R.M. Morelia,Corral,250.0,33.0,47.0,48.0
+2012-08-17,Mich. : R.M. Morelia,Corral,250.0,44.0,47.0,48.0
+2012-08-20,Mich. : R.M. Morelia,Corral,250.0,177.0,47.0,48.0
+2012-08-21,Mich. : R.M. Morelia,Corral,250.0,103.0,47.0,48.0
+2012-08-22,Mich. : R.M. Morelia,Corral,250.0,176.0,47.0,48.0
+2012-08-23,Mich. : R.M. Morelia,Corral,250.0,41.0,47.0,48.0
+2012-08-24,Mich. : R.M. Morelia,Corral,250.0,42.0,47.0,48.0
+2012-08-27,Mich. : R.M. Morelia,Corral,250.0,171.0,47.0,48.0
+2012-08-28,Mich. : R.M. Morelia,Corral,250.0,79.0,47.0,48.0
+2012-08-29,Mich. : R.M. Morelia,Corral,250.0,173.0,47.0,48.0
+2012-08-30,Mich. : R.M. Morelia,Corral,250.0,44.0,47.0,48.0
+2012-08-31,Mich. : R.M. Morelia,Corral,250.0,32.0,47.0,48.0
+2012-08-01,N.L. : Chamar Alimentos TIF 356,Corral,280.0,398.0,46.5,47.0
+2012-08-02,N.L. : Chamar Alimentos TIF 356,Corral,280.0,398.0,46.5,47.0
+2012-08-03,N.L. : Chamar Alimentos TIF 356,Corral,280.0,291.0,46.5,47.0
+2012-08-06,N.L. : Chamar Alimentos TIF 356,Corral,280.0,380.0,46.5,47.0
+2012-08-07,N.L. : Chamar Alimentos TIF 356,Corral,280.0,502.0,46.5,47.0
+2012-08-08,N.L. : Chamar Alimentos TIF 356,Corral,280.0,460.0,46.5,47.0
+2012-08-09,N.L. : Chamar Alimentos TIF 356,Corral,280.0,254.0,46.5,47.0
+2012-08-10,N.L. : Chamar Alimentos TIF 356,Corral,280.0,352.0,46.5,47.0
+2012-08-13,N.L. : Chamar Alimentos TIF 356,Corral,280.0,301.0,46.5,47.0
+2012-08-14,N.L. : Chamar Alimentos TIF 356,Corral,280.0,445.0,46.5,47.0
+2012-08-15,N.L. : Chamar Alimentos TIF 356,Corral,450.0,334.0,46.5,47.0
+2012-08-16,N.L. : Chamar Alimentos TIF 356,Corral,280.0,344.0,46.5,47.0
+2012-08-17,N.L. : Chamar Alimentos TIF 356,Corral,280.0,211.0,46.5,47.0
+2012-08-20,N.L. : Chamar Alimentos TIF 356,Corral,280.0,360.0,46.5,47.0
+2012-08-21,N.L. : Chamar Alimentos TIF 356,Corral,280.0,352.0,46.5,47.0
+2012-08-22,N.L. : Chamar Alimentos TIF 356,Corral,280.0,317.0,46.5,47.0
+2012-08-23,N.L. : Chamar Alimentos TIF 356,Corral,280.0,317.0,46.5,47.0
+2012-08-24,N.L. : Chamar Alimentos TIF 356,Corral,280.0,173.0,46.5,47.0
+2012-08-27,N.L. : Chamar Alimentos TIF 356,Corral,280.0,299.0,47.0,47.0
+2012-08-28,N.L. : Chamar Alimentos TIF 356,Corral,280.0,528.0,46.5,47.0
+2012-08-29,N.L. : Chamar Alimentos TIF 356,Corral,280.0,296.0,46.5,47.0
+2012-08-30,N.L. : Chamar Alimentos TIF 356,Corral,280.0,351.0,46.5,47.0
+2012-08-31,N.L. : Chamar Alimentos TIF 356,Corral,280.0,231.0,46.5,47.0
+2012-08-01,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,32.0,47.0,47.0
+2012-08-02,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,35.0,47.0,47.0
+2012-08-03,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,37.0,47.0,47.0
+2012-08-06,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,41.0,47.0,47.0
+2012-08-07,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,32.0,47.0,47.0
+2012-08-08,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,34.0,47.0,47.0
+2012-08-09,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,37.0,47.0,47.0
+2012-08-10,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,40.0,47.0,47.0
+2012-08-13,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,42.0,47.0,47.0
+2012-08-14,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,31.0,47.0,47.0
+2012-08-15,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,33.0,47.0,47.0
+2012-08-16,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,35.0,47.0,47.0
+2012-08-17,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,32.0,47.0,47.0
+2012-08-20,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,58.0,47.0,47.0
+2012-08-21,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,33.0,47.0,47.0
+2012-08-22,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,35.0,47.0,47.0
+2012-08-23,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,37.0,47.0,47.0
+2012-08-24,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,38.0,47.0,47.0
+2012-08-27,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,66.0,47.0,47.0
+2012-08-28,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,27.0,47.0,47.0
+2012-08-29,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,29.0,47.0,47.0
+2012-08-30,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,31.0,47.0,47.0
+2012-08-31,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,34.0,47.0,47.0
+2012-08-01,N.L. : Sukarne,Corral,280.0,925.0,46.0,46.0
+2012-08-02,N.L. : Sukarne,Corral,280.0,911.0,46.0,46.0
+2012-08-03,N.L. : Sukarne,Corral,280.0,950.0,46.0,46.0
+2012-08-06,N.L. : Sukarne,Corral,280.0,1900.0,46.0,46.0
+2012-08-07,N.L. : Sukarne,Corral,280.0,950.0,46.0,46.0
+2012-08-09,N.L. : Sukarne,Corral,280.0,950.0,46.0,46.0
+2012-08-10,N.L. : Sukarne,Corral,280.0,950.0,46.0,46.0
+2012-08-13,N.L. : Sukarne,Corral,280.0,1900.0,46.0,46.0
+2012-08-14,N.L. : Sukarne,Corral,280.0,975.0,47.0,47.0
+2012-08-15,N.L. : Sukarne,Corral,280.0,975.0,46.0,46.0
+2012-08-16,N.L. : Sukarne,Corral,280.0,975.0,46.0,46.0
+2012-08-17,N.L. : Sukarne,Corral,280.0,975.0,46.0,46.0
+2012-08-20,N.L. : Sukarne,Corral,280.0,1692.0,46.0,46.0
+2012-08-21,N.L. : Sukarne,Corral,280.0,886.0,46.0,46.0
+2012-08-22,N.L. : Sukarne,Corral,280.0,890.0,46.0,46.0
+2012-08-23,N.L. : Sukarne,Corral,280.0,963.0,46.0,46.0
+2012-08-27,N.L. : Sukarne,Corral,280.0,1850.0,46.0,46.0
+2012-08-28,N.L. : Sukarne,Corral,280.0,902.0,46.0,46.0
+2012-08-29,N.L. : Sukarne,Corral,450.0,998.0,46.0,46.0
+2012-08-31,N.L. : Sukarne,Corral,280.0,1000.0,46.0,46.0
+2012-08-01,N.L. : TIF 15 Emp. Treviño,Corral,280.0,61.0,47.0,47.0
+2012-08-02,N.L. : TIF 15 Emp. Treviño,Corral,280.0,12.0,47.0,47.0
+2012-08-03,N.L. : TIF 15 Emp. Treviño,Corral,280.0,50.0,47.0,47.0
+2012-08-06,N.L. : TIF 15 Emp. Treviño,Corral,280.0,109.0,47.0,47.0
+2012-08-07,N.L. : TIF 15 Emp. Treviño,Corral,280.0,90.0,47.0,47.0
+2012-08-09,N.L. : TIF 15 Emp. Treviño,Corral,280.0,63.0,47.0,47.0
+2012-08-10,N.L. : TIF 15 Emp. Treviño,Corral,280.0,50.0,47.0,47.0
+2012-08-13,N.L. : TIF 15 Emp. Treviño,Corral,280.0,250.0,47.0,47.0
+2012-08-15,N.L. : TIF 15 Emp. Treviño,Corral,280.0,86.0,47.0,47.0
+2012-08-16,N.L. : TIF 15 Emp. Treviño,Corral,280.0,73.0,47.0,47.0
+2012-08-17,N.L. : TIF 15 Emp. Treviño,Corral,280.0,7.0,47.0,47.0
+2012-08-20,N.L. : TIF 15 Emp. Treviño,Corral,280.0,108.0,47.0,47.0
+2012-08-21,N.L. : TIF 15 Emp. Treviño,Corral,280.0,15.0,47.0,47.0
+2012-08-22,N.L. : TIF 15 Emp. Treviño,Corral,280.0,55.0,47.0,47.0
+2012-08-23,N.L. : TIF 15 Emp. Treviño,Corral,280.0,19.0,47.0,47.0
+2012-08-24,N.L. : TIF 15 Emp. Treviño,Corral,280.0,60.0,47.0,47.0
+2012-08-27,N.L. : TIF 15 Emp. Treviño,Corral,280.0,109.0,47.0,47.0
+2012-08-28,N.L. : TIF 15 Emp. Treviño,Corral,280.0,45.0,47.0,47.0
+2012-08-29,N.L. : TIF 15 Emp. Treviño,Corral,280.0,7.0,47.0,47.0
+2012-08-30,N.L. : TIF 15 Emp. Treviño,Corral,280.0,14.0,47.0,47.0
+2012-08-31,N.L. : TIF 15 Emp. Treviño,Corral,280.0,77.0,47.0,47.0
+2012-08-17,Nay. : R.M. Tepic,Toros,282.0,14.0,42.0,44.0
+2012-08-17,Nay. : R.M. Tepic,Vaca,245.0,12.0,35.0,39.0
+2012-08-18,Nay. : R.M. Tepic,Toros,284.0,29.0,42.0,44.0
+2012-08-18,Nay. : R.M. Tepic,Vaca,246.0,24.0,35.0,39.0
+2012-08-20,Nay. : R.M. Tepic,Toros,276.0,43.0,42.0,44.0
+2012-08-20,Nay. : R.M. Tepic,Vaca,240.0,35.0,35.0,39.0
+2012-08-21,Nay. : R.M. Tepic,Toros,278.0,23.0,42.0,44.0
+2012-08-21,Nay. : R.M. Tepic,Vaca,241.0,19.0,35.0,39.0
+2012-08-23,Nay. : R.M. Tepic,Toros,277.0,31.0,42.0,44.0
+2012-08-23,Nay. : R.M. Tepic,Vaca,240.0,25.0,35.0,39.0
+2012-08-24,Nay. : R.M. Tepic,Toros,282.0,37.0,42.0,44.0
+2012-08-24,Nay. : R.M. Tepic,Vaca,245.0,30.0,35.0,39.0
+2012-08-25,Nay. : R.M. Tepic,Toros,280.0,20.0,42.0,44.0
+2012-08-25,Nay. : R.M. Tepic,Vaca,243.0,17.0,35.0,39.0
+2012-08-27,Nay. : R.M. Tepic,Toros,279.0,40.0,42.0,44.0
+2012-08-27,Nay. : R.M. Tepic,Vaca,242.0,32.0,35.0,39.0
+2012-08-28,Nay. : R.M. Tepic,Toros,281.0,26.0,42.0,44.0
+2012-08-28,Nay. : R.M. Tepic,Vaca,244.0,22.0,35.0,39.0
+2012-08-29,Nay. : R.M. Tepic,Toros,281.0,26.0,42.0,44.0
+2012-08-29,Nay. : R.M. Tepic,Vaca,244.0,22.0,35.0,39.0
+2012-08-30,Nay. : R.M. Tepic,Toros,284.0,43.0,42.0,44.0
+2012-08-30,Nay. : R.M. Tepic,Vaca,246.0,35.0,35.0,39.0
+2012-08-31,Nay. : R.M. Tepic,Toros,283.0,24.0,42.0,44.0
+2012-08-31,Nay. : R.M. Tepic,Vaca,245.0,19.0,35.0,39.0
+2012-08-05,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,200.0,4.0,34.0,36.0
+2012-08-07,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,210.0,210.0,34.0,36.0
+2012-08-08,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,112.0,6.0,34.0,36.0
+2012-08-10,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,380.0,1.0,34.0,36.0
+2012-08-10,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,210.0,10.0,34.0,36.0
+2012-08-11,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,210.0,6.0,34.0,36.0
+2012-08-12,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,195.0,2.0,34.0,36.0
+2012-08-15,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,370.0,1.0,34.0,36.0
+2012-08-15,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,170.0,5.0,34.0,36.0
+2012-08-28,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,210.0,6.0,34.0,36.0
+2012-08-29,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,215.0,3.0,34.0,36.0
+2012-08-01,Oax. : Rastro Reforma Agraria,Corral,400.0,60.0,42.0,43.0
+2012-08-01,Oax. : Rastro Reforma Agraria,Vaca,300.0,6.0,37.0,38.0
+2012-08-02,Oax. : Rastro Reforma Agraria,Corral,400.0,60.0,42.0,43.0
+2012-08-02,Oax. : Rastro Reforma Agraria,Vaca,300.0,6.0,37.0,38.0
+2012-08-03,Oax. : Rastro Reforma Agraria,Corral,400.0,60.0,42.0,43.0
+2012-08-03,Oax. : Rastro Reforma Agraria,Vaca,300.0,7.0,37.0,38.0
+2012-08-06,Oax. : Rastro Reforma Agraria,Corral,400.0,55.0,42.0,43.0
+2012-08-06,Oax. : Rastro Reforma Agraria,Vaca,300.0,5.0,37.0,38.0
+2012-08-07,Oax. : Rastro Reforma Agraria,Corral,400.0,70.0,42.0,43.0
+2012-08-07,Oax. : Rastro Reforma Agraria,Vaca,300.0,13.0,37.0,38.0
+2012-08-08,Oax. : Rastro Reforma Agraria,Corral,400.0,60.0,42.0,43.0
+2012-08-08,Oax. : Rastro Reforma Agraria,Vaca,300.0,8.0,37.0,38.0
+2012-08-09,Oax. : Rastro Reforma Agraria,Corral,400.0,65.0,42.0,43.0
+2012-08-09,Oax. : Rastro Reforma Agraria,Vaca,300.0,12.0,37.0,38.0
+2012-08-10,Oax. : Rastro Reforma Agraria,Corral,400.0,60.0,42.0,43.0
+2012-08-10,Oax. : Rastro Reforma Agraria,Vaca,300.0,10.0,37.0,38.0
+2012-08-13,Oax. : Rastro Reforma Agraria,Corral,400.0,60.0,42.0,43.0
+2012-08-13,Oax. : Rastro Reforma Agraria,Vaca,300.0,6.0,37.0,38.0
+2012-08-14,Oax. : Rastro Reforma Agraria,Corral,400.0,70.0,47.0,48.0
+2012-08-14,Oax. : Rastro Reforma Agraria,Vaca,300.0,10.0,43.0,44.0
+2012-08-15,Oax. : Rastro Reforma Agraria,Corral,400.0,55.0,47.0,48.0
+2012-08-15,Oax. : Rastro Reforma Agraria,Vaca,300.0,11.0,43.0,44.0
+2012-08-16,Oax. : Rastro Reforma Agraria,Corral,400.0,65.0,47.0,48.0
+2012-08-16,Oax. : Rastro Reforma Agraria,Vaca,300.0,9.0,43.0,44.0
+2012-08-17,Oax. : Rastro Reforma Agraria,Corral,400.0,50.0,47.0,48.0
+2012-08-17,Oax. : Rastro Reforma Agraria,Vaca,300.0,8.0,43.0,44.0
+2012-08-20,Oax. : Rastro Reforma Agraria,Corral,400.0,60.0,47.0,48.0
+2012-08-20,Oax. : Rastro Reforma Agraria,Vaca,300.0,7.0,43.0,44.0
+2012-08-21,Oax. : Rastro Reforma Agraria,Corral,400.0,70.0,47.0,48.0
+2012-08-21,Oax. : Rastro Reforma Agraria,Vaca,300.0,10.0,43.0,44.0
+2012-08-22,Oax. : Rastro Reforma Agraria,Corral,400.0,65.0,47.0,48.0
+2012-08-22,Oax. : Rastro Reforma Agraria,Vaca,300.0,13.0,43.0,44.0
+2012-08-23,Oax. : Rastro Reforma Agraria,Corral,400.0,35.0,47.0,48.0
+2012-08-23,Oax. : Rastro Reforma Agraria,Vaca,300.0,8.0,43.0,44.0
+2012-08-24,Oax. : Rastro Reforma Agraria,Corral,400.0,45.0,47.0,48.0
+2012-08-24,Oax. : Rastro Reforma Agraria,Vaca,300.0,8.0,43.0,44.0
+2012-08-27,Oax. : Rastro Reforma Agraria,Corral,400.0,45.0,47.0,48.0
+2012-08-27,Oax. : Rastro Reforma Agraria,Vaca,300.0,8.0,43.0,44.0
+2012-08-28,Oax. : Rastro Reforma Agraria,Corral,400.0,55.0,47.0,48.0
+2012-08-28,Oax. : Rastro Reforma Agraria,Vaca,300.0,9.0,43.0,44.0
+2012-08-29,Oax. : Rastro Reforma Agraria,Corral,400.0,65.0,47.0,48.0
+2012-08-29,Oax. : Rastro Reforma Agraria,Vaca,300.0,10.0,43.0,44.0
+2012-08-30,Oax. : Rastro Reforma Agraria,Corral,400.0,50.0,47.0,48.0
+2012-08-30,Oax. : Rastro Reforma Agraria,Vaca,300.0,14.0,43.0,44.0
+2012-08-31,Oax. : Rastro Reforma Agraria,Corral,400.0,50.0,47.0,48.0
+2012-08-31,Oax. : Rastro Reforma Agraria,Vaca,300.0,7.0,43.0,44.0
+2012-08-01,Qro. : R.M. Querétaro,Toros,260.0,103.0,46.0,47.0
+2012-08-02,Qro. : R.M. Querétaro,Toros,260.0,120.0,46.0,47.0
+2012-08-03,Qro. : R.M. Querétaro,Toros,260.0,119.0,46.0,47.0
+2012-08-06,Qro. : R.M. Querétaro,Toros,260.0,89.0,46.0,47.0
+2012-08-07,Qro. : R.M. Querétaro,Toros,260.0,110.0,46.0,47.0
+2012-08-08,Qro. : R.M. Querétaro,Toros,260.0,103.0,46.0,47.0
+2012-08-09,Qro. : R.M. Querétaro,Toros,260.0,120.0,46.0,47.0
+2012-08-10,Qro. : R.M. Querétaro,Toros,260.0,87.0,46.0,47.0
+2012-08-13,Qro. : R.M. Querétaro,Toros,260.0,89.0,46.0,47.0
+2012-08-14,Qro. : R.M. Querétaro,Toros,260.0,100.0,46.0,47.0
+2012-08-15,Qro. : R.M. Querétaro,Toros,260.0,105.0,46.0,47.0
+2012-08-16,Qro. : R.M. Querétaro,Toros,260.0,120.0,46.0,47.0
+2012-08-17,Qro. : R.M. Querétaro,Toros,260.0,139.0,46.0,47.0
+2012-08-20,Qro. : R.M. Querétaro,Toros,260.0,95.0,46.0,47.0
+2012-08-21,Qro. : R.M. Querétaro,Toros,260.0,88.0,46.0,47.0
+2012-08-22,Qro. : R.M. Querétaro,Toros,260.0,105.0,46.0,47.0
+2012-08-23,Qro. : R.M. Querétaro,Toros,260.0,120.0,46.0,47.0
+2012-08-24,Qro. : R.M. Querétaro,Toros,260.0,145.0,46.0,47.0
+2012-08-27,Qro. : R.M. Querétaro,Toros,260.0,97.0,46.0,47.0
+2012-08-28,Qro. : R.M. Querétaro,Toros,260.0,83.0,46.0,47.0
+2012-08-29,Qro. : R.M. Querétaro,Toros,260.0,110.0,46.0,47.0
+2012-08-30,Qro. : R.M. Querétaro,Toros,260.0,103.0,46.0,47.0
+2012-08-31,Qro. : R.M. Querétaro,Toros,260.0,141.0,46.0,47.0
+2012-08-01,Sin. : TIF 111 Vizur Sin,Corral,287.0,490.0,,34.0
+2012-08-01,Sin. : TIF 111 Vizur Sin,Novillona,264.0,211.0,,34.0
+2012-08-02,Sin. : TIF 111 Vizur Sin,Corral,284.0,351.0,,34.0
+2012-08-02,Sin. : TIF 111 Vizur Sin,Novillona,264.0,249.0,,34.0
+2012-08-03,Sin. : TIF 111 Vizur Sin,Corral,286.0,465.0,,34.0
+2012-08-03,Sin. : TIF 111 Vizur Sin,Novillona,268.0,235.0,,34.0
+2012-08-06,Sin. : TIF 111 Vizur Sin,Corral,284.0,480.0,,34.0
+2012-08-06,Sin. : TIF 111 Vizur Sin,Novillona,268.0,220.0,,34.0
+2012-08-07,Sin. : TIF 111 Vizur Sin,Corral,294.0,428.0,,34.0
+2012-08-07,Sin. : TIF 111 Vizur Sin,Novillona,264.0,272.0,,34.0
+2012-08-08,Sin. : TIF 111 Vizur Sin,Corral,280.0,527.0,,34.0
+2012-08-08,Sin. : TIF 111 Vizur Sin,Novillona,266.0,173.0,,34.0
+2012-08-09,Sin. : TIF 111 Vizur Sin,Corral,295.0,371.0,,34.0
+2012-08-09,Sin. : TIF 111 Vizur Sin,Novillona,288.0,329.0,,34.0
+2012-08-10,Sin. : TIF 111 Vizur Sin,Corral,272.0,349.0,,34.0
+2012-08-10,Sin. : TIF 111 Vizur Sin,Novillona,277.0,344.0,,34.0
+2012-08-13,Sin. : TIF 111 Vizur Sin,Corral,278.0,637.0,,34.0
+2012-08-14,Sin. : TIF 111 Vizur Sin,Corral,281.0,92.0,,34.0
+2012-08-14,Sin. : TIF 111 Vizur Sin,Novillona,280.0,616.0,,34.0
+2012-08-15,Sin. : TIF 111 Vizur Sin,Corral,295.0,103.0,,34.0
+2012-08-15,Sin. : TIF 111 Vizur Sin,Novillona,288.0,303.0,,34.0
+2012-08-16,Sin. : TIF 111 Vizur Sin,Corral,286.0,465.0,,34.0
+2012-08-16,Sin. : TIF 111 Vizur Sin,Novillona,268.0,235.0,,34.0
+2012-08-17,Sin. : TIF 111 Vizur Sin,Corral,280.0,548.0,,34.0
+2012-08-17,Sin. : TIF 111 Vizur Sin,Novillona,280.0,160.0,,34.0
+2012-08-20,Sin. : TIF 111 Vizur Sin,Corral,278.0,525.0,,34.0
+2012-08-20,Sin. : TIF 111 Vizur Sin,Novillona,273.0,171.0,,34.0
+2012-08-22,Sin. : TIF 111 Vizur Sin,Corral,324.0,92.0,,34.0
+2012-08-22,Sin. : TIF 111 Vizur Sin,Novillona,274.0,589.0,,34.0
+2012-08-23,Sin. : TIF 111 Vizur Sin,Corral,282.0,358.0,,34.0
+2012-08-23,Sin. : TIF 111 Vizur Sin,Novillona,268.0,332.0,,34.0
+2012-08-24,Sin. : TIF 111 Vizur Sin,Corral,282.0,460.0,,34.0
+2012-08-24,Sin. : TIF 111 Vizur Sin,Novillona,270.0,246.0,,34.0
+2012-08-27,Sin. : TIF 111 Vizur Sin,Corral,279.0,252.0,,34.0
+2012-08-27,Sin. : TIF 111 Vizur Sin,Novillona,272.0,425.0,,
+2012-08-28,Sin. : TIF 111 Vizur Sin,Corral,298.0,526.0,,34.0
+2012-08-28,Sin. : TIF 111 Vizur Sin,Novillona,266.0,181.0,,34.0
+2012-08-29,Sin. : TIF 111 Vizur Sin,Corral,290.0,328.0,,34.0
+2012-08-29,Sin. : TIF 111 Vizur Sin,Novillona,269.0,374.0,,34.0
+2012-08-30,Sin. : TIF 111 Vizur Sin,Corral,308.0,231.0,,34.0
+2012-08-30,Sin. : TIF 111 Vizur Sin,Novillona,266.0,417.0,,34.0
+2012-08-31,Sin. : TIF 111 Vizur Sin,Corral,295.0,561.0,,34.0
+2012-08-31,Sin. : TIF 111 Vizur Sin,Novillona,292.0,96.0,,34.0
+2012-08-01,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,139.0,3.0,28.0,28.0
+2012-08-01,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,452.0,3.0,29.0,29.0
+2012-08-01,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,262.0,31.0,26.0,26.0
+2012-08-02,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,220.0,11.0,28.0,28.0
+2012-08-02,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,470.0,5.0,29.0,29.0
+2012-08-02,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,281.0,10.0,26.0,26.0
+2012-08-03,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,198.0,7.0,28.0,28.0
+2012-08-03,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,481.0,6.0,29.0,29.0
+2012-08-03,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,326.0,16.0,26.0,26.0
+2012-08-06,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,228.0,27.0,28.0,28.0
+2012-08-06,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,391.0,5.0,29.0,29.0
+2012-08-06,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,300.0,29.0,26.0,26.0
+2012-08-07,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,207.0,3.0,28.0,28.0
+2012-08-07,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,397.0,3.0,29.0,29.0
+2012-08-07,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,245.0,18.0,26.0,26.0
+2012-08-08,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,188.0,3.0,28.0,28.0
+2012-08-08,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,458.0,5.0,29.0,29.0
+2012-08-08,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,258.0,14.0,26.0,26.0
+2012-08-09,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,201.0,11.0,28.0,28.0
+2012-08-09,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,452.0,6.0,29.0,29.0
+2012-08-09,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,253.0,25.0,26.0,26.0
+2012-08-10,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,189.0,3.0,28.0,28.0
+2012-08-10,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,439.0,6.0,29.0,29.0
+2012-08-10,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,291.0,28.0,26.0,26.0
+2012-08-13,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,232.0,25.0,28.0,28.0
+2012-08-13,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,420.0,7.0,29.0,29.0
+2012-08-13,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,437.0,24.0,26.0,26.0
+2012-08-14,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,229.0,15.0,26.0,26.0
+2012-08-15,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,201.0,2.0,28.0,28.0
+2012-08-15,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,413.0,1.0,29.0,29.0
+2012-08-15,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,280.0,14.0,26.0,26.0
+2012-08-16,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,198.0,9.0,28.0,28.0
+2012-08-16,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,450.0,10.0,29.0,29.0
+2012-08-16,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,262.0,11.0,26.0,26.0
+2012-08-17,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,205.0,19.0,28.0,28.0
+2012-08-17,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,273.0,40.0,26.0,26.0
+2012-08-20,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,194.0,21.0,28.0,28.0
+2012-08-20,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,520.0,5.0,29.0,29.0
+2012-08-20,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,309.0,29.0,26.0,26.0
+2012-08-21,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,114.0,1.0,28.0,28.0
+2012-08-21,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,418.0,3.0,29.0,29.0
+2012-08-21,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,251.0,18.0,26.0,26.0
+2012-08-22,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,160.0,7.0,28.0,28.0
+2012-08-22,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,303.0,18.0,26.0,26.0
+2012-08-23,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,212.0,9.0,28.0,28.0
+2012-08-23,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,470.0,5.0,29.0,29.0
+2012-08-23,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,251.0,8.0,26.0,26.0
+2012-08-24,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,199.0,15.0,28.0,28.0
+2012-08-24,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,432.0,2.0,29.0,29.0
+2012-08-24,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,307.0,28.0,26.0,26.0
+2012-08-27,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,208.0,18.0,28.0,28.0
+2012-08-27,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,411.0,3.0,29.0,29.0
+2012-08-27,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,279.0,32.0,26.0,26.0
+2012-08-28,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,233.0,20.0,28.0,28.0
+2012-08-28,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,500.0,4.0,29.0,29.0
+2012-08-28,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,288.0,9.0,26.0,26.0
+2012-08-29,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,205.0,4.0,28.0,28.0
+2012-08-29,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,384.0,2.0,29.0,29.0
+2012-08-29,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,281.0,12.0,26.0,26.0
+2012-08-30,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,211.0,7.0,28.0,28.0
+2012-08-30,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,469.0,6.0,29.0,29.0
+2012-08-30,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,277.0,8.0,26.0,26.0
+2012-08-31,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,206.0,9.0,28.0,28.0
+2012-08-31,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,538.0,5.0,29.0,29.0
+2012-08-31,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,294.0,23.0,26.0,26.0
+2012-08-01,Son. : Rastro TIF Bovinos Hermosillo,Corral,,130.0,49.0,50.0
+2012-08-03,Son. : Rastro TIF Bovinos Hermosillo,Corral,,164.0,49.0,50.0
+2012-08-06,Son. : Rastro TIF Bovinos Hermosillo,Corral,,150.0,49.0,50.0
+2012-08-07,Son. : Rastro TIF Bovinos Hermosillo,Corral,,266.0,49.0,50.0
+2012-08-08,Son. : Rastro TIF Bovinos Hermosillo,Corral,,229.0,49.0,50.0
+2012-08-09,Son. : Rastro TIF Bovinos Hermosillo,Corral,,204.0,49.0,50.0
+2012-08-10,Son. : Rastro TIF Bovinos Hermosillo,Corral,,150.0,49.0,50.0
+2012-08-13,Son. : Rastro TIF Bovinos Hermosillo,Corral,,215.0,49.0,50.0
+2012-08-14,Son. : Rastro TIF Bovinos Hermosillo,Corral,,302.0,49.0,50.0
+2012-08-15,Son. : Rastro TIF Bovinos Hermosillo,Corral,,215.0,49.0,50.0
+2012-08-16,Son. : Rastro TIF Bovinos Hermosillo,Corral,,220.0,49.0,50.0
+2012-08-17,Son. : Rastro TIF Bovinos Hermosillo,Corral,,271.0,49.0,50.0
+2012-08-20,Son. : Rastro TIF Bovinos Hermosillo,Corral,,347.0,49.0,50.0
+2012-08-21,Son. : Rastro TIF Bovinos Hermosillo,Corral,,250.0,49.0,50.0
+2012-08-22,Son. : Rastro TIF Bovinos Hermosillo,Corral,,105.0,49.0,50.0
+2012-08-23,Son. : Rastro TIF Bovinos Hermosillo,Corral,,280.0,49.0,50.0
+2012-08-24,Son. : Rastro TIF Bovinos Hermosillo,Corral,,270.0,49.0,50.0
+2012-08-27,Son. : Rastro TIF Bovinos Hermosillo,Corral,,243.0,49.0,50.0
+2012-08-28,Son. : Rastro TIF Bovinos Hermosillo,Corral,,441.0,49.0,50.0
+2012-08-29,Son. : Rastro TIF Bovinos Hermosillo,Corral,,286.0,49.0,50.0
+2012-08-30,Son. : Rastro TIF Bovinos Hermosillo,Corral,,280.0,49.0,50.0
+2012-08-31,Son. : Rastro TIF Bovinos Hermosillo,Corral,,476.0,49.0,50.0
+2012-08-01,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,119.0,14.0,,29.0
+2012-08-01,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,267.0,167.0,,37.5
+2012-08-01,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,367.0,17.0,,30.5
+2012-08-01,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,223.0,22.0,,29.0
+2012-08-02,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,242.0,38.0,,29.0
+2012-08-02,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,268.0,217.0,,37.5
+2012-08-02,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,399.0,6.0,,30.5
+2012-08-02,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,226.0,68.0,,29.0
+2012-08-03,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,170.0,39.0,,29.0
+2012-08-03,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,276.0,143.0,,37.5
+2012-08-03,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,400.0,2.0,,30.5
+2012-08-03,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,219.0,69.0,,29.0
+2012-08-06,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,212.0,39.0,,29.0
+2012-08-06,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,229.0,151.0,,37.5
+2012-08-06,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,384.0,13.0,,30.5
+2012-08-06,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,220.0,45.0,,29.0
+2012-08-07,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,166.0,51.0,,29.0
+2012-08-07,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,273.0,189.0,,37.5
+2012-08-07,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,460.0,1.0,,30.5
+2012-08-07,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,231.0,21.0,,29.0
+2012-08-08,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,249.0,53.0,,29.0
+2012-08-08,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,256.0,121.0,,37.5
+2012-08-08,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,383.0,9.0,,30.5
+2012-08-08,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,251.0,49.0,,29.0
+2012-08-09,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,245.0,100.0,,29.0
+2012-08-09,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,258.0,124.0,,37.5
+2012-08-09,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,462.0,9.0,,30.5
+2012-08-09,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,232.0,53.0,,29.0
+2012-08-10,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,245.0,88.0,,35.5
+2012-08-10,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,271.0,210.0,,42.0
+2012-08-10,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,374.0,19.0,,38.0
+2012-08-10,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,224.0,55.0,,35.5
+2012-08-13,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,147.0,38.0,,35.5
+2012-08-13,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,242.0,266.0,,42.0
+2012-08-13,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,349.0,10.0,,38.0
+2012-08-13,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,222.0,58.0,,35.5
+2012-08-14,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,261.0,28.0,,35.5
+2012-08-14,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,268.0,168.0,,42.0
+2012-08-14,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,307.0,3.0,,38.0
+2012-08-14,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,231.0,4.0,,35.5
+2012-08-15,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,207.0,7.0,,35.5
+2012-08-15,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,279.0,133.0,,42.0
+2012-08-15,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,330.0,1.0,,38.0
+2012-08-15,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,228.0,5.0,,35.5
+2012-08-16,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,224.0,70.0,,35.5
+2012-08-16,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,265.0,139.0,,42.0
+2012-08-16,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,336.0,4.0,,38.0
+2012-08-16,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,227.0,27.0,,35.5
+2012-08-17,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,186.0,97.0,,35.5
+2012-08-17,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,252.0,204.0,,42.0
+2012-08-17,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,276.0,10.0,,38.0
+2012-08-17,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,226.0,41.0,,35.5
+2012-08-20,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,234.0,91.0,,35.5
+2012-08-20,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,245.0,161.0,,42.0
+2012-08-20,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,424.0,10.0,,38.0
+2012-08-20,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,229.0,61.0,,35.5
+2012-08-21,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,162.0,58.0,,35.5
+2012-08-21,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,247.0,94.0,,42.0
+2012-08-21,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,326.0,1.0,,38.0
+2012-08-21,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,180.0,15.0,,35.5
+2012-08-22,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,188.0,26.0,,35.5
+2012-08-22,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,255.0,169.0,,42.0
+2012-08-22,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,384.0,9.0,,38.0
+2012-08-22,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,229.0,81.0,,35.5
+2012-08-23,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,160.0,20.0,,35.5
+2012-08-23,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,280.0,209.0,,42.0
+2012-08-23,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,229.0,3.0,,35.5
+2012-08-24,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,163.0,26.0,,35.5
+2012-08-24,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,269.0,139.0,,42.0
+2012-08-24,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,179.0,30.0,,35.5
+2012-08-27,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,174.0,103.0,,35.5
+2012-08-27,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,256.0,208.0,,42.0
+2012-08-27,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,352.0,11.0,,38.0
+2012-08-27,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,227.0,43.0,,35.5
+2012-08-28,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,222.0,49.0,,35.5
+2012-08-28,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,280.0,179.0,,42.0
+2012-08-28,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,356.0,1.0,,38.0
+2012-08-28,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,237.0,13.0,,35.5
+2012-08-29,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,222.0,1.0,,35.5
+2012-08-29,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,283.0,256.0,,42.0
+2012-08-29,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,356.0,5.0,,38.0
+2012-08-29,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,275.0,18.0,,35.5
+2012-08-30,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,172.0,20.0,,35.5
+2012-08-30,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,275.0,230.0,,42.0
+2012-08-30,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,344.0,4.0,,38.0
+2012-08-30,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,218.0,20.0,,35.5
+2012-08-31,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,169.0,78.0,,35.5
+2012-08-31,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,280.0,94.0,,42.0
+2012-08-31,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,405.0,4.0,,38.0
+2012-08-31,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,228.0,29.0,,35.5
+2012-08-01,Ver. : Rastro Municipal de Xalapa,Corral,224.0,1.0,42.0,43.0
+2012-08-01,Ver. : Rastro Municipal de Xalapa,Novillona,183.0,2.0,30.0,32.0
+2012-08-01,Ver. : Rastro Municipal de Xalapa,Toros,302.0,3.0,31.0,33.0
+2012-08-01,Ver. : Rastro Municipal de Xalapa,Vaca,236.0,1.0,29.0,30.0
+2012-08-02,Ver. : Rastro Municipal de Xalapa,Corral,225.0,16.0,42.0,43.0
+2012-08-02,Ver. : Rastro Municipal de Xalapa,Novillona,183.0,12.0,30.0,32.0
+2012-08-02,Ver. : Rastro Municipal de Xalapa,Toros,304.0,9.0,31.0,33.0
+2012-08-02,Ver. : Rastro Municipal de Xalapa,Vaca,235.0,10.0,29.0,30.0
+2012-08-03,Ver. : Rastro Municipal de Xalapa,Corral,223.0,12.0,42.0,43.0
+2012-08-03,Ver. : Rastro Municipal de Xalapa,Novillona,183.0,9.0,30.0,32.0
+2012-08-03,Ver. : Rastro Municipal de Xalapa,Toros,302.0,14.0,31.0,33.0
+2012-08-03,Ver. : Rastro Municipal de Xalapa,Vaca,236.0,7.0,29.0,30.0
+2012-08-06,Ver. : Rastro Municipal de Xalapa,Corral,224.0,14.0,42.0,43.0
+2012-08-06,Ver. : Rastro Municipal de Xalapa,Novillona,182.0,17.0,30.0,32.0
+2012-08-06,Ver. : Rastro Municipal de Xalapa,Toros,302.0,13.0,31.0,33.0
+2012-08-06,Ver. : Rastro Municipal de Xalapa,Vaca,234.0,13.0,29.0,30.0
+2012-08-07,Ver. : Rastro Municipal de Xalapa,Corral,225.0,3.0,42.0,43.0
+2012-08-07,Ver. : Rastro Municipal de Xalapa,Novillona,183.0,7.0,30.0,32.0
+2012-08-07,Ver. : Rastro Municipal de Xalapa,Toros,304.0,9.0,31.0,33.0
+2012-08-07,Ver. : Rastro Municipal de Xalapa,Vaca,233.0,5.0,29.0,30.0
+2012-08-08,Ver. : Rastro Municipal de Xalapa,Corral,224.0,3.0,42.0,43.0
+2012-08-08,Ver. : Rastro Municipal de Xalapa,Novillona,181.0,2.0,30.0,32.0
+2012-08-08,Ver. : Rastro Municipal de Xalapa,Toros,301.0,2.0,31.0,33.0
+2012-08-08,Ver. : Rastro Municipal de Xalapa,Vaca,231.0,5.0,29.0,30.0
+2012-08-09,Ver. : Rastro Municipal de Xalapa,Corral,226.0,9.0,42.0,43.0
+2012-08-09,Ver. : Rastro Municipal de Xalapa,Novillona,184.0,7.0,30.0,32.0
+2012-08-09,Ver. : Rastro Municipal de Xalapa,Toros,304.0,10.0,31.0,33.0
+2012-08-09,Ver. : Rastro Municipal de Xalapa,Vaca,236.0,6.0,29.0,30.0
+2012-08-10,Ver. : Rastro Municipal de Xalapa,Corral,225.0,2.0,42.0,43.0
+2012-08-10,Ver. : Rastro Municipal de Xalapa,Novillona,183.0,6.0,30.0,32.0
+2012-08-10,Ver. : Rastro Municipal de Xalapa,Toros,303.0,10.0,31.0,33.0
+2012-08-10,Ver. : Rastro Municipal de Xalapa,Vaca,235.0,6.0,29.0,30.0
+2012-08-13,Ver. : Rastro Municipal de Xalapa,Corral,225.0,3.0,42.0,43.0
+2012-08-13,Ver. : Rastro Municipal de Xalapa,Novillona,182.0,2.0,30.0,32.0
+2012-08-13,Ver. : Rastro Municipal de Xalapa,Toros,302.0,8.0,31.0,33.0
+2012-08-13,Ver. : Rastro Municipal de Xalapa,Vaca,236.0,1.0,29.0,30.0
+2012-08-01,Yuc. : Aric Planta TIF 170,Novillona,207.0,5.0,,41.0
+2012-08-01,Yuc. : Aric Planta TIF 170,Toros,260.0,100.0,,38.0
+2012-08-06,Yuc. : Aric Planta TIF 170,Pradera,261.0,60.0,,44.0
+2012-08-09,Yuc. : Aric Planta TIF 170,Pradera,263.0,31.0,,44.0
+2012-08-10,Yuc. : Aric Planta TIF 170,Toros,360.0,1.0,,38.0
+2012-08-10,Yuc. : Aric Planta TIF 170,Vaca,257.0,75.0,,38.0
+2012-08-13,Yuc. : Aric Planta TIF 170,Toros,279.0,15.0,,38.0
+2012-08-14,Yuc. : Aric Planta TIF 170,Pradera,272.0,52.0,,44.0
+2012-08-16,Yuc. : Aric Planta TIF 170,Pradera,273.0,32.0,,44.0
+2012-08-17,Yuc. : Aric Planta TIF 170,Pradera,229.0,1.0,,44.0
+2012-08-17,Yuc. : Aric Planta TIF 170,Vaca,244.0,72.0,,38.0
+2012-08-20,Yuc. : Aric Planta TIF 170,Novillona,202.0,26.0,,41.0
+2012-08-20,Yuc. : Aric Planta TIF 170,Pradera,271.0,59.0,,44.0
+2012-08-20,Yuc. : Aric Planta TIF 170,Toros,363.0,1.0,,38.0
+2012-08-21,Yuc. : Aric Planta TIF 170,Pradera,376.0,15.0,,44.0
+2012-08-22,Yuc. : Aric Planta TIF 170,Pradera,281.0,36.0,,44.0
+2012-08-24,Yuc. : Aric Planta TIF 170,Pradera,225.0,23.0,,44.0
+2012-08-24,Yuc. : Aric Planta TIF 170,Toros,372.0,1.0,,38.0
+2012-08-25,Yuc. : Aric Planta TIF 170,Pradera,289.0,10.0,,44.0
+2012-08-27,Yuc. : Aric Planta TIF 170,Pradera,276.0,41.0,,44.0
+2012-08-28,Yuc. : Aric Planta TIF 170,Pradera,279.0,25.0,,44.0
+2012-08-29,Yuc. : Aric Planta TIF 170,Pradera,322.0,21.0,,44.0
+2012-08-31,Yuc. : Aric Planta TIF 170,Pradera,265.0,20.0,,44.0
+2012-08-31,Yuc. : Aric Planta TIF 170,Toros,394.0,3.0,,38.0
+2012-08-31,Yuc. : Aric Planta TIF 170,Vaca,247.0,70.0,,38.0
+2012-08-02,Zac. : R.M. Zacatecas,Corral,247.0,13.0,39.0,39.0
+2012-08-02,Zac. : R.M. Zacatecas,Novillona,220.0,11.0,33.0,33.0
+2012-08-02,Zac. : R.M. Zacatecas,Toros,440.0,1.0,32.0,32.0
+2012-08-02,Zac. : R.M. Zacatecas,Vaca,216.0,22.0,30.0,30.0
+2012-08-07,Zac. : R.M. Zacatecas,Novillona,220.0,6.0,33.0,33.0
+2012-08-07,Zac. : R.M. Zacatecas,Toros,440.0,2.0,32.0,32.0
+2012-08-07,Zac. : R.M. Zacatecas,Vaca,216.0,29.0,30.0,30.0
+2012-08-09,Zac. : R.M. Zacatecas,Novillona,220.0,19.0,33.0,33.0
+2012-08-09,Zac. : R.M. Zacatecas,Toros,440.0,8.0,32.0,32.0
+2012-08-09,Zac. : R.M. Zacatecas,Vaca,216.0,21.0,30.0,30.0
+2012-08-14,Zac. : R.M. Zacatecas,Corral,247.0,2.0,39.0,39.0
+2012-08-14,Zac. : R.M. Zacatecas,Novillona,220.0,23.0,33.0,33.0
+2012-08-14,Zac. : R.M. Zacatecas,Vaca,216.0,4.0,30.0,30.0
+2012-08-16,Zac. : R.M. Zacatecas,Corral,247.0,1.0,39.0,39.0
+2012-08-16,Zac. : R.M. Zacatecas,Novillona,220.0,6.0,33.0,33.0
+2012-08-16,Zac. : R.M. Zacatecas,Toros,440.0,6.0,32.0,32.0
+2012-08-16,Zac. : R.M. Zacatecas,Vaca,216.0,38.0,30.0,30.0
+2012-08-21,Zac. : R.M. Zacatecas,Corral,247.0,2.0,39.0,39.0
+2012-08-21,Zac. : R.M. Zacatecas,Novillona,220.0,3.0,33.0,33.0
+2012-08-21,Zac. : R.M. Zacatecas,Toros,440.0,5.0,32.0,32.0
+2012-08-21,Zac. : R.M. Zacatecas,Vaca,216.0,23.0,30.0,30.0
+2012-08-23,Zac. : R.M. Zacatecas,Corral,247.0,15.0,45.0,45.0
+2012-08-23,Zac. : R.M. Zacatecas,Novillona,220.0,8.0,45.0,45.0
+2012-08-23,Zac. : R.M. Zacatecas,Toros,440.0,13.0,45.0,45.0
+2012-08-23,Zac. : R.M. Zacatecas,Vaca,216.0,18.0,45.0,45.0
+2012-08-28,Zac. : R.M. Zacatecas,Novillona,220.0,7.0,45.0,45.0
+2012-08-28,Zac. : R.M. Zacatecas,Vaca,216.0,14.0,45.0,45.0
+2012-08-30,Zac. : R.M. Zacatecas,Corral,247.0,21.0,45.0,45.0
+2012-08-30,Zac. : R.M. Zacatecas,Novillona,220.0,4.0,45.0,45.0
+2012-08-30,Zac. : R.M. Zacatecas,Vaca,216.0,15.0,45.0,45.0

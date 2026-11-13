@@ -1,0 +1,1155 @@
+date,slaughterhouse,type,avg_weight_kg,carcasses,price_min_mxn_kg,price_max_mxn_kg
+2018-10-01,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,19.0,60.0,63.0
+2018-10-01,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,175.0,41.0,44.0
+2018-10-02,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,22.0,60.0,63.0
+2018-10-02,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,147.0,41.0,44.0
+2018-10-03,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,18.0,60.0,63.0
+2018-10-03,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,176.0,41.0,44.0
+2018-10-04,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,40.0,60.0,63.0
+2018-10-04,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,140.0,41.0,44.0
+2018-10-05,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,18.0,60.0,63.0
+2018-10-05,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,169.0,41.0,44.0
+2018-10-06,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,19.0,60.0,63.0
+2018-10-06,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,173.0,41.0,44.0
+2018-10-08,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,12.0,60.0,63.0
+2018-10-08,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,168.0,41.0,44.0
+2018-10-09,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,18.0,60.0,63.0
+2018-10-09,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,163.0,41.0,44.0
+2018-10-10,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,18.0,60.0,63.0
+2018-10-10,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,162.0,41.0,44.0
+2018-10-11,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,16.0,60.0,63.0
+2018-10-11,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,160.0,41.0,44.0
+2018-10-12,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,16.0,60.0,63.0
+2018-10-12,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,144.0,41.0,44.0
+2018-10-13,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,16.0,60.0,63.0
+2018-10-13,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,155.0,41.0,44.0
+2018-10-15,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,15.0,60.0,63.0
+2018-10-15,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,153.0,41.0,44.0
+2018-10-16,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,18.0,60.0,63.0
+2018-10-16,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,143.0,41.0,44.0
+2018-10-17,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,13.0,60.0,63.0
+2018-10-17,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,155.0,41.0,44.0
+2018-10-18,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,20.0,60.0,63.0
+2018-10-18,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,168.0,41.0,44.0
+2018-10-19,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,31.0,60.0,63.0
+2018-10-19,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,455.0,31.0,41.0,44.0
+2018-10-20,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,18.0,60.0,63.0
+2018-10-20,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,174.0,41.0,44.0
+2018-10-22,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,19.0,60.0,63.0
+2018-10-22,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,187.0,41.0,44.0
+2018-10-23,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,155.0,14.0,60.0,63.0
+2018-10-23,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,166.0,41.0,44.0
+2018-10-24,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,21.0,60.0,63.0
+2018-10-24,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,167.0,41.0,44.0
+2018-10-25,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,38.0,60.0,63.0
+2018-10-25,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,150.0,41.0,44.0
+2018-10-26,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,19.0,60.0,63.0
+2018-10-26,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,173.0,41.0,44.0
+2018-10-27,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,20.0,60.0,63.0
+2018-10-27,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,176.0,41.0,44.0
+2018-10-29,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,17.0,60.0,63.0
+2018-10-29,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,171.0,41.0,44.0
+2018-10-30,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,41.0,60.0,63.0
+2018-10-30,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,150.0,41.0,44.0
+2018-10-31,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,19.0,60.0,63.0
+2018-10-31,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,159.0,41.0,44.0
+2018-10-01,Ags. : R.M. Aguascalientes,Toros,455.0,11.0,61.0,68.0
+2018-10-01,Ags. : R.M. Aguascalientes,Vaca,360.0,80.0,41.0,46.0
+2018-10-02,Ags. : R.M. Aguascalientes,Toros,455.0,5.0,61.0,68.0
+2018-10-02,Ags. : R.M. Aguascalientes,Vaca,360.0,86.0,41.0,46.0
+2018-10-03,Ags. : R.M. Aguascalientes,Toros,455.0,8.0,64.0,70.0
+2018-10-03,Ags. : R.M. Aguascalientes,Vaca,360.0,82.0,39.0,44.0
+2018-10-04,Ags. : R.M. Aguascalientes,Toros,455.0,9.0,64.0,70.0
+2018-10-04,Ags. : R.M. Aguascalientes,Vaca,360.0,73.0,39.0,44.0
+2018-10-05,Ags. : R.M. Aguascalientes,Toros,455.0,8.0,64.0,70.0
+2018-10-05,Ags. : R.M. Aguascalientes,Vaca,360.0,70.0,43.0,45.0
+2018-10-06,Ags. : R.M. Aguascalientes,Toros,455.0,9.0,64.0,70.0
+2018-10-06,Ags. : R.M. Aguascalientes,Vaca,360.0,85.0,39.0,44.0
+2018-10-08,Ags. : R.M. Aguascalientes,Toros,455.0,8.0,64.0,70.0
+2018-10-08,Ags. : R.M. Aguascalientes,Vaca,360.0,85.0,39.0,44.0
+2018-10-09,Ags. : R.M. Aguascalientes,Toros,455.0,5.0,64.0,70.0
+2018-10-09,Ags. : R.M. Aguascalientes,Vaca,360.0,79.0,43.0,45.0
+2018-10-10,Ags. : R.M. Aguascalientes,Toros,455.0,10.0,64.0,70.0
+2018-10-10,Ags. : R.M. Aguascalientes,Vaca,360.0,82.0,43.0,45.0
+2018-10-11,Ags. : R.M. Aguascalientes,Toros,455.0,5.0,64.0,70.0
+2018-10-11,Ags. : R.M. Aguascalientes,Vaca,360.0,77.0,43.0,45.0
+2018-10-12,Ags. : R.M. Aguascalientes,Toros,455.0,10.0,64.0,70.0
+2018-10-12,Ags. : R.M. Aguascalientes,Vaca,360.0,78.0,43.0,45.0
+2018-10-13,Ags. : R.M. Aguascalientes,Toros,455.0,8.0,64.0,70.0
+2018-10-13,Ags. : R.M. Aguascalientes,Vaca,360.0,85.0,43.0,45.0
+2018-10-15,Ags. : R.M. Aguascalientes,Toros,455.0,12.0,64.0,70.0
+2018-10-15,Ags. : R.M. Aguascalientes,Vaca,360.0,94.0,43.0,45.0
+2018-10-16,Ags. : R.M. Aguascalientes,Toros,455.0,9.0,64.0,70.0
+2018-10-16,Ags. : R.M. Aguascalientes,Vaca,360.0,78.0,43.0,45.0
+2018-10-17,Ags. : R.M. Aguascalientes,Toros,455.0,10.0,64.0,70.0
+2018-10-17,Ags. : R.M. Aguascalientes,Vaca,360.0,81.0,43.0,45.0
+2018-10-18,Ags. : R.M. Aguascalientes,Toros,455.0,10.0,64.0,70.0
+2018-10-18,Ags. : R.M. Aguascalientes,Vaca,360.0,59.0,43.0,45.0
+2018-10-19,Ags. : R.M. Aguascalientes,Toros,455.0,10.0,64.0,70.0
+2018-10-19,Ags. : R.M. Aguascalientes,Vaca,360.0,82.0,43.0,45.0
+2018-10-20,Ags. : R.M. Aguascalientes,Toros,455.0,8.0,64.0,70.0
+2018-10-20,Ags. : R.M. Aguascalientes,Vaca,360.0,82.0,43.0,45.0
+2018-10-22,Ags. : R.M. Aguascalientes,Toros,455.0,5.0,64.0,70.0
+2018-10-22,Ags. : R.M. Aguascalientes,Vaca,360.0,81.0,43.0,45.0
+2018-10-23,Ags. : R.M. Aguascalientes,Toros,455.0,12.0,64.0,70.0
+2018-10-23,Ags. : R.M. Aguascalientes,Vaca,360.0,98.0,43.0,45.0
+2018-10-24,Ags. : R.M. Aguascalientes,Toros,455.0,8.0,64.0,70.0
+2018-10-24,Ags. : R.M. Aguascalientes,Vaca,360.0,61.0,43.0,45.0
+2018-10-25,Ags. : R.M. Aguascalientes,Toros,455.0,6.0,64.0,70.0
+2018-10-25,Ags. : R.M. Aguascalientes,Vaca,360.0,74.0,43.0,45.0
+2018-10-26,Ags. : R.M. Aguascalientes,Toros,455.0,10.0,64.0,70.0
+2018-10-26,Ags. : R.M. Aguascalientes,Vaca,360.0,72.0,43.0,45.0
+2018-10-27,Ags. : R.M. Aguascalientes,Toros,455.0,5.0,64.0,70.0
+2018-10-27,Ags. : R.M. Aguascalientes,Vaca,360.0,79.0,43.0,45.0
+2018-10-29,Ags. : R.M. Aguascalientes,Toros,455.0,5.0,64.0,70.0
+2018-10-29,Ags. : R.M. Aguascalientes,Vaca,360.0,86.0,43.0,45.0
+2018-10-30,Ags. : R.M. Aguascalientes,Toros,455.0,8.0,64.0,70.0
+2018-10-30,Ags. : R.M. Aguascalientes,Vaca,360.0,74.0,43.0,45.0
+2018-10-31,Ags. : R.M. Aguascalientes,Toros,455.0,8.0,64.0,70.0
+2018-10-31,Ags. : R.M. Aguascalientes,Vaca,360.0,84.0,43.0,45.0
+2018-10-01,B.C.S. : R.M. La Paz B.C.S.,Corral,290.0,9.0,75.0,75.0
+2018-10-01,B.C.S. : R.M. La Paz B.C.S.,Toros,260.0,7.0,70.0,70.0
+2018-10-01,B.C.S. : R.M. La Paz B.C.S.,Vaca,190.0,10.0,55.0,55.0
+2018-10-08,B.C.S. : R.M. La Paz B.C.S.,Corral,290.0,8.0,75.0,75.0
+2018-10-08,B.C.S. : R.M. La Paz B.C.S.,Toros,260.0,10.0,70.0,70.0
+2018-10-08,B.C.S. : R.M. La Paz B.C.S.,Vaca,190.0,18.0,55.0,55.0
+2018-10-15,B.C.S. : R.M. La Paz B.C.S.,Corral,290.0,,75.0,75.0
+2018-10-15,B.C.S. : R.M. La Paz B.C.S.,Toros,260.0,10.0,70.0,70.0
+2018-10-15,B.C.S. : R.M. La Paz B.C.S.,Vaca,190.0,10.0,55.0,55.0
+2018-10-22,B.C.S. : R.M. La Paz B.C.S.,Corral,290.0,9.0,75.0,75.0
+2018-10-22,B.C.S. : R.M. La Paz B.C.S.,Toros,260.0,1.0,70.0,70.0
+2018-10-22,B.C.S. : R.M. La Paz B.C.S.,Vaca,190.0,21.0,55.0,55.0
+2018-10-29,B.C.S. : R.M. La Paz B.C.S.,Corral,290.0,10.0,75.0,75.0
+2018-10-29,B.C.S. : R.M. La Paz B.C.S.,Toros,260.0,9.0,70.0,70.0
+2018-10-29,B.C.S. : R.M. La Paz B.C.S.,Vaca,190.0,12.0,55.0,55.0
+2018-10-01,Camp. : R.M. Campeche,Pradera,271.0,2.0,70.0,75.0
+2018-10-01,Camp. : R.M. Campeche,Toros,196.0,11.0,65.0,70.0
+2018-10-01,Camp. : R.M. Campeche,Vaca,191.0,8.0,60.0,66.0
+2018-10-02,Camp. : R.M. Campeche,Pradera,273.0,1.0,70.0,75.0
+2018-10-02,Camp. : R.M. Campeche,Toros,196.0,10.0,65.0,70.0
+2018-10-02,Camp. : R.M. Campeche,Vaca,192.0,7.0,60.0,66.0
+2018-10-03,Camp. : R.M. Campeche,Pradera,275.0,1.0,70.0,75.0
+2018-10-03,Camp. : R.M. Campeche,Toros,190.0,7.0,65.0,70.0
+2018-10-03,Camp. : R.M. Campeche,Vaca,190.0,7.0,60.0,66.0
+2018-10-04,Camp. : R.M. Campeche,Pradera,271.0,2.0,70.0,75.0
+2018-10-04,Camp. : R.M. Campeche,Toros,194.0,10.0,65.0,70.0
+2018-10-04,Camp. : R.M. Campeche,Vaca,193.0,7.0,60.0,66.0
+2018-10-05,Camp. : R.M. Campeche,Pradera,273.0,2.0,70.0,75.0
+2018-10-05,Camp. : R.M. Campeche,Toros,196.0,12.0,65.0,70.0
+2018-10-05,Camp. : R.M. Campeche,Vaca,192.0,8.0,60.0,66.0
+2018-10-08,Camp. : R.M. Campeche,Pradera,271.0,1.0,70.0,75.0
+2018-10-08,Camp. : R.M. Campeche,Toros,194.0,10.0,65.0,70.0
+2018-10-08,Camp. : R.M. Campeche,Vaca,191.0,8.0,60.0,66.0
+2018-10-09,Camp. : R.M. Campeche,Pradera,270.0,2.0,70.0,75.0
+2018-10-09,Camp. : R.M. Campeche,Toros,196.0,11.0,65.0,70.0
+2018-10-09,Camp. : R.M. Campeche,Vaca,192.0,8.0,60.0,66.0
+2018-10-10,Camp. : R.M. Campeche,Pradera,270.0,1.0,70.0,75.0
+2018-10-10,Camp. : R.M. Campeche,Toros,194.0,9.0,65.0,70.0
+2018-10-10,Camp. : R.M. Campeche,Vaca,190.0,7.0,60.0,66.0
+2018-10-11,Camp. : R.M. Campeche,Pradera,270.0,2.0,70.0,75.0
+2018-10-11,Camp. : R.M. Campeche,Toros,197.0,10.0,65.0,70.0
+2018-10-11,Camp. : R.M. Campeche,Vaca,194.0,8.0,60.0,66.0
+2018-10-12,Camp. : R.M. Campeche,Pradera,273.0,2.0,70.0,75.0
+2018-10-12,Camp. : R.M. Campeche,Toros,197.0,10.0,65.0,70.0
+2018-10-12,Camp. : R.M. Campeche,Vaca,193.0,10.0,60.0,66.0
+2018-10-15,Camp. : R.M. Campeche,Pradera,273.0,1.0,70.0,75.0
+2018-10-15,Camp. : R.M. Campeche,Toros,197.0,11.0,65.0,70.0
+2018-10-15,Camp. : R.M. Campeche,Vaca,190.0,8.0,60.0,66.0
+2018-10-16,Camp. : R.M. Campeche,Pradera,270.0,2.0,70.0,75.0
+2018-10-16,Camp. : R.M. Campeche,Toros,194.0,8.0,65.0,70.0
+2018-10-16,Camp. : R.M. Campeche,Vaca,191.0,8.0,60.0,66.0
+2018-10-17,Camp. : R.M. Campeche,Pradera,271.0,1.0,70.0,75.0
+2018-10-17,Camp. : R.M. Campeche,Toros,197.0,11.0,65.0,70.0
+2018-10-17,Camp. : R.M. Campeche,Vaca,193.0,9.0,60.0,66.0
+2018-10-18,Camp. : R.M. Campeche,Pradera,272.0,1.0,70.0,75.0
+2018-10-18,Camp. : R.M. Campeche,Toros,194.0,7.0,65.0,70.0
+2018-10-18,Camp. : R.M. Campeche,Vaca,192.0,6.0,60.0,66.0
+2018-10-19,Camp. : R.M. Campeche,Pradera,273.0,2.0,70.0,75.0
+2018-10-19,Camp. : R.M. Campeche,Toros,197.0,11.0,65.0,70.0
+2018-10-19,Camp. : R.M. Campeche,Vaca,193.0,9.0,60.0,66.0
+2018-10-22,Camp. : R.M. Campeche,Pradera,273.0,2.0,70.0,75.0
+2018-10-22,Camp. : R.M. Campeche,Toros,197.0,10.0,65.0,70.0
+2018-10-22,Camp. : R.M. Campeche,Vaca,191.0,8.0,60.0,66.0
+2018-10-23,Camp. : R.M. Campeche,Pradera,270.0,1.0,70.0,75.0
+2018-10-23,Camp. : R.M. Campeche,Toros,194.0,11.0,65.0,70.0
+2018-10-23,Camp. : R.M. Campeche,Vaca,190.0,6.0,60.0,66.0
+2018-10-24,Camp. : R.M. Campeche,Pradera,278.0,1.0,70.0,75.0
+2018-10-24,Camp. : R.M. Campeche,Toros,197.0,10.0,65.0,70.0
+2018-10-24,Camp. : R.M. Campeche,Vaca,192.0,10.0,60.0,66.0
+2018-10-25,Camp. : R.M. Campeche,Pradera,276.0,2.0,70.0,75.0
+2018-10-25,Camp. : R.M. Campeche,Toros,198.0,10.0,65.0,70.0
+2018-10-25,Camp. : R.M. Campeche,Vaca,194.0,7.0,60.0,66.0
+2018-10-26,Camp. : R.M. Campeche,Pradera,275.0,2.0,70.0,75.0
+2018-10-26,Camp. : R.M. Campeche,Toros,195.0,12.0,65.0,70.0
+2018-10-26,Camp. : R.M. Campeche,Vaca,194.0,9.0,60.0,66.0
+2018-10-29,Camp. : R.M. Campeche,Pradera,273.0,2.0,70.0,75.0
+2018-10-29,Camp. : R.M. Campeche,Toros,196.0,9.0,65.0,70.0
+2018-10-29,Camp. : R.M. Campeche,Vaca,193.0,7.0,60.0,66.0
+2018-10-30,Camp. : R.M. Campeche,Pradera,271.0,1.0,70.0,75.0
+2018-10-30,Camp. : R.M. Campeche,Toros,196.0,11.0,65.0,70.0
+2018-10-30,Camp. : R.M. Campeche,Vaca,192.0,8.0,60.0,66.0
+2018-10-31,Camp. : R.M. Campeche,Pradera,273.0,1.0,70.0,75.0
+2018-10-31,Camp. : R.M. Campeche,Toros,196.0,11.0,65.0,70.0
+2018-10-31,Camp. : R.M. Campeche,Vaca,193.0,9.0,60.0,66.0
+2018-10-01,Coah. : R.M. Torreón,Corral,222.0,58.0,75.0,76.0
+2018-10-01,Coah. : R.M. Torreón,Vaca,360.0,100.0,60.0,65.0
+2018-10-02,Coah. : R.M. Torreón,Corral,222.0,19.0,75.0,76.0
+2018-10-02,Coah. : R.M. Torreón,Vaca,360.0,200.0,60.0,65.0
+2018-10-03,Coah. : R.M. Torreón,Corral,222.0,87.0,75.0,76.0
+2018-10-03,Coah. : R.M. Torreón,Vaca,360.0,100.0,60.0,65.0
+2018-10-04,Coah. : R.M. Torreón,Corral,222.0,41.0,75.0,76.0
+2018-10-04,Coah. : R.M. Torreón,Vaca,360.0,94.0,60.0,65.0
+2018-10-08,Coah. : R.M. Torreón,Corral,222.0,59.0,75.0,76.0
+2018-10-08,Coah. : R.M. Torreón,Vaca,360.0,95.0,60.0,65.0
+2018-10-09,Coah. : R.M. Torreón,Corral,222.0,84.0,75.0,76.0
+2018-10-09,Coah. : R.M. Torreón,Vaca,360.0,100.0,60.0,65.0
+2018-10-10,Coah. : R.M. Torreón,Corral,222.0,87.0,75.0,76.0
+2018-10-10,Coah. : R.M. Torreón,Vaca,360.0,100.0,60.0,65.0
+2018-10-11,Coah. : R.M. Torreón,Corral,222.0,60.0,75.0,76.0
+2018-10-11,Coah. : R.M. Torreón,Vaca,360.0,100.0,60.0,65.0
+2018-10-15,Coah. : R.M. Torreón,Corral,222.0,41.0,75.0,76.0
+2018-10-15,Coah. : R.M. Torreón,Vaca,360.0,69.0,60.0,65.0
+2018-10-16,Coah. : R.M. Torreón,Corral,222.0,41.0,75.0,76.0
+2018-10-16,Coah. : R.M. Torreón,Vaca,360.0,73.0,60.0,65.0
+2018-10-17,Coah. : R.M. Torreón,Corral,222.0,29.0,75.0,76.0
+2018-10-17,Coah. : R.M. Torreón,Vaca,360.0,100.0,60.0,65.0
+2018-10-18,Coah. : R.M. Torreón,Corral,222.0,34.0,75.0,76.0
+2018-10-18,Coah. : R.M. Torreón,Vaca,360.0,200.0,60.0,65.0
+2018-10-19,Coah. : R.M. Torreón,Corral,222.0,224.0,68.0,70.0
+2018-10-22,Coah. : R.M. Torreón,Corral,222.0,100.0,75.0,76.0
+2018-10-22,Coah. : R.M. Torreón,Vaca,360.0,106.0,60.0,65.0
+2018-10-23,Coah. : R.M. Torreón,Corral,222.0,45.0,75.0,76.0
+2018-10-23,Coah. : R.M. Torreón,Vaca,360.0,81.0,60.0,65.0
+2018-10-24,Coah. : R.M. Torreón,Corral,222.0,81.0,75.0,76.0
+2018-10-24,Coah. : R.M. Torreón,Vaca,360.0,95.0,60.0,65.0
+2018-10-25,Coah. : R.M. Torreón,Corral,222.0,61.0,75.0,76.0
+2018-10-25,Coah. : R.M. Torreón,Vaca,370.0,81.0,60.0,65.0
+2018-10-29,Coah. : R.M. Torreón,Corral,222.0,75.0,75.0,76.0
+2018-10-29,Coah. : R.M. Torreón,Vaca,360.0,100.0,60.0,65.0
+2018-10-30,Coah. : R.M. Torreón,Corral,222.0,32.0,75.0,76.0
+2018-10-30,Coah. : R.M. Torreón,Vaca,360.0,100.0,60.0,65.0
+2018-10-31,Coah. : R.M. Torreón,Corral,222.0,63.0,75.0,76.0
+2018-10-31,Coah. : R.M. Torreón,Vaca,360.0,85.0,60.0,65.0
+2018-10-01,Coah. : TIF 40 Procarne,Corral,222.0,265.0,68.0,70.0
+2018-10-02,Coah. : TIF 40 Procarne,Corral,222.0,212.0,68.0,70.0
+2018-10-03,Coah. : TIF 40 Procarne,Corral,222.0,201.0,68.0,70.0
+2018-10-04,Coah. : TIF 40 Procarne,Corral,222.0,201.0,68.0,70.0
+2018-10-05,Coah. : TIF 40 Procarne,Corral,222.0,230.0,68.0,70.0
+2018-10-08,Coah. : TIF 40 Procarne,Corral,222.0,270.0,68.0,70.0
+2018-10-09,Coah. : TIF 40 Procarne,Corral,222.0,250.0,68.0,70.0
+2018-10-10,Coah. : TIF 40 Procarne,Corral,222.0,188.0,68.0,70.0
+2018-10-11,Coah. : TIF 40 Procarne,Corral,222.0,215.0,68.0,70.0
+2018-10-12,Coah. : TIF 40 Procarne,Corral,222.0,277.0,68.0,70.0
+2018-10-15,Coah. : TIF 40 Procarne,Corral,222.0,225.0,68.0,70.0
+2018-10-16,Coah. : TIF 40 Procarne,Corral,222.0,275.0,68.0,70.0
+2018-10-17,Coah. : TIF 40 Procarne,Corral,222.0,206.0,68.0,70.0
+2018-10-18,Coah. : TIF 40 Procarne,Corral,222.0,224.0,68.0,70.0
+2018-10-22,Coah. : TIF 40 Procarne,Corral,222.0,201.0,68.0,70.0
+2018-10-23,Coah. : TIF 40 Procarne,Corral,222.0,302.0,68.0,70.0
+2018-10-24,Coah. : TIF 40 Procarne,Corral,222.0,260.0,68.0,70.0
+2018-10-25,Coah. : TIF 40 Procarne,Corral,222.0,203.0,68.0,70.0
+2018-10-26,Coah. : TIF 40 Procarne,Corral,222.0,271.0,68.0,70.0
+2018-10-29,Coah. : TIF 40 Procarne,Corral,222.0,300.0,68.0,70.0
+2018-10-30,Coah. : TIF 40 Procarne,Corral,222.0,204.0,68.0,70.0
+2018-10-31,Coah. : TIF 40 Procarne,Corral,222.0,276.0,68.0,70.0
+2018-10-01,Col. : Procesadora municipal de carne de Colima,Corral,320.0,31.0,66.0,72.0
+2018-10-02,Col. : Procesadora municipal de carne de Colima,Corral,320.0,13.0,66.0,72.0
+2018-10-03,Col. : Procesadora municipal de carne de Colima,Corral,320.0,12.0,66.0,72.0
+2018-10-05,Col. : Procesadora municipal de carne de Colima,Corral,320.0,9.0,66.0,72.0
+2018-10-08,Col. : Procesadora municipal de carne de Colima,Corral,320.0,21.0,66.0,72.0
+2018-10-09,Col. : Procesadora municipal de carne de Colima,Corral,320.0,9.0,66.0,72.0
+2018-10-10,Col. : Procesadora municipal de carne de Colima,Corral,320.0,4.0,66.0,72.0
+2018-10-12,Col. : Procesadora municipal de carne de Colima,Corral,320.0,12.0,66.0,72.0
+2018-10-15,Col. : Procesadora municipal de carne de Colima,Corral,320.0,23.0,66.0,72.0
+2018-10-16,Col. : Procesadora municipal de carne de Colima,Corral,320.0,9.0,66.0,72.0
+2018-10-17,Col. : Procesadora municipal de carne de Colima,Corral,320.0,9.0,66.0,72.0
+2018-10-19,Col. : Procesadora municipal de carne de Colima,Corral,320.0,12.0,66.0,72.0
+2018-10-22,Col. : Procesadora municipal de carne de Colima,Corral,320.0,18.0,64.0,78.0
+2018-10-23,Col. : Procesadora municipal de carne de Colima,Corral,320.0,11.0,66.0,72.0
+2018-10-24,Col. : Procesadora municipal de carne de Colima,Corral,320.0,9.0,66.0,72.0
+2018-10-26,Col. : Procesadora municipal de carne de Colima,Corral,320.0,12.0,66.0,72.0
+2018-10-29,Col. : Procesadora municipal de carne de Colima,Corral,320.0,25.0,66.0,72.0
+2018-10-30,Col. : Procesadora municipal de carne de Colima,Corral,320.0,12.0,66.0,72.0
+2018-10-31,Col. : Procesadora municipal de carne de Colima,Corral,320.0,6.0,66.0,72.0
+2018-10-01,Chis. : TIF 78 Frigorífico del Sureste,Pradera,276.0,1.0,66.0,66.0
+2018-10-01,Chis. : TIF 78 Frigorífico del Sureste,Toros,276.0,2.0,62.0,62.0
+2018-10-01,Chis. : TIF 78 Frigorífico del Sureste,Vaca,276.0,85.0,60.0,60.0
+2018-10-02,Chis. : TIF 78 Frigorífico del Sureste,Pradera,266.0,4.0,66.0,66.0
+2018-10-02,Chis. : TIF 78 Frigorífico del Sureste,Toros,266.0,2.0,62.0,62.0
+2018-10-02,Chis. : TIF 78 Frigorífico del Sureste,Vaca,266.0,37.0,60.0,60.0
+2018-10-03,Chis. : TIF 78 Frigorífico del Sureste,Pradera,276.0,3.0,66.0,66.0
+2018-10-03,Chis. : TIF 78 Frigorífico del Sureste,Toros,276.0,2.0,62.0,62.0
+2018-10-03,Chis. : TIF 78 Frigorífico del Sureste,Vaca,276.0,38.0,60.0,60.0
+2018-10-04,Chis. : TIF 78 Frigorífico del Sureste,Pradera,245.0,2.0,66.0,66.0
+2018-10-04,Chis. : TIF 78 Frigorífico del Sureste,Toros,245.0,4.0,62.0,62.0
+2018-10-04,Chis. : TIF 78 Frigorífico del Sureste,Vaca,245.0,22.0,60.0,60.0
+2018-10-05,Chis. : TIF 78 Frigorífico del Sureste,Pradera,273.0,2.0,66.0,66.0
+2018-10-05,Chis. : TIF 78 Frigorífico del Sureste,Toros,273.0,2.0,62.0,62.0
+2018-10-05,Chis. : TIF 78 Frigorífico del Sureste,Vaca,273.0,48.0,60.0,60.0
+2018-10-08,Chis. : TIF 78 Frigorífico del Sureste,Pradera,249.0,1.0,66.0,66.0
+2018-10-08,Chis. : TIF 78 Frigorífico del Sureste,Toros,249.0,3.0,62.0,62.0
+2018-10-08,Chis. : TIF 78 Frigorífico del Sureste,Vaca,249.0,38.0,60.0,60.0
+2018-10-09,Chis. : TIF 78 Frigorífico del Sureste,Pradera,249.0,2.0,66.0,66.0
+2018-10-09,Chis. : TIF 78 Frigorífico del Sureste,Toros,248.0,3.0,62.0,62.0
+2018-10-09,Chis. : TIF 78 Frigorífico del Sureste,Vaca,248.0,24.0,60.0,60.0
+2018-10-10,Chis. : TIF 78 Frigorífico del Sureste,Pradera,279.0,2.0,66.0,66.0
+2018-10-10,Chis. : TIF 78 Frigorífico del Sureste,Toros,279.0,9.0,62.0,62.0
+2018-10-10,Chis. : TIF 78 Frigorífico del Sureste,Vaca,279.0,51.0,60.0,60.0
+2018-10-11,Chis. : TIF 78 Frigorífico del Sureste,Pradera,253.0,2.0,66.0,66.0
+2018-10-11,Chis. : TIF 78 Frigorífico del Sureste,Toros,253.0,7.0,62.0,62.0
+2018-10-11,Chis. : TIF 78 Frigorífico del Sureste,Vaca,253.0,49.0,60.0,60.0
+2018-10-12,Chis. : TIF 78 Frigorífico del Sureste,Pradera,268.0,1.0,66.0,66.0
+2018-10-12,Chis. : TIF 78 Frigorífico del Sureste,Toros,268.0,5.0,62.0,62.0
+2018-10-12,Chis. : TIF 78 Frigorífico del Sureste,Vaca,268.0,59.0,60.0,60.0
+2018-10-15,Chis. : TIF 78 Frigorífico del Sureste,Pradera,243.0,1.0,66.0,66.0
+2018-10-15,Chis. : TIF 78 Frigorífico del Sureste,Toros,243.0,1.0,62.0,62.0
+2018-10-15,Chis. : TIF 78 Frigorífico del Sureste,Vaca,243.0,18.0,60.0,60.0
+2018-10-16,Chis. : TIF 78 Frigorífico del Sureste,Pradera,271.0,1.0,66.0,66.0
+2018-10-16,Chis. : TIF 78 Frigorífico del Sureste,Toros,271.0,1.0,62.0,62.0
+2018-10-16,Chis. : TIF 78 Frigorífico del Sureste,Vaca,271.0,15.0,60.0,60.0
+2018-10-17,Chis. : TIF 78 Frigorífico del Sureste,Pradera,257.0,6.0,66.0,66.0
+2018-10-17,Chis. : TIF 78 Frigorífico del Sureste,Toros,257.0,6.0,62.0,62.0
+2018-10-17,Chis. : TIF 78 Frigorífico del Sureste,Vaca,257.0,76.0,60.0,60.0
+2018-10-18,Chis. : TIF 78 Frigorífico del Sureste,Pradera,263.0,1.0,66.0,66.0
+2018-10-18,Chis. : TIF 78 Frigorífico del Sureste,Toros,263.0,3.0,62.0,62.0
+2018-10-18,Chis. : TIF 78 Frigorífico del Sureste,Vaca,263.0,30.0,60.0,60.0
+2018-10-19,Chis. : TIF 78 Frigorífico del Sureste,Pradera,238.0,2.0,66.0,66.0
+2018-10-19,Chis. : TIF 78 Frigorífico del Sureste,Toros,238.0,11.0,62.0,62.0
+2018-10-19,Chis. : TIF 78 Frigorífico del Sureste,Vaca,238.0,87.0,60.0,60.0
+2018-10-22,Chis. : TIF 78 Frigorífico del Sureste,Pradera,263.0,1.0,66.0,66.0
+2018-10-22,Chis. : TIF 78 Frigorífico del Sureste,Toros,263.0,4.0,62.0,62.0
+2018-10-22,Chis. : TIF 78 Frigorífico del Sureste,Vaca,263.0,72.0,60.0,60.0
+2018-10-23,Chis. : TIF 78 Frigorífico del Sureste,Pradera,258.0,1.0,66.0,66.0
+2018-10-23,Chis. : TIF 78 Frigorífico del Sureste,Toros,258.0,1.0,62.0,62.0
+2018-10-23,Chis. : TIF 78 Frigorífico del Sureste,Vaca,258.0,15.0,60.0,60.0
+2018-10-24,Chis. : TIF 78 Frigorífico del Sureste,Pradera,254.0,1.0,66.0,66.0
+2018-10-24,Chis. : TIF 78 Frigorífico del Sureste,Toros,254.0,6.0,62.0,62.0
+2018-10-24,Chis. : TIF 78 Frigorífico del Sureste,Vaca,254.0,63.0,60.0,60.0
+2018-10-25,Chis. : TIF 78 Frigorífico del Sureste,Pradera,261.0,2.0,66.0,66.0
+2018-10-25,Chis. : TIF 78 Frigorífico del Sureste,Toros,261.0,7.0,62.0,62.0
+2018-10-25,Chis. : TIF 78 Frigorífico del Sureste,Vaca,261.0,16.0,60.0,60.0
+2018-10-26,Chis. : TIF 78 Frigorífico del Sureste,Pradera,286.0,3.0,66.0,66.0
+2018-10-26,Chis. : TIF 78 Frigorífico del Sureste,Toros,286.0,2.0,62.0,62.0
+2018-10-26,Chis. : TIF 78 Frigorífico del Sureste,Vaca,286.0,53.0,60.0,60.0
+2018-10-29,Chis. : TIF 78 Frigorífico del Sureste,Pradera,253.0,1.0,66.0,66.0
+2018-10-29,Chis. : TIF 78 Frigorífico del Sureste,Toros,253.0,3.0,62.0,62.0
+2018-10-29,Chis. : TIF 78 Frigorífico del Sureste,Vaca,253.0,45.0,60.0,60.0
+2018-10-30,Chis. : TIF 78 Frigorífico del Sureste,Pradera,281.0,1.0,66.0,66.0
+2018-10-30,Chis. : TIF 78 Frigorífico del Sureste,Toros,281.0,1.0,62.0,62.0
+2018-10-30,Chis. : TIF 78 Frigorífico del Sureste,Vaca,281.0,36.0,60.0,60.0
+2018-10-31,Chis. : TIF 78 Frigorífico del Sureste,Pradera,246.0,1.0,66.0,66.0
+2018-10-31,Chis. : TIF 78 Frigorífico del Sureste,Toros,246.0,1.0,62.0,62.0
+2018-10-31,Chis. : TIF 78 Frigorífico del Sureste,Vaca,246.0,17.0,60.0,60.0
+2018-10-01,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,280.0,5.0,76.0,78.0
+2018-10-01,Dgo. : Planta TIF No. 546 (antes TIF No.65),Novillona,270.0,9.0,74.0,76.0
+2018-10-01,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,250.0,30.0,55.0,60.0
+2018-10-02,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,340.0,23.0,76.0,78.0
+2018-10-02,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,230.0,19.0,55.0,60.0
+2018-10-03,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,300.0,29.0,78.0,80.0
+2018-10-03,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,500.0,3.0,68.0,68.0
+2018-10-03,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,240.0,19.0,55.0,60.0
+2018-10-04,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,280.0,6.0,76.0,78.0
+2018-10-04,Dgo. : Planta TIF No. 546 (antes TIF No.65),Novillona,270.0,4.0,74.0,76.0
+2018-10-04,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,260.0,52.0,55.0,60.0
+2018-10-05,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,320.0,10.0,76.0,78.0
+2018-10-05,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,280.0,66.0,55.0,60.0
+2018-10-08,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,280.0,5.0,76.0,78.0
+2018-10-08,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,260.0,32.0,55.0,60.0
+2018-10-09,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,320.0,18.0,77.0,79.0
+2018-10-09,Dgo. : Planta TIF No. 546 (antes TIF No.65),Novillona,230.0,14.0,74.0,76.0
+2018-10-09,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,280.0,13.0,55.0,60.0
+2018-10-11,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,290.0,13.0,76.0,78.0
+2018-10-11,Dgo. : Planta TIF No. 546 (antes TIF No.65),Novillona,280.0,5.0,74.0,76.0
+2018-10-11,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,250.0,35.0,55.0,60.0
+2018-10-12,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,320.0,15.0,76.0,78.0
+2018-10-12,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,490.0,5.0,68.0,68.0
+2018-10-12,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,285.0,62.0,55.0,60.0
+2018-10-15,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,280.0,4.0,76.0,78.0
+2018-10-15,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,240.0,22.0,55.0,60.0
+2018-10-16,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,275.0,10.0,76.0,78.0
+2018-10-16,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,450.0,1.0,33.0,33.0
+2018-10-16,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,220.0,20.0,55.0,60.0
+2018-10-17,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,320.0,38.0,78.0,80.0
+2018-10-17,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,460.0,6.0,68.0,68.0
+2018-10-17,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,240.0,33.0,53.0,60.0
+2018-10-18,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,270.0,10.0,76.0,78.0
+2018-10-18,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,260.0,41.0,55.0,60.0
+2018-10-19,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,450.0,17.0,68.0,68.0
+2018-10-19,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,88.0,88.0,55.0,60.0
+2018-10-22,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,300.0,15.0,76.0,78.0
+2018-10-22,Dgo. : Planta TIF No. 546 (antes TIF No.65),Novillona,240.0,20.0,55.0,60.0
+2018-10-23,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,280.0,26.0,76.0,78.0
+2018-10-23,Dgo. : Planta TIF No. 546 (antes TIF No.65),Novillona,265.0,12.0,74.0,76.0
+2018-10-23,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,220.0,36.0,55.0,60.0
+2018-10-24,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,320.0,30.0,78.0,80.0
+2018-10-24,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,570.0,9.0,68.0,68.0
+2018-10-24,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,260.0,46.0,55.0,60.0
+2018-10-25,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,280.0,18.0,76.0,78.0
+2018-10-25,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,260.0,36.0,55.0,60.0
+2018-10-26,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,280.0,12.0,76.0,78.0
+2018-10-26,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,260.0,58.0,55.0,60.0
+2018-10-30,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,285.0,13.0,76.0,78.0
+2018-10-30,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,380.0,1.0,68.0,68.0
+2018-10-30,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,240.0,37.0,55.0,60.0
+2018-10-31,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,320.0,32.0,78.0,80.0
+2018-10-31,Dgo. : Planta TIF No. 546 (antes TIF No.65),Novillona,290.0,4.0,74.0,76.0
+2018-10-31,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,470.0,2.0,66.0,68.0
+2018-10-31,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,280.0,17.0,55.0,60.0
+2018-10-01,Edo. Méx. : Cerro Gordo,Pradera,278.0,28.0,73.0,76.0
+2018-10-02,Edo. Méx. : Cerro Gordo,Pradera,278.0,15.0,73.0,76.0
+2018-10-03,Edo. Méx. : Cerro Gordo,Pradera,278.0,16.0,73.0,76.0
+2018-10-04,Edo. Méx. : Cerro Gordo,Pradera,278.0,14.0,73.0,76.0
+2018-10-05,Edo. Méx. : Cerro Gordo,Pradera,278.0,12.0,73.0,76.0
+2018-10-08,Edo. Méx. : Cerro Gordo,Pradera,278.0,30.0,73.0,76.0
+2018-10-09,Edo. Méx. : Cerro Gordo,Pradera,278.0,22.0,73.0,76.0
+2018-10-10,Edo. Méx. : Cerro Gordo,Pradera,278.0,33.0,73.0,76.0
+2018-10-12,Edo. Méx. : Cerro Gordo,Pradera,278.0,26.0,73.0,76.0
+2018-10-15,Edo. Méx. : Cerro Gordo,Pradera,278.0,34.0,73.0,76.0
+2018-10-16,Edo. Méx. : Cerro Gordo,Pradera,278.0,29.0,73.0,76.0
+2018-10-17,Edo. Méx. : Cerro Gordo,Pradera,278.0,36.0,73.0,76.0
+2018-10-19,Edo. Méx. : Cerro Gordo,Pradera,278.0,33.0,73.0,76.0
+2018-10-22,Edo. Méx. : Cerro Gordo,Pradera,278.0,26.0,73.0,76.0
+2018-10-23,Edo. Méx. : Cerro Gordo,Pradera,278.0,33.0,73.0,76.0
+2018-10-24,Edo. Méx. : Cerro Gordo,Pradera,278.0,23.0,73.0,76.0
+2018-10-26,Edo. Méx. : Cerro Gordo,Pradera,278.0,14.0,73.0,76.0
+2018-10-29,Edo. Méx. : Cerro Gordo,Pradera,278.0,26.0,73.0,76.0
+2018-10-30,Edo. Méx. : Cerro Gordo,Pradera,278.0,18.0,73.0,76.0
+2018-10-31,Edo. Méx. : Cerro Gordo,Pradera,278.0,24.0,73.0,76.0
+2018-10-01,Edo. Méx. : La Paz,Corral,320.0,228.0,,76.0
+2018-10-02,Edo. Méx. : La Paz,Corral,320.0,219.0,,76.0
+2018-10-03,Edo. Méx. : La Paz,Corral,320.0,219.0,,76.0
+2018-10-04,Edo. Méx. : La Paz,Corral,320.0,224.0,,76.0
+2018-10-05,Edo. Méx. : La Paz,Corral,320.0,215.0,,76.0
+2018-10-08,Edo. Méx. : La Paz,Corral,320.0,209.0,,76.0
+2018-10-09,Edo. Méx. : La Paz,Corral,320.0,223.0,,76.0
+2018-10-10,Edo. Méx. : La Paz,Corral,320.0,225.0,,76.0
+2018-10-11,Edo. Méx. : La Paz,Corral,320.0,219.0,,76.0
+2018-10-12,Edo. Méx. : La Paz,Corral,320.0,225.0,,76.0
+2018-10-15,Edo. Méx. : La Paz,Corral,320.0,210.0,,76.0
+2018-10-16,Edo. Méx. : La Paz,Corral,320.0,223.0,,76.0
+2018-10-17,Edo. Méx. : La Paz,Corral,320.0,214.0,,76.0
+2018-10-18,Edo. Méx. : La Paz,Corral,320.0,216.0,,76.0
+2018-10-19,Edo. Méx. : La Paz,Corral,320.0,216.0,,76.0
+2018-10-22,Edo. Méx. : La Paz,Corral,320.0,210.0,,76.0
+2018-10-23,Edo. Méx. : La Paz,Corral,320.0,222.0,,76.0
+2018-10-24,Edo. Méx. : La Paz,Corral,320.0,222.0,,76.0
+2018-10-25,Edo. Méx. : La Paz,Corral,320.0,210.0,,76.0
+2018-10-26,Edo. Méx. : La Paz,Corral,320.0,226.0,,76.0
+2018-10-29,Edo. Méx. : La Paz,Corral,320.0,215.0,,76.0
+2018-10-30,Edo. Méx. : La Paz,Corral,320.0,223.0,,76.0
+2018-10-31,Edo. Méx. : La Paz,Corral,320.0,216.0,,76.0
+2018-10-01,Edo. Méx. : Temamatla,Corral,320.0,196.0,,75.0
+2018-10-02,Edo. Méx. : Temamatla,Corral,320.0,190.0,,75.0
+2018-10-03,Edo. Méx. : Temamatla,Corral,320.0,195.0,,75.0
+2018-10-04,Edo. Méx. : Temamatla,Corral,320.0,190.0,,75.0
+2018-10-05,Edo. Méx. : Temamatla,Corral,320.0,212.0,,75.0
+2018-10-08,Edo. Méx. : Temamatla,Corral,320.0,173.0,,75.0
+2018-10-09,Edo. Méx. : Temamatla,Corral,320.0,200.0,,75.0
+2018-10-10,Edo. Méx. : Temamatla,Corral,320.0,193.0,,75.0
+2018-10-11,Edo. Méx. : Temamatla,Corral,320.0,198.0,,75.0
+2018-10-12,Edo. Méx. : Temamatla,Corral,320.0,188.0,,75.0
+2018-10-15,Edo. Méx. : Temamatla,Corral,320.0,188.0,,75.0
+2018-10-16,Edo. Méx. : Temamatla,Corral,320.0,190.0,,75.0
+2018-10-17,Edo. Méx. : Temamatla,Corral,320.0,201.0,,75.0
+2018-10-18,Edo. Méx. : Temamatla,Corral,320.0,190.0,,75.0
+2018-10-19,Edo. Méx. : Temamatla,Corral,320.0,193.0,,75.0
+2018-10-22,Edo. Méx. : Temamatla,Corral,320.0,190.0,,75.0
+2018-10-23,Edo. Méx. : Temamatla,Corral,320.0,193.0,,75.0
+2018-10-24,Edo. Méx. : Temamatla,Corral,320.0,190.0,,75.0
+2018-10-25,Edo. Méx. : Temamatla,Corral,320.0,190.0,,75.0
+2018-10-26,Edo. Méx. : Temamatla,Corral,320.0,190.0,,75.0
+2018-10-29,Edo. Méx. : Temamatla,Corral,320.0,193.0,,75.0
+2018-10-30,Edo. Méx. : Temamatla,Corral,320.0,195.0,,75.0
+2018-10-31,Edo. Méx. : Temamatla,Corral,320.0,197.0,,75.0
+2018-10-01,Edo. Méx. : Tlalnepantla,Corral,290.0,58.0,70.0,71.0
+2018-10-02,Edo. Méx. : Tlalnepantla,Corral,290.0,36.0,70.0,71.0
+2018-10-03,Edo. Méx. : Tlalnepantla,Corral,290.0,38.0,70.0,71.0
+2018-10-04,Edo. Méx. : Tlalnepantla,Corral,290.0,49.0,70.0,71.0
+2018-10-05,Edo. Méx. : Tlalnepantla,Corral,290.0,65.0,70.0,71.0
+2018-10-08,Edo. Méx. : Tlalnepantla,Corral,290.0,54.0,70.0,71.0
+2018-10-09,Edo. Méx. : Tlalnepantla,Corral,290.0,55.0,72.0,75.0
+2018-10-10,Edo. Méx. : Tlalnepantla,Corral,290.0,44.0,72.0,75.0
+2018-10-11,Edo. Méx. : Tlalnepantla,Corral,290.0,43.0,72.0,75.0
+2018-10-12,Edo. Méx. : Tlalnepantla,Corral,290.0,54.0,72.0,75.0
+2018-10-15,Edo. Méx. : Tlalnepantla,Corral,290.0,34.0,72.0,75.0
+2018-10-16,Edo. Méx. : Tlalnepantla,Corral,290.0,56.0,72.0,74.0
+2018-10-17,Edo. Méx. : Tlalnepantla,Corral,290.0,49.0,72.0,74.0
+2018-10-18,Edo. Méx. : Tlalnepantla,Corral,290.0,46.0,72.0,74.0
+2018-10-19,Edo. Méx. : Tlalnepantla,Corral,290.0,44.0,72.0,74.0
+2018-10-22,Edo. Méx. : Tlalnepantla,Corral,290.0,39.0,72.0,74.0
+2018-10-23,Edo. Méx. : Tlalnepantla,Corral,290.0,48.0,70.0,71.0
+2018-10-24,Edo. Méx. : Tlalnepantla,Corral,290.0,33.0,70.0,71.0
+2018-10-25,Edo. Méx. : Tlalnepantla,Corral,290.0,56.0,70.0,71.0
+2018-10-26,Edo. Méx. : Tlalnepantla,Corral,290.0,40.0,70.0,71.0
+2018-10-29,Edo. Méx. : Tlalnepantla,Corral,94.0,46.0,70.0,71.0
+2018-10-30,Edo. Méx. : Tlalnepantla,Corral,290.0,39.0,72.5,73.5
+2018-10-31,Edo. Méx. : Tlalnepantla,Corral,290.0,45.0,72.5,73.5
+2018-10-01,"Gto. : R.P. León, Serv. Integral",Novillona,250.0,55.0,66.0,67.0
+2018-10-01,"Gto. : R.P. León, Serv. Integral",Toros,320.0,123.0,60.0,62.0
+2018-10-01,"Gto. : R.P. León, Serv. Integral",Vaca,200.0,8.0,50.0,55.0
+2018-10-02,"Gto. : R.P. León, Serv. Integral",Novillona,250.0,10.0,66.0,67.0
+2018-10-02,"Gto. : R.P. León, Serv. Integral",Toros,320.0,223.0,60.0,62.0
+2018-10-02,"Gto. : R.P. León, Serv. Integral",Vaca,200.0,43.0,50.0,55.0
+2018-10-03,"Gto. : R.P. León, Serv. Integral",Novillona,250.0,46.0,66.0,67.0
+2018-10-03,"Gto. : R.P. León, Serv. Integral",Toros,320.0,154.0,60.0,62.0
+2018-10-03,"Gto. : R.P. León, Serv. Integral",Vaca,200.0,45.0,50.0,55.0
+2018-10-04,"Gto. : R.P. León, Serv. Integral",Novillona,250.0,24.0,66.0,67.0
+2018-10-04,"Gto. : R.P. León, Serv. Integral",Toros,320.0,147.0,60.0,62.0
+2018-10-04,"Gto. : R.P. León, Serv. Integral",Vaca,200.0,6.0,50.0,55.0
+2018-10-05,"Gto. : R.P. León, Serv. Integral",Novillona,250.0,60.0,66.0,67.0
+2018-10-05,"Gto. : R.P. León, Serv. Integral",Toros,320.0,192.0,60.0,62.0
+2018-10-05,"Gto. : R.P. León, Serv. Integral",Vaca,200.0,11.0,50.0,55.0
+2018-10-08,"Gto. : R.P. León, Serv. Integral",Novillona,250.0,25.0,66.0,67.0
+2018-10-08,"Gto. : R.P. León, Serv. Integral",Toros,320.0,181.0,60.0,62.0
+2018-10-08,"Gto. : R.P. León, Serv. Integral",Vaca,200.0,5.0,50.0,55.0
+2018-10-09,"Gto. : R.P. León, Serv. Integral",Novillona,250.0,14.0,66.0,67.0
+2018-10-09,"Gto. : R.P. León, Serv. Integral",Toros,320.0,190.0,60.0,62.0
+2018-10-09,"Gto. : R.P. León, Serv. Integral",Vaca,200.0,61.0,50.0,55.0
+2018-10-10,"Gto. : R.P. León, Serv. Integral",Novillona,250.0,64.0,66.0,67.0
+2018-10-10,"Gto. : R.P. León, Serv. Integral",Toros,320.0,167.0,60.0,62.0
+2018-10-10,"Gto. : R.P. León, Serv. Integral",Vaca,200.0,29.0,50.0,55.0
+2018-10-11,"Gto. : R.P. León, Serv. Integral",Novillona,250.0,36.0,66.0,67.0
+2018-10-11,"Gto. : R.P. León, Serv. Integral",Toros,320.0,156.0,60.0,62.0
+2018-10-11,"Gto. : R.P. León, Serv. Integral",Vaca,200.0,12.0,50.0,55.0
+2018-10-12,"Gto. : R.P. León, Serv. Integral",Novillona,250.0,33.0,66.0,67.0
+2018-10-12,"Gto. : R.P. León, Serv. Integral",Toros,320.0,114.0,60.0,62.0
+2018-10-12,"Gto. : R.P. León, Serv. Integral",Vaca,200.0,4.0,50.0,55.0
+2018-10-15,"Gto. : R.P. León, Serv. Integral",Novillona,250.0,24.0,66.0,67.0
+2018-10-15,"Gto. : R.P. León, Serv. Integral",Toros,320.0,133.0,60.0,62.0
+2018-10-15,"Gto. : R.P. León, Serv. Integral",Vaca,200.0,8.0,50.0,55.0
+2018-10-16,"Gto. : R.P. León, Serv. Integral",Novillona,250.0,24.0,66.0,67.0
+2018-10-16,"Gto. : R.P. León, Serv. Integral",Toros,320.0,167.0,60.0,62.0
+2018-10-17,"Gto. : R.P. León, Serv. Integral",Novillona,250.0,16.0,66.0,67.0
+2018-10-17,"Gto. : R.P. León, Serv. Integral",Toros,320.0,97.0,60.0,62.0
+2018-10-17,"Gto. : R.P. León, Serv. Integral",Vaca,200.0,32.0,50.0,55.0
+2018-10-18,"Gto. : R.P. León, Serv. Integral",Novillona,250.0,24.0,66.0,67.0
+2018-10-18,"Gto. : R.P. León, Serv. Integral",Toros,320.0,153.0,60.0,62.0
+2018-10-18,"Gto. : R.P. León, Serv. Integral",Vaca,200.0,1.0,50.0,55.0
+2018-10-19,"Gto. : R.P. León, Serv. Integral",Novillona,250.0,33.0,66.0,67.0
+2018-10-19,"Gto. : R.P. León, Serv. Integral",Toros,320.0,119.0,60.0,62.0
+2018-10-19,"Gto. : R.P. León, Serv. Integral",Vaca,200.0,6.0,50.0,55.0
+2018-10-22,"Gto. : R.P. León, Serv. Integral",Novillona,250.0,24.0,66.0,67.0
+2018-10-22,"Gto. : R.P. León, Serv. Integral",Toros,320.0,186.0,60.0,62.0
+2018-10-22,"Gto. : R.P. León, Serv. Integral",Vaca,200.0,22.0,50.0,55.0
+2018-10-23,"Gto. : R.P. León, Serv. Integral",Novillona,250.0,11.0,66.0,67.0
+2018-10-23,"Gto. : R.P. León, Serv. Integral",Toros,320.0,123.0,60.0,62.0
+2018-10-23,"Gto. : R.P. León, Serv. Integral",Vaca,200.0,6.0,50.0,55.0
+2018-10-24,"Gto. : R.P. León, Serv. Integral",Novillona,250.0,24.0,66.0,67.0
+2018-10-24,"Gto. : R.P. León, Serv. Integral",Toros,320.0,120.0,60.0,62.0
+2018-10-24,"Gto. : R.P. León, Serv. Integral",Vaca,200.0,49.0,50.0,55.0
+2018-10-25,"Gto. : R.P. León, Serv. Integral",Novillona,250.0,1.0,66.0,67.0
+2018-10-25,"Gto. : R.P. León, Serv. Integral",Toros,320.0,125.0,60.0,62.0
+2018-10-25,"Gto. : R.P. León, Serv. Integral",Vaca,200.0,26.0,50.0,55.0
+2018-10-26,"Gto. : R.P. León, Serv. Integral",Novillona,250.0,24.0,66.0,67.0
+2018-10-26,"Gto. : R.P. León, Serv. Integral",Toros,320.0,158.0,60.0,62.0
+2018-10-26,"Gto. : R.P. León, Serv. Integral",Vaca,200.0,5.0,50.0,55.0
+2018-10-29,"Gto. : R.P. León, Serv. Integral",Novillona,250.0,33.0,66.0,67.0
+2018-10-29,"Gto. : R.P. León, Serv. Integral",Toros,320.0,181.0,60.0,62.0
+2018-10-30,"Gto. : R.P. León, Serv. Integral",Novillona,250.0,40.0,66.0,67.0
+2018-10-30,"Gto. : R.P. León, Serv. Integral",Toros,320.0,206.0,60.0,62.0
+2018-10-30,"Gto. : R.P. León, Serv. Integral",Vaca,200.0,2.0,50.0,55.0
+2018-10-31,"Gto. : R.P. León, Serv. Integral",Novillona,250.0,3.0,66.0,67.0
+2018-10-31,"Gto. : R.P. León, Serv. Integral",Toros,320.0,123.0,60.0,62.0
+2018-10-31,"Gto. : R.P. León, Serv. Integral",Vaca,200.0,9.0,50.0,55.0
+2018-10-01,Jal. : R.M. Guadalajara,Corral,300.0,524.0,,70.0
+2018-10-01,Jal. : R.M. Guadalajara,Vaca,200.0,175.0,,58.0
+2018-10-02,Jal. : R.M. Guadalajara,Corral,300.0,371.0,,70.0
+2018-10-02,Jal. : R.M. Guadalajara,Vaca,200.0,124.0,,58.0
+2018-10-03,Jal. : R.M. Guadalajara,Corral,300.0,431.0,,70.0
+2018-10-03,Jal. : R.M. Guadalajara,Vaca,200.0,144.0,,58.0
+2018-10-04,Jal. : R.M. Guadalajara,Corral,300.0,371.0,,70.0
+2018-10-04,Jal. : R.M. Guadalajara,Vaca,200.0,124.0,,58.0
+2018-10-05,Jal. : R.M. Guadalajara,Corral,300.0,445.0,,70.0
+2018-10-05,Jal. : R.M. Guadalajara,Vaca,200.0,148.0,,58.0
+2018-10-08,Jal. : R.M. Guadalajara,Corral,300.0,428.0,,70.0
+2018-10-08,Jal. : R.M. Guadalajara,Vaca,200.0,142.0,,58.0
+2018-10-09,Jal. : R.M. Guadalajara,Corral,300.0,390.0,,70.0
+2018-10-09,Jal. : R.M. Guadalajara,Vaca,200.0,130.0,,58.0
+2018-10-10,Jal. : R.M. Guadalajara,Corral,300.0,345.0,,70.0
+2018-10-10,Jal. : R.M. Guadalajara,Vaca,200.0,115.0,,57.5
+2018-10-11,Jal. : R.M. Guadalajara,Corral,300.0,514.0,,70.0
+2018-10-11,Jal. : R.M. Guadalajara,Vaca,200.0,171.0,,57.0
+2018-10-12,Jal. : R.M. Guadalajara,Corral,300.0,514.0,,70.0
+2018-10-12,Jal. : R.M. Guadalajara,Vaca,200.0,171.0,,57.0
+2018-10-15,Jal. : R.M. Guadalajara,Corral,300.0,503.0,,70.0
+2018-10-15,Jal. : R.M. Guadalajara,Vaca,200.0,167.0,,57.5
+2018-10-16,Jal. : R.M. Guadalajara,Corral,300.0,446.0,,70.0
+2018-10-16,Jal. : R.M. Guadalajara,Vaca,200.0,149.0,,57.5
+2018-10-17,Jal. : R.M. Guadalajara,Corral,300.0,371.0,,70.0
+2018-10-17,Jal. : R.M. Guadalajara,Vaca,200.0,124.0,,57.5
+2018-10-18,Jal. : R.M. Guadalajara,Corral,300.0,413.0,,70.0
+2018-10-18,Jal. : R.M. Guadalajara,Vaca,200.0,137.0,,57.5
+2018-10-19,Jal. : R.M. Guadalajara,Corral,300.0,379.0,,70.0
+2018-10-19,Jal. : R.M. Guadalajara,Vaca,200.0,126.0,,57.5
+2018-10-22,Jal. : R.M. Guadalajara,Corral,300.0,424.0,,70.0
+2018-10-22,Jal. : R.M. Guadalajara,Vaca,200.0,141.0,,57.5
+2018-10-23,Jal. : R.M. Guadalajara,Corral,300.0,384.0,,70.0
+2018-10-23,Jal. : R.M. Guadalajara,Vaca,200.0,128.0,,57.0
+2018-10-24,Jal. : R.M. Guadalajara,Corral,300.0,506.0,,70.0
+2018-10-24,Jal. : R.M. Guadalajara,Vaca,200.0,169.0,,57.0
+2018-10-25,Jal. : R.M. Guadalajara,Corral,300.0,360.0,,70.0
+2018-10-25,Jal. : R.M. Guadalajara,Vaca,200.0,120.0,,57.0
+2018-10-26,Jal. : R.M. Guadalajara,Corral,300.0,488.0,,70.0
+2018-10-26,Jal. : R.M. Guadalajara,Vaca,200.0,162.0,,57.0
+2018-10-29,Jal. : R.M. Guadalajara,Corral,300.0,443.0,,70.0
+2018-10-29,Jal. : R.M. Guadalajara,Vaca,200.0,148.0,,56.5
+2018-10-30,Jal. : R.M. Guadalajara,Corral,300.0,405.0,,70.0
+2018-10-30,Jal. : R.M. Guadalajara,Vaca,200.0,135.0,,56.5
+2018-10-31,Jal. : R.M. Guadalajara,Corral,300.0,518.0,,70.0
+2018-10-31,Jal. : R.M. Guadalajara,Vaca,200.0,172.0,,56.0
+2018-10-01,Jal. : R.M. Tlaquepaque,Corral,300.0,50.0,,69.9
+2018-10-01,Jal. : R.M. Tlaquepaque,Vaca,200.0,92.0,,57.0
+2018-10-02,Jal. : R.M. Tlaquepaque,Corral,300.0,7.0,,70.0
+2018-10-02,Jal. : R.M. Tlaquepaque,Vaca,200.0,10.0,,56.5
+2018-10-03,Jal. : R.M. Tlaquepaque,Corral,300.0,10.0,,69.9
+2018-10-03,Jal. : R.M. Tlaquepaque,Vaca,200.0,20.0,,57.0
+2018-10-05,Jal. : R.M. Tlaquepaque,Corral,300.0,19.0,,69.8
+2018-10-05,Jal. : R.M. Tlaquepaque,Vaca,200.0,22.0,,57.0
+2018-10-08,Jal. : R.M. Tlaquepaque,Corral,300.0,30.0,,69.9
+2018-10-08,Jal. : R.M. Tlaquepaque,Vaca,200.0,60.0,,57.0
+2018-10-09,Jal. : R.M. Tlaquepaque,Corral,300.0,5.0,,69.9
+2018-10-09,Jal. : R.M. Tlaquepaque,Vaca,200.0,7.0,,57.0
+2018-10-10,Jal. : R.M. Tlaquepaque,Corral,300.0,11.0,,69.9
+2018-10-10,Jal. : R.M. Tlaquepaque,Vaca,200.0,20.0,,56.5
+2018-10-12,Jal. : R.M. Tlaquepaque,Corral,300.0,11.0,,69.9
+2018-10-12,Jal. : R.M. Tlaquepaque,Vaca,200.0,20.0,,56.5
+2018-10-15,Jal. : R.M. Tlaquepaque,Corral,300.0,30.0,,69.9
+2018-10-15,Jal. : R.M. Tlaquepaque,Vaca,200.0,63.0,,56.0
+2018-10-16,Jal. : R.M. Tlaquepaque,Corral,300.0,5.0,,69.9
+2018-10-16,Jal. : R.M. Tlaquepaque,Vaca,200.0,2.0,,56.0
+2018-10-17,Jal. : R.M. Tlaquepaque,Corral,300.0,8.0,,69.9
+2018-10-17,Jal. : R.M. Tlaquepaque,Vaca,200.0,14.0,,56.0
+2018-10-19,Jal. : R.M. Tlaquepaque,Corral,300.0,20.0,,69.9
+2018-10-19,Jal. : R.M. Tlaquepaque,Vaca,200.0,35.0,,56.0
+2018-10-22,Jal. : R.M. Tlaquepaque,Corral,300.0,40.0,,69.9
+2018-10-22,Jal. : R.M. Tlaquepaque,Vaca,200.0,70.0,,56.0
+2018-10-23,Jal. : R.M. Tlaquepaque,Corral,300.0,4.0,,69.9
+2018-10-23,Jal. : R.M. Tlaquepaque,Vaca,200.0,8.0,,56.0
+2018-10-24,Jal. : R.M. Tlaquepaque,Corral,300.0,10.0,,69.9
+2018-10-24,Jal. : R.M. Tlaquepaque,Vaca,200.0,15.0,,56.0
+2018-10-26,Jal. : R.M. Tlaquepaque,Corral,300.0,10.0,,69.9
+2018-10-26,Jal. : R.M. Tlaquepaque,Vaca,200.0,12.0,,56.0
+2018-10-29,Jal. : R.M. Tlaquepaque,Corral,300.0,46.0,,69.9
+2018-10-29,Jal. : R.M. Tlaquepaque,Vaca,200.0,186.0,,55.5
+2018-10-30,Jal. : R.M. Tlaquepaque,Corral,300.0,6.0,,69.9
+2018-10-30,Jal. : R.M. Tlaquepaque,Vaca,200.0,10.0,,55.0
+2018-10-31,Jal. : R.M. Tlaquepaque,Corral,300.0,10.0,,69.9
+2018-10-31,Jal. : R.M. Tlaquepaque,Vaca,200.0,18.0,,55.5
+2018-10-01,Jal. : R.M. Tonalá,Corral,300.0,30.0,,70.0
+2018-10-01,Jal. : R.M. Tonalá,Vaca,200.0,26.0,,58.0
+2018-10-02,Jal. : R.M. Tonalá,Corral,300.0,29.0,,70.0
+2018-10-02,Jal. : R.M. Tonalá,Vaca,200.0,22.0,,58.0
+2018-10-03,Jal. : R.M. Tonalá,Corral,300.0,11.0,,70.0
+2018-10-03,Jal. : R.M. Tonalá,Vaca,200.0,15.0,,58.0
+2018-10-04,Jal. : R.M. Tonalá,Corral,300.0,16.0,,70.0
+2018-10-04,Jal. : R.M. Tonalá,Vaca,200.0,19.0,,58.0
+2018-10-08,Jal. : R.M. Tonalá,Corral,300.0,42.0,,70.0
+2018-10-08,Jal. : R.M. Tonalá,Vaca,200.0,62.0,,58.0
+2018-10-09,Jal. : R.M. Tonalá,Corral,300.0,13.0,,70.0
+2018-10-09,Jal. : R.M. Tonalá,Vaca,200.0,15.0,,58.0
+2018-10-10,Jal. : R.M. Tonalá,Corral,300.0,10.0,,70.0
+2018-10-10,Jal. : R.M. Tonalá,Vaca,200.0,17.0,,57.5
+2018-10-11,Jal. : R.M. Tonalá,Corral,300.0,16.0,,70.0
+2018-10-11,Jal. : R.M. Tonalá,Vaca,200.0,24.0,,57.0
+2018-10-15,Jal. : R.M. Tonalá,Corral,300.0,25.0,,70.0
+2018-10-15,Jal. : R.M. Tonalá,Vaca,200.0,42.0,,57.5
+2018-10-16,Jal. : R.M. Tonalá,Corral,300.0,16.0,,70.0
+2018-10-16,Jal. : R.M. Tonalá,Vaca,200.0,30.0,,57.5
+2018-10-17,Jal. : R.M. Tonalá,Corral,300.0,10.0,,70.0
+2018-10-17,Jal. : R.M. Tonalá,Vaca,200.0,14.0,,57.5
+2018-10-18,Jal. : R.M. Tonalá,Corral,300.0,14.0,,70.0
+2018-10-18,Jal. : R.M. Tonalá,Vaca,200.0,20.0,,57.5
+2018-10-22,Jal. : R.M. Tonalá,Corral,300.0,28.0,,70.0
+2018-10-22,Jal. : R.M. Tonalá,Vaca,200.0,56.0,,57.5
+2018-10-23,Jal. : R.M. Tonalá,Corral,300.0,16.0,,70.0
+2018-10-23,Jal. : R.M. Tonalá,Vaca,200.0,24.0,,57.0
+2018-10-24,Jal. : R.M. Tonalá,Corral,300.0,11.0,,70.0
+2018-10-24,Jal. : R.M. Tonalá,Vaca,200.0,12.0,,57.0
+2018-10-25,Jal. : R.M. Tonalá,Corral,300.0,16.0,,70.0
+2018-10-25,Jal. : R.M. Tonalá,Vaca,200.0,18.0,,57.0
+2018-10-29,Jal. : R.M. Tonalá,Corral,300.0,34.0,,70.0
+2018-10-29,Jal. : R.M. Tonalá,Vaca,200.0,43.0,,56.5
+2018-10-30,Jal. : R.M. Tonalá,Corral,300.0,13.0,,70.0
+2018-10-30,Jal. : R.M. Tonalá,Vaca,200.0,24.0,,56.5
+2018-10-31,Jal. : R.M. Tonalá,Corral,300.0,8.0,,70.0
+2018-10-31,Jal. : R.M. Tonalá,Vaca,200.0,15.0,,56.0
+2018-10-01,Jal. : Rastro de Zapopan,Corral,300.0,261.0,,70.0
+2018-10-01,Jal. : Rastro de Zapopan,Vaca,200.0,29.0,,58.0
+2018-10-02,Jal. : Rastro de Zapopan,Corral,300.0,226.0,,70.0
+2018-10-02,Jal. : Rastro de Zapopan,Vaca,200.0,25.0,,58.0
+2018-10-03,Jal. : Rastro de Zapopan,Corral,300.0,81.0,,70.0
+2018-10-03,Jal. : Rastro de Zapopan,Vaca,200.0,9.0,,58.0
+2018-10-04,Jal. : Rastro de Zapopan,Corral,300.0,257.0,,70.0
+2018-10-04,Jal. : Rastro de Zapopan,Vaca,200.0,28.0,,58.0
+2018-10-05,Jal. : Rastro de Zapopan,Corral,300.0,245.0,,70.0
+2018-10-05,Jal. : Rastro de Zapopan,Vaca,200.0,27.0,,58.0
+2018-10-08,Jal. : Rastro de Zapopan,Corral,300.0,194.0,,70.0
+2018-10-08,Jal. : Rastro de Zapopan,Vaca,200.0,21.0,,58.0
+2018-10-09,Jal. : Rastro de Zapopan,Corral,300.0,185.0,,70.0
+2018-10-09,Jal. : Rastro de Zapopan,Vaca,200.0,20.0,,58.0
+2018-10-10,Jal. : Rastro de Zapopan,Corral,300.0,127.0,,70.0
+2018-10-10,Jal. : Rastro de Zapopan,Vaca,200.0,14.0,,57.5
+2018-10-11,Jal. : Rastro de Zapopan,Corral,300.0,248.0,,70.0
+2018-10-11,Jal. : Rastro de Zapopan,Vaca,200.0,27.0,,57.0
+2018-10-12,Jal. : Rastro de Zapopan,Corral,300.0,248.0,,70.0
+2018-10-12,Jal. : Rastro de Zapopan,Vaca,200.0,27.0,,57.0
+2018-10-15,Jal. : Rastro de Zapopan,Corral,300.0,135.0,,70.0
+2018-10-15,Jal. : Rastro de Zapopan,Vaca,200.0,15.0,,57.5
+2018-10-16,Jal. : Rastro de Zapopan,Corral,300.0,385.0,,70.0
+2018-10-16,Jal. : Rastro de Zapopan,Vaca,200.0,42.0,,57.5
+2018-10-17,Jal. : Rastro de Zapopan,Corral,300.0,144.0,,70.0
+2018-10-17,Jal. : Rastro de Zapopan,Vaca,200.0,16.0,,57.5
+2018-10-18,Jal. : Rastro de Zapopan,Corral,300.0,185.0,,70.0
+2018-10-18,Jal. : Rastro de Zapopan,Vaca,200.0,20.0,,57.5
+2018-10-19,Jal. : Rastro de Zapopan,Corral,300.0,153.0,,70.0
+2018-10-19,Jal. : Rastro de Zapopan,Vaca,200.0,17.0,,57.5
+2018-10-22,Jal. : Rastro de Zapopan,Corral,300.0,137.0,,70.0
+2018-10-22,Jal. : Rastro de Zapopan,Vaca,200.0,15.0,,57.5
+2018-10-23,Jal. : Rastro de Zapopan,Corral,300.0,99.0,,70.0
+2018-10-23,Jal. : Rastro de Zapopan,Vaca,200.0,11.0,,57.0
+2018-10-24,Jal. : Rastro de Zapopan,Corral,300.0,179.0,,70.0
+2018-10-24,Jal. : Rastro de Zapopan,Vaca,200.0,20.0,,57.0
+2018-10-25,Jal. : Rastro de Zapopan,Corral,300.0,204.0,,70.0
+2018-10-25,Jal. : Rastro de Zapopan,Vaca,200.0,23.0,,57.0
+2018-10-26,Jal. : Rastro de Zapopan,Corral,300.0,135.0,,70.0
+2018-10-26,Jal. : Rastro de Zapopan,Vaca,200.0,15.0,,57.0
+2018-10-29,Jal. : Rastro de Zapopan,Corral,300.0,171.0,,70.0
+2018-10-29,Jal. : Rastro de Zapopan,Vaca,200.0,19.0,,56.5
+2018-10-30,Jal. : Rastro de Zapopan,Corral,300.0,126.0,,70.0
+2018-10-30,Jal. : Rastro de Zapopan,Vaca,200.0,14.0,,56.5
+2018-10-31,Jal. : Rastro de Zapopan,Corral,300.0,108.0,,70.0
+2018-10-31,Jal. : Rastro de Zapopan,Vaca,200.0,12.0,,56.0
+2018-10-01,Mich. : R.M. Morelia,Corral,480.0,80.0,71.0,72.0
+2018-10-01,Mich. : R.M. Morelia,Novillona,252.0,30.0,60.0,62.0
+2018-10-01,Mich. : R.M. Morelia,Toros,254.0,50.0,71.0,72.0
+2018-10-01,Mich. : R.M. Morelia,Vaca,250.0,11.0,50.0,52.0
+2018-10-02,Mich. : R.M. Morelia,Corral,254.0,50.0,71.0,72.0
+2018-10-02,Mich. : R.M. Morelia,Novillona,252.0,10.0,60.0,62.0
+2018-10-02,Mich. : R.M. Morelia,Toros,254.0,25.0,71.0,72.0
+2018-10-02,Mich. : R.M. Morelia,Vaca,250.0,5.0,50.0,52.0
+2018-10-03,Mich. : R.M. Morelia,Corral,254.0,75.0,71.0,72.0
+2018-10-03,Mich. : R.M. Morelia,Novillona,252.0,23.0,60.0,62.0
+2018-10-03,Mich. : R.M. Morelia,Toros,254.0,35.0,71.0,72.0
+2018-10-03,Mich. : R.M. Morelia,Vaca,250.0,15.0,50.0,52.0
+2018-10-04,Mich. : R.M. Morelia,Corral,254.0,20.0,74.0,75.0
+2018-10-04,Mich. : R.M. Morelia,Novillona,252.0,10.0,60.0,62.0
+2018-10-04,Mich. : R.M. Morelia,Toros,254.0,10.0,74.0,75.0
+2018-10-04,Mich. : R.M. Morelia,Vaca,250.0,1.0,51.0,53.0
+2018-10-05,Mich. : R.M. Morelia,Corral,254.0,15.0,74.0,75.0
+2018-10-05,Mich. : R.M. Morelia,Novillona,252.0,5.0,60.0,62.0
+2018-10-05,Mich. : R.M. Morelia,Toros,254.0,10.0,74.0,75.0
+2018-10-05,Mich. : R.M. Morelia,Vaca,250.0,1.0,51.0,53.0
+2018-10-08,Mich. : R.M. Morelia,Corral,254.0,25.0,74.0,75.0
+2018-10-08,Mich. : R.M. Morelia,Novillona,252.0,15.0,60.0,62.0
+2018-10-08,Mich. : R.M. Morelia,Toros,254.0,20.0,74.0,75.0
+2018-10-08,Mich. : R.M. Morelia,Vaca,250.0,5.0,51.0,53.0
+2018-10-09,Mich. : R.M. Morelia,Corral,254.0,25.0,74.0,75.0
+2018-10-09,Mich. : R.M. Morelia,Novillona,252.0,10.0,60.0,62.0
+2018-10-09,Mich. : R.M. Morelia,Toros,254.0,15.0,74.0,75.0
+2018-10-09,Mich. : R.M. Morelia,Vaca,250.0,5.0,51.0,53.0
+2018-10-10,Mich. : R.M. Morelia,Corral,254.0,80.0,74.0,75.0
+2018-10-10,Mich. : R.M. Morelia,Novillona,252.0,15.0,60.0,62.0
+2018-10-10,Mich. : R.M. Morelia,Toros,254.0,40.0,74.0,75.0
+2018-10-10,Mich. : R.M. Morelia,Vaca,250.0,8.0,51.0,53.0
+2018-10-11,Mich. : R.M. Morelia,Corral,254.0,15.0,74.0,75.0
+2018-10-11,Mich. : R.M. Morelia,Novillona,252.0,10.0,60.0,62.0
+2018-10-11,Mich. : R.M. Morelia,Toros,254.0,10.0,74.0,75.0
+2018-10-11,Mich. : R.M. Morelia,Vaca,250.0,1.0,51.0,53.0
+2018-10-12,Mich. : R.M. Morelia,Corral,254.0,15.0,74.0,75.0
+2018-10-12,Mich. : R.M. Morelia,Novillona,252.0,10.0,60.0,62.0
+2018-10-12,Mich. : R.M. Morelia,Toros,254.0,10.0,74.0,75.0
+2018-10-12,Mich. : R.M. Morelia,Vaca,250.0,5.0,51.0,53.0
+2018-10-15,Mich. : R.M. Morelia,Corral,254.0,80.0,74.0,75.0
+2018-10-15,Mich. : R.M. Morelia,Novillona,252.0,20.0,60.0,62.0
+2018-10-15,Mich. : R.M. Morelia,Toros,254.0,60.0,74.0,75.0
+2018-10-15,Mich. : R.M. Morelia,Vaca,250.0,13.0,51.0,53.0
+2018-10-16,Mich. : R.M. Morelia,Corral,254.0,15.0,74.0,75.0
+2018-10-16,Mich. : R.M. Morelia,Novillona,252.0,7.0,60.0,62.0
+2018-10-16,Mich. : R.M. Morelia,Toros,254.0,10.0,74.0,75.0
+2018-10-16,Mich. : R.M. Morelia,Vaca,250.0,5.0,51.0,53.0
+2018-10-17,Mich. : R.M. Morelia,Corral,254.0,70.0,74.0,75.0
+2018-10-17,Mich. : R.M. Morelia,Novillona,252.0,20.0,60.0,62.0
+2018-10-17,Mich. : R.M. Morelia,Toros,254.0,30.0,74.0,75.0
+2018-10-17,Mich. : R.M. Morelia,Vaca,250.0,10.0,51.0,53.0
+2018-10-18,Mich. : R.M. Morelia,Corral,254.0,10.0,74.0,75.0
+2018-10-18,Mich. : R.M. Morelia,Novillona,252.0,2.0,60.0,62.0
+2018-10-18,Mich. : R.M. Morelia,Toros,254.0,10.0,74.0,75.0
+2018-10-18,Mich. : R.M. Morelia,Vaca,250.0,2.0,51.0,53.0
+2018-10-19,Mich. : R.M. Morelia,Corral,254.0,15.0,74.0,75.0
+2018-10-19,Mich. : R.M. Morelia,Novillona,252.0,10.0,60.0,62.0
+2018-10-19,Mich. : R.M. Morelia,Toros,254.0,15.0,74.0,75.0
+2018-10-19,Mich. : R.M. Morelia,Vaca,250.0,6.0,51.0,53.0
+2018-10-22,Mich. : R.M. Morelia,Corral,254.0,30.0,74.0,75.0
+2018-10-22,Mich. : R.M. Morelia,Novillona,252.0,10.0,60.0,62.0
+2018-10-22,Mich. : R.M. Morelia,Toros,254.0,25.0,74.0,75.0
+2018-10-22,Mich. : R.M. Morelia,Vaca,250.0,3.0,51.0,53.0
+2018-10-23,Mich. : R.M. Morelia,Corral,254.0,15.0,74.0,75.0
+2018-10-23,Mich. : R.M. Morelia,Novillona,252.0,7.0,60.0,62.0
+2018-10-23,Mich. : R.M. Morelia,Toros,254.0,10.0,74.0,75.0
+2018-10-23,Mich. : R.M. Morelia,Vaca,250.0,5.0,51.0,53.0
+2018-10-24,Mich. : R.M. Morelia,Corral,254.0,75.0,74.0,75.0
+2018-10-24,Mich. : R.M. Morelia,Novillona,252.0,15.0,60.0,62.0
+2018-10-24,Mich. : R.M. Morelia,Toros,254.0,30.0,74.0,75.0
+2018-10-24,Mich. : R.M. Morelia,Vaca,250.0,7.0,51.0,53.0
+2018-10-25,Mich. : R.M. Morelia,Corral,254.0,10.0,74.0,75.0
+2018-10-25,Mich. : R.M. Morelia,Novillona,252.0,2.0,60.0,62.0
+2018-10-25,Mich. : R.M. Morelia,Toros,254.0,10.0,74.0,75.0
+2018-10-25,Mich. : R.M. Morelia,Vaca,250.0,2.0,51.0,53.0
+2018-10-26,Mich. : R.M. Morelia,Corral,254.0,15.0,74.0,75.0
+2018-10-26,Mich. : R.M. Morelia,Novillona,252.0,10.0,60.0,62.0
+2018-10-26,Mich. : R.M. Morelia,Toros,254.0,15.0,74.0,75.0
+2018-10-26,Mich. : R.M. Morelia,Vaca,250.0,3.0,51.0,53.0
+2018-10-29,Mich. : R.M. Morelia,Corral,250.0,12.0,74.0,75.0
+2018-10-29,Mich. : R.M. Morelia,Novillona,251.0,10.0,60.0,62.0
+2018-10-29,Mich. : R.M. Morelia,Toros,252.0,11.0,74.0,75.0
+2018-10-29,Mich. : R.M. Morelia,Vaca,250.0,6.0,51.0,53.0
+2018-10-30,Mich. : R.M. Morelia,Corral,254.0,17.0,74.0,75.0
+2018-10-30,Mich. : R.M. Morelia,Novillona,252.0,8.0,60.0,62.0
+2018-10-30,Mich. : R.M. Morelia,Toros,254.0,10.0,74.0,75.0
+2018-10-30,Mich. : R.M. Morelia,Vaca,250.0,4.0,51.0,53.0
+2018-10-31,Mich. : R.M. Morelia,Corral,254.0,50.0,74.0,75.0
+2018-10-31,Mich. : R.M. Morelia,Novillona,252.0,15.0,60.0,62.0
+2018-10-31,Mich. : R.M. Morelia,Toros,254.0,25.0,74.0,75.0
+2018-10-31,Mich. : R.M. Morelia,Vaca,250.0,7.0,51.0,53.0
+2018-10-01,N.L. : Chamar Alimentos TIF 356,Corral,280.0,202.0,72.0,74.0
+2018-10-02,N.L. : Chamar Alimentos TIF 356,Corral,280.0,148.0,72.0,74.0
+2018-10-03,N.L. : Chamar Alimentos TIF 356,Corral,280.0,162.0,72.0,74.0
+2018-10-04,N.L. : Chamar Alimentos TIF 356,Corral,280.0,116.0,72.0,74.0
+2018-10-05,N.L. : Chamar Alimentos TIF 356,Corral,280.0,84.0,72.0,74.0
+2018-10-08,N.L. : Chamar Alimentos TIF 356,Corral,280.0,201.0,72.0,74.0
+2018-10-09,N.L. : Chamar Alimentos TIF 356,Corral,280.0,223.0,72.0,74.0
+2018-10-10,N.L. : Chamar Alimentos TIF 356,Corral,280.0,173.0,72.0,74.0
+2018-10-11,N.L. : Chamar Alimentos TIF 356,Corral,280.0,139.0,72.0,74.0
+2018-10-12,N.L. : Chamar Alimentos TIF 356,Corral,280.0,144.0,72.0,74.0
+2018-10-15,N.L. : Chamar Alimentos TIF 356,Corral,280.0,233.0,72.0,74.0
+2018-10-16,N.L. : Chamar Alimentos TIF 356,Corral,280.0,185.0,72.0,74.0
+2018-10-17,N.L. : Chamar Alimentos TIF 356,Corral,280.0,233.0,72.0,74.0
+2018-10-18,N.L. : Chamar Alimentos TIF 356,Corral,280.0,199.0,72.0,74.0
+2018-10-19,N.L. : Chamar Alimentos TIF 356,Corral,280.0,181.0,72.0,74.0
+2018-10-22,N.L. : Chamar Alimentos TIF 356,Corral,280.0,217.0,72.0,74.0
+2018-10-23,N.L. : Chamar Alimentos TIF 356,Corral,280.0,214.0,72.0,74.0
+2018-10-24,N.L. : Chamar Alimentos TIF 356,Corral,280.0,165.0,72.0,74.0
+2018-10-26,N.L. : Chamar Alimentos TIF 356,Corral,280.0,153.0,72.0,74.0
+2018-10-29,N.L. : Chamar Alimentos TIF 356,Corral,280.0,271.0,72.0,74.0
+2018-10-30,N.L. : Chamar Alimentos TIF 356,Corral,280.0,244.0,72.0,74.0
+2018-10-31,N.L. : Chamar Alimentos TIF 356,Corral,280.0,139.0,72.0,74.0
+2018-10-01,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,25.0,72.0,72.0
+2018-10-02,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,25.0,72.0,72.0
+2018-10-03,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,23.0,72.0,72.0
+2018-10-04,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,30.0,72.0,72.0
+2018-10-05,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,25.0,72.0,72.0
+2018-10-08,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,20.0,72.0,72.0
+2018-10-09,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,5.0,72.0,72.0
+2018-10-10,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,10.0,72.0,72.0
+2018-10-11,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,10.0,72.0,72.0
+2018-10-12,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,10.0,72.0,72.0
+2018-10-15,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,35.0,72.0,72.0
+2018-10-16,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,10.0,72.0,72.0
+2018-10-17,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,5.0,72.0,72.0
+2018-10-18,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,5.0,72.0,72.0
+2018-10-19,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,10.0,72.0,72.0
+2018-10-22,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,233.0,72.0,72.0
+2018-10-23,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,20.0,72.0,72.0
+2018-10-24,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,35.0,72.0,72.0
+2018-10-26,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,81.0,72.0,72.0
+2018-10-29,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,108.0,72.0,72.0
+2018-10-30,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,10.0,72.0,72.0
+2018-10-31,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,10.0,72.0,72.0
+2018-10-01,N.L. : Sukarne,Corral,280.0,300.0,70.0,72.0
+2018-10-02,N.L. : Sukarne,Corral,280.0,300.0,70.0,72.0
+2018-10-03,N.L. : Sukarne,Corral,280.0,310.0,70.0,72.0
+2018-10-04,N.L. : Sukarne,Corral,280.0,300.0,70.0,72.0
+2018-10-05,N.L. : Sukarne,Corral,280.0,320.0,70.0,72.0
+2018-10-08,N.L. : Sukarne,Corral,280.0,50.0,70.0,72.0
+2018-10-09,N.L. : Sukarne,Corral,280.0,50.0,70.0,72.0
+2018-10-10,N.L. : Sukarne,Corral,280.0,35.0,70.0,72.0
+2018-10-11,N.L. : Sukarne,Corral,280.0,30.0,70.0,72.0
+2018-10-12,N.L. : Sukarne,Corral,280.0,300.0,70.0,72.0
+2018-10-15,N.L. : Sukarne,Corral,280.0,319.0,70.0,72.0
+2018-10-16,N.L. : Sukarne,Corral,280.0,300.0,70.0,72.0
+2018-10-17,N.L. : Sukarne,Corral,280.0,300.0,70.0,72.0
+2018-10-18,N.L. : Sukarne,Corral,280.0,320.0,70.0,72.0
+2018-10-19,N.L. : Sukarne,Corral,280.0,300.0,70.0,72.0
+2018-10-22,N.L. : Sukarne,Corral,280.0,312.0,70.0,72.0
+2018-10-23,N.L. : Sukarne,Corral,280.0,300.0,70.0,72.0
+2018-10-24,N.L. : Sukarne,Corral,280.0,280.0,70.0,72.0
+2018-10-26,N.L. : Sukarne,Corral,280.0,250.0,70.0,72.0
+2018-10-29,N.L. : Sukarne,Corral,280.0,309.0,70.0,72.0
+2018-10-30,N.L. : Sukarne,Corral,280.0,310.0,70.0,72.0
+2018-10-31,N.L. : Sukarne,Corral,280.0,270.0,70.0,72.0
+2018-10-01,N.L. : TIF 15 Emp. Treviño,Corral,280.0,111.0,72.0,75.5
+2018-10-02,N.L. : TIF 15 Emp. Treviño,Corral,280.0,28.0,72.0,75.5
+2018-10-03,N.L. : TIF 15 Emp. Treviño,Corral,280.0,75.0,72.0,75.5
+2018-10-04,N.L. : TIF 15 Emp. Treviño,Corral,280.0,12.0,72.0,75.5
+2018-10-05,N.L. : TIF 15 Emp. Treviño,Corral,280.0,5.0,72.0,75.5
+2018-10-08,N.L. : TIF 15 Emp. Treviño,Corral,280.0,58.0,72.0,75.5
+2018-10-09,N.L. : TIF 15 Emp. Treviño,Corral,280.0,5.0,72.0,75.5
+2018-10-10,N.L. : TIF 15 Emp. Treviño,Corral,280.0,5.0,72.0,75.5
+2018-10-11,N.L. : TIF 15 Emp. Treviño,Corral,280.0,22.0,72.0,75.5
+2018-10-12,N.L. : TIF 15 Emp. Treviño,Corral,280.0,70.0,72.0,75.5
+2018-10-15,N.L. : TIF 15 Emp. Treviño,Corral,280.0,30.0,72.0,75.5
+2018-10-16,N.L. : TIF 15 Emp. Treviño,Corral,280.0,141.0,72.0,75.5
+2018-10-17,N.L. : TIF 15 Emp. Treviño,Corral,280.0,72.0,72.0,75.5
+2018-10-18,N.L. : TIF 15 Emp. Treviño,Corral,280.0,11.0,72.0,75.5
+2018-10-19,N.L. : TIF 15 Emp. Treviño,Corral,280.0,40.0,72.0,75.5
+2018-10-22,N.L. : TIF 15 Emp. Treviño,Corral,280.0,30.0,72.0,75.5
+2018-10-23,N.L. : TIF 15 Emp. Treviño,Corral,280.0,199.0,72.0,75.5
+2018-10-24,N.L. : TIF 15 Emp. Treviño,Corral,280.0,67.0,72.0,75.5
+2018-10-26,N.L. : TIF 15 Emp. Treviño,Corral,280.0,108.0,72.0,75.5
+2018-10-29,N.L. : TIF 15 Emp. Treviño,Corral,280.0,78.0,72.0,75.5
+2018-10-30,N.L. : TIF 15 Emp. Treviño,Corral,280.0,47.0,72.0,75.5
+2018-10-31,N.L. : TIF 15 Emp. Treviño,Corral,280.0,75.0,72.0,75.5
+2018-10-19,Nay. : R.M. Tepic,Vaca,241.0,40.0,46.0,54.0
+2018-10-22,Nay. : R.M. Tepic,Vaca,241.0,40.0,46.0,54.0
+2018-10-26,Nay. : R.M. Tepic,Vaca,241.0,40.0,46.0,54.0
+2018-10-29,Nay. : R.M. Tepic,Vaca,241.0,40.0,48.0,55.0
+2018-10-30,Nay. : R.M. Tepic,Vaca,241.0,40.0,48.0,55.0
+2018-10-31,Nay. : R.M. Tepic,Vaca,241.0,40.0,48.0,55.0
+2018-10-01,Oax. : Rastro Reforma Agraria,Corral,400.0,34.0,62.0,66.0
+2018-10-01,Oax. : Rastro Reforma Agraria,Vaca,300.0,13.0,54.0,56.0
+2018-10-02,Oax. : Rastro Reforma Agraria,Corral,400.0,40.0,62.0,66.0
+2018-10-02,Oax. : Rastro Reforma Agraria,Vaca,300.0,14.0,54.0,56.0
+2018-10-03,Oax. : Rastro Reforma Agraria,Corral,400.0,47.0,62.0,66.0
+2018-10-03,Oax. : Rastro Reforma Agraria,Vaca,300.0,12.0,54.0,56.0
+2018-10-04,Oax. : Rastro Reforma Agraria,Corral,400.0,37.0,62.0,66.0
+2018-10-04,Oax. : Rastro Reforma Agraria,Vaca,,8.0,54.0,56.0
+2018-10-05,Oax. : Rastro Reforma Agraria,Corral,400.0,30.0,62.0,66.0
+2018-10-05,Oax. : Rastro Reforma Agraria,Vaca,300.0,10.0,54.0,56.0
+2018-10-08,Oax. : Rastro Reforma Agraria,Corral,400.0,33.0,62.0,66.0
+2018-10-08,Oax. : Rastro Reforma Agraria,Vaca,300.0,16.0,54.0,56.0
+2018-10-09,Oax. : Rastro Reforma Agraria,Corral,400.0,56.0,62.0,66.0
+2018-10-09,Oax. : Rastro Reforma Agraria,Vaca,300.0,12.0,54.0,56.0
+2018-10-10,Oax. : Rastro Reforma Agraria,Corral,400.0,46.0,62.0,66.0
+2018-10-10,Oax. : Rastro Reforma Agraria,Vaca,300.0,13.0,54.0,56.0
+2018-10-11,Oax. : Rastro Reforma Agraria,Corral,400.0,40.0,62.0,66.0
+2018-10-11,Oax. : Rastro Reforma Agraria,Vaca,300.0,20.0,54.0,56.0
+2018-10-12,Oax. : Rastro Reforma Agraria,Corral,400.0,30.0,62.0,66.0
+2018-10-12,Oax. : Rastro Reforma Agraria,Vaca,300.0,11.0,54.0,56.0
+2018-10-15,Oax. : Rastro Reforma Agraria,Corral,400.0,35.0,62.0,66.0
+2018-10-15,Oax. : Rastro Reforma Agraria,Vaca,300.0,12.0,54.0,56.0
+2018-10-16,Oax. : Rastro Reforma Agraria,Corral,400.0,47.0,62.0,66.0
+2018-10-16,Oax. : Rastro Reforma Agraria,Vaca,30.0,18.0,54.0,56.0
+2018-10-17,Oax. : Rastro Reforma Agraria,Corral,400.0,34.0,62.0,66.0
+2018-10-17,Oax. : Rastro Reforma Agraria,Vaca,300.0,18.0,54.0,56.0
+2018-10-18,Oax. : Rastro Reforma Agraria,Corral,400.0,30.0,62.0,66.0
+2018-10-18,Oax. : Rastro Reforma Agraria,Vaca,300.0,12.0,54.0,56.0
+2018-10-19,Oax. : Rastro Reforma Agraria,Corral,400.0,40.0,62.0,66.0
+2018-10-19,Oax. : Rastro Reforma Agraria,Vaca,300.0,11.0,54.0,56.0
+2018-10-22,Oax. : Rastro Reforma Agraria,Corral,400.0,40.0,62.0,66.0
+2018-10-22,Oax. : Rastro Reforma Agraria,Vaca,300.0,20.0,54.0,56.0
+2018-10-23,Oax. : Rastro Reforma Agraria,Corral,400.0,52.0,62.0,66.0
+2018-10-23,Oax. : Rastro Reforma Agraria,Vaca,300.0,11.0,54.0,56.0
+2018-10-24,Oax. : Rastro Reforma Agraria,Corral,400.0,39.0,62.0,66.0
+2018-10-24,Oax. : Rastro Reforma Agraria,Vaca,300.0,17.0,54.0,56.0
+2018-10-25,Oax. : Rastro Reforma Agraria,Corral,400.0,34.0,62.0,66.0
+2018-10-25,Oax. : Rastro Reforma Agraria,Vaca,300.0,12.0,54.0,56.0
+2018-10-26,Oax. : Rastro Reforma Agraria,Corral,400.0,42.0,62.0,66.0
+2018-10-26,Oax. : Rastro Reforma Agraria,Vaca,300.0,17.0,54.0,56.0
+2018-10-29,Oax. : Rastro Reforma Agraria,Corral,400.0,32.0,62.0,66.0
+2018-10-29,Oax. : Rastro Reforma Agraria,Vaca,300.0,19.0,54.0,56.0
+2018-10-30,Oax. : Rastro Reforma Agraria,Corral,400.0,56.0,62.0,66.0
+2018-10-30,Oax. : Rastro Reforma Agraria,Vaca,300.0,16.0,54.0,56.0
+2018-10-31,Oax. : Rastro Reforma Agraria,Corral,400.0,37.0,62.0,66.0
+2018-10-31,Oax. : Rastro Reforma Agraria,Vaca,300.0,16.0,54.0,56.0
+2018-10-01,Qro. : R.M. Querétaro,Toros,260.0,88.0,72.0,72.0
+2018-10-02,Qro. : R.M. Querétaro,Toros,260.0,55.0,74.0,74.0
+2018-10-03,Qro. : R.M. Querétaro,Toros,260.0,36.0,74.0,74.0
+2018-10-04,Qro. : R.M. Querétaro,Toros,260.0,73.0,74.0,74.0
+2018-10-05,Qro. : R.M. Querétaro,Toros,260.0,96.0,74.0,74.0
+2018-10-08,Qro. : R.M. Querétaro,Toros,260.0,94.0,74.0,74.0
+2018-10-09,Qro. : R.M. Querétaro,Toros,260.0,30.0,74.0,74.0
+2018-10-10,Qro. : R.M. Querétaro,Toros,260.0,73.0,74.0,74.0
+2018-10-11,Qro. : R.M. Querétaro,Toros,260.0,61.0,74.0,74.0
+2018-10-12,Qro. : R.M. Querétaro,Toros,260.0,104.0,74.0,74.0
+2018-10-15,Qro. : R.M. Querétaro,Toros,260.0,135.0,74.0,74.0
+2018-10-16,Qro. : R.M. Querétaro,Toros,260.0,38.0,74.0,74.0
+2018-10-17,Qro. : R.M. Querétaro,Toros,260.0,73.0,74.0,74.0
+2018-10-18,Qro. : R.M. Querétaro,Toros,260.0,69.0,74.0,74.0
+2018-10-19,Qro. : R.M. Querétaro,Toros,260.0,125.0,74.0,74.0
+2018-10-22,Qro. : R.M. Querétaro,Toros,260.0,120.0,74.0,74.0
+2018-10-23,Qro. : R.M. Querétaro,Toros,260.0,58.0,74.0,74.0
+2018-10-24,Qro. : R.M. Querétaro,Toros,260.0,38.0,74.0,74.0
+2018-10-25,Qro. : R.M. Querétaro,Toros,260.0,67.0,74.0,74.0
+2018-10-26,Qro. : R.M. Querétaro,Toros,260.0,119.0,74.0,74.0
+2018-10-29,Qro. : R.M. Querétaro,Toros,260.0,118.0,74.0,74.0
+2018-10-30,Qro. : R.M. Querétaro,Toros,260.0,51.0,74.0,74.0
+2018-10-31,Qro. : R.M. Querétaro,Toros,260.0,70.0,74.0,74.0
+2018-10-01,Sin. : TIF 111 Vizur Sin,Corral,229.0,416.0,,68.0
+2018-10-01,Sin. : TIF 111 Vizur Sin,Novillona,223.0,64.0,,63.0
+2018-10-01,Sin. : TIF 111 Vizur Sin,Toros,227.0,280.0,,60.0
+2018-10-01,Sin. : TIF 111 Vizur Sin,Vaca,225.0,200.0,,52.0
+2018-10-02,Sin. : TIF 111 Vizur Sin,Corral,232.0,410.0,,68.0
+2018-10-02,Sin. : TIF 111 Vizur Sin,Novillona,226.0,250.0,,63.0
+2018-10-02,Sin. : TIF 111 Vizur Sin,Toros,229.0,300.0,,60.0
+2018-10-03,Sin. : TIF 111 Vizur Sin,Corral,232.0,320.0,,68.0
+2018-10-03,Sin. : TIF 111 Vizur Sin,Novillona,225.0,150.0,,63.0
+2018-10-03,Sin. : TIF 111 Vizur Sin,Toros,228.0,200.0,,60.0
+2018-10-03,Sin. : TIF 111 Vizur Sin,Vaca,230.0,290.0,,52.0
+2018-10-04,Sin. : TIF 111 Vizur Sin,Corral,228.0,420.0,,68.0
+2018-10-04,Sin. : TIF 111 Vizur Sin,Novillona,224.0,190.0,,63.0
+2018-10-04,Sin. : TIF 111 Vizur Sin,Toros,226.0,350.0,,60.0
+2018-10-05,Sin. : TIF 111 Vizur Sin,Corral,227.0,480.0,,68.0
+2018-10-05,Sin. : TIF 111 Vizur Sin,Novillona,223.0,180.0,,63.0
+2018-10-05,Sin. : TIF 111 Vizur Sin,Vaca,226.0,300.0,,52.0
+2018-10-08,Sin. : TIF 111 Vizur Sin,Corral,232.0,350.0,,68.0
+2018-10-08,Sin. : TIF 111 Vizur Sin,Novillona,224.0,90.0,,63.0
+2018-10-08,Sin. : TIF 111 Vizur Sin,Toros,230.0,240.0,,60.0
+2018-10-08,Sin. : TIF 111 Vizur Sin,Vaca,229.0,280.0,,52.0
+2018-10-09,Sin. : TIF 111 Vizur Sin,Corral,229.0,400.0,,68.0
+2018-10-09,Sin. : TIF 111 Vizur Sin,Novillona,224.0,150.0,,63.0
+2018-10-09,Sin. : TIF 111 Vizur Sin,Toros,225.0,180.0,,60.0
+2018-10-09,Sin. : TIF 111 Vizur Sin,Vaca,227.0,230.0,,52.0
+2018-10-10,Sin. : TIF 111 Vizur Sin,Corral,227.0,550.0,,68.0
+2018-10-10,Sin. : TIF 111 Vizur Sin,Novillona,223.0,60.0,,63.0
+2018-10-10,Sin. : TIF 111 Vizur Sin,Toros,226.0,200.0,,60.0
+2018-10-10,Sin. : TIF 111 Vizur Sin,Vaca,225.0,150.0,,52.0
+2018-10-11,Sin. : TIF 111 Vizur Sin,Corral,229.0,280.0,,68.0
+2018-10-11,Sin. : TIF 111 Vizur Sin,Novillona,226.0,200.0,,63.0
+2018-10-11,Sin. : TIF 111 Vizur Sin,Toros,228.0,250.0,,60.0
+2018-10-11,Sin. : TIF 111 Vizur Sin,Vaca,227.0,220.0,,52.0
+2018-10-12,Sin. : TIF 111 Vizur Sin,Corral,229.0,600.0,,68.0
+2018-10-12,Sin. : TIF 111 Vizur Sin,Novillona,224.0,170.0,,63.0
+2018-10-12,Sin. : TIF 111 Vizur Sin,Toros,225.0,190.0,,60.0
+2018-10-15,Sin. : TIF 111 Vizur Sin,Corral,230.0,300.0,,68.0
+2018-10-15,Sin. : TIF 111 Vizur Sin,Novillona,228.0,250.0,,63.0
+2018-10-15,Sin. : TIF 111 Vizur Sin,Toros,226.0,230.0,,60.0
+2018-10-15,Sin. : TIF 111 Vizur Sin,Vaca,224.0,180.0,,52.0
+2018-10-16,Sin. : TIF 111 Vizur Sin,Corral,229.0,380.0,,68.0
+2018-10-16,Sin. : TIF 111 Vizur Sin,Novillona,225.0,160.0,,63.0
+2018-10-16,Sin. : TIF 111 Vizur Sin,Toros,227.0,420.0,,60.0
+2018-10-17,Sin. : TIF 111 Vizur Sin,Corral,230.0,550.0,,68.0
+2018-10-17,Sin. : TIF 111 Vizur Sin,Novillona,223.0,60.0,,63.0
+2018-10-17,Sin. : TIF 111 Vizur Sin,Toros,224.0,130.0,,60.0
+2018-10-17,Sin. : TIF 111 Vizur Sin,Vaca,226.0,220.0,,52.0
+2018-10-18,Sin. : TIF 111 Vizur Sin,Novillona,228.0,320.0,,63.0
+2018-10-18,Sin. : TIF 111 Vizur Sin,Toros,226.0,300.0,,60.0
+2018-10-18,Sin. : TIF 111 Vizur Sin,Vaca,229.0,340.0,,52.0
+2018-10-19,Sin. : TIF 111 Vizur Sin,Corral,229.0,560.0,,68.0
+2018-10-19,Sin. : TIF 111 Vizur Sin,Novillona,223.0,120.0,,63.0
+2018-10-19,Sin. : TIF 111 Vizur Sin,Vaca,224.0,280.0,,52.0
+2018-10-22,Sin. : TIF 111 Vizur Sin,Corral,228.0,500.0,,68.0
+2018-10-22,Sin. : TIF 111 Vizur Sin,Novillona,223.0,120.0,,63.0
+2018-10-22,Sin. : TIF 111 Vizur Sin,Toros,225.0,180.0,,60.0
+2018-10-22,Sin. : TIF 111 Vizur Sin,Vaca,226.0,160.0,,52.0
+2018-10-23,Sin. : TIF 111 Vizur Sin,Corral,227.0,400.0,,68.0
+2018-10-23,Sin. : TIF 111 Vizur Sin,Novillona,223.0,180.0,,63.0
+2018-10-23,Sin. : TIF 111 Vizur Sin,Toros,226.0,380.0,,60.0
+2018-10-24,Sin. : TIF 111 Vizur Sin,Corral,227.0,260.0,,68.0
+2018-10-24,Sin. : TIF 111 Vizur Sin,Novillona,224.0,100.0,,63.0
+2018-10-24,Sin. : TIF 111 Vizur Sin,Toros,229.0,350.0,,60.0
+2018-10-24,Sin. : TIF 111 Vizur Sin,Vaca,226.0,250.0,,52.0
+2018-10-25,Sin. : TIF 111 Vizur Sin,Corral,228.0,350.0,,68.0
+2018-10-25,Sin. : TIF 111 Vizur Sin,Novillona,226.0,220.0,,63.0
+2018-10-25,Sin. : TIF 111 Vizur Sin,Toros,224.0,200.0,,60.0
+2018-10-25,Sin. : TIF 111 Vizur Sin,Vaca,223.0,190.0,,52.0
+2018-10-26,Sin. : TIF 111 Vizur Sin,Corral,229.0,490.0,,68.0
+2018-10-26,Sin. : TIF 111 Vizur Sin,Novillona,224.0,200.0,,63.0
+2018-10-26,Sin. : TIF 111 Vizur Sin,Vaca,226.0,270.0,,52.0
+2018-10-29,Sin. : TIF 111 Vizur Sin,Corral,228.0,290.0,,68.0
+2018-10-29,Sin. : TIF 111 Vizur Sin,Novillona,225.0,220.0,,63.0
+2018-10-29,Sin. : TIF 111 Vizur Sin,Toros,227.0,250.0,,60.0
+2018-10-29,Sin. : TIF 111 Vizur Sin,Vaca,223.0,200.0,,52.0
+2018-10-30,Sin. : TIF 111 Vizur Sin,Corral,226.0,400.0,,68.0
+2018-10-30,Sin. : TIF 111 Vizur Sin,Novillona,223.0,120.0,,63.0
+2018-10-30,Sin. : TIF 111 Vizur Sin,Toros,228.0,440.0,,60.0
+2018-10-31,Sin. : TIF 111 Vizur Sin,Corral,229.0,300.0,,68.0
+2018-10-31,Sin. : TIF 111 Vizur Sin,Novillona,226.0,240.0,,63.0
+2018-10-31,Sin. : TIF 111 Vizur Sin,Toros,224.0,220.0,,60.0
+2018-10-31,Sin. : TIF 111 Vizur Sin,Vaca,223.0,200.0,,52.0
+2018-10-01,Son. : Rastro TIF Bovinos Hermosillo,Corral,,250.0,73.0,74.5
+2018-10-02,Son. : Rastro TIF Bovinos Hermosillo,Corral,,270.0,73.0,74.5
+2018-10-03,Son. : Rastro TIF Bovinos Hermosillo,Corral,,240.0,73.0,74.5
+2018-10-05,Son. : Rastro TIF Bovinos Hermosillo,Corral,,271.0,73.0,74.5
+2018-10-08,Son. : Rastro TIF Bovinos Hermosillo,Corral,,136.0,73.0,74.0
+2018-10-09,Son. : Rastro TIF Bovinos Hermosillo,Corral,,200.0,73.0,74.5
+2018-10-10,Son. : Rastro TIF Bovinos Hermosillo,Corral,,174.0,73.0,74.5
+2018-10-11,Son. : Rastro TIF Bovinos Hermosillo,Corral,,204.0,73.0,74.5
+2018-10-12,Son. : Rastro TIF Bovinos Hermosillo,Corral,,212.0,73.0,74.5
+2018-10-15,Son. : Rastro TIF Bovinos Hermosillo,Corral,,175.0,73.0,74.5
+2018-10-16,Son. : Rastro TIF Bovinos Hermosillo,Corral,,200.0,73.0,74.5
+2018-10-17,Son. : Rastro TIF Bovinos Hermosillo,Corral,,143.0,73.0,74.5
+2018-10-18,Son. : Rastro TIF Bovinos Hermosillo,Corral,,115.0,73.0,74.5
+2018-10-19,Son. : Rastro TIF Bovinos Hermosillo,Corral,,161.0,73.0,74.5
+2018-10-22,Son. : Rastro TIF Bovinos Hermosillo,Corral,,200.0,73.0,74.5
+2018-10-23,Son. : Rastro TIF Bovinos Hermosillo,Corral,,109.0,73.0,74.5
+2018-10-24,Son. : Rastro TIF Bovinos Hermosillo,Corral,,100.0,73.0,74.5
+2018-10-25,Son. : Rastro TIF Bovinos Hermosillo,Corral,,112.0,73.0,74.5
+2018-10-26,Son. : Rastro TIF Bovinos Hermosillo,Corral,,106.0,73.0,74.5
+2018-10-29,Son. : Rastro TIF Bovinos Hermosillo,Corral,,131.0,73.0,74.5
+2018-10-30,Son. : Rastro TIF Bovinos Hermosillo,Corral,,124.0,73.0,74.5
+2018-10-31,Son. : Rastro TIF Bovinos Hermosillo,Corral,,108.0,73.0,74.5
+2018-10-01,Ver. : Rastro Municipal de Coatepec,Corral,249.0,9.0,64.0,65.0
+2018-10-02,Ver. : Rastro Municipal de Coatepec,Corral,249.0,6.0,64.0,65.0
+2018-10-03,Ver. : Rastro Municipal de Coatepec,Corral,248.0,6.0,64.0,65.0
+2018-10-04,Ver. : Rastro Municipal de Coatepec,Corral,249.0,7.0,64.0,65.0
+2018-10-05,Ver. : Rastro Municipal de Coatepec,Corral,249.0,7.0,64.0,65.0
+2018-10-08,Ver. : Rastro Municipal de Coatepec,Corral,249.0,6.0,64.0,65.0
+2018-10-09,Ver. : Rastro Municipal de Coatepec,Corral,248.0,6.0,64.0,65.0
+2018-10-10,Ver. : Rastro Municipal de Coatepec,Corral,249.0,6.0,64.0,65.0
+2018-10-11,Ver. : Rastro Municipal de Coatepec,Corral,249.0,6.0,64.0,65.0
+2018-10-12,Ver. : Rastro Municipal de Coatepec,Corral,249.0,6.0,64.0,65.0
+2018-10-12,Ver. : Rastro Municipal de Coatepec,Novillona,349.0,3.0,63.0,64.0
+2018-10-12,Ver. : Rastro Municipal de Coatepec,Vaca,353.0,1.0,62.0,63.0
+2018-10-15,Ver. : Rastro Municipal de Coatepec,Corral,249.0,5.0,64.0,65.0
+2018-10-15,Ver. : Rastro Municipal de Coatepec,Novillona,348.0,3.0,63.0,64.0
+2018-10-16,Ver. : Rastro Municipal de Coatepec,Corral,249.0,6.0,64.0,65.0
+2018-10-17,Ver. : Rastro Municipal de Coatepec,Corral,249.0,6.0,64.0,65.0
+2018-10-18,Ver. : Rastro Municipal de Coatepec,Corral,249.0,5.0,64.0,65.0
+2018-10-19,Ver. : Rastro Municipal de Coatepec,Corral,249.0,7.0,64.0,65.0
+2018-10-19,Ver. : Rastro Municipal de Coatepec,Novillona,349.0,4.0,63.0,64.0
+2018-10-19,Ver. : Rastro Municipal de Coatepec,Vaca,353.0,1.0,62.0,63.0
+2018-10-22,Ver. : Rastro Municipal de Coatepec,Corral,249.0,4.0,64.0,65.0
+2018-10-23,Ver. : Rastro Municipal de Coatepec,Corral,249.0,5.0,64.0,65.0
+2018-10-24,Ver. : Rastro Municipal de Coatepec,Corral,249.0,5.0,64.0,65.0
+2018-10-25,Ver. : Rastro Municipal de Coatepec,Corral,249.0,4.0,64.0,65.0
+2018-10-26,Ver. : Rastro Municipal de Coatepec,Corral,248.0,5.0,64.0,65.0
+2018-10-26,Ver. : Rastro Municipal de Coatepec,Novillona,348.0,4.0,63.0,64.0
+2018-10-26,Ver. : Rastro Municipal de Coatepec,Vaca,353.0,3.0,62.0,63.0
+2018-10-29,Ver. : Rastro Municipal de Coatepec,Corral,249.0,5.0,64.0,65.0
+2018-10-30,Ver. : Rastro Municipal de Coatepec,Corral,248.0,6.0,64.0,65.0
+2018-10-31,Ver. : Rastro Municipal de Coatepec,Corral,249.0,4.0,64.0,65.0
+2018-10-01,Ver. : Rastro Municipal de Xalapa,Corral,249.0,10.0,64.0,65.0
+2018-10-01,Ver. : Rastro Municipal de Xalapa,Novillona,349.0,5.0,63.0,64.0
+2018-10-01,Ver. : Rastro Municipal de Xalapa,Vaca,353.0,2.0,62.0,63.0
+2018-10-02,Ver. : Rastro Municipal de Xalapa,Corral,249.0,8.0,64.0,65.0
+2018-10-02,Ver. : Rastro Municipal de Xalapa,Novillona,349.0,2.0,63.0,64.0
+2018-10-03,Ver. : Rastro Municipal de Xalapa,Corral,249.0,6.0,64.0,65.0
+2018-10-03,Ver. : Rastro Municipal de Xalapa,Novillona,348.0,4.0,63.0,64.0
+2018-10-04,Ver. : Rastro Municipal de Xalapa,Corral,249.0,9.0,64.0,65.0
+2018-10-05,Ver. : Rastro Municipal de Xalapa,Corral,249.0,7.0,64.0,65.0
+2018-10-05,Ver. : Rastro Municipal de Xalapa,Novillona,348.0,4.0,63.0,64.0
+2018-10-08,Ver. : Rastro Municipal de Xalapa,Corral,249.0,9.0,64.0,65.0
+2018-10-08,Ver. : Rastro Municipal de Xalapa,Novillona,349.0,7.0,63.0,64.0
+2018-10-08,Ver. : Rastro Municipal de Xalapa,Vaca,353.0,2.0,62.0,63.0
+2018-10-09,Ver. : Rastro Municipal de Xalapa,Corral,249.0,9.0,64.0,65.0
+2018-10-10,Ver. : Rastro Municipal de Xalapa,Corral,249.0,7.0,64.0,65.0
+2018-10-10,Ver. : Rastro Municipal de Xalapa,Novillona,349.0,3.0,64.0,65.0
+2018-10-11,Ver. : Rastro Municipal de Xalapa,Corral,249.0,7.0,64.0,65.0
+2018-10-11,Ver. : Rastro Municipal de Xalapa,Novillona,348.0,3.0,63.0,64.0
+2018-10-12,Ver. : Rastro Municipal de Xalapa,Corral,249.0,9.0,64.0,65.0
+2018-10-15,Ver. : Rastro Municipal de Xalapa,Corral,249.0,9.0,64.0,65.0
+2018-10-15,Ver. : Rastro Municipal de Xalapa,Novillona,349.0,4.0,63.0,64.0
+2018-10-15,Ver. : Rastro Municipal de Xalapa,Vaca,353.0,3.0,62.0,63.0
+2018-10-16,Ver. : Rastro Municipal de Xalapa,Corral,249.0,7.0,64.0,65.0
+2018-10-16,Ver. : Rastro Municipal de Xalapa,Novillona,348.0,2.0,63.0,64.0
+2018-10-17,Ver. : Rastro Municipal de Xalapa,Corral,249.0,9.0,64.0,65.0
+2018-10-18,Ver. : Rastro Municipal de Xalapa,Corral,249.0,6.0,64.0,65.0
+2018-10-18,Ver. : Rastro Municipal de Xalapa,Novillona,348.0,4.0,63.0,64.0
+2018-10-19,Ver. : Rastro Municipal de Xalapa,Corral,249.0,6.0,64.0,65.0
+2018-10-19,Ver. : Rastro Municipal de Xalapa,Novillona,348.0,3.0,63.0,64.0
+2018-10-22,Ver. : Rastro Municipal de Xalapa,Corral,249.0,9.0,64.0,65.0
+2018-10-22,Ver. : Rastro Municipal de Xalapa,Novillona,249.0,4.0,63.0,64.0
+2018-10-22,Ver. : Rastro Municipal de Xalapa,Vaca,354.0,2.0,62.0,63.0
+2018-10-23,Ver. : Rastro Municipal de Xalapa,Corral,249.0,5.0,64.0,65.0
+2018-10-23,Ver. : Rastro Municipal de Xalapa,Novillona,348.0,3.0,63.0,64.0
+2018-10-24,Ver. : Rastro Municipal de Xalapa,Corral,249.0,5.0,64.0,65.0
+2018-10-24,Ver. : Rastro Municipal de Xalapa,Novillona,348.0,6.0,63.0,64.0
+2018-10-25,Ver. : Rastro Municipal de Xalapa,Corral,249.0,9.0,64.0,65.0
+2018-10-26,Ver. : Rastro Municipal de Xalapa,Corral,249.0,8.0,64.0,65.0
+2018-10-29,Ver. : Rastro Municipal de Xalapa,Corral,248.0,9.0,64.0,65.0
+2018-10-29,Ver. : Rastro Municipal de Xalapa,Novillona,349.0,6.0,63.0,64.0
+2018-10-29,Ver. : Rastro Municipal de Xalapa,Vaca,353.0,1.0,62.0,63.0
+2018-10-30,Ver. : Rastro Municipal de Xalapa,Corral,249.0,6.0,64.0,65.0
+2018-10-30,Ver. : Rastro Municipal de Xalapa,Novillona,349.0,3.0,64.0,65.0
+2018-10-31,Ver. : Rastro Municipal de Xalapa,Corral,249.0,9.0,64.0,65.0
+2018-10-15,Yuc. : Aric Planta TIF 170,Toros,389.0,1.0,52.0,52.0

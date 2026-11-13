@@ -1,0 +1,1080 @@
+date,slaughterhouse,type,avg_weight_kg,carcasses,price_min_mxn_kg,price_max_mxn_kg
+2010-02-01,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,18.0,34.0,36.0
+2010-02-01,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,93.0,22.0,23.0
+2010-02-02,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,15.0,34.0,36.0
+2010-02-02,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,93.0,22.0,23.0
+2010-02-03,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,18.0,34.0,36.0
+2010-02-03,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,121.0,22.0,23.0
+2010-02-04,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,37.0,34.0,36.0
+2010-02-04,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,109.0,22.0,23.0
+2010-02-05,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,20.0,34.0,36.0
+2010-02-05,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,138.0,22.0,23.0
+2010-02-06,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,23.0,34.0,36.0
+2010-02-06,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,107.0,22.0,23.0
+2010-02-08,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,23.0,34.0,36.0
+2010-02-08,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,80.0,22.0,23.0
+2010-02-09,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,13.0,34.0,36.0
+2010-02-09,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,101.0,22.0,23.0
+2010-02-10,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,37.0,34.0,36.0
+2010-02-10,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,100.0,22.0,23.0
+2010-02-11,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,15.0,34.0,36.0
+2010-02-11,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,73.0,22.0,23.0
+2010-02-12,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,18.0,34.0,36.0
+2010-02-12,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,109.0,22.0,23.0
+2010-02-13,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,28.0,34.0,36.0
+2010-02-13,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,140.0,22.0,23.0
+2010-02-15,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,53.0,34.0,36.0
+2010-02-15,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,152.0,22.0,23.0
+2010-02-16,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,26.0,34.0,36.0
+2010-02-16,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,82.0,22.0,23.0
+2010-02-17,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,23.0,34.0,36.0
+2010-02-17,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,100.0,22.0,23.0
+2010-02-18,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,18.0,34.0,36.0
+2010-02-18,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,79.0,22.0,23.0
+2010-02-19,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,21.0,34.0,36.0
+2010-02-19,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,107.0,22.0,23.0
+2010-02-20,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,27.0,34.0,36.0
+2010-02-20,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,66.0,22.0,23.0
+2010-02-22,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,30.0,34.0,36.0
+2010-02-22,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,101.0,22.0,23.0
+2010-02-23,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,21.0,34.0,36.0
+2010-02-23,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,142.0,22.0,23.0
+2010-02-24,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,29.0,34.0,36.0
+2010-02-24,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,103.0,22.0,23.0
+2010-02-25,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,19.0,34.0,36.0
+2010-02-25,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,77.0,22.0,23.0
+2010-02-26,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,26.0,34.0,36.0
+2010-02-26,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,115.0,22.0,23.0
+2010-02-27,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,18.0,34.0,36.0
+2010-02-27,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,112.0,22.0,23.0
+2010-02-01,Ags. : R.M. Aguascalientes,Toros,455.0,15.0,33.0,36.0
+2010-02-01,Ags. : R.M. Aguascalientes,Vaca,360.0,128.0,22.0,25.0
+2010-02-02,Ags. : R.M. Aguascalientes,Toros,455.0,21.0,33.0,36.0
+2010-02-02,Ags. : R.M. Aguascalientes,Vaca,360.0,127.0,22.0,25.0
+2010-02-03,Ags. : R.M. Aguascalientes,Toros,455.0,27.0,33.0,36.0
+2010-02-03,Ags. : R.M. Aguascalientes,Vaca,360.0,114.0,22.0,25.0
+2010-02-04,Ags. : R.M. Aguascalientes,Toros,455.0,18.0,33.0,36.0
+2010-02-04,Ags. : R.M. Aguascalientes,Vaca,360.0,95.0,22.0,25.0
+2010-02-05,Ags. : R.M. Aguascalientes,Toros,455.0,23.0,33.0,36.0
+2010-02-05,Ags. : R.M. Aguascalientes,Vaca,360.0,87.0,22.0,25.0
+2010-02-06,Ags. : R.M. Aguascalientes,Toros,455.0,18.0,33.0,36.0
+2010-02-06,Ags. : R.M. Aguascalientes,Vaca,360.0,53.0,22.0,25.0
+2010-02-08,Ags. : R.M. Aguascalientes,Toros,455.0,30.0,33.0,36.0
+2010-02-08,Ags. : R.M. Aguascalientes,Vaca,360.0,139.0,22.0,25.0
+2010-02-09,Ags. : R.M. Aguascalientes,Toros,455.0,20.0,33.0,36.0
+2010-02-09,Ags. : R.M. Aguascalientes,Vaca,360.0,77.0,22.0,25.0
+2010-02-10,Ags. : R.M. Aguascalientes,Toros,455.0,28.0,33.0,36.0
+2010-02-10,Ags. : R.M. Aguascalientes,Vaca,360.0,92.0,22.0,25.0
+2010-02-11,Ags. : R.M. Aguascalientes,Toros,455.0,15.0,33.0,36.0
+2010-02-11,Ags. : R.M. Aguascalientes,Vaca,360.0,82.0,22.0,25.0
+2010-02-12,Ags. : R.M. Aguascalientes,Toros,455.0,28.0,33.0,36.0
+2010-02-12,Ags. : R.M. Aguascalientes,Vaca,360.0,75.0,22.0,25.0
+2010-02-13,Ags. : R.M. Aguascalientes,Toros,455.0,17.0,33.0,36.0
+2010-02-13,Ags. : R.M. Aguascalientes,Vaca,360.0,82.0,22.0,25.0
+2010-02-15,Ags. : R.M. Aguascalientes,Toros,455.0,21.0,33.0,36.0
+2010-02-15,Ags. : R.M. Aguascalientes,Vaca,360.0,116.0,22.0,25.0
+2010-02-16,Ags. : R.M. Aguascalientes,Novillona,295.0,6.0,27.0,28.0
+2010-02-16,Ags. : R.M. Aguascalientes,Toros,455.0,10.0,33.0,36.0
+2010-02-16,Ags. : R.M. Aguascalientes,Vaca,360.0,113.0,22.0,25.0
+2010-02-17,Ags. : R.M. Aguascalientes,Toros,455.0,19.0,33.0,36.0
+2010-02-17,Ags. : R.M. Aguascalientes,Vaca,360.0,87.0,22.0,25.0
+2010-02-18,Ags. : R.M. Aguascalientes,Toros,455.0,30.0,33.0,36.0
+2010-02-18,Ags. : R.M. Aguascalientes,Vaca,360.0,90.0,22.0,25.0
+2010-02-19,Ags. : R.M. Aguascalientes,Toros,455.0,31.0,33.0,36.0
+2010-02-19,Ags. : R.M. Aguascalientes,Vaca,360.0,116.0,22.0,25.0
+2010-02-20,Ags. : R.M. Aguascalientes,Toros,455.0,17.0,33.0,36.0
+2010-02-20,Ags. : R.M. Aguascalientes,Vaca,360.0,69.0,22.0,25.0
+2010-02-22,Ags. : R.M. Aguascalientes,Toros,455.0,16.0,33.0,36.0
+2010-02-22,Ags. : R.M. Aguascalientes,Vaca,360.0,115.0,22.0,25.0
+2010-02-23,Ags. : R.M. Aguascalientes,Toros,455.0,29.0,33.0,36.0
+2010-02-23,Ags. : R.M. Aguascalientes,Vaca,360.0,98.0,22.0,25.0
+2010-02-24,Ags. : R.M. Aguascalientes,Toros,455.0,41.0,33.0,36.0
+2010-02-24,Ags. : R.M. Aguascalientes,Vaca,360.0,162.0,22.0,25.0
+2010-02-25,Ags. : R.M. Aguascalientes,Toros,455.0,32.0,33.0,36.0
+2010-02-25,Ags. : R.M. Aguascalientes,Vaca,360.0,83.0,22.0,25.0
+2010-02-26,Ags. : R.M. Aguascalientes,Toros,455.0,36.0,33.0,36.0
+2010-02-26,Ags. : R.M. Aguascalientes,Vaca,360.0,137.0,22.0,25.0
+2010-02-27,Ags. : R.M. Aguascalientes,Toros,455.0,13.0,33.0,36.0
+2010-02-27,Ags. : R.M. Aguascalientes,Vaca,360.0,78.0,22.0,25.0
+2010-02-02,B.C.S. : R.M. La Paz B.C.S.,Pradera,218.0,64.0,29.0,32.0
+2010-02-03,B.C.S. : R.M. La Paz B.C.S.,Pradera,202.0,21.0,29.0,32.0
+2010-02-04,B.C.S. : R.M. La Paz B.C.S.,Pradera,264.0,24.0,29.0,32.0
+2010-02-05,B.C.S. : R.M. La Paz B.C.S.,Pradera,205.0,46.0,29.0,32.0
+2010-02-08,B.C.S. : R.M. La Paz B.C.S.,Pradera,205.0,31.0,29.0,32.0
+2010-02-09,B.C.S. : R.M. La Paz B.C.S.,Pradera,190.0,35.0,29.0,32.0
+2010-02-10,B.C.S. : R.M. La Paz B.C.S.,Pradera,210.0,17.0,29.0,32.0
+2010-02-11,B.C.S. : R.M. La Paz B.C.S.,Pradera,234.0,15.0,29.0,32.0
+2010-02-12,B.C.S. : R.M. La Paz B.C.S.,Pradera,202.0,40.0,29.0,32.0
+2010-02-15,B.C.S. : R.M. La Paz B.C.S.,Pradera,207.0,28.0,29.0,32.0
+2010-02-16,B.C.S. : R.M. La Paz B.C.S.,Pradera,212.0,29.0,29.0,32.0
+2010-02-17,B.C.S. : R.M. La Paz B.C.S.,Pradera,205.0,18.0,29.0,32.0
+2010-02-18,B.C.S. : R.M. La Paz B.C.S.,Pradera,213.0,26.0,29.0,32.0
+2010-02-19,B.C.S. : R.M. La Paz B.C.S.,Pradera,222.0,43.0,29.0,32.0
+2010-02-22,B.C.S. : R.M. La Paz B.C.S.,Pradera,209.0,37.0,29.0,32.0
+2010-02-23,B.C.S. : R.M. La Paz B.C.S.,Pradera,212.0,15.0,29.0,32.0
+2010-02-24,B.C.S. : R.M. La Paz B.C.S.,Pradera,196.0,17.0,29.0,32.0
+2010-02-25,B.C.S. : R.M. La Paz B.C.S.,Pradera,214.0,25.0,29.0,32.0
+2010-02-26,B.C.S. : R.M. La Paz B.C.S.,Pradera,195.0,43.0,29.0,32.0
+2010-02-02,Camp. : R.M. Campeche,Pradera,190.0,28.0,32.0,33.0
+2010-02-03,Camp. : R.M. Campeche,Pradera,190.0,30.0,32.0,33.0
+2010-02-04,Camp. : R.M. Campeche,Pradera,190.0,32.0,32.0,33.0
+2010-02-05,Camp. : R.M. Campeche,Pradera,190.0,29.0,32.0,33.0
+2010-02-08,Camp. : R.M. Campeche,Pradera,190.0,30.0,32.0,33.0
+2010-02-09,Camp. : R.M. Campeche,Pradera,190.0,28.0,32.0,33.0
+2010-02-10,Camp. : R.M. Campeche,Pradera,190.0,33.0,32.0,33.0
+2010-02-11,Camp. : R.M. Campeche,Pradera,190.0,26.0,32.0,33.0
+2010-02-12,Camp. : R.M. Campeche,Pradera,190.0,29.0,32.0,33.0
+2010-02-17,Camp. : R.M. Campeche,Pradera,190.0,32.0,32.0,33.0
+2010-02-18,Camp. : R.M. Campeche,Pradera,190.0,132.0,32.0,33.0
+2010-02-19,Camp. : R.M. Campeche,Pradera,190.0,28.0,32.0,33.0
+2010-02-22,Camp. : R.M. Campeche,Pradera,190.0,31.0,32.0,33.0
+2010-02-23,Camp. : R.M. Campeche,Pradera,190.0,33.0,32.0,33.0
+2010-02-24,Camp. : R.M. Campeche,Pradera,190.0,28.0,32.0,33.0
+2010-02-25,Camp. : R.M. Campeche,Pradera,190.0,30.0,32.0,33.0
+2010-02-26,Camp. : R.M. Campeche,Pradera,190.0,27.0,32.0,33.0
+2010-02-02,Coah. : R.M. Torreón,Corral,222.0,36.0,35.0,36.0
+2010-02-02,Coah. : R.M. Torreón,Vaca,360.0,121.0,23.0,26.0
+2010-02-03,Coah. : R.M. Torreón,Corral,222.0,36.0,35.0,36.0
+2010-02-03,Coah. : R.M. Torreón,Vaca,360.0,121.0,23.0,26.0
+2010-02-04,Coah. : R.M. Torreón,Corral,222.0,27.0,35.0,36.0
+2010-02-04,Coah. : R.M. Torreón,Vaca,360.0,105.0,23.0,26.0
+2010-02-08,Coah. : R.M. Torreón,Corral,222.0,86.0,35.0,36.0
+2010-02-08,Coah. : R.M. Torreón,Vaca,360.0,60.0,23.0,26.0
+2010-02-09,Coah. : R.M. Torreón,Corral,222.0,19.0,35.0,36.0
+2010-02-09,Coah. : R.M. Torreón,Vaca,360.0,59.0,23.0,26.0
+2010-02-10,Coah. : R.M. Torreón,Corral,222.0,79.0,35.0,36.0
+2010-02-10,Coah. : R.M. Torreón,Vaca,360.0,107.0,23.0,26.0
+2010-02-11,Coah. : R.M. Torreón,Corral,222.0,50.0,35.0,36.0
+2010-02-11,Coah. : R.M. Torreón,Vaca,360.0,106.0,23.0,26.0
+2010-02-15,Coah. : R.M. Torreón,Corral,222.0,79.0,35.0,36.0
+2010-02-15,Coah. : R.M. Torreón,Vaca,360.0,37.0,23.0,26.0
+2010-02-16,Coah. : R.M. Torreón,Corral,222.0,27.0,34.0,35.0
+2010-02-16,Coah. : R.M. Torreón,Vaca,360.0,64.0,23.0,26.0
+2010-02-17,Coah. : R.M. Torreón,Corral,222.0,69.0,34.0,35.0
+2010-02-17,Coah. : R.M. Torreón,Vaca,360.0,147.0,23.0,26.0
+2010-02-18,Coah. : R.M. Torreón,Corral,222.0,40.0,35.0,36.0
+2010-02-18,Coah. : R.M. Torreón,Vaca,360.0,53.0,24.0,26.0
+2010-02-22,Coah. : R.M. Torreón,Corral,222.0,71.0,35.0,36.0
+2010-02-22,Coah. : R.M. Torreón,Vaca,360.0,82.0,24.0,26.0
+2010-02-23,Coah. : R.M. Torreón,Corral,222.0,34.0,35.0,36.0
+2010-02-23,Coah. : R.M. Torreón,Vaca,360.0,55.0,24.0,26.0
+2010-02-24,Coah. : R.M. Torreón,Corral,222.0,71.0,35.0,36.0
+2010-02-24,Coah. : R.M. Torreón,Vaca,360.0,128.0,24.0,26.0
+2010-02-25,Coah. : R.M. Torreón,Corral,222.0,69.0,35.0,36.0
+2010-02-25,Coah. : R.M. Torreón,Vaca,360.0,51.0,24.0,25.0
+2010-02-03,Coah. : R.P. La Torrena,Vaca,360.0,77.0,19.5,23.0
+2010-02-04,Coah. : R.P. La Torrena,Vaca,360.0,50.0,19.5,23.0
+2010-02-05,Coah. : R.P. La Torrena,Vaca,360.0,73.0,19.5,23.0
+2010-02-08,Coah. : R.P. La Torrena,Vaca,360.0,87.0,23.0,23.5
+2010-02-09,Coah. : R.P. La Torrena,Vaca,360.0,79.0,19.5,23.0
+2010-02-10,Coah. : R.P. La Torrena,Vaca,360.0,70.0,23.0,23.5
+2010-02-11,Coah. : R.P. La Torrena,Vaca,360.0,58.0,19.5,23.0
+2010-02-12,Coah. : R.P. La Torrena,Vaca,360.0,40.0,19.5,23.0
+2010-02-15,Coah. : R.P. La Torrena,Vaca,360.0,75.0,19.5,23.0
+2010-02-16,Coah. : R.P. La Torrena,Vaca,360.0,54.0,23.0,26.0
+2010-02-17,Coah. : R.P. La Torrena,Vaca,360.0,56.0,23.0,26.0
+2010-02-18,Coah. : R.P. La Torrena,Vaca,360.0,75.0,23.0,26.0
+2010-02-19,Coah. : R.P. La Torrena,Vaca,360.0,38.0,23.0,26.0
+2010-02-22,Coah. : R.P. La Torrena,Vaca,360.0,76.0,23.0,26.0
+2010-02-23,Coah. : R.P. La Torrena,Vaca,360.0,70.0,23.0,26.0
+2010-02-24,Coah. : R.P. La Torrena,Vaca,360.0,58.0,23.0,26.0
+2010-02-25,Coah. : R.P. La Torrena,Vaca,360.0,55.0,23.0,26.0
+2010-02-26,Coah. : R.P. La Torrena,Vaca,360.0,72.0,23.0,26.0
+2010-02-02,Coah. : TIF 40 Procarne,Corral,222.0,213.0,35.0,36.0
+2010-02-03,Coah. : TIF 40 Procarne,Corral,222.0,330.0,35.0,36.0
+2010-02-04,Coah. : TIF 40 Procarne,Corral,222.0,267.0,35.0,36.0
+2010-02-05,Coah. : TIF 40 Procarne,Corral,222.0,280.0,35.0,36.0
+2010-02-08,Coah. : TIF 40 Procarne,Corral,222.0,300.0,35.0,36.0
+2010-02-09,Coah. : TIF 40 Procarne,Corral,222.0,297.0,35.0,36.0
+2010-02-10,Coah. : TIF 40 Procarne,Corral,222.0,241.0,35.0,36.0
+2010-02-11,Coah. : TIF 40 Procarne,Corral,222.0,265.0,35.0,36.0
+2010-02-12,Coah. : TIF 40 Procarne,Corral,222.0,227.0,35.0,36.0
+2010-02-15,Coah. : TIF 40 Procarne,Corral,222.0,344.0,35.0,36.0
+2010-02-16,Coah. : TIF 40 Procarne,Corral,222.0,320.0,35.0,36.0
+2010-02-17,Coah. : TIF 40 Procarne,Corral,222.0,221.0,35.0,36.0
+2010-02-18,Coah. : TIF 40 Procarne,Corral,222.0,270.0,35.0,36.0
+2010-02-19,Coah. : TIF 40 Procarne,Corral,222.0,226.0,35.0,36.0
+2010-02-22,Coah. : TIF 40 Procarne,Corral,222.0,250.0,35.0,36.0
+2010-02-23,Coah. : TIF 40 Procarne,Corral,222.0,233.0,35.0,36.0
+2010-02-24,Coah. : TIF 40 Procarne,Corral,222.0,166.0,35.0,36.0
+2010-02-25,Coah. : TIF 40 Procarne,Corral,222.0,185.0,35.0,36.0
+2010-02-26,Coah. : TIF 40 Procarne,Corral,222.0,208.0,35.0,36.0
+2010-02-01,Col. : Procesadora municipal de carne de Colima,Corral,208.0,51.0,28.0,38.0
+2010-02-02,Col. : Procesadora municipal de carne de Colima,Corral,208.0,33.0,28.0,38.0
+2010-02-03,Col. : Procesadora municipal de carne de Colima,Corral,208.0,39.0,28.0,38.0
+2010-02-05,Col. : Procesadora municipal de carne de Colima,Corral,208.0,73.0,28.0,38.0
+2010-02-08,Col. : Procesadora municipal de carne de Colima,Corral,208.0,50.0,28.0,38.0
+2010-02-10,Col. : Procesadora municipal de carne de Colima,Corral,208.0,51.0,28.0,38.0
+2010-02-12,Col. : Procesadora municipal de carne de Colima,Corral,208.0,63.0,28.0,38.0
+2010-02-13,Col. : Procesadora municipal de carne de Colima,Corral,208.0,46.0,28.0,38.0
+2010-02-15,Col. : Procesadora municipal de carne de Colima,Corral,208.0,43.0,28.0,38.0
+2010-02-16,Col. : Procesadora municipal de carne de Colima,Corral,208.0,18.0,28.0,38.0
+2010-02-17,Col. : Procesadora municipal de carne de Colima,Corral,208.0,16.0,28.0,38.0
+2010-02-20,Col. : Procesadora municipal de carne de Colima,Corral,208.0,41.0,28.0,38.0
+2010-02-22,Col. : Procesadora municipal de carne de Colima,Corral,208.0,49.0,28.0,38.0
+2010-02-24,Col. : Procesadora municipal de carne de Colima,Corral,208.0,50.0,28.0,38.0
+2010-02-26,Col. : Procesadora municipal de carne de Colima,Corral,208.0,43.0,28.0,38.0
+2010-02-02,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,204.0,36.0,,36.0
+2010-02-02,Chih. : R.M.TIF 366 Corral de San Ignacio,Toros,291.0,3.0,,31.0
+2010-02-02,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,220.0,20.0,,25.0
+2010-02-03,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,194.0,52.0,,36.0
+2010-02-03,Chih. : R.M.TIF 366 Corral de San Ignacio,Toros,288.0,3.0,,31.0
+2010-02-03,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,218.0,106.0,,25.0
+2010-02-04,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,231.0,15.0,,36.0
+2010-02-04,Chih. : R.M.TIF 366 Corral de San Ignacio,Toros,262.0,1.0,,31.0
+2010-02-04,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,225.0,4.0,,25.0
+2010-02-05,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,182.0,16.0,,36.0
+2010-02-05,Chih. : R.M.TIF 366 Corral de San Ignacio,Toros,279.0,1.0,,31.0
+2010-02-05,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,204.0,88.0,,31.0
+2010-02-08,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,194.0,24.0,,36.0
+2010-02-08,Chih. : R.M.TIF 366 Corral de San Ignacio,Toros,284.0,1.0,,31.0
+2010-02-08,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,231.0,70.0,,31.0
+2010-02-09,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,209.0,9.0,,36.0
+2010-02-09,Chih. : R.M.TIF 366 Corral de San Ignacio,Toros,278.0,1.0,,31.0
+2010-02-09,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,183.0,42.0,,25.0
+2010-02-10,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,192.0,29.0,,36.0
+2010-02-10,Chih. : R.M.TIF 366 Corral de San Ignacio,Toros,286.0,3.0,,31.0
+2010-02-10,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,232.0,61.0,,25.0
+2010-02-15,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,200.0,34.0,,36.0
+2010-02-15,Chih. : R.M.TIF 366 Corral de San Ignacio,Toros,299.0,4.0,,31.0
+2010-02-15,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,236.0,59.0,,25.0
+2010-02-16,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,214.0,29.0,,36.0
+2010-02-16,Chih. : R.M.TIF 366 Corral de San Ignacio,Toros,297.0,2.0,,31.0
+2010-02-16,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,227.0,67.0,,25.0
+2010-02-17,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,194.0,12.0,,36.0
+2010-02-17,Chih. : R.M.TIF 366 Corral de San Ignacio,Toros,275.0,2.0,,31.0
+2010-02-17,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,220.0,56.0,,25.0
+2010-02-18,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,225.0,5.0,,36.0
+2010-02-18,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,244.0,31.0,,25.0
+2010-02-19,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,215.0,38.0,,36.0
+2010-02-19,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,245.0,54.0,,25.0
+2010-02-22,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,200.0,22.0,,36.0
+2010-02-22,Chih. : R.M.TIF 366 Corral de San Ignacio,Toros,294.0,5.0,,31.0
+2010-02-22,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,198.0,67.0,,25.0
+2010-02-23,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,152.0,27.0,,36.0
+2010-02-23,Chih. : R.M.TIF 366 Corral de San Ignacio,Toros,265.0,3.0,,31.0
+2010-02-23,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,189.0,125.0,,25.0
+2010-02-26,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,185.0,32.0,,36.0
+2010-02-26,Chih. : R.M.TIF 366 Corral de San Ignacio,Toros,245.0,1.0,,31.0
+2010-02-26,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,232.0,50.0,,25.0
+2010-02-02,Chis. : TIF 78 Frigorífico del Sureste,Pradera,260.0,158.0,28.0,33.5
+2010-02-03,Chis. : TIF 78 Frigorífico del Sureste,Pradera,277.0,124.0,28.0,33.5
+2010-02-04,Chis. : TIF 78 Frigorífico del Sureste,Pradera,291.0,141.0,28.0,33.5
+2010-02-05,Chis. : TIF 78 Frigorífico del Sureste,Pradera,270.0,92.0,28.0,33.5
+2010-02-08,Chis. : TIF 78 Frigorífico del Sureste,Pradera,256.0,152.0,28.0,33.5
+2010-02-09,Chis. : TIF 78 Frigorífico del Sureste,Pradera,275.0,129.0,28.0,33.5
+2010-02-10,Chis. : TIF 78 Frigorífico del Sureste,Pradera,268.0,85.0,28.0,33.5
+2010-02-11,Chis. : TIF 78 Frigorífico del Sureste,Pradera,281.0,81.0,28.0,33.5
+2010-02-12,Chis. : TIF 78 Frigorífico del Sureste,Pradera,266.0,117.0,28.0,33.5
+2010-02-15,Chis. : TIF 78 Frigorífico del Sureste,Pradera,256.0,89.0,28.0,33.5
+2010-02-16,Chis. : TIF 78 Frigorífico del Sureste,Pradera,278.0,163.0,28.0,33.5
+2010-02-17,Chis. : TIF 78 Frigorífico del Sureste,Pradera,273.0,84.0,28.0,33.5
+2010-02-18,Chis. : TIF 78 Frigorífico del Sureste,Pradera,277.0,82.0,28.0,33.5
+2010-02-19,Chis. : TIF 78 Frigorífico del Sureste,Pradera,300.0,84.0,28.0,33.5
+2010-02-22,Chis. : TIF 78 Frigorífico del Sureste,Pradera,275.0,147.0,28.0,33.5
+2010-02-23,Chis. : TIF 78 Frigorífico del Sureste,Pradera,278.0,162.0,28.0,33.5
+2010-02-24,Chis. : TIF 78 Frigorífico del Sureste,Pradera,258.0,54.0,28.0,33.5
+2010-02-25,Chis. : TIF 78 Frigorífico del Sureste,Pradera,272.0,112.0,28.0,33.5
+2010-02-26,Chis. : TIF 78 Frigorífico del Sureste,Pradera,253.0,89.0,28.0,33.5
+2010-02-02,Dgo. : Planta TIF No. 546 (antes TIF No.65),Novillona,200.0,20.0,33.0,35.0
+2010-02-02,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,400.0,2.0,31.0,33.0
+2010-02-02,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,200.0,16.0,24.0,28.0
+2010-02-03,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,300.0,46.0,36.0,37.0
+2010-02-03,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,450.0,10.0,31.0,33.0
+2010-02-03,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,24.0,66.0,24.0,28.0
+2010-02-04,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,280.0,19.0,36.0,37.0
+2010-02-04,Dgo. : Planta TIF No. 546 (antes TIF No.65),Novillona,200.0,10.0,33.0,35.0
+2010-02-04,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,200.0,57.0,24.0,28.0
+2010-02-05,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,250.0,2.0,36.0,37.0
+2010-02-05,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,400.0,2.0,31.0,33.0
+2010-02-05,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,200.0,44.0,24.0,28.0
+2010-02-08,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,280.0,1.0,36.0,37.0
+2010-02-08,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,200.0,13.0,24.0,28.0
+2010-02-09,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,320.0,6.0,35.0,37.0
+2010-02-09,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,210.0,25.0,24.0,28.0
+2010-02-10,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,320.0,73.0,35.0,38.0
+2010-02-10,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,450.0,4.0,32.5,32.5
+2010-02-10,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,200.0,64.0,24.0,28.0
+2010-02-11,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,290.0,20.0,35.0,37.0
+2010-02-11,Dgo. : Planta TIF No. 546 (antes TIF No.65),Novillona,190.0,3.0,33.5,33.5
+2010-02-11,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,440.0,2.0,32.0,32.0
+2010-02-11,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,240.0,48.0,24.0,28.0
+2010-02-12,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,250.0,9.0,35.0,37.0
+2010-02-12,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,210.0,37.0,24.0,28.0
+2010-02-15,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,240.0,7.0,35.0,37.0
+2010-02-15,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,210.0,8.0,24.0,28.0
+2010-02-16,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,280.0,5.0,35.0,37.0
+2010-02-16,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,400.0,4.0,32.0,32.0
+2010-02-16,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,200.0,7.0,24.0,28.0
+2010-02-17,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,290.0,40.0,35.0,37.0
+2010-02-17,Dgo. : Planta TIF No. 546 (antes TIF No.65),Novillona,240.0,15.0,32.5,34.5
+2010-02-17,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,450.0,4.0,31.5,33.0
+2010-02-17,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,200.0,75.0,24.0,28.0
+2010-02-18,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,320.0,33.0,35.0,37.0
+2010-02-18,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,210.0,31.0,24.0,28.0
+2010-02-19,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,200.0,10.0,35.0,36.0
+2010-02-19,Dgo. : Planta TIF No. 546 (antes TIF No.65),Novillona,200.0,2.0,33.0,33.0
+2010-02-19,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,400.0,1.0,32.0,32.0
+2010-02-19,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,200.0,27.0,24.0,28.0
+2010-02-22,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,240.0,12.0,35.0,37.0
+2010-02-22,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,205.0,32.0,24.0,28.0
+2010-02-23,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,230.0,16.0,35.0,37.0
+2010-02-23,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,200.0,28.0,24.0,28.0
+2010-02-24,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,300.0,57.0,35.0,37.0
+2010-02-24,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,220.0,44.0,24.0,28.0
+2010-02-25,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,310.0,22.0,35.0,37.0
+2010-02-25,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,200.0,51.0,24.0,28.0
+2010-02-26,Dgo. : Planta TIF No. 546 (antes TIF No.65),Novillona,170.0,16.0,32.0,34.0
+2010-02-26,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,220.0,28.0,24.0,28.0
+2010-02-02,Edo. Méx. : Cerro Gordo,Pradera,278.0,163.0,,38.0
+2010-02-03,Edo. Méx. : Cerro Gordo,Pradera,278.0,123.0,,38.0
+2010-02-05,Edo. Méx. : Cerro Gordo,Pradera,278.0,99.0,,38.0
+2010-02-08,Edo. Méx. : Cerro Gordo,Pradera,278.0,162.0,,38.0
+2010-02-09,Edo. Méx. : Cerro Gordo,Pradera,278.0,85.0,,38.0
+2010-02-10,Edo. Méx. : Cerro Gordo,Pradera,278.0,118.0,,38.0
+2010-02-12,Edo. Méx. : Cerro Gordo,Pradera,278.0,66.0,,38.0
+2010-02-15,Edo. Méx. : Cerro Gordo,Pradera,278.0,176.0,,38.0
+2010-02-16,Edo. Méx. : Cerro Gordo,Pradera,278.0,84.0,,38.0
+2010-02-18,Edo. Méx. : Cerro Gordo,Pradera,278.0,125.0,,38.0
+2010-02-22,Edo. Méx. : Cerro Gordo,Pradera,278.0,134.0,,38.0
+2010-02-23,Edo. Méx. : Cerro Gordo,Pradera,278.0,94.0,,38.0
+2010-02-24,Edo. Méx. : Cerro Gordo,Pradera,278.0,76.0,,38.0
+2010-02-02,Edo. Méx. : La Paz,Corral,320.0,220.0,,35.5
+2010-02-03,Edo. Méx. : La Paz,Corral,320.0,270.0,,36.0
+2010-02-04,Edo. Méx. : La Paz,Corral,320.0,220.0,,35.5
+2010-02-05,Edo. Méx. : La Paz,Corral,320.0,220.0,,35.5
+2010-02-08,Edo. Méx. : La Paz,Corral,320.0,240.0,,35.5
+2010-02-09,Edo. Méx. : La Paz,Corral,320.0,250.0,,35.5
+2010-02-10,Edo. Méx. : La Paz,Corral,320.0,250.0,,35.5
+2010-02-11,Edo. Méx. : La Paz,Corral,320.0,200.0,,35.5
+2010-02-12,Edo. Méx. : La Paz,Corral,320.0,220.0,,35.5
+2010-02-15,Edo. Méx. : La Paz,Corral,320.0,240.0,,35.5
+2010-02-16,Edo. Méx. : La Paz,Corral,320.0,200.0,,35.5
+2010-02-18,Edo. Méx. : La Paz,Corral,320.0,240.0,,35.5
+2010-02-22,Edo. Méx. : La Paz,Corral,320.0,250.0,,36.0
+2010-02-23,Edo. Méx. : La Paz,Corral,320.0,226.0,,35.5
+2010-02-24,Edo. Méx. : La Paz,Corral,320.0,230.0,,35.5
+2010-02-25,Edo. Méx. : La Paz,Corral,320.0,220.0,,35.5
+2010-02-02,Edo. Méx. : Temamatla,Corral,320.0,180.0,,35.0
+2010-02-03,Edo. Méx. : Temamatla,Corral,320.0,170.0,,35.5
+2010-02-04,Edo. Méx. : Temamatla,Corral,320.0,170.0,,35.5
+2010-02-05,Edo. Méx. : Temamatla,Corral,320.0,170.0,,35.0
+2010-02-08,Edo. Méx. : Temamatla,Corral,320.0,190.0,,35.5
+2010-02-09,Edo. Méx. : Temamatla,Corral,320.0,175.0,,35.5
+2010-02-10,Edo. Méx. : Temamatla,Corral,320.0,140.0,,35.5
+2010-02-11,Edo. Méx. : Temamatla,Corral,320.0,110.0,,35.0
+2010-02-12,Edo. Méx. : Temamatla,Corral,320.0,138.0,,35.5
+2010-02-15,Edo. Méx. : Temamatla,Corral,320.0,150.0,,35.5
+2010-02-16,Edo. Méx. : Temamatla,Corral,320.0,140.0,,35.0
+2010-02-18,Edo. Méx. : Temamatla,Corral,320.0,150.0,,35.0
+2010-02-22,Edo. Méx. : Temamatla,Corral,320.0,180.0,,35.5
+2010-02-23,Edo. Méx. : Temamatla,Corral,320.0,150.0,,35.0
+2010-02-24,Edo. Méx. : Temamatla,Corral,320.0,150.0,,35.0
+2010-02-25,Edo. Méx. : Temamatla,Corral,320.0,190.0,,35.0
+2010-02-02,Edo. Méx. : Tlalnepantla,Corral,290.0,67.0,,38.0
+2010-02-02,Edo. Méx. : Tlalnepantla,Vaca,190.0,42.0,,26.0
+2010-02-03,Edo. Méx. : Tlalnepantla,Corral,290.0,54.0,,38.0
+2010-02-03,Edo. Méx. : Tlalnepantla,Vaca,190.0,46.0,,26.0
+2010-02-04,Edo. Méx. : Tlalnepantla,Corral,290.0,60.0,,38.0
+2010-02-04,Edo. Méx. : Tlalnepantla,Vaca,190.0,39.0,,26.0
+2010-02-05,Edo. Méx. : Tlalnepantla,Corral,290.0,70.0,,38.0
+2010-02-05,Edo. Méx. : Tlalnepantla,Vaca,190.0,69.0,,26.0
+2010-02-08,Edo. Méx. : Tlalnepantla,Corral,290.0,113.0,,38.0
+2010-02-08,Edo. Méx. : Tlalnepantla,Vaca,190.0,55.0,,26.0
+2010-02-09,Edo. Méx. : Tlalnepantla,Corral,290.0,46.0,,38.0
+2010-02-09,Edo. Méx. : Tlalnepantla,Vaca,190.0,31.0,,26.0
+2010-02-10,Edo. Méx. : Tlalnepantla,Corral,290.0,61.0,,38.0
+2010-02-10,Edo. Méx. : Tlalnepantla,Vaca,190.0,54.0,,26.0
+2010-02-11,Edo. Méx. : Tlalnepantla,Corral,290.0,36.0,,38.0
+2010-02-11,Edo. Méx. : Tlalnepantla,Vaca,190.0,67.0,,26.0
+2010-02-12,Edo. Méx. : Tlalnepantla,Corral,290.0,61.0,,38.0
+2010-02-12,Edo. Méx. : Tlalnepantla,Vaca,190.0,21.0,,26.0
+2010-02-15,Edo. Méx. : Tlalnepantla,Corral,290.0,124.0,,38.0
+2010-02-15,Edo. Méx. : Tlalnepantla,Vaca,190.0,24.0,,26.0
+2010-02-16,Edo. Méx. : Tlalnepantla,Corral,290.0,90.0,,38.0
+2010-02-16,Edo. Méx. : Tlalnepantla,Vaca,190.0,52.0,,26.0
+2010-02-18,Edo. Méx. : Tlalnepantla,Corral,290.0,67.0,,38.0
+2010-02-18,Edo. Méx. : Tlalnepantla,Vaca,190.0,35.0,,26.0
+2010-02-19,Edo. Méx. : Tlalnepantla,Corral,290.0,131.0,,38.0
+2010-02-19,Edo. Méx. : Tlalnepantla,Vaca,190.0,38.0,,26.0
+2010-02-22,Edo. Méx. : Tlalnepantla,Corral,290.0,114.0,,38.0
+2010-02-22,Edo. Méx. : Tlalnepantla,Vaca,190.0,42.0,,26.0
+2010-02-23,Edo. Méx. : Tlalnepantla,Corral,290.0,79.0,,38.0
+2010-02-23,Edo. Méx. : Tlalnepantla,Vaca,190.0,49.0,,26.0
+2010-02-24,Edo. Méx. : Tlalnepantla,Corral,290.0,63.0,,38.0
+2010-02-24,Edo. Méx. : Tlalnepantla,Vaca,190.0,33.0,,26.0
+2010-02-25,Edo. Méx. : Tlalnepantla,Corral,290.0,56.0,,38.0
+2010-02-25,Edo. Méx. : Tlalnepantla,Vaca,190.0,44.0,,26.0
+2010-02-26,Edo. Méx. : Tlalnepantla,Corral,290.0,126.0,,38.0
+2010-02-26,Edo. Méx. : Tlalnepantla,Vaca,190.0,60.0,,26.0
+2010-02-02,"Gto. : R.P. León, Serv. Integral",Toros,,240.0,34.0,34.5
+2010-02-02,"Gto. : R.P. León, Serv. Integral",Vaca,,60.0,25.0,26.0
+2010-02-03,"Gto. : R.P. León, Serv. Integral",Novillona,,10.0,28.0,29.0
+2010-02-03,"Gto. : R.P. León, Serv. Integral",Toros,,170.0,34.0,34.5
+2010-02-03,"Gto. : R.P. León, Serv. Integral",Vaca,,30.0,25.0,26.0
+2010-02-04,"Gto. : R.P. León, Serv. Integral",Toros,,180.0,34.0,34.5
+2010-02-04,"Gto. : R.P. León, Serv. Integral",Vaca,,70.0,25.0,26.0
+2010-02-05,"Gto. : R.P. León, Serv. Integral",Novillona,,10.0,28.0,29.0
+2010-02-05,"Gto. : R.P. León, Serv. Integral",Toros,,210.0,34.0,34.5
+2010-02-05,"Gto. : R.P. León, Serv. Integral",Vaca,,110.0,25.0,26.0
+2010-02-08,"Gto. : R.P. León, Serv. Integral",Toros,,210.0,34.0,34.5
+2010-02-08,"Gto. : R.P. León, Serv. Integral",Vaca,,160.0,25.0,26.0
+2010-02-09,"Gto. : R.P. León, Serv. Integral",Toros,,170.0,34.0,34.5
+2010-02-09,"Gto. : R.P. León, Serv. Integral",Vaca,,110.0,25.0,26.0
+2010-02-10,"Gto. : R.P. León, Serv. Integral",Novillona,,10.0,28.0,29.0
+2010-02-10,"Gto. : R.P. León, Serv. Integral",Toros,,180.0,34.0,34.5
+2010-02-10,"Gto. : R.P. León, Serv. Integral",Vaca,,40.0,25.0,26.0
+2010-02-11,"Gto. : R.P. León, Serv. Integral",Novillona,,10.0,28.0,29.0
+2010-02-11,"Gto. : R.P. León, Serv. Integral",Toros,,140.0,34.0,34.5
+2010-02-11,"Gto. : R.P. León, Serv. Integral",Vaca,,70.0,25.0,26.0
+2010-02-12,"Gto. : R.P. León, Serv. Integral",Novillona,,10.0,28.0,29.0
+2010-02-12,"Gto. : R.P. León, Serv. Integral",Toros,,140.0,34.0,34.5
+2010-02-12,"Gto. : R.P. León, Serv. Integral",Vaca,,70.0,25.0,26.0
+2010-02-15,"Gto. : R.P. León, Serv. Integral",Novillona,,20.0,28.0,29.0
+2010-02-15,"Gto. : R.P. León, Serv. Integral",Toros,,140.0,34.0,34.5
+2010-02-15,"Gto. : R.P. León, Serv. Integral",Vaca,,80.0,25.0,26.0
+2010-02-16,"Gto. : R.P. León, Serv. Integral",Novillona,,20.0,28.0,29.0
+2010-02-17,"Gto. : R.P. León, Serv. Integral",Toros,,200.0,34.0,34.5
+2010-02-17,"Gto. : R.P. León, Serv. Integral",Vaca,,70.0,25.0,26.0
+2010-02-18,"Gto. : R.P. León, Serv. Integral",Novillona,,5.0,28.0,29.0
+2010-02-18,"Gto. : R.P. León, Serv. Integral",Toros,,200.0,34.0,34.5
+2010-02-18,"Gto. : R.P. León, Serv. Integral",Vaca,,50.0,25.0,26.0
+2010-02-19,"Gto. : R.P. León, Serv. Integral",Novillona,,20.0,28.0,29.0
+2010-02-19,"Gto. : R.P. León, Serv. Integral",Toros,,230.0,34.0,34.5
+2010-02-19,"Gto. : R.P. León, Serv. Integral",Vaca,,100.0,25.0,26.0
+2010-02-22,"Gto. : R.P. León, Serv. Integral",Toros,,170.0,34.0,34.5
+2010-02-22,"Gto. : R.P. León, Serv. Integral",Vaca,,60.0,25.0,26.0
+2010-02-23,"Gto. : R.P. León, Serv. Integral",Novillona,,10.0,28.0,29.0
+2010-02-23,"Gto. : R.P. León, Serv. Integral",Toros,,140.0,34.0,34.5
+2010-02-23,"Gto. : R.P. León, Serv. Integral",Vaca,,60.0,25.0,26.0
+2010-02-24,"Gto. : R.P. León, Serv. Integral",Toros,,260.0,34.0,34.5
+2010-02-24,"Gto. : R.P. León, Serv. Integral",Vaca,,40.0,25.0,26.0
+2010-02-25,"Gto. : R.P. León, Serv. Integral",Toros,,205.0,34.0,34.5
+2010-02-25,"Gto. : R.P. León, Serv. Integral",Vaca,,55.0,25.0,26.0
+2010-02-26,"Gto. : R.P. León, Serv. Integral",Novillona,,20.0,28.0,29.0
+2010-02-26,"Gto. : R.P. León, Serv. Integral",Toros,,200.0,34.0,34.5
+2010-02-26,"Gto. : R.P. León, Serv. Integral",Vaca,,60.0,25.0,26.0
+2010-02-02,Jal. : R.M. Guadalajara,Corral,300.0,202.0,,36.0
+2010-02-02,Jal. : R.M. Guadalajara,Vaca,200.0,108.0,,25.0
+2010-02-03,Jal. : R.M. Guadalajara,Corral,300.0,585.0,,36.0
+2010-02-03,Jal. : R.M. Guadalajara,Vaca,200.0,315.0,,25.0
+2010-02-04,Jal. : R.M. Guadalajara,Corral,300.0,284.0,,36.0
+2010-02-04,Jal. : R.M. Guadalajara,Vaca,200.0,153.0,,25.0
+2010-02-05,Jal. : R.M. Guadalajara,Corral,300.0,378.0,,36.0
+2010-02-05,Jal. : R.M. Guadalajara,Vaca,200.0,204.0,,25.0
+2010-02-08,Jal. : R.M. Guadalajara,Corral,300.0,625.0,,36.0
+2010-02-08,Jal. : R.M. Guadalajara,Vaca,200.0,335.0,,25.0
+2010-02-09,Jal. : R.M. Guadalajara,Corral,300.0,430.0,,36.0
+2010-02-09,Jal. : R.M. Guadalajara,Vaca,200.0,232.0,,25.0
+2010-02-10,Jal. : R.M. Guadalajara,Corral,300.0,304.0,,36.0
+2010-02-10,Jal. : R.M. Guadalajara,Vaca,200.0,164.0,,25.0
+2010-02-11,Jal. : R.M. Guadalajara,Corral,300.0,313.0,,36.0
+2010-02-11,Jal. : R.M. Guadalajara,Vaca,200.0,169.0,,25.0
+2010-02-12,Jal. : R.M. Guadalajara,Corral,300.0,380.0,,36.0
+2010-02-12,Jal. : R.M. Guadalajara,Vaca,200.0,204.0,,25.0
+2010-02-15,Jal. : R.M. Guadalajara,Corral,300.0,343.0,,36.0
+2010-02-15,Jal. : R.M. Guadalajara,Vaca,200.0,185.0,,25.0
+2010-02-19,Jal. : R.M. Guadalajara,Corral,300.0,624.0,,36.0
+2010-02-19,Jal. : R.M. Guadalajara,Vaca,200.0,336.0,,25.0
+2010-02-22,Jal. : R.M. Guadalajara,Corral,300.0,480.0,,36.0
+2010-02-22,Jal. : R.M. Guadalajara,Vaca,200.0,258.0,,25.0
+2010-02-23,Jal. : R.M. Guadalajara,Corral,300.0,553.0,,36.0
+2010-02-23,Jal. : R.M. Guadalajara,Vaca,200.0,297.0,,25.0
+2010-02-24,Jal. : R.M. Guadalajara,Corral,300.0,324.0,,36.0
+2010-02-24,Jal. : R.M. Guadalajara,Vaca,200.0,174.0,,25.0
+2010-02-26,Jal. : R.M. Guadalajara,Corral,300.0,495.0,,36.0
+2010-02-26,Jal. : R.M. Guadalajara,Vaca,200.0,267.0,,25.0
+2010-02-02,Jal. : R.M. Tlaquepaque,Corral,300.0,64.0,,36.75
+2010-02-02,Jal. : R.M. Tlaquepaque,Vaca,200.0,48.0,,25.0
+2010-02-03,Jal. : R.M. Tlaquepaque,Corral,300.0,18.0,,35.8
+2010-02-03,Jal. : R.M. Tlaquepaque,Vaca,200.0,53.0,,25.0
+2010-02-05,Jal. : R.M. Tlaquepaque,Corral,300.0,10.0,,35.8
+2010-02-05,Jal. : R.M. Tlaquepaque,Vaca,200.0,58.0,,25.0
+2010-02-08,Jal. : R.M. Tlaquepaque,Corral,300.0,35.0,,35.95
+2010-02-08,Jal. : R.M. Tlaquepaque,Vaca,200.0,105.0,,25.0
+2010-02-09,Jal. : R.M. Tlaquepaque,Corral,300.0,16.0,,35.95
+2010-02-09,Jal. : R.M. Tlaquepaque,Vaca,200.0,47.0,,25.0
+2010-02-10,Jal. : R.M. Tlaquepaque,Corral,300.0,17.0,,35.9
+2010-02-10,Jal. : R.M. Tlaquepaque,Vaca,200.0,52.0,,25.0
+2010-02-12,Jal. : R.M. Tlaquepaque,Corral,300.0,18.0,,35.9
+2010-02-12,Jal. : R.M. Tlaquepaque,Vaca,200.0,56.0,,25.0
+2010-02-15,Jal. : R.M. Tlaquepaque,Corral,300.0,32.0,,35.9
+2010-02-15,Jal. : R.M. Tlaquepaque,Vaca,200.0,102.0,,25.0
+2010-02-22,Jal. : R.M. Tlaquepaque,Corral,300.0,33.0,,35.9
+2010-02-22,Jal. : R.M. Tlaquepaque,Vaca,200.0,102.0,,25.0
+2010-02-23,Jal. : R.M. Tlaquepaque,Corral,300.0,15.0,,35.9
+2010-02-23,Jal. : R.M. Tlaquepaque,Vaca,200.0,45.0,,25.0
+2010-02-24,Jal. : R.M. Tlaquepaque,Corral,300.0,17.0,,35.95
+2010-02-24,Jal. : R.M. Tlaquepaque,Vaca,200.0,53.0,,25.0
+2010-02-26,Jal. : R.M. Tlaquepaque,Corral,300.0,17.0,,35.95
+2010-02-26,Jal. : R.M. Tlaquepaque,Vaca,200.0,52.0,,25.0
+2010-02-02,Jal. : R.M. Tonalá,Corral,300.0,14.0,,36.0
+2010-02-02,Jal. : R.M. Tonalá,Vaca,200.0,77.0,,25.0
+2010-02-03,Jal. : R.M. Tonalá,Corral,300.0,22.0,,36.0
+2010-02-03,Jal. : R.M. Tonalá,Vaca,200.0,72.0,,25.0
+2010-02-04,Jal. : R.M. Tonalá,Corral,300.0,17.0,,36.0
+2010-02-04,Jal. : R.M. Tonalá,Vaca,200.0,51.0,,25.0
+2010-02-08,Jal. : R.M. Tonalá,Corral,300.0,140.0,,36.0
+2010-02-08,Jal. : R.M. Tonalá,Vaca,200.0,103.0,,25.0
+2010-02-09,Jal. : R.M. Tonalá,Corral,300.0,12.0,,36.0
+2010-02-09,Jal. : R.M. Tonalá,Vaca,200.0,43.0,,25.0
+2010-02-10,Jal. : R.M. Tonalá,Corral,300.0,9.0,,36.0
+2010-02-10,Jal. : R.M. Tonalá,Vaca,200.0,37.0,,25.0
+2010-02-11,Jal. : R.M. Tonalá,Corral,300.0,15.0,,36.0
+2010-02-11,Jal. : R.M. Tonalá,Vaca,200.0,45.0,,25.0
+2010-02-15,Jal. : R.M. Tonalá,Corral,300.0,35.0,,36.0
+2010-02-15,Jal. : R.M. Tonalá,Vaca,200.0,105.0,,25.0
+2010-02-19,Jal. : R.M. Tonalá,Corral,300.0,20.0,,36.0
+2010-02-19,Jal. : R.M. Tonalá,Vaca,200.0,55.0,,25.0
+2010-02-22,Jal. : R.M. Tonalá,Corral,300.0,48.0,,36.0
+2010-02-22,Jal. : R.M. Tonalá,Vaca,200.0,144.0,,25.0
+2010-02-23,Jal. : R.M. Tonalá,Corral,300.0,14.0,,36.0
+2010-02-23,Jal. : R.M. Tonalá,Vaca,200.0,56.0,,25.0
+2010-02-24,Jal. : R.M. Tonalá,Corral,300.0,13.0,,36.0
+2010-02-24,Jal. : R.M. Tonalá,Vaca,200.0,29.0,,25.0
+2010-02-25,Jal. : R.M. Tonalá,Corral,300.0,17.0,,36.0
+2010-02-25,Jal. : R.M. Tonalá,Vaca,200.0,51.0,,25.0
+2010-02-02,Jal. : Rastro de Zapopan,Corral,300.0,269.0,,36.0
+2010-02-02,Jal. : Rastro de Zapopan,Vaca,200.0,30.0,,25.0
+2010-02-03,Jal. : Rastro de Zapopan,Corral,300.0,347.0,,36.0
+2010-02-03,Jal. : Rastro de Zapopan,Vaca,200.0,60.0,,26.0
+2010-02-04,Jal. : Rastro de Zapopan,Corral,300.0,136.0,,36.0
+2010-02-04,Jal. : Rastro de Zapopan,Vaca,200.0,17.0,,25.0
+2010-02-05,Jal. : Rastro de Zapopan,Corral,300.0,264.0,,36.0
+2010-02-05,Jal. : Rastro de Zapopan,Vaca,200.0,81.0,,25.0
+2010-02-08,Jal. : Rastro de Zapopan,Corral,300.0,274.0,,36.0
+2010-02-08,Jal. : Rastro de Zapopan,Vaca,200.0,35.0,,25.0
+2010-02-09,Jal. : Rastro de Zapopan,Corral,300.0,130.0,,36.0
+2010-02-09,Jal. : Rastro de Zapopan,Vaca,200.0,8.0,,25.0
+2010-02-10,Jal. : Rastro de Zapopan,Corral,300.0,144.0,,36.0
+2010-02-10,Jal. : Rastro de Zapopan,Vaca,200.0,16.0,,25.0
+2010-02-11,Jal. : Rastro de Zapopan,Corral,300.0,290.0,,36.0
+2010-02-11,Jal. : Rastro de Zapopan,Vaca,200.0,51.0,,25.0
+2010-02-12,Jal. : Rastro de Zapopan,Corral,300.0,211.0,,36.0
+2010-02-12,Jal. : Rastro de Zapopan,Vaca,200.0,32.0,,25.0
+2010-02-15,Jal. : Rastro de Zapopan,Corral,300.0,243.0,,36.0
+2010-02-15,Jal. : Rastro de Zapopan,Vaca,200.0,27.0,,25.0
+2010-02-16,Jal. : Rastro de Zapopan,Corral,300.0,168.0,,36.0
+2010-02-16,Jal. : Rastro de Zapopan,Vaca,200.0,19.0,,25.0
+2010-02-19,Jal. : Rastro de Zapopan,Corral,300.0,463.0,,36.0
+2010-02-19,Jal. : Rastro de Zapopan,Vaca,200.0,50.0,,26.0
+2010-02-22,Jal. : Rastro de Zapopan,Corral,300.0,252.0,,36.0
+2010-02-22,Jal. : Rastro de Zapopan,Vaca,200.0,28.0,,25.0
+2010-02-23,Jal. : Rastro de Zapopan,Corral,300.0,216.0,,36.0
+2010-02-23,Jal. : Rastro de Zapopan,Vaca,200.0,54.0,,25.0
+2010-02-24,Jal. : Rastro de Zapopan,Corral,300.0,156.0,,36.0
+2010-02-24,Jal. : Rastro de Zapopan,Vaca,200.0,17.0,,25.0
+2010-02-25,Jal. : Rastro de Zapopan,Corral,300.0,158.0,,36.0
+2010-02-25,Jal. : Rastro de Zapopan,Vaca,200.0,17.0,,25.0
+2010-02-02,Mich. : R.M. Morelia,Corral,250.0,167.0,35.0,36.0
+2010-02-03,Mich. : R.M. Morelia,Corral,250.0,151.0,35.0,36.0
+2010-02-04,Mich. : R.M. Morelia,Corral,250.0,168.0,35.0,36.0
+2010-02-05,Mich. : R.M. Morelia,Corral,250.0,22.0,35.0,36.0
+2010-02-08,Mich. : R.M. Morelia,Corral,250.0,63.0,35.0,36.0
+2010-02-09,Mich. : R.M. Morelia,Corral,250.0,127.0,35.0,36.0
+2010-02-10,Mich. : R.M. Morelia,Corral,250.0,164.0,35.0,36.0
+2010-02-11,Mich. : R.M. Morelia,Corral,250.0,49.0,35.0,36.0
+2010-02-12,Mich. : R.M. Morelia,Corral,250.0,36.0,35.0,36.0
+2010-02-15,Mich. : R.M. Morelia,Corral,250.0,172.0,35.0,36.0
+2010-02-16,Mich. : R.M. Morelia,Corral,250.0,160.0,35.0,36.0
+2010-02-17,Mich. : R.M. Morelia,Corral,250.0,102.0,35.0,36.0
+2010-02-18,Mich. : R.M. Morelia,Corral,250.0,117.0,35.0,36.0
+2010-02-19,Mich. : R.M. Morelia,Corral,250.0,44.0,35.0,36.0
+2010-02-22,Mich. : R.M. Morelia,Corral,250.0,169.0,35.0,36.0
+2010-02-23,Mich. : R.M. Morelia,Corral,250.0,130.0,35.0,36.0
+2010-02-24,Mich. : R.M. Morelia,Corral,250.0,140.0,35.0,36.0
+2010-02-25,Mich. : R.M. Morelia,Corral,250.0,50.0,35.0,36.0
+2010-02-26,Mich. : R.M. Morelia,Corral,250.0,48.0,35.0,36.0
+2010-02-01,N.L. : Bodega de Productos Internacional,Corral,280.0,102.0,37.0,37.0
+2010-02-02,N.L. : Bodega de Productos Internacional,Corral,280.0,102.0,37.0,37.0
+2010-02-03,N.L. : Bodega de Productos Internacional,Corral,280.0,132.0,37.0,37.0
+2010-02-04,N.L. : Bodega de Productos Internacional,Corral,280.0,86.0,37.0,37.0
+2010-02-05,N.L. : Bodega de Productos Internacional,Corral,280.0,272.0,37.0,37.0
+2010-02-08,N.L. : Bodega de Productos Internacional,Corral,280.0,118.0,37.0,37.0
+2010-02-09,N.L. : Bodega de Productos Internacional,Corral,280.0,101.0,37.0,37.0
+2010-02-10,N.L. : Bodega de Productos Internacional,Corral,280.0,204.0,37.0,37.0
+2010-02-11,N.L. : Bodega de Productos Internacional,Corral,280.0,104.0,37.5,38.0
+2010-02-12,N.L. : Bodega de Productos Internacional,Corral,280.0,166.0,37.5,38.0
+2010-02-15,N.L. : Bodega de Productos Internacional,Corral,280.0,121.0,37.5,38.0
+2010-02-16,N.L. : Bodega de Productos Internacional,Corral,280.0,121.0,37.5,38.0
+2010-02-17,N.L. : Bodega de Productos Internacional,Corral,280.0,126.0,37.5,38.0
+2010-02-18,N.L. : Bodega de Productos Internacional,Corral,280.0,91.0,37.5,38.0
+2010-02-19,N.L. : Bodega de Productos Internacional,Corral,280.0,97.0,37.5,38.0
+2010-02-22,N.L. : Bodega de Productos Internacional,Corral,280.0,105.0,37.5,38.0
+2010-02-23,N.L. : Bodega de Productos Internacional,Corral,280.0,66.0,37.5,38.0
+2010-02-24,N.L. : Bodega de Productos Internacional,Corral,280.0,158.0,37.5,38.0
+2010-02-25,N.L. : Bodega de Productos Internacional,Corral,280.0,109.0,37.5,38.0
+2010-02-26,N.L. : Bodega de Productos Internacional,Corral,280.0,135.0,37.0,37.5
+2010-02-03,N.L. : Chamar Alimentos TIF 356,Corral,280.0,468.0,36.5,36.5
+2010-02-04,N.L. : Chamar Alimentos TIF 356,Corral,280.0,299.0,36.5,36.5
+2010-02-05,N.L. : Chamar Alimentos TIF 356,Corral,280.0,305.0,36.5,36.5
+2010-02-08,N.L. : Chamar Alimentos TIF 356,Corral,280.0,521.0,36.5,36.5
+2010-02-09,N.L. : Chamar Alimentos TIF 356,Corral,280.0,516.0,36.5,36.5
+2010-02-10,N.L. : Chamar Alimentos TIF 356,Corral,280.0,458.0,36.5,36.5
+2010-02-11,N.L. : Chamar Alimentos TIF 356,Corral,280.0,341.0,36.5,36.5
+2010-02-12,N.L. : Chamar Alimentos TIF 356,Corral,280.0,419.0,36.5,36.5
+2010-02-15,N.L. : Chamar Alimentos TIF 356,Corral,280.0,328.0,36.5,36.5
+2010-02-16,N.L. : Chamar Alimentos TIF 356,Corral,280.0,457.0,37.0,37.0
+2010-02-17,N.L. : Chamar Alimentos TIF 356,Corral,280.0,407.0,36.5,36.5
+2010-02-18,N.L. : Chamar Alimentos TIF 356,Corral,280.0,493.0,36.5,36.5
+2010-02-19,N.L. : Chamar Alimentos TIF 356,Corral,280.0,301.0,36.5,36.5
+2010-02-22,N.L. : Chamar Alimentos TIF 356,Corral,280.0,305.0,36.5,36.5
+2010-02-23,N.L. : Chamar Alimentos TIF 356,Corral,280.0,474.0,36.5,36.5
+2010-02-24,N.L. : Chamar Alimentos TIF 356,Corral,280.0,475.0,36.5,36.5
+2010-02-25,N.L. : Chamar Alimentos TIF 356,Corral,280.0,352.0,36.5,36.5
+2010-02-26,N.L. : Chamar Alimentos TIF 356,Corral,280.0,280.0,36.0,36.0
+2010-02-02,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,798.0,37.0,37.0
+2010-02-03,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,398.0,37.0,37.0
+2010-02-04,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,398.0,37.0,37.0
+2010-02-05,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,397.0,37.0,37.0
+2010-02-08,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,796.0,37.0,37.0
+2010-02-09,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,398.0,37.0,37.0
+2010-02-10,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,398.0,37.0,37.0
+2010-02-11,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,398.0,37.0,37.0
+2010-02-12,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,397.0,37.0,37.0
+2010-02-15,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,799.0,37.0,37.0
+2010-02-16,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,398.0,37.0,37.0
+2010-02-17,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,397.0,37.0,37.0
+2010-02-18,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,398.0,36.5,36.5
+2010-02-19,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,398.0,36.5,36.5
+2010-02-22,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,798.0,36.5,36.5
+2010-02-23,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,398.0,36.5,36.5
+2010-02-24,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,399.0,36.5,36.5
+2010-02-25,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,399.0,36.5,36.5
+2010-02-26,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,398.0,35.5,35.5
+2010-02-03,N.L. : TIF 15 Emp. Treviño,Corral,280.0,250.0,37.0,37.0
+2010-02-05,N.L. : TIF 15 Emp. Treviño,Corral,280.0,250.0,37.0,37.0
+2010-02-08,N.L. : TIF 15 Emp. Treviño,Corral,280.0,580.0,37.0,37.0
+2010-02-09,N.L. : TIF 15 Emp. Treviño,Corral,280.0,270.0,37.0,37.0
+2010-02-10,N.L. : TIF 15 Emp. Treviño,Corral,280.0,140.0,37.0,37.0
+2010-02-11,N.L. : TIF 15 Emp. Treviño,Corral,280.0,377.0,37.0,37.0
+2010-02-12,N.L. : TIF 15 Emp. Treviño,Corral,280.0,28.0,37.0,37.0
+2010-02-15,N.L. : TIF 15 Emp. Treviño,Corral,280.0,500.0,37.0,37.0
+2010-02-16,N.L. : TIF 15 Emp. Treviño,Corral,280.0,171.0,37.0,37.0
+2010-02-17,N.L. : TIF 15 Emp. Treviño,Corral,280.0,230.0,37.0,37.0
+2010-02-18,N.L. : TIF 15 Emp. Treviño,Corral,280.0,350.0,36.5,36.5
+2010-02-19,N.L. : TIF 15 Emp. Treviño,Corral,280.0,250.0,36.5,36.5
+2010-02-22,N.L. : TIF 15 Emp. Treviño,Corral,280.0,530.0,36.5,36.5
+2010-02-23,N.L. : TIF 15 Emp. Treviño,Corral,280.0,180.0,36.5,36.5
+2010-02-24,N.L. : TIF 15 Emp. Treviño,Corral,280.0,200.0,36.5,36.5
+2010-02-25,N.L. : TIF 15 Emp. Treviño,Corral,280.0,150.0,36.5,36.5
+2010-02-26,N.L. : TIF 15 Emp. Treviño,Corral,280.0,200.0,36.0,37.5
+2010-02-01,Nay. : R.M. Tepic,Toros,344.0,24.0,33.0,36.0
+2010-02-01,Nay. : R.M. Tepic,Vaca,272.0,61.0,29.0,34.0
+2010-02-02,Nay. : R.M. Tepic,Toros,379.0,13.0,33.0,36.0
+2010-02-02,Nay. : R.M. Tepic,Vaca,256.0,56.0,29.0,34.0
+2010-02-03,Nay. : R.M. Tepic,Toros,361.0,5.0,33.0,36.0
+2010-02-03,Nay. : R.M. Tepic,Vaca,244.0,54.0,29.0,34.0
+2010-02-05,Nay. : R.M. Tepic,Toros,371.0,12.0,33.0,36.0
+2010-02-05,Nay. : R.M. Tepic,Vaca,264.0,52.0,29.0,34.0
+2010-02-06,Nay. : R.M. Tepic,Toros,329.0,9.0,33.0,36.0
+2010-02-06,Nay. : R.M. Tepic,Vaca,236.0,35.0,29.0,34.0
+2010-02-07,Nay. : R.M. Tepic,Toros,263.0,46.0,28.0,34.0
+2010-02-07,Nay. : R.M. Tepic,Vaca,228.0,37.0,28.0,34.0
+2010-02-08,Nay. : R.M. Tepic,Toros,340.0,6.0,33.0,36.0
+2010-02-08,Nay. : R.M. Tepic,Vaca,258.0,85.0,29.0,34.0
+2010-02-09,Nay. : R.M. Tepic,Toros,401.0,13.0,33.0,36.0
+2010-02-09,Nay. : R.M. Tepic,Vaca,275.0,36.0,29.0,34.0
+2010-02-10,Nay. : R.M. Tepic,Toros,401.0,18.0,33.0,36.0
+2010-02-10,Nay. : R.M. Tepic,Vaca,275.0,59.0,29.0,34.0
+2010-02-12,Nay. : R.M. Tepic,Toros,339.0,21.0,33.0,36.0
+2010-02-12,Nay. : R.M. Tepic,Vaca,251.0,53.0,29.0,34.0
+2010-02-13,Nay. : R.M. Tepic,Toros,339.0,7.0,33.0,36.0
+2010-02-13,Nay. : R.M. Tepic,Vaca,251.0,51.0,29.0,34.0
+2010-02-15,Nay. : R.M. Tepic,Toros,377.0,23.0,33.0,36.0
+2010-02-15,Nay. : R.M. Tepic,Vaca,254.0,56.0,29.0,34.0
+2010-02-16,Nay. : R.M. Tepic,Toros,377.0,5.0,33.0,36.0
+2010-02-16,Nay. : R.M. Tepic,Vaca,254.0,66.0,29.0,34.0
+2010-02-17,Nay. : R.M. Tepic,Toros,365.0,8.0,33.0,36.0
+2010-02-17,Nay. : R.M. Tepic,Vaca,244.0,53.0,29.0,34.0
+2010-02-20,Nay. : R.M. Tepic,Toros,343.0,5.0,33.0,36.0
+2010-02-20,Nay. : R.M. Tepic,Vaca,258.0,71.0,29.0,34.0
+2010-02-22,Nay. : R.M. Tepic,Toros,391.0,17.0,33.0,36.0
+2010-02-22,Nay. : R.M. Tepic,Vaca,272.0,78.0,29.0,34.0
+2010-02-23,Nay. : R.M. Tepic,Toros,391.0,7.0,33.0,36.0
+2010-02-23,Nay. : R.M. Tepic,Vaca,372.0,67.0,29.0,34.0
+2010-02-24,Nay. : R.M. Tepic,Toros,345.0,17.0,33.0,36.0
+2010-02-24,Nay. : R.M. Tepic,Vaca,256.0,47.0,29.0,34.0
+2010-02-27,Nay. : R.M. Tepic,Toros,358.0,11.0,33.0,36.0
+2010-02-27,Nay. : R.M. Tepic,Vaca,269.0,44.0,29.0,34.0
+2010-02-02,Nay. : Rastro Municipal de Santiago Ixcuitla,Novillona,174.0,9.0,30.0,35.0
+2010-02-02,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,360.0,1.0,30.0,35.0
+2010-02-06,Nay. : Rastro Municipal de Santiago Ixcuitla,Novillona,179.0,7.0,30.0,35.0
+2010-02-06,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,342.0,3.0,30.0,35.0
+2010-02-07,Nay. : Rastro Municipal de Santiago Ixcuitla,Novillona,207.0,5.0,30.0,35.0
+2010-02-08,Nay. : Rastro Municipal de Santiago Ixcuitla,Novillona,183.0,7.0,30.0,35.0
+2010-02-09,Nay. : Rastro Municipal de Santiago Ixcuitla,Novillona,185.0,5.0,30.0,35.0
+2010-02-10,Nay. : Rastro Municipal de Santiago Ixcuitla,Novillona,126.0,7.0,30.0,35.0
+2010-02-12,Nay. : Rastro Municipal de Santiago Ixcuitla,Novillona,211.0,8.0,30.0,35.0
+2010-02-12,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,329.0,2.0,30.0,35.0
+2010-02-13,Nay. : Rastro Municipal de Santiago Ixcuitla,Novillona,176.0,9.0,30.0,35.0
+2010-02-13,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,315.0,1.0,30.0,35.0
+2010-02-14,Nay. : Rastro Municipal de Santiago Ixcuitla,Novillona,183.0,6.0,30.0,35.0
+2010-02-15,Nay. : Rastro Municipal de Santiago Ixcuitla,Novillona,177.0,3.0,30.0,35.0
+2010-02-15,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,220.0,2.0,30.0,35.0
+2010-02-16,Nay. : Rastro Municipal de Santiago Ixcuitla,Novillona,158.0,7.0,30.0,35.0
+2010-02-17,Nay. : Rastro Municipal de Santiago Ixcuitla,Novillona,189.0,2.0,30.0,35.0
+2010-02-19,Nay. : Rastro Municipal de Santiago Ixcuitla,Novillona,127.0,3.0,30.0,35.0
+2010-02-19,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,112.0,1.0,30.0,35.0
+2010-02-20,Nay. : Rastro Municipal de Santiago Ixcuitla,Novillona,213.0,7.0,30.0,35.0
+2010-02-20,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,207.0,3.0,30.0,35.0
+2010-02-21,Nay. : Rastro Municipal de Santiago Ixcuitla,Novillona,187.0,3.0,30.0,35.0
+2010-02-21,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,153.0,1.0,30.0,35.0
+2010-02-22,Nay. : Rastro Municipal de Santiago Ixcuitla,Novillona,198.0,3.0,30.0,35.0
+2010-02-22,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,213.0,2.0,30.0,35.0
+2010-02-23,Nay. : Rastro Municipal de Santiago Ixcuitla,Novillona,183.0,8.0,30.0,35.0
+2010-02-23,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,315.0,2.0,30.0,35.0
+2010-02-24,Nay. : Rastro Municipal de Santiago Ixcuitla,Novillona,172.0,3.0,30.0,35.0
+2010-02-24,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,315.0,1.0,30.0,35.0
+2010-02-26,Nay. : Rastro Municipal de Santiago Ixcuitla,Novillona,191.0,8.0,30.0,35.0
+2010-02-26,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,348.0,2.0,30.0,35.0
+2010-02-27,Nay. : Rastro Municipal de Santiago Ixcuitla,Novillona,193.0,6.0,30.0,35.0
+2010-02-27,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,360.0,1.0,30.0,35.0
+2010-02-28,Nay. : Rastro Municipal de Santiago Ixcuitla,Novillona,170.0,5.0,30.0,35.0
+2010-02-02,Oax. : Rastro Reforma Agraria,Corral,400.0,50.0,37.0,39.0
+2010-02-02,Oax. : Rastro Reforma Agraria,Vaca,300.0,12.0,34.0,36.0
+2010-02-03,Oax. : Rastro Reforma Agraria,Corral,400.0,60.0,37.0,39.0
+2010-02-03,Oax. : Rastro Reforma Agraria,Vaca,300.0,19.0,34.0,36.0
+2010-02-04,Oax. : Rastro Reforma Agraria,Corral,400.0,50.0,37.0,39.0
+2010-02-04,Oax. : Rastro Reforma Agraria,Vaca,300.0,16.0,34.0,36.0
+2010-02-05,Oax. : Rastro Reforma Agraria,Corral,400.0,40.0,37.0,39.0
+2010-02-05,Oax. : Rastro Reforma Agraria,Vaca,300.0,12.0,34.0,36.0
+2010-02-08,Oax. : Rastro Reforma Agraria,Corral,400.0,40.0,37.0,39.0
+2010-02-08,Oax. : Rastro Reforma Agraria,Vaca,300.0,13.0,34.0,36.0
+2010-02-09,Oax. : Rastro Reforma Agraria,Corral,400.0,60.0,38.0,39.0
+2010-02-09,Oax. : Rastro Reforma Agraria,Vaca,300.0,18.0,34.0,36.0
+2010-02-10,Oax. : Rastro Reforma Agraria,Corral,400.0,55.0,38.0,39.0
+2010-02-10,Oax. : Rastro Reforma Agraria,Vaca,300.0,17.0,34.0,36.0
+2010-02-11,Oax. : Rastro Reforma Agraria,Corral,400.0,60.0,38.0,39.0
+2010-02-11,Oax. : Rastro Reforma Agraria,Vaca,300.0,20.0,34.0,36.0
+2010-02-12,Oax. : Rastro Reforma Agraria,Corral,400.0,45.0,38.0,39.0
+2010-02-12,Oax. : Rastro Reforma Agraria,Vaca,300.0,13.0,34.0,36.0
+2010-02-15,Oax. : Rastro Reforma Agraria,Corral,400.0,50.0,38.0,39.0
+2010-02-15,Oax. : Rastro Reforma Agraria,Vaca,300.0,18.0,34.0,36.0
+2010-02-16,Oax. : Rastro Reforma Agraria,Corral,400.0,69.0,38.0,39.0
+2010-02-16,Oax. : Rastro Reforma Agraria,Vaca,300.0,20.0,34.0,36.0
+2010-02-17,Oax. : Rastro Reforma Agraria,Corral,400.0,50.0,38.0,39.0
+2010-02-17,Oax. : Rastro Reforma Agraria,Vaca,300.0,19.0,34.0,36.0
+2010-02-18,Oax. : Rastro Reforma Agraria,Corral,400.0,40.0,38.0,39.0
+2010-02-18,Oax. : Rastro Reforma Agraria,Vaca,300.0,17.0,34.0,36.0
+2010-02-19,Oax. : Rastro Reforma Agraria,Corral,400.0,35.0,38.0,39.0
+2010-02-19,Oax. : Rastro Reforma Agraria,Vaca,300.0,10.0,34.0,36.0
+2010-02-22,Oax. : Rastro Reforma Agraria,Corral,400.0,40.0,38.0,39.0
+2010-02-22,Oax. : Rastro Reforma Agraria,Vaca,300.0,16.0,34.0,36.0
+2010-02-23,Oax. : Rastro Reforma Agraria,Corral,400.0,55.0,37.5,39.0
+2010-02-24,Oax. : Rastro Reforma Agraria,Corral,400.0,50.0,37.5,39.0
+2010-02-24,Oax. : Rastro Reforma Agraria,Vaca,300.0,15.0,31.0,33.0
+2010-02-25,Oax. : Rastro Reforma Agraria,Corral,400.0,30.0,37.5,39.0
+2010-02-25,Oax. : Rastro Reforma Agraria,Vaca,300.0,11.0,31.0,33.0
+2010-02-26,Oax. : Rastro Reforma Agraria,Corral,400.0,40.0,37.5,39.0
+2010-02-26,Oax. : Rastro Reforma Agraria,Vaca,300.0,13.0,31.0,33.0
+2010-02-03,Qro. : R.M. Querétaro,Toros,260.0,70.0,35.0,37.0
+2010-02-03,Qro. : R.M. Querétaro,Vaca,200.0,,20.0,22.0
+2010-02-04,Qro. : R.M. Querétaro,Toros,260.0,88.0,36.0,37.0
+2010-02-05,Qro. : R.M. Querétaro,Toros,260.0,73.0,36.0,37.0
+2010-02-08,Qro. : R.M. Querétaro,Toros,260.0,112.0,34.0,35.0
+2010-02-09,Qro. : R.M. Querétaro,Toros,260.0,56.0,34.0,35.0
+2010-02-10,Qro. : R.M. Querétaro,Toros,260.0,33.0,22.0,23.0
+2010-02-11,Qro. : R.M. Querétaro,Toros,260.0,97.0,34.0,35.0
+2010-02-12,Qro. : R.M. Querétaro,Toros,260.0,48.0,34.0,35.0
+2010-02-15,Qro. : R.M. Querétaro,Toros,260.0,33.0,34.0,35.0
+2010-02-16,Qro. : R.M. Querétaro,Toros,260.0,68.0,36.0,37.0
+2010-02-16,Qro. : R.M. Querétaro,Vaca,200.0,,21.0,22.0
+2010-02-17,Qro. : R.M. Querétaro,Toros,260.0,33.0,36.0,37.0
+2010-02-18,Qro. : R.M. Querétaro,Toros,260.0,88.0,36.0,37.0
+2010-02-19,Qro. : R.M. Querétaro,Toros,200.0,86.0,36.0,37.0
+2010-02-22,Qro. : R.M. Querétaro,Toros,260.0,68.0,35.0,36.0
+2010-02-23,Qro. : R.M. Querétaro,Toros,260.0,51.0,35.0,36.0
+2010-02-24,Qro. : R.M. Querétaro,Toros,260.0,25.0,35.0,36.0
+2010-02-25,Qro. : R.M. Querétaro,Toros,260.0,71.0,35.0,36.0
+2010-02-26,Qro. : R.M. Querétaro,Toros,260.0,86.0,36.0,37.0
+2010-02-02,Sin. : TIF 111 Vizur Sin,Corral,296.0,261.0,,34.0
+2010-02-02,Sin. : TIF 111 Vizur Sin,Novillona,286.0,244.0,,34.0
+2010-02-03,Sin. : TIF 111 Vizur Sin,Corral,290.0,399.0,,34.0
+2010-02-04,Sin. : TIF 111 Vizur Sin,Corral,290.0,384.0,,34.0
+2010-02-04,Sin. : TIF 111 Vizur Sin,Novillona,287.0,105.0,,34.0
+2010-02-05,Sin. : TIF 111 Vizur Sin,Corral,298.0,302.0,,34.0
+2010-02-05,Sin. : TIF 111 Vizur Sin,Novillona,297.0,183.0,,34.0
+2010-02-08,Sin. : TIF 111 Vizur Sin,Corral,306.0,221.0,,34.0
+2010-02-08,Sin. : TIF 111 Vizur Sin,Novillona,280.0,280.0,,34.0
+2010-02-09,Sin. : TIF 111 Vizur Sin,Corral,304.0,389.0,,34.0
+2010-02-09,Sin. : TIF 111 Vizur Sin,Novillona,288.0,96.0,,34.0
+2010-02-10,Sin. : TIF 111 Vizur Sin,Corral,294.0,326.0,,34.0
+2010-02-10,Sin. : TIF 111 Vizur Sin,Novillona,285.0,168.0,,34.0
+2010-02-11,Sin. : TIF 111 Vizur Sin,Corral,319.0,377.0,,34.0
+2010-02-11,Sin. : TIF 111 Vizur Sin,Novillona,299.0,120.0,,34.0
+2010-02-12,Sin. : TIF 111 Vizur Sin,Corral,296.0,193.0,,34.0
+2010-02-12,Sin. : TIF 111 Vizur Sin,Novillona,292.0,283.0,,34.0
+2010-02-15,Sin. : TIF 111 Vizur Sin,Corral,294.0,377.0,,34.0
+2010-02-15,Sin. : TIF 111 Vizur Sin,Novillona,286.0,152.0,,34.0
+2010-02-16,Sin. : TIF 111 Vizur Sin,Corral,300.0,276.0,,34.0
+2010-02-16,Sin. : TIF 111 Vizur Sin,Novillona,288.0,223.0,,34.0
+2010-02-17,Sin. : TIF 111 Vizur Sin,Corral,269.0,269.0,,34.0
+2010-02-17,Sin. : TIF 111 Vizur Sin,Novillona,290.0,236.0,,34.0
+2010-02-18,Sin. : TIF 111 Vizur Sin,Corral,309.0,395.0,,34.0
+2010-02-18,Sin. : TIF 111 Vizur Sin,Novillona,292.0,105.0,,34.0
+2010-02-19,Sin. : TIF 111 Vizur Sin,Corral,306.0,227.0,,34.0
+2010-02-19,Sin. : TIF 111 Vizur Sin,Novillona,326.0,278.0,,34.0
+2010-02-22,Sin. : TIF 111 Vizur Sin,Corral,293.0,342.0,,34.0
+2010-02-22,Sin. : TIF 111 Vizur Sin,Novillona,293.0,163.0,,34.0
+2010-02-23,Sin. : TIF 111 Vizur Sin,Corral,310.0,495.0,,34.0
+2010-02-24,Sin. : TIF 111 Vizur Sin,Corral,318.0,271.0,,34.0
+2010-02-24,Sin. : TIF 111 Vizur Sin,Novillona,293.0,154.0,,34.0
+2010-02-25,Sin. : TIF 111 Vizur Sin,Corral,296.0,386.0,,34.0
+2010-02-25,Sin. : TIF 111 Vizur Sin,Novillona,288.0,104.0,,34.0
+2010-02-26,Sin. : TIF 111 Vizur Sin,Corral,314.0,274.0,,34.0
+2010-02-26,Sin. : TIF 111 Vizur Sin,Novillona,266.0,221.0,,34.0
+2010-02-02,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,265.0,40.0,33.0,33.0
+2010-02-02,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,399.0,1.0,30.0,30.0
+2010-02-02,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,306.0,22.0,28.0,28.0
+2010-02-03,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,187.0,7.0,33.0,33.0
+2010-02-03,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,480.0,2.0,30.0,30.0
+2010-02-03,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,252.0,17.0,28.0,28.0
+2010-02-04,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,133.0,8.0,33.0,33.0
+2010-02-04,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,381.0,4.0,30.0,30.0
+2010-02-04,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,266.0,25.0,28.0,28.0
+2010-02-08,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,208.0,34.0,33.0,33.0
+2010-02-08,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,442.0,18.0,30.0,30.0
+2010-02-08,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,287.0,50.0,28.0,28.0
+2010-02-09,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,247.0,30.0,33.0,33.0
+2010-02-09,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,483.0,9.0,30.0,30.0
+2010-02-09,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,330.0,13.0,28.0,28.0
+2010-02-10,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,180.0,8.0,33.0,33.0
+2010-02-10,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,453.0,1.0,30.0,30.0
+2010-02-10,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,258.0,14.0,28.0,28.0
+2010-02-11,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,243.0,10.0,33.0,33.0
+2010-02-11,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,461.0,10.0,28.0,28.0
+2010-02-11,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,277.0,11.0,28.0,28.0
+2010-02-12,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,208.0,21.0,33.0,33.0
+2010-02-12,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,367.0,5.0,30.0,30.0
+2010-02-12,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,231.0,31.0,28.0,28.0
+2010-02-15,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,212.0,17.0,33.0,33.0
+2010-02-15,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,446.0,6.0,30.0,30.0
+2010-02-15,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,311.0,28.0,28.0,28.0
+2010-02-16,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,234.0,31.0,33.0,33.0
+2010-02-16,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,440.0,8.0,30.0,30.0
+2010-02-16,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,291.0,21.0,28.0,28.0
+2010-02-17,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,217.0,23.0,33.0,33.0
+2010-02-17,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,365.0,1.0,30.0,30.0
+2010-02-17,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,280.0,10.0,28.0,28.0
+2010-02-18,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,182.0,5.0,33.0,33.0
+2010-02-18,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,227.0,2.0,30.0,30.0
+2010-02-18,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,213.0,15.0,28.0,28.0
+2010-02-19,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,208.0,17.0,33.0,33.0
+2010-02-19,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,457.0,5.0,30.0,30.0
+2010-02-19,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,210.0,28.0,28.0,28.0
+2010-02-22,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,213.0,32.0,33.0,33.0
+2010-02-22,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,352.0,5.0,30.0,30.0
+2010-02-22,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,302.0,45.0,28.0,28.0
+2010-02-23,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,235.0,19.0,33.0,33.0
+2010-02-23,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,689.0,2.0,30.0,30.0
+2010-02-23,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,297.0,14.0,28.0,28.0
+2010-02-02,Son. : Rastro TIF Bovinos Hermosillo,Corral,,250.0,36.0,40.0
+2010-02-03,Son. : Rastro TIF Bovinos Hermosillo,Corral,,305.0,36.0,40.0
+2010-02-04,Son. : Rastro TIF Bovinos Hermosillo,Corral,,290.0,36.0,40.0
+2010-02-05,Son. : Rastro TIF Bovinos Hermosillo,Corral,,250.0,36.0,40.0
+2010-02-08,Son. : Rastro TIF Bovinos Hermosillo,Corral,,360.0,36.0,40.0
+2010-02-09,Son. : Rastro TIF Bovinos Hermosillo,Corral,,257.0,36.0,40.0
+2010-02-10,Son. : Rastro TIF Bovinos Hermosillo,Corral,,354.0,36.0,40.0
+2010-02-11,Son. : Rastro TIF Bovinos Hermosillo,Corral,,205.0,36.0,40.0
+2010-02-12,Son. : Rastro TIF Bovinos Hermosillo,Corral,,250.0,36.0,40.0
+2010-02-16,Son. : Rastro TIF Bovinos Hermosillo,Corral,,285.0,36.0,40.0
+2010-02-17,Son. : Rastro TIF Bovinos Hermosillo,Corral,,321.0,36.0,40.0
+2010-02-18,Son. : Rastro TIF Bovinos Hermosillo,Corral,,210.0,36.0,40.0
+2010-02-19,Son. : Rastro TIF Bovinos Hermosillo,Corral,,170.0,36.0,40.0
+2010-02-22,Son. : Rastro TIF Bovinos Hermosillo,Corral,,382.0,36.0,40.0
+2010-02-23,Son. : Rastro TIF Bovinos Hermosillo,Corral,,362.0,36.0,40.0
+2010-02-24,Son. : Rastro TIF Bovinos Hermosillo,Corral,,200.0,36.0,40.0
+2010-02-25,Son. : Rastro TIF Bovinos Hermosillo,Corral,,297.0,36.0,40.0
+2010-02-26,Son. : Rastro TIF Bovinos Hermosillo,Corral,,190.0,36.0,40.0
+2010-02-02,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,244.0,64.0,,26.5
+2010-02-02,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,275.0,621.0,,30.0
+2010-02-02,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,407.0,18.0,,26.5
+2010-02-02,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,228.0,163.0,,26.0
+2010-02-03,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,263.0,74.0,,26.5
+2010-02-03,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,283.0,328.0,,30.0
+2010-02-03,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,355.0,4.0,,26.5
+2010-02-03,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,252.0,13.0,,26.0
+2010-02-04,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,183.0,84.0,,26.5
+2010-02-04,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,270.0,187.0,,30.0
+2010-02-04,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,386.0,3.0,,26.5
+2010-02-04,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,227.0,70.0,,26.0
+2010-02-05,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,210.0,44.0,,26.5
+2010-02-05,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,270.0,289.0,,30.0
+2010-02-05,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,364.0,2.0,,26.5
+2010-02-05,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,262.0,61.0,,26.0
+2010-02-08,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,252.0,40.0,,26.5
+2010-02-08,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,267.0,409.0,,30.0
+2010-02-08,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,454.0,20.0,,26.5
+2010-02-08,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,237.0,167.0,,26.0
+2010-02-09,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,161.0,32.0,,26.5
+2010-02-09,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,283.0,372.0,,30.0
+2010-02-09,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,320.0,6.0,,26.5
+2010-02-09,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,237.0,4.0,,26.0
+2010-02-10,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,178.0,151.0,,26.5
+2010-02-10,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,276.0,203.0,,30.0
+2010-02-10,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,237.0,26.0,,26.0
+2010-02-11,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,171.0,20.0,,26.5
+2010-02-11,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,276.0,164.0,,30.0
+2010-02-11,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,332.0,7.0,,26.5
+2010-02-11,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,231.0,204.0,,26.0
+2010-02-12,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,231.0,73.0,,26.5
+2010-02-12,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,284.0,141.0,,30.0
+2010-02-12,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,419.0,3.0,,26.5
+2010-02-12,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,234.0,82.0,,26.0
+2010-02-15,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,231.0,42.0,,26.5
+2010-02-15,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,271.0,300.0,,30.0
+2010-02-15,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,479.0,12.0,,26.5
+2010-02-15,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,282.0,217.0,,26.0
+2010-02-16,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,220.0,40.0,,26.5
+2010-02-16,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,275.0,249.0,,30.0
+2010-02-16,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,386.0,3.0,,26.5
+2010-02-16,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,233.0,115.0,,26.0
+2010-02-17,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,168.0,26.0,,26.5
+2010-02-17,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,307.0,255.0,,30.0
+2010-02-17,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,232.0,57.0,,26.0
+2010-02-18,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,187.0,63.0,,26.5
+2010-02-18,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,262.0,245.0,,30.0
+2010-02-18,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,251.0,47.0,,26.0
+2010-02-19,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,189.0,93.0,,26.5
+2010-02-19,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,292.0,201.0,,30.0
+2010-02-19,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,406.0,6.0,,26.5
+2010-02-19,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,238.0,54.0,,26.0
+2010-02-22,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,207.0,35.0,,26.5
+2010-02-22,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,292.0,203.0,,30.0
+2010-02-22,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,403.0,17.0,,26.5
+2010-02-22,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,235.0,149.0,,26.0
+2010-02-23,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,206.0,93.0,,26.5
+2010-02-23,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,278.0,253.0,,30.0
+2010-02-23,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,403.0,1.0,,26.5
+2010-02-23,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,262.0,88.0,,26.0
+2010-02-24,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,164.0,9.0,,26.5
+2010-02-24,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,284.0,221.0,,30.0
+2010-02-24,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,402.0,6.0,,26.5
+2010-02-24,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,258.0,115.0,,26.0
+2010-02-25,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,164.0,10.0,,26.5
+2010-02-25,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,276.0,263.0,,30.0
+2010-02-25,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,374.0,1.0,,26.5
+2010-02-25,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,258.0,50.0,,26.0
+2010-02-26,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,178.0,32.0,,26.5
+2010-02-26,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,275.0,253.0,,30.0
+2010-02-26,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,326.0,2.0,,26.5
+2010-02-26,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,233.0,44.0,,26.0
+2010-02-02,Ver. : Rastro Municipal de Xalapa,Corral,226.0,18.0,34.0,36.0
+2010-02-02,Ver. : Rastro Municipal de Xalapa,Novillona,182.0,20.0,31.0,33.0
+2010-02-02,Ver. : Rastro Municipal de Xalapa,Toros,303.0,18.0,31.0,33.0
+2010-02-02,Ver. : Rastro Municipal de Xalapa,Vaca,233.0,12.0,27.0,29.0
+2010-02-03,Ver. : Rastro Municipal de Xalapa,Corral,224.0,8.0,34.0,36.0
+2010-02-03,Ver. : Rastro Municipal de Xalapa,Novillona,181.0,12.0,30.0,32.0
+2010-02-03,Ver. : Rastro Municipal de Xalapa,Toros,302.0,28.0,31.0,33.0
+2010-02-03,Ver. : Rastro Municipal de Xalapa,Vaca,233.0,9.0,27.0,29.0
+2010-02-04,Ver. : Rastro Municipal de Xalapa,Corral,224.0,2.0,34.0,36.0
+2010-02-04,Ver. : Rastro Municipal de Xalapa,Novillona,183.0,3.0,30.0,32.0
+2010-02-04,Ver. : Rastro Municipal de Xalapa,Toros,302.0,14.0,31.0,33.0
+2010-02-04,Ver. : Rastro Municipal de Xalapa,Vaca,237.0,2.0,27.0,29.0
+2010-02-05,Ver. : Rastro Municipal de Xalapa,Corral,221.0,2.0,34.0,36.0
+2010-02-05,Ver. : Rastro Municipal de Xalapa,Novillona,181.0,6.0,30.0,32.0
+2010-02-05,Ver. : Rastro Municipal de Xalapa,Toros,302.0,13.0,31.0,33.0
+2010-02-05,Ver. : Rastro Municipal de Xalapa,Vaca,235.0,5.0,27.0,29.0
+2010-02-08,Ver. : Rastro Municipal de Xalapa,Corral,224.0,16.0,34.0,36.0
+2010-02-08,Ver. : Rastro Municipal de Xalapa,Novillona,183.0,18.0,30.0,32.0
+2010-02-08,Ver. : Rastro Municipal de Xalapa,Toros,301.0,20.0,31.0,33.0
+2010-02-08,Ver. : Rastro Municipal de Xalapa,Vaca,236.0,10.0,27.0,29.0
+2010-02-09,Ver. : Rastro Municipal de Xalapa,Corral,220.0,2.0,34.0,36.0
+2010-02-09,Ver. : Rastro Municipal de Xalapa,Novillona,184.0,4.0,30.0,32.0
+2010-02-09,Ver. : Rastro Municipal de Xalapa,Toros,304.0,13.0,31.0,33.0
+2010-02-09,Ver. : Rastro Municipal de Xalapa,Vaca,236.0,2.0,27.0,29.0
+2010-02-10,Ver. : Rastro Municipal de Xalapa,Corral,223.0,10.0,34.0,36.0
+2010-02-10,Ver. : Rastro Municipal de Xalapa,Novillona,182.0,8.0,30.0,32.0
+2010-02-10,Ver. : Rastro Municipal de Xalapa,Toros,302.0,11.0,31.0,33.0
+2010-02-10,Ver. : Rastro Municipal de Xalapa,Vaca,233.0,6.0,27.0,29.0
+2010-02-11,Ver. : Rastro Municipal de Xalapa,Corral,221.0,2.0,34.0,36.0
+2010-02-11,Ver. : Rastro Municipal de Xalapa,Novillona,183.0,3.0,30.0,32.0
+2010-02-11,Ver. : Rastro Municipal de Xalapa,Toros,303.0,16.0,31.0,33.0
+2010-02-11,Ver. : Rastro Municipal de Xalapa,Vaca,235.0,2.0,27.0,29.0
+2010-02-12,Ver. : Rastro Municipal de Xalapa,Corral,224.0,7.0,37.0,38.0
+2010-02-12,Ver. : Rastro Municipal de Xalapa,Novillona,181.0,9.0,30.0,32.0
+2010-02-12,Ver. : Rastro Municipal de Xalapa,Toros,304.0,12.0,31.0,33.0
+2010-02-12,Ver. : Rastro Municipal de Xalapa,Vaca,236.0,3.0,29.0,30.0
+2010-02-15,Ver. : Rastro Municipal de Xalapa,Corral,222.0,10.0,37.0,38.0
+2010-02-15,Ver. : Rastro Municipal de Xalapa,Novillona,184.0,13.0,30.0,32.0
+2010-02-15,Ver. : Rastro Municipal de Xalapa,Toros,302.0,23.0,31.0,33.0
+2010-02-15,Ver. : Rastro Municipal de Xalapa,Vaca,233.0,8.0,29.0,30.0
+2010-02-16,Ver. : Rastro Municipal de Xalapa,Corral,224.0,3.0,37.0,38.0
+2010-02-16,Ver. : Rastro Municipal de Xalapa,Novillona,182.0,4.0,30.0,32.0
+2010-02-16,Ver. : Rastro Municipal de Xalapa,Toros,303.0,14.0,31.0,33.0
+2010-02-16,Ver. : Rastro Municipal de Xalapa,Vaca,235.0,5.0,29.0,30.0
+2010-02-17,Ver. : Rastro Municipal de Xalapa,Corral,225.0,2.0,37.0,38.0
+2010-02-17,Ver. : Rastro Municipal de Xalapa,Novillona,182.0,4.0,30.0,32.0
+2010-02-17,Ver. : Rastro Municipal de Xalapa,Toros,302.0,14.0,31.0,33.0
+2010-02-17,Ver. : Rastro Municipal de Xalapa,Vaca,233.0,6.0,29.0,30.0
+2010-02-18,Ver. : Rastro Municipal de Xalapa,Corral,226.0,12.0,37.0,38.0
+2010-02-18,Ver. : Rastro Municipal de Xalapa,Novillona,183.0,13.0,30.0,32.0
+2010-02-18,Ver. : Rastro Municipal de Xalapa,Toros,302.0,20.0,31.0,33.0
+2010-02-18,Ver. : Rastro Municipal de Xalapa,Vaca,233.0,10.0,29.0,30.0
+2010-02-19,Ver. : Rastro Municipal de Xalapa,Corral,224.0,6.0,37.0,38.0
+2010-02-19,Ver. : Rastro Municipal de Xalapa,Novillona,184.0,7.0,30.0,32.0
+2010-02-19,Ver. : Rastro Municipal de Xalapa,Toros,304.0,10.0,31.0,33.0
+2010-02-19,Ver. : Rastro Municipal de Xalapa,Vaca,234.0,8.0,29.0,30.0
+2010-02-22,Ver. : Rastro Municipal de Xalapa,Corral,221.0,14.0,37.0,38.0
+2010-02-22,Ver. : Rastro Municipal de Xalapa,Novillona,181.0,18.0,30.0,32.0
+2010-02-22,Ver. : Rastro Municipal de Xalapa,Toros,301.0,20.0,31.0,33.0
+2010-02-22,Ver. : Rastro Municipal de Xalapa,Vaca,233.0,6.0,29.0,30.0
+2010-02-23,Ver. : Rastro Municipal de Xalapa,Corral,226.0,12.0,37.0,38.0
+2010-02-23,Ver. : Rastro Municipal de Xalapa,Novillona,183.0,10.0,30.0,32.0
+2010-02-23,Ver. : Rastro Municipal de Xalapa,Toros,304.0,22.0,31.0,33.0
+2010-02-23,Ver. : Rastro Municipal de Xalapa,Vaca,234.0,4.0,29.0,30.0
+2010-02-24,Ver. : Rastro Municipal de Xalapa,Corral,225.0,2.0,37.0,38.0
+2010-02-24,Ver. : Rastro Municipal de Xalapa,Novillona,181.0,6.0,30.0,32.0
+2010-02-24,Ver. : Rastro Municipal de Xalapa,Toros,302.0,11.0,31.0,33.0
+2010-02-24,Ver. : Rastro Municipal de Xalapa,Vaca,233.0,1.0,29.0,30.0
+2010-02-25,Ver. : Rastro Municipal de Xalapa,Corral,221.0,3.0,37.0,38.0
+2010-02-25,Ver. : Rastro Municipal de Xalapa,Novillona,180.0,4.0,30.0,32.0
+2010-02-25,Ver. : Rastro Municipal de Xalapa,Toros,303.0,3.0,31.0,33.0
+2010-02-25,Ver. : Rastro Municipal de Xalapa,Vaca,235.0,4.0,29.0,30.0
+2010-02-26,Ver. : Rastro Municipal de Xalapa,Corral,224.0,2.0,37.0,38.0
+2010-02-26,Ver. : Rastro Municipal de Xalapa,Novillona,184.0,5.0,30.0,32.0
+2010-02-26,Ver. : Rastro Municipal de Xalapa,Toros,301.0,18.0,31.0,33.0
+2010-02-26,Ver. : Rastro Municipal de Xalapa,Vaca,234.0,4.0,29.0,30.0
+2010-02-02,Yuc. : Aric Planta TIF 170,Pradera,237.0,34.0,,33.7
+2010-02-02,Yuc. : Aric Planta TIF 170,Toros,406.0,2.0,,26.0
+2010-02-03,Yuc. : Aric Planta TIF 170,Pradera,566.0,30.0,,33.7
+2010-02-04,Yuc. : Aric Planta TIF 170,Pradera,249.0,16.0,,33.7
+2010-02-05,Yuc. : Aric Planta TIF 170,Pradera,257.0,19.0,,33.7
+2010-02-09,Yuc. : Aric Planta TIF 170,Pradera,288.0,100.0,,33.7
+2010-02-11,Yuc. : Aric Planta TIF 170,Pradera,274.0,32.0,,33.7
+2010-02-12,Yuc. : Aric Planta TIF 170,Novillona,240.0,10.0,,31.0
+2010-02-12,Yuc. : Aric Planta TIF 170,Pradera,312.0,32.0,,33.7
+2010-02-13,Yuc. : Aric Planta TIF 170,Novillona,283.0,1.0,,31.0
+2010-02-13,Yuc. : Aric Planta TIF 170,Pradera,286.0,30.0,,33.7
+2010-02-15,Yuc. : Aric Planta TIF 170,Pradera,322.0,35.0,,33.7
+2010-02-16,Yuc. : Aric Planta TIF 170,Novillona,201.0,5.0,,31.0
+2010-02-16,Yuc. : Aric Planta TIF 170,Pradera,292.0,39.0,,33.7
+2010-02-17,Yuc. : Aric Planta TIF 170,Novillona,271.0,16.0,,31.0
+2010-02-17,Yuc. : Aric Planta TIF 170,Pradera,263.0,22.0,,33.7
+2010-02-20,Yuc. : Aric Planta TIF 170,Pradera,312.0,50.0,,33.7
+2010-02-22,Yuc. : Aric Planta TIF 170,Novillona,237.0,14.0,,31.0
+2010-02-22,Yuc. : Aric Planta TIF 170,Toros,395.0,1.0,,26.0
+2010-02-23,Yuc. : Aric Planta TIF 170,Pradera,317.0,15.0,,33.7
+2010-02-24,Yuc. : Aric Planta TIF 170,Novillona,262.0,23.0,,31.0
+2010-02-24,Yuc. : Aric Planta TIF 170,Pradera,34.0,35.0,,
+2010-02-24,Yuc. : Aric Planta TIF 170,Toros,496.0,1.0,,26.0
+2010-02-25,Yuc. : Aric Planta TIF 170,Pradera,302.0,16.0,,33.7
+2010-02-02,Zac. : R.M. Zacatecas,Corral,247.0,20.0,32.0,34.0
+2010-02-02,Zac. : R.M. Zacatecas,Novillona,220.0,1.0,29.0,30.0
+2010-02-02,Zac. : R.M. Zacatecas,Toros,440.0,3.0,30.0,31.0
+2010-02-02,Zac. : R.M. Zacatecas,Vaca,216.0,19.0,25.0,26.0
+2010-02-04,Zac. : R.M. Zacatecas,Corral,247.0,5.0,32.0,34.0
+2010-02-04,Zac. : R.M. Zacatecas,Toros,440.0,5.0,30.0,31.0
+2010-02-04,Zac. : R.M. Zacatecas,Vaca,216.0,14.0,25.0,26.0
+2010-02-09,Zac. : R.M. Zacatecas,Corral,247.0,27.0,32.0,34.0
+2010-02-09,Zac. : R.M. Zacatecas,Toros,440.0,1.0,30.0,31.0
+2010-02-09,Zac. : R.M. Zacatecas,Vaca,216.0,18.0,25.0,26.0
+2010-02-11,Zac. : R.M. Zacatecas,Corral,247.0,14.0,32.0,34.0
+2010-02-11,Zac. : R.M. Zacatecas,Toros,440.0,4.0,30.0,31.0
+2010-02-11,Zac. : R.M. Zacatecas,Vaca,216.0,22.0,25.0,26.0
+2010-02-16,Zac. : R.M. Zacatecas,Corral,247.0,7.0,32.0,34.0
+2010-02-16,Zac. : R.M. Zacatecas,Vaca,216.0,9.0,25.0,26.0
+2010-02-23,Zac. : R.M. Zacatecas,Corral,247.0,8.0,32.0,34.0
+2010-02-23,Zac. : R.M. Zacatecas,Novillona,220.0,1.0,29.0,30.0
+2010-02-23,Zac. : R.M. Zacatecas,Vaca,216.0,2.0,25.0,26.0

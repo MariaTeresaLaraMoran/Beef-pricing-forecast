@@ -1,0 +1,1231 @@
+date,slaughterhouse,type,avg_weight_kg,carcasses,price_min_mxn_kg,price_max_mxn_kg
+2015-12-01,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,13,62.0,65.0
+2015-12-01,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,152,46.0,50.0
+2015-12-02,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,12,62.0,65.0
+2015-12-02,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,164,46.0,50.0
+2015-12-03,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,14,62.0,65.0
+2015-12-03,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,147,46.0,50.0
+2015-12-04,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,11,62.0,65.0
+2015-12-04,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,161,46.0,50.0
+2015-12-05,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,16,62.0,65.0
+2015-12-05,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,164,46.0,50.0
+2015-12-07,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,13,62.0,65.0
+2015-12-07,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,165,46.0,50.0
+2015-12-08,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,10,62.0,65.0
+2015-12-08,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,159,46.0,50.0
+2015-12-09,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,13,62.0,65.0
+2015-12-09,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,159,46.0,50.0
+2015-12-10,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,11,62.0,65.0
+2015-12-10,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,157,46.0,50.0
+2015-12-11,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,12,62.0,65.0
+2015-12-11,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,170,46.0,50.0
+2015-12-12,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,16,62.0,65.0
+2015-12-12,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,150,46.0,50.0
+2015-12-14,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,11,62.0,65.0
+2015-12-14,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,161,46.0,50.0
+2015-12-15,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,11,62.0,65.0
+2015-12-15,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,152,46.0,50.0
+2015-12-16,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,6,62.0,65.0
+2015-12-16,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,155,46.0,50.0
+2015-12-17,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,18,62.0,65.0
+2015-12-17,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,155,46.0,50.0
+2015-12-18,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,15,62.0,65.0
+2015-12-18,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,166,46.0,50.0
+2015-12-19,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,16,62.0,65.0
+2015-12-19,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,146,46.0,50.0
+2015-12-21,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,13,62.0,65.0
+2015-12-21,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,155,46.0,50.0
+2015-12-22,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,10,62.0,65.0
+2015-12-22,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,151,46.0,50.0
+2015-12-23,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,11,62.0,65.0
+2015-12-23,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,159,46.0,50.0
+2015-12-24,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,13,62.0,65.0
+2015-12-24,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,155,46.0,50.0
+2015-12-26,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,12,62.0,65.0
+2015-12-26,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,1168,46.0,50.0
+2015-12-28,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,11,62.0,65.0
+2015-12-28,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,152,46.0,50.0
+2015-12-29,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,12,62.0,65.0
+2015-12-29,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,137,46.0,50.0
+2015-12-01,Ags. : R.M. Aguascalientes,Toros,455.0,6,64.0,66.0
+2015-12-01,Ags. : R.M. Aguascalientes,Vaca,360.0,78,45.0,47.0
+2015-12-02,Ags. : R.M. Aguascalientes,Toros,455.0,10,64.0,66.0
+2015-12-02,Ags. : R.M. Aguascalientes,Vaca,360.0,81,45.0,47.0
+2015-12-03,Ags. : R.M. Aguascalientes,Toros,455.0,6,64.0,66.0
+2015-12-03,Ags. : R.M. Aguascalientes,Vaca,360.0,85,45.0,47.0
+2015-12-04,Ags. : R.M. Aguascalientes,Toros,455.0,6,64.0,66.0
+2015-12-04,Ags. : R.M. Aguascalientes,Vaca,360.0,91,45.0,47.0
+2015-12-05,Ags. : R.M. Aguascalientes,Toros,455.0,6,64.0,66.0
+2015-12-05,Ags. : R.M. Aguascalientes,Vaca,360.0,77,45.0,47.0
+2015-12-07,Ags. : R.M. Aguascalientes,Toros,455.0,10,64.0,66.0
+2015-12-07,Ags. : R.M. Aguascalientes,Vaca,360.0,81,45.0,47.0
+2015-12-08,Ags. : R.M. Aguascalientes,Toros,455.0,6,64.0,66.0
+2015-12-08,Ags. : R.M. Aguascalientes,Vaca,360.0,87,45.0,47.0
+2015-12-09,Ags. : R.M. Aguascalientes,Toros,455.0,8,64.0,66.0
+2015-12-09,Ags. : R.M. Aguascalientes,Vaca,100.0,99,45.0,47.0
+2015-12-10,Ags. : R.M. Aguascalientes,Toros,455.0,6,64.0,66.0
+2015-12-10,Ags. : R.M. Aguascalientes,Vaca,360.0,72,45.0,47.0
+2015-12-11,Ags. : R.M. Aguascalientes,Toros,455.0,12,64.0,66.0
+2015-12-11,Ags. : R.M. Aguascalientes,Vaca,360.0,84,45.0,47.0
+2015-12-12,Ags. : R.M. Aguascalientes,Toros,455.0,6,64.0,66.0
+2015-12-12,Ags. : R.M. Aguascalientes,Vaca,360.0,72,45.0,47.0
+2015-12-14,Ags. : R.M. Aguascalientes,Toros,455.0,4,64.0,66.0
+2015-12-14,Ags. : R.M. Aguascalientes,Vaca,360.0,92,45.0,47.0
+2015-12-15,Ags. : R.M. Aguascalientes,Toros,455.0,6,64.0,66.0
+2015-12-15,Ags. : R.M. Aguascalientes,Vaca,360.0,85,45.0,47.0
+2015-12-16,Ags. : R.M. Aguascalientes,Toros,455.0,8,64.0,66.0
+2015-12-16,Ags. : R.M. Aguascalientes,Vaca,360.0,81,45.0,47.0
+2015-12-17,Ags. : R.M. Aguascalientes,Toros,455.0,6,64.0,66.0
+2015-12-17,Ags. : R.M. Aguascalientes,Vaca,360.0,77,45.0,47.0
+2015-12-18,Ags. : R.M. Aguascalientes,Toros,455.0,6,64.0,66.0
+2015-12-18,Ags. : R.M. Aguascalientes,Vaca,360.0,86,45.0,47.0
+2015-12-19,Ags. : R.M. Aguascalientes,Toros,455.0,6,64.0,66.0
+2015-12-19,Ags. : R.M. Aguascalientes,Vaca,360.0,67,45.0,47.0
+2015-12-21,Ags. : R.M. Aguascalientes,Toros,455.0,8,64.0,66.0
+2015-12-21,Ags. : R.M. Aguascalientes,Vaca,360.0,74,45.0,47.0
+2015-12-22,Ags. : R.M. Aguascalientes,Toros,455.0,8,64.0,66.0
+2015-12-22,Ags. : R.M. Aguascalientes,Vaca,360.0,81,45.0,47.0
+2015-12-23,Ags. : R.M. Aguascalientes,Toros,455.0,6,64.0,66.0
+2015-12-23,Ags. : R.M. Aguascalientes,Vaca,360.0,84,45.0,47.0
+2015-12-24,Ags. : R.M. Aguascalientes,Toros,455.0,79,64.0,66.0
+2015-12-26,Ags. : R.M. Aguascalientes,Toros,455.0,5,64.0,66.0
+2015-12-28,Ags. : R.M. Aguascalientes,Toros,455.0,6,64.0,66.0
+2015-12-28,Ags. : R.M. Aguascalientes,Vaca,360.0,72,45.0,47.0
+2015-12-29,Ags. : R.M. Aguascalientes,Toros,455.0,6,64.0,66.0
+2015-12-29,Ags. : R.M. Aguascalientes,Vaca,360.0,81,45.0,47.0
+2015-12-30,Ags. : R.M. Aguascalientes,Toros,455.0,4,64.0,66.0
+2015-12-30,Ags. : R.M. Aguascalientes,Vaca,360.0,99,45.0,47.0
+2015-12-07,B.C.S. : R.M. La Paz B.C.S.,Pradera,244.0,40,60.0,70.0
+2015-12-14,B.C.S. : R.M. La Paz B.C.S.,Pradera,283.0,24,60.0,70.0
+2015-12-01,Camp. : R.M. Campeche,Pradera,190.0,1,73.0,75.0
+2015-12-01,Camp. : R.M. Campeche,Toros,190.0,12,68.0,70.0
+2015-12-01,Camp. : R.M. Campeche,Vaca,190.0,6,62.0,66.0
+2015-12-02,Camp. : R.M. Campeche,Pradera,190.0,1,73.0,75.0
+2015-12-02,Camp. : R.M. Campeche,Toros,190.0,16,68.0,70.0
+2015-12-02,Camp. : R.M. Campeche,Vaca,190.0,7,62.0,66.0
+2015-12-03,Camp. : R.M. Campeche,Pradera,190.0,2,73.0,75.0
+2015-12-03,Camp. : R.M. Campeche,Toros,190.0,12,68.0,70.0
+2015-12-03,Camp. : R.M. Campeche,Vaca,190.0,6,62.0,66.0
+2015-12-04,Camp. : R.M. Campeche,Pradera,190.0,2,73.0,75.0
+2015-12-04,Camp. : R.M. Campeche,Toros,190.0,12,68.0,70.0
+2015-12-04,Camp. : R.M. Campeche,Vaca,190.0,4,62.0,66.0
+2015-12-07,Camp. : R.M. Campeche,Pradera,190.0,1,73.0,75.0
+2015-12-07,Camp. : R.M. Campeche,Toros,190.0,15,68.0,70.0
+2015-12-07,Camp. : R.M. Campeche,Vaca,190.0,6,62.0,66.0
+2015-12-08,Camp. : R.M. Campeche,Pradera,190.0,2,73.0,75.0
+2015-12-08,Camp. : R.M. Campeche,Toros,190.0,17,68.0,70.0
+2015-12-08,Camp. : R.M. Campeche,Vaca,190.0,7,62.0,66.0
+2015-12-09,Camp. : R.M. Campeche,Pradera,190.0,1,73.0,75.0
+2015-12-09,Camp. : R.M. Campeche,Toros,190.0,16,68.0,70.0
+2015-12-09,Camp. : R.M. Campeche,Vaca,190.0,7,62.0,66.0
+2015-12-10,Camp. : R.M. Campeche,Pradera,190.0,1,73.0,75.0
+2015-12-10,Camp. : R.M. Campeche,Toros,190.0,12,68.0,70.0
+2015-12-10,Camp. : R.M. Campeche,Vaca,190.0,6,62.0,66.0
+2015-12-11,Camp. : R.M. Campeche,Pradera,190.0,1,73.0,75.0
+2015-12-11,Camp. : R.M. Campeche,Toros,190.0,16,68.0,70.0
+2015-12-11,Camp. : R.M. Campeche,Vaca,190.0,8,62.0,66.0
+2015-12-14,Camp. : R.M. Campeche,Pradera,190.0,1,73.0,75.0
+2015-12-14,Camp. : R.M. Campeche,Toros,190.0,16,68.0,70.0
+2015-12-14,Camp. : R.M. Campeche,Vaca,190.0,5,62.0,66.0
+2015-12-15,Camp. : R.M. Campeche,Pradera,190.0,1,73.0,75.0
+2015-12-15,Camp. : R.M. Campeche,Toros,190.0,12,68.0,70.0
+2015-12-15,Camp. : R.M. Campeche,Vaca,190.0,6,62.0,66.0
+2015-12-16,Camp. : R.M. Campeche,Pradera,190.0,1,73.0,75.0
+2015-12-16,Camp. : R.M. Campeche,Toros,190.0,15,68.0,70.0
+2015-12-16,Camp. : R.M. Campeche,Vaca,190.0,5,62.0,66.0
+2015-12-17,Camp. : R.M. Campeche,Pradera,190.0,1,73.0,75.0
+2015-12-17,Camp. : R.M. Campeche,Toros,190.0,13,68.0,70.0
+2015-12-17,Camp. : R.M. Campeche,Vaca,190.0,6,62.0,66.0
+2015-12-18,Camp. : R.M. Campeche,Pradera,190.0,1,73.0,75.0
+2015-12-18,Camp. : R.M. Campeche,Toros,190.0,16,68.0,70.0
+2015-12-18,Camp. : R.M. Campeche,Vaca,190.0,7,62.0,66.0
+2015-12-21,Camp. : R.M. Campeche,Pradera,190.0,1,73.0,75.0
+2015-12-21,Camp. : R.M. Campeche,Toros,190.0,13,68.0,70.0
+2015-12-21,Camp. : R.M. Campeche,Vaca,190.0,6,62.0,66.0
+2015-12-22,Camp. : R.M. Campeche,Pradera,190.0,1,73.0,75.0
+2015-12-22,Camp. : R.M. Campeche,Toros,190.0,12,68.0,70.0
+2015-12-22,Camp. : R.M. Campeche,Vaca,190.0,5,62.0,66.0
+2015-12-23,Camp. : R.M. Campeche,Pradera,190.0,2,73.0,75.0
+2015-12-23,Camp. : R.M. Campeche,Toros,190.0,14,68.0,70.0
+2015-12-23,Camp. : R.M. Campeche,Vaca,190.0,5,62.0,66.0
+2015-12-24,Camp. : R.M. Campeche,Pradera,190.0,1,73.0,75.0
+2015-12-24,Camp. : R.M. Campeche,Toros,190.0,12,68.0,70.0
+2015-12-24,Camp. : R.M. Campeche,Vaca,190.0,5,62.0,66.0
+2015-12-28,Camp. : R.M. Campeche,Pradera,190.0,1,73.0,75.0
+2015-12-28,Camp. : R.M. Campeche,Toros,190.0,14,68.0,70.0
+2015-12-28,Camp. : R.M. Campeche,Vaca,190.0,7,62.0,66.0
+2015-12-29,Camp. : R.M. Campeche,Pradera,190.0,2,73.0,75.0
+2015-12-29,Camp. : R.M. Campeche,Toros,190.0,12,68.0,70.0
+2015-12-29,Camp. : R.M. Campeche,Vaca,190.0,5,62.0,66.0
+2015-12-30,Camp. : R.M. Campeche,Pradera,190.0,1,73.0,75.0
+2015-12-30,Camp. : R.M. Campeche,Toros,190.0,15,68.0,70.0
+2015-12-30,Camp. : R.M. Campeche,Vaca,190.0,7,62.0,66.0
+2015-12-31,Camp. : R.M. Campeche,Pradera,190.0,1,73.0,75.0
+2015-12-31,Camp. : R.M. Campeche,Toros,190.0,12,68.0,70.0
+2015-12-31,Camp. : R.M. Campeche,Vaca,190.0,5,62.0,66.0
+2015-12-01,Coah. : R.M. Torreón,Corral,222.0,48,65.0,68.0
+2015-12-01,Coah. : R.M. Torreón,Vaca,360.0,183,55.0,60.0
+2015-12-02,Coah. : R.M. Torreón,Corral,222.0,75,65.0,68.0
+2015-12-02,Coah. : R.M. Torreón,Vaca,360.0,48,55.0,60.0
+2015-12-03,Coah. : R.M. Torreón,Corral,222.0,30,65.0,68.0
+2015-12-03,Coah. : R.M. Torreón,Vaca,360.0,200,55.0,60.0
+2015-12-07,Coah. : R.M. Torreón,Corral,222.0,47,65.0,68.0
+2015-12-08,Coah. : R.M. Torreón,Corral,222.0,78,65.0,68.0
+2015-12-08,Coah. : R.M. Torreón,Vaca,360.0,37,55.0,60.0
+2015-12-09,Coah. : R.M. Torreón,Corral,222.0,79,65.0,68.0
+2015-12-09,Coah. : R.M. Torreón,Vaca,360.0,98,55.0,60.0
+2015-12-10,Coah. : R.M. Torreón,Corral,222.0,17,65.0,68.0
+2015-12-10,Coah. : R.M. Torreón,Vaca,360.0,96,55.0,60.0
+2015-12-14,Coah. : R.M. Torreón,Corral,222.0,35,65.0,68.0
+2015-12-14,Coah. : R.M. Torreón,Vaca,360.0,78,55.0,60.0
+2015-12-15,Coah. : R.M. Torreón,Corral,222.0,51,65.0,68.0
+2015-12-15,Coah. : R.M. Torreón,Vaca,360.0,164,55.0,60.0
+2015-12-16,Coah. : R.M. Torreón,Corral,222.0,77,65.0,68.0
+2015-12-16,Coah. : R.M. Torreón,Vaca,360.0,99,55.0,60.0
+2015-12-17,Coah. : R.M. Torreón,Corral,222.0,57,65.0,68.0
+2015-12-17,Coah. : R.M. Torreón,Vaca,360.0,75,55.0,60.0
+2015-12-21,Coah. : R.M. Torreón,Corral,222.0,19,65.0,68.0
+2015-12-21,Coah. : R.M. Torreón,Vaca,360.0,103,55.0,60.0
+2015-12-22,Coah. : R.M. Torreón,Corral,222.0,119,65.0,68.0
+2015-12-22,Coah. : R.M. Torreón,Vaca,360.0,89,55.0,60.0
+2015-12-23,Coah. : R.M. Torreón,Corral,222.0,52,65.0,68.0
+2015-12-23,Coah. : R.M. Torreón,Vaca,360.0,149,55.0,60.0
+2015-12-24,Coah. : R.M. Torreón,Corral,222.0,23,65.0,68.0
+2015-12-24,Coah. : R.M. Torreón,Vaca,360.0,123,55.0,60.0
+2015-12-28,Coah. : R.M. Torreón,Corral,222.0,87,65.0,68.0
+2015-12-28,Coah. : R.M. Torreón,Vaca,360.0,40,55.0,60.0
+2015-12-29,Coah. : R.M. Torreón,Corral,222.0,125,65.0,68.0
+2015-12-29,Coah. : R.M. Torreón,Vaca,360.0,76,55.0,60.0
+2015-12-30,Coah. : R.M. Torreón,Corral,222.0,60,65.0,68.0
+2015-12-30,Coah. : R.M. Torreón,Vaca,360.0,118,55.0,60.0
+2015-12-31,Coah. : R.M. Torreón,Corral,222.0,38,65.0,68.0
+2015-12-31,Coah. : R.M. Torreón,Vaca,360.0,148,55.0,60.0
+2015-12-01,Coah. : TIF 40 Procarne,Corral,222.0,282,55.0,60.0
+2015-12-02,Coah. : TIF 40 Procarne,Corral,222.0,150,55.0,60.0
+2015-12-03,Coah. : TIF 40 Procarne,Corral,222.0,158,55.0,60.0
+2015-12-04,Coah. : TIF 40 Procarne,Corral,222.0,150,55.0,60.0
+2015-12-07,Coah. : TIF 40 Procarne,Corral,222.0,193,55.0,60.0
+2015-12-08,Coah. : TIF 40 Procarne,Corral,222.0,222,55.0,60.0
+2015-12-09,Coah. : TIF 40 Procarne,Corral,222.0,162,55.0,60.0
+2015-12-10,Coah. : TIF 40 Procarne,Corral,222.0,193,55.0,60.0
+2015-12-11,Coah. : TIF 40 Procarne,Corral,222.0,180,55.0,60.0
+2015-12-14,Coah. : TIF 40 Procarne,Corral,222.0,150,55.0,60.0
+2015-12-15,Coah. : TIF 40 Procarne,Corral,222.0,294,55.0,60.0
+2015-12-16,Coah. : TIF 40 Procarne,Corral,222.0,150,55.0,60.0
+2015-12-17,Coah. : TIF 40 Procarne,Corral,222.0,182,55.0,60.0
+2015-12-18,Coah. : TIF 40 Procarne,Corral,222.0,200,55.0,60.0
+2015-12-21,Coah. : TIF 40 Procarne,Corral,222.0,400,55.0,60.0
+2015-12-22,Coah. : TIF 40 Procarne,Corral,222.0,275,55.0,60.0
+2015-12-23,Coah. : TIF 40 Procarne,Corral,222.0,230,55.0,60.0
+2015-12-24,Coah. : TIF 40 Procarne,Corral,222.0,354,55.0,60.0
+2015-12-28,Coah. : TIF 40 Procarne,Corral,222.0,231,55.0,60.0
+2015-12-29,Coah. : TIF 40 Procarne,Corral,222.0,318,55.0,60.0
+2015-12-30,Coah. : TIF 40 Procarne,Corral,222.0,252,55.0,60.0
+2015-12-31,Coah. : TIF 40 Procarne,Corral,222.0,346,55.0,60.0
+2015-12-01,Col. : Procesadora municipal de carne de Colima,Corral,208.0,5,64.0,82.0
+2015-12-02,Col. : Procesadora municipal de carne de Colima,Corral,208.0,8,64.0,82.0
+2015-12-04,Col. : Procesadora municipal de carne de Colima,Corral,208.0,16,64.0,82.0
+2015-12-05,Col. : Procesadora municipal de carne de Colima,Corral,208.0,12,64.0,82.0
+2015-12-07,Col. : Procesadora municipal de carne de Colima,Corral,208.0,10,64.0,82.0
+2015-12-08,Col. : Procesadora municipal de carne de Colima,Corral,208.0,4,64.0,82.0
+2015-12-09,Col. : Procesadora municipal de carne de Colima,Corral,208.0,10,64.0,82.0
+2015-12-14,Col. : Procesadora municipal de carne de Colima,Corral,208.0,10,64.0,82.0
+2015-12-15,Col. : Procesadora municipal de carne de Colima,Corral,6.0,6,64.0,82.0
+2015-12-16,Col. : Procesadora municipal de carne de Colima,Corral,208.0,9,64.0,82.0
+2015-12-18,Col. : Procesadora municipal de carne de Colima,Corral,208.0,20,64.0,82.0
+2015-12-21,Col. : Procesadora municipal de carne de Colima,Corral,208.0,8,64.0,82.0
+2015-12-23,Col. : Procesadora municipal de carne de Colima,Corral,208.0,21,64.0,82.0
+2015-12-24,Col. : Procesadora municipal de carne de Colima,Corral,208.0,5,64.0,82.0
+2015-12-26,Col. : Procesadora municipal de carne de Colima,Corral,208.0,11,64.0,82.0
+2015-12-28,Col. : Procesadora municipal de carne de Colima,Corral,208.0,11,64.0,82.0
+2015-12-29,Col. : Procesadora municipal de carne de Colima,Corral,208.0,3,64.0,82.0
+2015-12-30,Col. : Procesadora municipal de carne de Colima,Corral,208.0,19,64.0,82.0
+2015-12-01,Chis. : TIF 78 Frigorífico del Sureste,Pradera,239.0,5,66.0,66.0
+2015-12-01,Chis. : TIF 78 Frigorífico del Sureste,Toros,239.0,9,62.0,62.0
+2015-12-01,Chis. : TIF 78 Frigorífico del Sureste,Vaca,239.0,5,60.0,60.0
+2015-12-02,Chis. : TIF 78 Frigorífico del Sureste,Pradera,264.0,1,66.0,66.0
+2015-12-02,Chis. : TIF 78 Frigorífico del Sureste,Toros,264.0,3,62.0,62.0
+2015-12-02,Chis. : TIF 78 Frigorífico del Sureste,Vaca,264.0,40,60.0,60.0
+2015-12-03,Chis. : TIF 78 Frigorífico del Sureste,Pradera,289.0,8,66.0,66.0
+2015-12-03,Chis. : TIF 78 Frigorífico del Sureste,Toros,289.0,5,62.0,62.0
+2015-12-03,Chis. : TIF 78 Frigorífico del Sureste,Vaca,289.0,35,60.0,60.0
+2015-12-04,Chis. : TIF 78 Frigorífico del Sureste,Pradera,246.0,2,66.0,66.0
+2015-12-04,Chis. : TIF 78 Frigorífico del Sureste,Toros,246.0,3,62.0,62.0
+2015-12-04,Chis. : TIF 78 Frigorífico del Sureste,Vaca,246.0,5,60.0,60.0
+2015-12-07,Chis. : TIF 78 Frigorífico del Sureste,Pradera,245.0,1,66.0,66.0
+2015-12-07,Chis. : TIF 78 Frigorífico del Sureste,Toros,245.0,4,62.0,62.0
+2015-12-07,Chis. : TIF 78 Frigorífico del Sureste,Vaca,245.0,30,60.0,60.0
+2015-12-08,Chis. : TIF 78 Frigorífico del Sureste,Pradera,269.0,3,66.0,66.0
+2015-12-08,Chis. : TIF 78 Frigorífico del Sureste,Toros,269.0,3,62.0,62.0
+2015-12-08,Chis. : TIF 78 Frigorífico del Sureste,Vaca,269.0,32,60.0,60.0
+2015-12-09,Chis. : TIF 78 Frigorífico del Sureste,Pradera,284.0,4,66.0,66.0
+2015-12-09,Chis. : TIF 78 Frigorífico del Sureste,Toros,284.0,5,62.0,62.0
+2015-12-09,Chis. : TIF 78 Frigorífico del Sureste,Vaca,284.0,80,60.0,60.0
+2015-12-10,Chis. : TIF 78 Frigorífico del Sureste,Pradera,264.0,5,66.0,66.0
+2015-12-10,Chis. : TIF 78 Frigorífico del Sureste,Toros,264.0,9,62.0,62.0
+2015-12-10,Chis. : TIF 78 Frigorífico del Sureste,Vaca,264.0,31,60.0,60.0
+2015-12-11,Chis. : TIF 78 Frigorífico del Sureste,Pradera,257.0,6,66.0,66.0
+2015-12-11,Chis. : TIF 78 Frigorífico del Sureste,Toros,257.0,9,62.0,62.0
+2015-12-11,Chis. : TIF 78 Frigorífico del Sureste,Vaca,257.0,41,60.0,60.0
+2015-12-14,Chis. : TIF 78 Frigorífico del Sureste,Pradera,253.0,5,66.0,66.0
+2015-12-14,Chis. : TIF 78 Frigorífico del Sureste,Toros,253.0,2,62.0,62.0
+2015-12-14,Chis. : TIF 78 Frigorífico del Sureste,Vaca,253.0,36,60.0,60.0
+2015-12-15,Chis. : TIF 78 Frigorífico del Sureste,Pradera,261.0,3,66.0,66.0
+2015-12-15,Chis. : TIF 78 Frigorífico del Sureste,Toros,261.0,7,62.0,62.0
+2015-12-15,Chis. : TIF 78 Frigorífico del Sureste,Vaca,261.0,50,60.0,60.0
+2015-12-16,Chis. : TIF 78 Frigorífico del Sureste,Pradera,289.0,2,66.0,66.0
+2015-12-16,Chis. : TIF 78 Frigorífico del Sureste,Toros,289.0,1,62.0,62.0
+2015-12-16,Chis. : TIF 78 Frigorífico del Sureste,Vaca,289.0,40,60.0,60.0
+2015-12-17,Chis. : TIF 78 Frigorífico del Sureste,Pradera,280.0,4,66.0,66.0
+2015-12-17,Chis. : TIF 78 Frigorífico del Sureste,Toros,280.0,1,62.0,62.0
+2015-12-17,Chis. : TIF 78 Frigorífico del Sureste,Vaca,280.0,62,60.0,60.0
+2015-12-18,Chis. : TIF 78 Frigorífico del Sureste,Pradera,272.0,1,66.0,66.0
+2015-12-18,Chis. : TIF 78 Frigorífico del Sureste,Toros,272.0,6,62.0,62.0
+2015-12-18,Chis. : TIF 78 Frigorífico del Sureste,Vaca,272.0,38,60.0,60.0
+2015-12-21,Chis. : TIF 78 Frigorífico del Sureste,Pradera,276.0,1,66.0,66.0
+2015-12-21,Chis. : TIF 78 Frigorífico del Sureste,Toros,276.0,2,62.0,62.0
+2015-12-21,Chis. : TIF 78 Frigorífico del Sureste,Vaca,276.0,36,60.0,60.0
+2015-12-22,Chis. : TIF 78 Frigorífico del Sureste,Pradera,276.0,1,66.0,66.0
+2015-12-22,Chis. : TIF 78 Frigorífico del Sureste,Toros,276.0,3,62.0,62.0
+2015-12-22,Chis. : TIF 78 Frigorífico del Sureste,Vaca,276.0,41,60.0,60.0
+2015-12-23,Chis. : TIF 78 Frigorífico del Sureste,Pradera,256.0,5,66.0,66.0
+2015-12-23,Chis. : TIF 78 Frigorífico del Sureste,Toros,256.0,5,62.0,62.0
+2015-12-23,Chis. : TIF 78 Frigorífico del Sureste,Vaca,256.0,67,60.0,60.0
+2015-12-24,Chis. : TIF 78 Frigorífico del Sureste,Pradera,241.0,2,66.0,66.0
+2015-12-24,Chis. : TIF 78 Frigorífico del Sureste,Toros,241.0,6,62.0,62.0
+2015-12-24,Chis. : TIF 78 Frigorífico del Sureste,Vaca,241.0,31,60.0,60.0
+2015-12-28,Chis. : TIF 78 Frigorífico del Sureste,Pradera,268.0,5,66.0,66.0
+2015-12-28,Chis. : TIF 78 Frigorífico del Sureste,Toros,268.0,4,62.0,62.0
+2015-12-28,Chis. : TIF 78 Frigorífico del Sureste,Vaca,268.0,15,60.0,60.0
+2015-12-29,Chis. : TIF 78 Frigorífico del Sureste,Pradera,277.0,4,66.0,66.0
+2015-12-29,Chis. : TIF 78 Frigorífico del Sureste,Toros,277.0,4,62.0,62.0
+2015-12-29,Chis. : TIF 78 Frigorífico del Sureste,Vaca,277.0,44,60.0,60.0
+2015-12-30,Chis. : TIF 78 Frigorífico del Sureste,Pradera,274.0,4,66.0,66.0
+2015-12-30,Chis. : TIF 78 Frigorífico del Sureste,Toros,274.0,2,62.0,62.0
+2015-12-30,Chis. : TIF 78 Frigorífico del Sureste,Vaca,274.0,10,60.0,60.0
+2015-12-31,Chis. : TIF 78 Frigorífico del Sureste,Pradera,271.0,4,66.0,66.0
+2015-12-31,Chis. : TIF 78 Frigorífico del Sureste,Toros,271.0,6,62.0,62.0
+2015-12-31,Chis. : TIF 78 Frigorífico del Sureste,Vaca,271.0,31,60.0,60.0
+2015-12-01,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,200.0,15,55.0,66.0
+2015-12-02,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,280.0,20,76.0,78.0
+2015-12-02,Dgo. : Planta TIF No. 546 (antes TIF No.65),Novillona,260.0,4,74.0,77.0
+2015-12-02,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,500.0,4,70.0,72.0
+2015-12-02,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,210.0,80,55.0,66.0
+2015-12-03,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,420.0,4,70.0,72.0
+2015-12-03,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,210.0,56,55.0,66.0
+2015-12-04,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,300.0,15,76.0,78.0
+2015-12-04,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,200.0,50,55.0,66.0
+2015-12-07,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,210.0,28,55.0,66.0
+2015-12-08,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,200.0,28,55.0,66.0
+2015-12-09,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,300.0,40,75.0,78.0
+2015-12-09,Dgo. : Planta TIF No. 546 (antes TIF No.65),Novillona,240.0,5,73.0,76.0
+2015-12-09,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,430.0,5,70.0,72.0
+2015-12-09,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,210.0,28,55.0,66.0
+2015-12-10,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,300.0,40,76.0,78.0
+2015-12-10,Dgo. : Planta TIF No. 546 (antes TIF No.65),Novillona,250.0,10,74.0,77.0
+2015-12-10,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,200.0,30,55.0,66.0
+2015-12-11,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,200.0,49,55.0,66.0
+2015-12-14,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,220.0,22,55.0,66.0
+2015-12-15,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,380.0,5,70.0,75.0
+2015-12-15,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,200.0,26,55.0,66.0
+2015-12-16,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,290.0,20,76.0,78.0
+2015-12-16,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,210.0,39,55.0,66.0
+2015-12-17,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,310.0,20,76.0,78.0
+2015-12-17,Dgo. : Planta TIF No. 546 (antes TIF No.65),Novillona,260.0,10,73.0,77.0
+2015-12-17,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,200.0,27,55.0,66.0
+2015-12-18,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,400.0,10,70.0,75.0
+2015-12-18,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,200.0,78,55.0,66.0
+2015-12-21,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,280.0,34,76.0,78.0
+2015-12-21,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,400.0,50,70.0,75.0
+2015-12-21,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,200.0,9,55.0,66.0
+2015-12-22,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,400.0,5,70.0,75.0
+2015-12-22,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,200.0,45,55.0,66.0
+2015-12-23,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,400.0,5,70.0,75.0
+2015-12-23,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,220.0,48,55.0,66.0
+2015-12-24,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,400.0,5,70.0,75.0
+2015-12-24,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,220.0,56,55.0,66.0
+2015-12-28,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,300.0,38,76.0,78.0
+2015-12-28,Dgo. : Planta TIF No. 546 (antes TIF No.65),Novillona,250.0,5,73.0,77.0
+2015-12-28,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,400.0,6,70.0,75.0
+2015-12-28,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,230.0,44,55.0,66.0
+2015-12-29,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,220.0,33,55.0,66.0
+2015-12-30,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,200.0,40,55.0,66.0
+2015-12-31,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,220.0,38,55.0,66.0
+2015-12-01,Edo. Méx. : Cerro Gordo,Pradera,278.0,71,,76.0
+2015-12-02,Edo. Méx. : Cerro Gordo,Pradera,278.0,50,,76.0
+2015-12-03,Edo. Méx. : Cerro Gordo,Pradera,278.0,38,,76.0
+2015-12-04,Edo. Méx. : Cerro Gordo,Pradera,278.0,38,,76.0
+2015-12-07,Edo. Méx. : Cerro Gordo,Pradera,278.0,53,,76.0
+2015-12-08,Edo. Méx. : Cerro Gordo,Pradera,278.0,42,,76.0
+2015-12-09,Edo. Méx. : Cerro Gordo,Pradera,278.0,52,,76.0
+2015-12-11,Edo. Méx. : Cerro Gordo,Pradera,278.0,70,,76.0
+2015-12-14,Edo. Méx. : Cerro Gordo,Pradera,278.0,36,,76.0
+2015-12-15,Edo. Méx. : Cerro Gordo,Pradera,278.0,48,,76.0
+2015-12-16,Edo. Méx. : Cerro Gordo,Pradera,278.0,60,,76.0
+2015-12-18,Edo. Méx. : Cerro Gordo,Pradera,278.0,126,,76.0
+2015-12-21,Edo. Méx. : Cerro Gordo,Pradera,278.0,50,,76.0
+2015-12-22,Edo. Méx. : Cerro Gordo,Pradera,278.0,54,,76.0
+2015-12-23,Edo. Méx. : Cerro Gordo,Pradera,278.0,75,,76.0
+2015-12-28,Edo. Méx. : Cerro Gordo,Pradera,278.0,68,,71.0
+2015-12-29,Edo. Méx. : Cerro Gordo,Pradera,278.0,52,,76.0
+2015-12-30,Edo. Méx. : Cerro Gordo,Pradera,278.0,56,,76.0
+2015-12-01,Edo. Méx. : La Paz,Corral,320.0,219,,63.5
+2015-12-02,Edo. Méx. : La Paz,Corral,320.0,215,,63.5
+2015-12-03,Edo. Méx. : La Paz,Corral,320.0,206,,63.5
+2015-12-04,Edo. Méx. : La Paz,Corral,320.0,214,,63.5
+2015-12-07,Edo. Méx. : La Paz,Corral,320.0,213,,63.5
+2015-12-08,Edo. Méx. : La Paz,Corral,320.0,230,,63.5
+2015-12-09,Edo. Méx. : La Paz,Corral,320.0,222,,63.5
+2015-12-10,Edo. Méx. : La Paz,Corral,320.0,208,,63.5
+2015-12-14,Edo. Méx. : La Paz,Corral,320.0,218,,63.5
+2015-12-15,Edo. Méx. : La Paz,Corral,320.0,214,,63.5
+2015-12-16,Edo. Méx. : La Paz,Corral,320.0,210,,63.5
+2015-12-17,Edo. Méx. : La Paz,Corral,320.0,214,,63.5
+2015-12-18,Edo. Méx. : La Paz,Corral,320.0,235,,63.5
+2015-12-21,Edo. Méx. : La Paz,Corral,320.0,200,,63.5
+2015-12-22,Edo. Méx. : La Paz,Corral,320.0,221,,63.5
+2015-12-23,Edo. Méx. : La Paz,Corral,320.0,240,,63.5
+2015-12-24,Edo. Méx. : La Paz,Corral,320.0,240,,63.5
+2015-12-28,Edo. Méx. : La Paz,Corral,320.0,230,,63.5
+2015-12-29,Edo. Méx. : La Paz,Corral,320.0,217,,63.5
+2015-12-30,Edo. Méx. : La Paz,Corral,320.0,210,,63.5
+2015-12-01,Edo. Méx. : Temamatla,Corral,320.0,185,,63.5
+2015-12-02,Edo. Méx. : Temamatla,Corral,320.0,190,,63.5
+2015-12-03,Edo. Méx. : Temamatla,Corral,320.0,170,,63.5
+2015-12-04,Edo. Méx. : Temamatla,Corral,320.0,180,,63.5
+2015-12-07,Edo. Méx. : Temamatla,Corral,320.0,187,,63.5
+2015-12-08,Edo. Méx. : Temamatla,Corral,320.0,187,,63.5
+2015-12-09,Edo. Méx. : Temamatla,Corral,320.0,169,,63.5
+2015-12-10,Edo. Méx. : Temamatla,Corral,320.0,200,,63.5
+2015-12-14,Edo. Méx. : Temamatla,Corral,320.0,160,,63.5
+2015-12-15,Edo. Méx. : Temamatla,Corral,320.0,180,,63.5
+2015-12-16,Edo. Méx. : Temamatla,Corral,320.0,190,,63.5
+2015-12-17,Edo. Méx. : Temamatla,Corral,320.0,185,,63.5
+2015-12-18,Edo. Méx. : Temamatla,Corral,320.0,180,,63.5
+2015-12-21,Edo. Méx. : Temamatla,Corral,320.0,190,,63.5
+2015-12-22,Edo. Méx. : Temamatla,Corral,320.0,190,,63.5
+2015-12-23,Edo. Méx. : Temamatla,Corral,320.0,193,,63.5
+2015-12-24,Edo. Méx. : Temamatla,Corral,320.0,183,,63.5
+2015-12-28,Edo. Méx. : Temamatla,Corral,320.0,192,,63.5
+2015-12-29,Edo. Méx. : Temamatla,Corral,320.0,187,,63.5
+2015-12-30,Edo. Méx. : Temamatla,Corral,320.0,185,,63.5
+2015-12-01,Edo. Méx. : Tlalnepantla,Corral,290.0,69,66.0,71.0
+2015-12-01,Edo. Méx. : Tlalnepantla,Vaca,190.0,1,50.0,55.0
+2015-12-02,Edo. Méx. : Tlalnepantla,Corral,290.0,75,66.0,71.0
+2015-12-02,Edo. Méx. : Tlalnepantla,Vaca,190.0,1,50.0,55.0
+2015-12-03,Edo. Méx. : Tlalnepantla,Corral,290.0,76,66.0,71.0
+2015-12-03,Edo. Méx. : Tlalnepantla,Vaca,190.0,1,50.0,55.0
+2015-12-04,Edo. Méx. : Tlalnepantla,Corral,290.0,78,66.0,71.0
+2015-12-04,Edo. Méx. : Tlalnepantla,Vaca,190.0,1,50.0,55.0
+2015-12-07,Edo. Méx. : Tlalnepantla,Corral,290.0,68,66.0,71.0
+2015-12-07,Edo. Méx. : Tlalnepantla,Vaca,190.0,1,50.0,55.0
+2015-12-08,Edo. Méx. : Tlalnepantla,Corral,290.0,69,66.0,71.0
+2015-12-08,Edo. Méx. : Tlalnepantla,Vaca,190.0,1,50.0,55.0
+2015-12-09,Edo. Méx. : Tlalnepantla,Corral,290.0,53,66.0,71.0
+2015-12-09,Edo. Méx. : Tlalnepantla,Vaca,190.0,4,50.0,55.0
+2015-12-10,Edo. Méx. : Tlalnepantla,Corral,290.0,51,66.0,71.0
+2015-12-10,Edo. Méx. : Tlalnepantla,Vaca,190.0,2,50.0,55.0
+2015-12-11,Edo. Méx. : Tlalnepantla,Corral,290.0,51,66.0,71.0
+2015-12-11,Edo. Méx. : Tlalnepantla,Vaca,190.0,2,50.0,55.0
+2015-12-14,Edo. Méx. : Tlalnepantla,Corral,290.0,62,66.0,71.0
+2015-12-14,Edo. Méx. : Tlalnepantla,Vaca,190.0,1,50.0,55.0
+2015-12-15,Edo. Méx. : Tlalnepantla,Corral,290.0,50,66.0,71.0
+2015-12-15,Edo. Méx. : Tlalnepantla,Vaca,190.0,5,50.0,55.0
+2015-12-16,Edo. Méx. : Tlalnepantla,Corral,290.0,41,66.0,71.0
+2015-12-16,Edo. Méx. : Tlalnepantla,Vaca,190.0,1,50.0,55.0
+2015-12-17,Edo. Méx. : Tlalnepantla,Corral,290.0,57,66.0,71.0
+2015-12-17,Edo. Méx. : Tlalnepantla,Vaca,190.0,1,50.0,55.0
+2015-12-18,Edo. Méx. : Tlalnepantla,Corral,290.0,57,66.0,71.0
+2015-12-18,Edo. Méx. : Tlalnepantla,Vaca,190.0,2,50.0,55.0
+2015-12-21,Edo. Méx. : Tlalnepantla,Corral,290.0,63,66.0,71.0
+2015-12-21,Edo. Méx. : Tlalnepantla,Vaca,190.0,2,50.0,55.0
+2015-12-22,Edo. Méx. : Tlalnepantla,Corral,290.0,42,66.0,71.0
+2015-12-22,Edo. Méx. : Tlalnepantla,Vaca,190.0,2,50.0,55.0
+2015-12-23,Edo. Méx. : Tlalnepantla,Corral,290.0,46,66.0,71.0
+2015-12-23,Edo. Méx. : Tlalnepantla,Vaca,190.0,1,50.0,51.0
+2015-12-24,Edo. Méx. : Tlalnepantla,Corral,290.0,57,66.0,71.0
+2015-12-24,Edo. Méx. : Tlalnepantla,Vaca,190.0,2,50.0,55.0
+2015-12-28,Edo. Méx. : Tlalnepantla,Corral,290.0,50,66.0,71.0
+2015-12-28,Edo. Méx. : Tlalnepantla,Vaca,190.0,3,50.0,55.0
+2015-12-29,Edo. Méx. : Tlalnepantla,Corral,290.0,31,66.0,71.0
+2015-12-29,Edo. Méx. : Tlalnepantla,Vaca,190.0,3,50.0,55.0
+2015-12-30,Edo. Méx. : Tlalnepantla,Corral,290.0,48,66.0,71.0
+2015-12-30,Edo. Méx. : Tlalnepantla,Vaca,190.0,2,50.0,55.0
+2015-12-31,Edo. Méx. : Tlalnepantla,Corral,290.0,58,66.0,71.0
+2015-12-31,Edo. Méx. : Tlalnepantla,Vaca,190.0,1,50.0,55.0
+2015-12-01,"Gto. : R.P. León, Serv. Integral",Novillona,,14,44.0,45.0
+2015-12-01,"Gto. : R.P. León, Serv. Integral",Toros,,112,48.0,49.0
+2015-12-01,"Gto. : R.P. León, Serv. Integral",Vaca,,51,40.0,41.0
+2015-12-02,"Gto. : R.P. León, Serv. Integral",Novillona,,11,44.0,45.0
+2015-12-02,"Gto. : R.P. León, Serv. Integral",Toros,,70,48.0,49.0
+2015-12-02,"Gto. : R.P. León, Serv. Integral",Vaca,,33,40.0,41.0
+2015-12-03,"Gto. : R.P. León, Serv. Integral",Novillona,,10,44.0,45.0
+2015-12-03,"Gto. : R.P. León, Serv. Integral",Toros,,61,48.0,49.0
+2015-12-03,"Gto. : R.P. León, Serv. Integral",Vaca,,48,40.0,41.0
+2015-12-04,"Gto. : R.P. León, Serv. Integral",Novillona,,16,44.0,45.0
+2015-12-04,"Gto. : R.P. León, Serv. Integral",Toros,,69,48.0,49.0
+2015-12-04,"Gto. : R.P. León, Serv. Integral",Vaca,,50,40.0,41.0
+2015-12-07,"Gto. : R.P. León, Serv. Integral",Novillona,,10,44.0,45.0
+2015-12-07,"Gto. : R.P. León, Serv. Integral",Toros,,72,48.0,49.0
+2015-12-07,"Gto. : R.P. León, Serv. Integral",Vaca,,48,40.0,41.0
+2015-12-08,"Gto. : R.P. León, Serv. Integral",Novillona,,10,44.0,45.0
+2015-12-08,"Gto. : R.P. León, Serv. Integral",Toros,,122,48.0,49.0
+2015-12-08,"Gto. : R.P. León, Serv. Integral",Vaca,,56,40.0,41.0
+2015-12-09,"Gto. : R.P. León, Serv. Integral",Novillona,,5,44.0,45.0
+2015-12-09,"Gto. : R.P. León, Serv. Integral",Toros,,84,48.0,49.0
+2015-12-09,"Gto. : R.P. León, Serv. Integral",Vaca,,39,40.0,41.0
+2015-12-10,"Gto. : R.P. León, Serv. Integral",Novillona,,6,44.0,45.0
+2015-12-10,"Gto. : R.P. León, Serv. Integral",Toros,,68,48.0,49.0
+2015-12-10,"Gto. : R.P. León, Serv. Integral",Vaca,,30,40.0,41.0
+2015-12-11,"Gto. : R.P. León, Serv. Integral",Novillona,,6,44.0,45.0
+2015-12-11,"Gto. : R.P. León, Serv. Integral",Toros,,77,48.0,49.0
+2015-12-11,"Gto. : R.P. León, Serv. Integral",Vaca,,41,40.0,41.0
+2015-12-14,"Gto. : R.P. León, Serv. Integral",Novillona,,16,44.0,45.0
+2015-12-14,"Gto. : R.P. León, Serv. Integral",Toros,,90,48.0,49.0
+2015-12-14,"Gto. : R.P. León, Serv. Integral",Vaca,,45,40.0,41.0
+2015-12-15,"Gto. : R.P. León, Serv. Integral",Novillona,,22,44.0,45.0
+2015-12-15,"Gto. : R.P. León, Serv. Integral",Toros,,127,48.0,49.0
+2015-12-15,"Gto. : R.P. León, Serv. Integral",Vaca,,60,40.0,41.0
+2015-12-16,"Gto. : R.P. León, Serv. Integral",Novillona,,4,44.0,45.0
+2015-12-16,"Gto. : R.P. León, Serv. Integral",Toros,,91,48.0,49.0
+2015-12-16,"Gto. : R.P. León, Serv. Integral",Vaca,,43,40.0,41.0
+2015-12-17,"Gto. : R.P. León, Serv. Integral",Novillona,,4,44.0,45.0
+2015-12-17,"Gto. : R.P. León, Serv. Integral",Toros,,66,48.0,49.0
+2015-12-17,"Gto. : R.P. León, Serv. Integral",Vaca,,38,40.0,41.0
+2015-12-18,"Gto. : R.P. León, Serv. Integral",Novillona,,14,44.0,45.0
+2015-12-18,"Gto. : R.P. León, Serv. Integral",Toros,,78,48.0,49.0
+2015-12-18,"Gto. : R.P. León, Serv. Integral",Vaca,,40,40.0,41.0
+2015-12-21,"Gto. : R.P. León, Serv. Integral",Novillona,,12,44.0,45.0
+2015-12-21,"Gto. : R.P. León, Serv. Integral",Toros,,73,48.0,49.0
+2015-12-21,"Gto. : R.P. León, Serv. Integral",Vaca,,58,40.0,41.0
+2015-12-22,"Gto. : R.P. León, Serv. Integral",Novillona,,32,44.0,45.0
+2015-12-22,"Gto. : R.P. León, Serv. Integral",Toros,,130,48.0,49.0
+2015-12-22,"Gto. : R.P. León, Serv. Integral",Vaca,,63,40.0,41.0
+2015-12-23,"Gto. : R.P. León, Serv. Integral",Novillona,,20,44.0,45.0
+2015-12-23,"Gto. : R.P. León, Serv. Integral",Toros,,100,48.0,49.0
+2015-12-23,"Gto. : R.P. León, Serv. Integral",Vaca,,55,40.0,41.0
+2015-12-24,"Gto. : R.P. León, Serv. Integral",Novillona,,5,44.0,45.0
+2015-12-24,"Gto. : R.P. León, Serv. Integral",Toros,,72,48.0,49.0
+2015-12-24,"Gto. : R.P. León, Serv. Integral",Vaca,,48,40.0,41.0
+2015-12-28,"Gto. : R.P. León, Serv. Integral",Novillona,,7,44.0,45.0
+2015-12-28,"Gto. : R.P. León, Serv. Integral",Toros,,65,48.0,49.0
+2015-12-28,"Gto. : R.P. León, Serv. Integral",Vaca,,31,40.0,41.0
+2015-12-29,"Gto. : R.P. León, Serv. Integral",Novillona,,28,44.0,45.0
+2015-12-29,"Gto. : R.P. León, Serv. Integral",Toros,,99,48.0,49.0
+2015-12-29,"Gto. : R.P. León, Serv. Integral",Vaca,,65,40.0,41.0
+2015-12-30,"Gto. : R.P. León, Serv. Integral",Novillona,,10,44.0,45.0
+2015-12-30,"Gto. : R.P. León, Serv. Integral",Toros,,72,48.0,49.0
+2015-12-30,"Gto. : R.P. León, Serv. Integral",Vaca,,47,40.0,41.0
+2015-12-31,"Gto. : R.P. León, Serv. Integral",Novillona,,5,44.0,45.0
+2015-12-31,"Gto. : R.P. León, Serv. Integral",Toros,,63,48.0,49.0
+2015-12-31,"Gto. : R.P. León, Serv. Integral",Vaca,,40,40.0,41.0
+2015-12-01,Jal. : R.M. Guadalajara,Corral,300.0,386,,67.8
+2015-12-01,Jal. : R.M. Guadalajara,Vaca,200.0,128,,57.8
+2015-12-02,Jal. : R.M. Guadalajara,Corral,300.0,317,,67.8
+2015-12-02,Jal. : R.M. Guadalajara,Vaca,200.0,106,,57.8
+2015-12-03,Jal. : R.M. Guadalajara,Corral,300.0,247,,67.85
+2015-12-03,Jal. : R.M. Guadalajara,Vaca,200.0,82,,57.85
+2015-12-04,Jal. : R.M. Guadalajara,Corral,300.0,332,,67.9
+2015-12-04,Jal. : R.M. Guadalajara,Vaca,200.0,111,,57.9
+2015-12-07,Jal. : R.M. Guadalajara,Corral,300.0,365,,67.9
+2015-12-07,Jal. : R.M. Guadalajara,Vaca,200.0,122,,57.9
+2015-12-08,Jal. : R.M. Guadalajara,Corral,300.0,323,,68.0
+2015-12-08,Jal. : R.M. Guadalajara,Vaca,200.0,107,,58.0
+2015-12-09,Jal. : R.M. Guadalajara,Corral,300.0,364,,68.0
+2015-12-09,Jal. : R.M. Guadalajara,Vaca,200.0,121,,58.0
+2015-12-10,Jal. : R.M. Guadalajara,Corral,300.0,265,,68.0
+2015-12-10,Jal. : R.M. Guadalajara,Vaca,200.0,88,,58.0
+2015-12-11,Jal. : R.M. Guadalajara,Corral,300.0,338,,68.0
+2015-12-11,Jal. : R.M. Guadalajara,Vaca,200.0,112,,58.0
+2015-12-14,Jal. : R.M. Guadalajara,Corral,300.0,483,,68.0
+2015-12-14,Jal. : R.M. Guadalajara,Vaca,200.0,161,,57.0
+2015-12-15,Jal. : R.M. Guadalajara,Corral,300.0,304,,68.0
+2015-12-15,Jal. : R.M. Guadalajara,Vaca,200.0,101,,58.0
+2015-12-16,Jal. : R.M. Guadalajara,Corral,300.0,265,,68.0
+2015-12-16,Jal. : R.M. Guadalajara,Vaca,200.0,88,,58.0
+2015-12-17,Jal. : R.M. Guadalajara,Corral,300.0,273,,68.0
+2015-12-17,Jal. : R.M. Guadalajara,Vaca,200.0,91,,58.0
+2015-12-18,Jal. : R.M. Guadalajara,Corral,300.0,314,,68.0
+2015-12-18,Jal. : R.M. Guadalajara,Vaca,200.0,104,,58.0
+2015-12-21,Jal. : R.M. Guadalajara,Corral,300.0,510,,68.0
+2015-12-21,Jal. : R.M. Guadalajara,Vaca,200.0,57,,58.0
+2015-12-22,Jal. : R.M. Guadalajara,Corral,300.0,524,,68.0
+2015-12-22,Jal. : R.M. Guadalajara,Vaca,200.0,184,,58.0
+2015-12-23,Jal. : R.M. Guadalajara,Corral,300.0,410,,68.0
+2015-12-23,Jal. : R.M. Guadalajara,Vaca,200.0,139,,58.0
+2015-12-24,Jal. : R.M. Guadalajara,Corral,300.0,488,,68.0
+2015-12-24,Jal. : R.M. Guadalajara,Vaca,100.0,162,,58.0
+2015-12-28,Jal. : R.M. Guadalajara,Vaca,200.0,74,,58.0
+2015-12-29,Jal. : R.M. Guadalajara,Corral,300.0,697,,68.0
+2015-12-29,Jal. : R.M. Guadalajara,Vaca,200.0,232,,58.0
+2015-12-30,Jal. : R.M. Guadalajara,Corral,300.0,478,,68.0
+2015-12-30,Jal. : R.M. Guadalajara,Vaca,200.0,159,,58.0
+2015-12-31,Jal. : R.M. Guadalajara,Corral,300.0,226,,68.0
+2015-12-31,Jal. : R.M. Guadalajara,Vaca,200.0,76,,58.0
+2015-12-01,Jal. : R.M. Tlaquepaque,Corral,300.0,3,,66.6
+2015-12-01,Jal. : R.M. Tlaquepaque,Vaca,200.0,14,,56.6
+2015-12-02,Jal. : R.M. Tlaquepaque,Corral,300.0,8,,66.7
+2015-12-02,Jal. : R.M. Tlaquepaque,Vaca,200.0,32,,56.7
+2015-12-04,Jal. : R.M. Tlaquepaque,Corral,300.0,13,,66.7
+2015-12-04,Jal. : R.M. Tlaquepaque,Vaca,200.0,51,,56.7
+2015-12-07,Jal. : R.M. Tlaquepaque,Corral,300.0,8,,66.9
+2015-12-07,Jal. : R.M. Tlaquepaque,Vaca,200.0,30,,56.9
+2015-12-08,Jal. : R.M. Tlaquepaque,Corral,300.0,4,,66.5
+2015-12-08,Jal. : R.M. Tlaquepaque,Vaca,200.0,18,,56.5
+2015-12-09,Jal. : R.M. Tlaquepaque,Corral,300.0,8,,66.8
+2015-12-09,Jal. : R.M. Tlaquepaque,Vaca,200.0,32,,56.8
+2015-12-11,Jal. : R.M. Tlaquepaque,Corral,300.0,6,,66.7
+2015-12-11,Jal. : R.M. Tlaquepaque,Vaca,200.0,20,,56.7
+2015-12-14,Jal. : R.M. Tlaquepaque,Corral,300.0,14,,66.8
+2015-12-14,Jal. : R.M. Tlaquepaque,Vaca,200.0,54,,56.8
+2015-12-15,Jal. : R.M. Tlaquepaque,Corral,300.0,5,,66.7
+2015-12-15,Jal. : R.M. Tlaquepaque,Vaca,200.0,19,,56.7
+2015-12-16,Jal. : R.M. Tlaquepaque,Corral,300.0,5,,66.8
+2015-12-16,Jal. : R.M. Tlaquepaque,Vaca,200.0,22,,56.8
+2015-12-18,Jal. : R.M. Tlaquepaque,Corral,300.0,8,,66.8
+2015-12-18,Jal. : R.M. Tlaquepaque,Vaca,200.0,33,,56.8
+2015-12-21,Jal. : R.M. Tlaquepaque,Corral,300.0,39,,66.8
+2015-12-21,Jal. : R.M. Tlaquepaque,Vaca,200.0,4,,56.8
+2015-12-22,Jal. : R.M. Tlaquepaque,Corral,300.0,36,,66.8
+2015-12-22,Jal. : R.M. Tlaquepaque,Vaca,200.0,4,,56.8
+2015-12-28,Jal. : R.M. Tlaquepaque,Vaca,200.0,13,,56.8
+2015-12-29,Jal. : R.M. Tlaquepaque,Corral,300.0,34,,66.8
+2015-12-29,Jal. : R.M. Tlaquepaque,Vaca,200.0,8,,56.8
+2015-12-31,Jal. : R.M. Tlaquepaque,Corral,300.0,22,,66.8
+2015-12-31,Jal. : R.M. Tlaquepaque,Vaca,200.0,5,,56.8
+2015-12-01,Jal. : R.M. Tonalá,Corral,300.0,11,,67.8
+2015-12-01,Jal. : R.M. Tonalá,Vaca,200.0,17,,57.8
+2015-12-02,Jal. : R.M. Tonalá,Corral,300.0,10,,67.8
+2015-12-02,Jal. : R.M. Tonalá,Vaca,200.0,4,,57.8
+2015-12-03,Jal. : R.M. Tonalá,Corral,300.0,5,,67.85
+2015-12-03,Jal. : R.M. Tonalá,Vaca,200.0,21,,57.85
+2015-12-07,Jal. : R.M. Tonalá,Corral,300.0,32,,67.9
+2015-12-07,Jal. : R.M. Tonalá,Vaca,200.0,41,,57.9
+2015-12-08,Jal. : R.M. Tonalá,Corral,300.0,11,,67.9
+2015-12-08,Jal. : R.M. Tonalá,Vaca,200.0,13,,57.9
+2015-12-09,Jal. : R.M. Tonalá,Corral,300.0,7,,68.0
+2015-12-09,Jal. : R.M. Tonalá,Vaca,200.0,9,,58.0
+2015-12-10,Jal. : R.M. Tonalá,Corral,300.0,6,,68.0
+2015-12-10,Jal. : R.M. Tonalá,Vaca,200.0,22,,58.0
+2015-12-14,Jal. : R.M. Tonalá,Corral,300.0,29,,68.0
+2015-12-14,Jal. : R.M. Tonalá,Vaca,200.0,41,,58.0
+2015-12-15,Jal. : R.M. Tonalá,Corral,300.0,16,,68.0
+2015-12-15,Jal. : R.M. Tonalá,Vaca,200.0,10,,58.0
+2015-12-16,Jal. : R.M. Tonalá,Corral,300.0,10,,68.0
+2015-12-16,Jal. : R.M. Tonalá,Vaca,200.0,22,,58.0
+2015-12-17,Jal. : R.M. Tonalá,Corral,300.0,15,,68.0
+2015-12-17,Jal. : R.M. Tonalá,Vaca,200.0,10,,58.0
+2015-12-21,Jal. : R.M. Tonalá,Corral,300.0,29,,68.0
+2015-12-21,Jal. : R.M. Tonalá,Vaca,200.0,3,,58.0
+2015-12-22,Jal. : R.M. Tonalá,Corral,300.0,24,,68.0
+2015-12-22,Jal. : R.M. Tonalá,Vaca,200.0,38,,58.0
+2015-12-23,Jal. : R.M. Tonalá,Corral,300.0,32,,68.0
+2015-12-24,Jal. : R.M. Tonalá,Corral,300.0,6,,68.0
+2015-12-24,Jal. : R.M. Tonalá,Vaca,200.0,26,,58.0
+2015-12-28,Jal. : R.M. Tonalá,Vaca,200.0,30,,58.0
+2015-12-29,Jal. : R.M. Tonalá,Corral,300.0,47,,68.0
+2015-12-29,Jal. : R.M. Tonalá,Vaca,200.0,31,,58.0
+2015-12-30,Jal. : R.M. Tonalá,Corral,300.0,31,,68.0
+2015-12-30,Jal. : R.M. Tonalá,Vaca,200.0,20,,58.0
+2015-12-01,Jal. : Rastro de Zapopan,Corral,300.0,147,,67.8
+2015-12-01,Jal. : Rastro de Zapopan,Vaca,200.0,8,,57.8
+2015-12-02,Jal. : Rastro de Zapopan,Corral,300.0,217,,67.8
+2015-12-02,Jal. : Rastro de Zapopan,Vaca,200.0,1,,57.8
+2015-12-03,Jal. : Rastro de Zapopan,Corral,300.0,60,,67.85
+2015-12-03,Jal. : Rastro de Zapopan,Vaca,200.0,7,,57.85
+2015-12-04,Jal. : Rastro de Zapopan,Corral,300.0,251,,67.9
+2015-12-04,Jal. : Rastro de Zapopan,Vaca,200.0,2,,57.9
+2015-12-07,Jal. : Rastro de Zapopan,Corral,300.0,234,,67.9
+2015-12-07,Jal. : Rastro de Zapopan,Vaca,200.0,26,,57.9
+2015-12-08,Jal. : Rastro de Zapopan,Corral,300.0,281,,68.0
+2015-12-08,Jal. : Rastro de Zapopan,Vaca,200.0,31,,58.0
+2015-12-09,Jal. : Rastro de Zapopan,Corral,300.0,295,,68.0
+2015-12-09,Jal. : Rastro de Zapopan,Vaca,200.0,33,,58.0
+2015-12-10,Jal. : Rastro de Zapopan,Corral,300.0,88,,68.0
+2015-12-10,Jal. : Rastro de Zapopan,Vaca,200.0,10,,58.0
+2015-12-11,Jal. : Rastro de Zapopan,Corral,300.0,122,,68.0
+2015-12-11,Jal. : Rastro de Zapopan,Vaca,200.0,14,,58.0
+2015-12-14,Jal. : Rastro de Zapopan,Corral,300.0,189,,68.0
+2015-12-14,Jal. : Rastro de Zapopan,Vaca,200.0,21,,58.0
+2015-12-15,Jal. : Rastro de Zapopan,Corral,300.0,171,,68.0
+2015-12-15,Jal. : Rastro de Zapopan,Vaca,200.0,19,,58.0
+2015-12-16,Jal. : Rastro de Zapopan,Corral,300.0,162,,68.0
+2015-12-16,Jal. : Rastro de Zapopan,Vaca,200.0,18,,58.0
+2015-12-17,Jal. : Rastro de Zapopan,Corral,300.0,230,,68.0
+2015-12-17,Jal. : Rastro de Zapopan,Vaca,200.0,25,,58.0
+2015-12-18,Jal. : Rastro de Zapopan,Corral,300.0,133,,68.0
+2015-12-18,Jal. : Rastro de Zapopan,Vaca,200.0,32,,58.0
+2015-12-22,Jal. : Rastro de Zapopan,Corral,300.0,182,,68.0
+2015-12-22,Jal. : Rastro de Zapopan,Vaca,200.0,20,,58.0
+2015-12-23,Jal. : Rastro de Zapopan,Corral,300.0,162,,68.0
+2015-12-23,Jal. : Rastro de Zapopan,Vaca,200.0,18,,58.0
+2015-12-24,Jal. : Rastro de Zapopan,Corral,300.0,162,,68.0
+2015-12-24,Jal. : Rastro de Zapopan,Vaca,200.0,8,,57.0
+2015-12-29,Jal. : Rastro de Zapopan,Corral,300.0,189,,68.0
+2015-12-29,Jal. : Rastro de Zapopan,Vaca,200.0,21,,58.0
+2015-12-30,Jal. : Rastro de Zapopan,Corral,300.0,176,,68.0
+2015-12-30,Jal. : Rastro de Zapopan,Vaca,200.0,19,,58.0
+2015-12-31,Jal. : Rastro de Zapopan,Corral,300.0,207,,68.0
+2015-12-31,Jal. : Rastro de Zapopan,Vaca,200.0,23,,58.0
+2015-12-01,Mich. : R.M. Morelia,Corral,250.0,17,74.0,75.0
+2015-12-01,Mich. : R.M. Morelia,Novillona,250.0,9,73.0,74.0
+2015-12-01,Mich. : R.M. Morelia,Toros,250.0,22,74.0,75.0
+2015-12-01,Mich. : R.M. Morelia,Vaca,250.0,6,59.0,61.0
+2015-12-02,Mich. : R.M. Morelia,Corral,250.0,21,74.0,75.0
+2015-12-02,Mich. : R.M. Morelia,Novillona,250.0,17,73.0,74.0
+2015-12-02,Mich. : R.M. Morelia,Toros,250.0,47,74.0,75.0
+2015-12-02,Mich. : R.M. Morelia,Vaca,250.0,13,59.0,61.0
+2015-12-03,Mich. : R.M. Morelia,Corral,250.0,7,74.0,75.0
+2015-12-03,Mich. : R.M. Morelia,Novillona,250.0,5,73.0,74.0
+2015-12-03,Mich. : R.M. Morelia,Toros,250.0,12,74.0,75.0
+2015-12-03,Mich. : R.M. Morelia,Vaca,250.0,3,59.0,61.0
+2015-12-04,Mich. : R.M. Morelia,Corral,250.0,7,74.0,75.0
+2015-12-04,Mich. : R.M. Morelia,Novillona,250.0,6,73.0,74.0
+2015-12-04,Mich. : R.M. Morelia,Toros,250.0,12,74.0,75.0
+2015-12-04,Mich. : R.M. Morelia,Vaca,250.0,3,59.0,61.0
+2015-12-07,Mich. : R.M. Morelia,Corral,250.0,30,74.0,75.0
+2015-12-07,Mich. : R.M. Morelia,Novillona,250.0,26,73.0,74.0
+2015-12-07,Mich. : R.M. Morelia,Toros,250.0,59,74.0,75.0
+2015-12-07,Mich. : R.M. Morelia,Vaca,250.0,19,59.0,61.0
+2015-12-08,Mich. : R.M. Morelia,Corral,250.0,13,74.0,75.0
+2015-12-08,Mich. : R.M. Morelia,Novillona,250.0,6,73.0,74.0
+2015-12-08,Mich. : R.M. Morelia,Toros,250.0,15,74.0,75.0
+2015-12-08,Mich. : R.M. Morelia,Vaca,250.0,3,59.0,61.0
+2015-12-09,Mich. : R.M. Morelia,Corral,250.0,24,74.0,75.0
+2015-12-09,Mich. : R.M. Morelia,Novillona,250.0,20,73.0,74.0
+2015-12-09,Mich. : R.M. Morelia,Toros,250.0,53,74.0,75.0
+2015-12-09,Mich. : R.M. Morelia,Vaca,250.0,15,59.0,61.0
+2015-12-10,Mich. : R.M. Morelia,Corral,250.0,6,74.0,75.0
+2015-12-10,Mich. : R.M. Morelia,Novillona,250.0,4,73.0,74.0
+2015-12-10,Mich. : R.M. Morelia,Toros,250.0,11,74.0,75.0
+2015-12-10,Mich. : R.M. Morelia,Vaca,250.0,2,59.0,61.0
+2015-12-11,Mich. : R.M. Morelia,Corral,250.0,5,74.0,75.0
+2015-12-11,Mich. : R.M. Morelia,Novillona,25.0,6,73.0,74.0
+2015-12-11,Mich. : R.M. Morelia,Toros,250.0,9,74.0,75.0
+2015-12-11,Mich. : R.M. Morelia,Vaca,250.0,3,59.0,61.0
+2015-12-14,Mich. : R.M. Morelia,Corral,250.0,27,74.0,75.0
+2015-12-14,Mich. : R.M. Morelia,Novillona,250.0,24,73.0,74.0
+2015-12-14,Mich. : R.M. Morelia,Toros,250.0,56,74.0,75.0
+2015-12-14,Mich. : R.M. Morelia,Vaca,250.0,17,59.0,61.0
+2015-12-15,Mich. : R.M. Morelia,Corral,250.0,17,74.0,75.0
+2015-12-15,Mich. : R.M. Morelia,Novillona,250.0,10,73.0,74.0
+2015-12-15,Mich. : R.M. Morelia,Toros,250.0,23,74.0,75.0
+2015-12-15,Mich. : R.M. Morelia,Vaca,250.0,7,59.0,61.0
+2015-12-16,Mich. : R.M. Morelia,Corral,250.0,21,74.0,75.0
+2015-12-16,Mich. : R.M. Morelia,Novillona,250.0,18,73.0,74.0
+2015-12-16,Mich. : R.M. Morelia,Toros,250.0,47,59.0,61.0
+2015-12-16,Mich. : R.M. Morelia,Vaca,13.0,13,59.0,61.0
+2015-12-17,Mich. : R.M. Morelia,Corral,250.0,8,74.0,75.0
+2015-12-17,Mich. : R.M. Morelia,Novillona,250.0,7,73.0,74.0
+2015-12-17,Mich. : R.M. Morelia,Toros,250.0,13,59.0,61.0
+2015-12-17,Mich. : R.M. Morelia,Vaca,250.0,5,59.0,61.0
+2015-12-18,Mich. : R.M. Morelia,Corral,250.0,6,74.0,75.0
+2015-12-18,Mich. : R.M. Morelia,Novillona,250.0,5,73.0,74.0
+2015-12-18,Mich. : R.M. Morelia,Toros,250.0,11,74.0,75.0
+2015-12-18,Mich. : R.M. Morelia,Vaca,250.0,3,59.0,61.0
+2015-12-21,Mich. : R.M. Morelia,Corral,250.0,29,74.0,75.0
+2015-12-21,Mich. : R.M. Morelia,Novillona,250.0,26,73.0,74.0
+2015-12-21,Mich. : R.M. Morelia,Toros,250.0,59,74.0,75.0
+2015-12-21,Mich. : R.M. Morelia,Vaca,250.0,19,59.0,61.0
+2015-12-22,Mich. : R.M. Morelia,Corral,250.0,20,74.0,75.0
+2015-12-22,Mich. : R.M. Morelia,Novillona,250.0,13,73.0,74.0
+2015-12-22,Mich. : R.M. Morelia,Toros,250.0,26,74.0,75.0
+2015-12-22,Mich. : R.M. Morelia,Vaca,250.0,10,59.0,61.0
+2015-12-23,Mich. : R.M. Morelia,Corral,250.0,26,74.0,75.0
+2015-12-23,Mich. : R.M. Morelia,Novillona,250.0,25,73.0,74.0
+2015-12-23,Mich. : R.M. Morelia,Toros,250.0,55,74.0,75.0
+2015-12-23,Mich. : R.M. Morelia,Vaca,250.0,16,59.0,61.0
+2015-12-24,Mich. : R.M. Morelia,Corral,250.0,17,74.0,75.0
+2015-12-24,Mich. : R.M. Morelia,Novillona,250.0,14,73.0,74.0
+2015-12-24,Mich. : R.M. Morelia,Toros,250.0,38,74.0,75.0
+2015-12-24,Mich. : R.M. Morelia,Vaca,250.0,11,59.0,61.0
+2015-12-28,Mich. : R.M. Morelia,Corral,250.0,16,74.0,75.0
+2015-12-28,Mich. : R.M. Morelia,Novillona,250.0,13,73.0,74.0
+2015-12-28,Mich. : R.M. Morelia,Toros,250.0,36,74.0,75.0
+2015-12-28,Mich. : R.M. Morelia,Vaca,250.0,9,59.0,61.0
+2015-12-29,Mich. : R.M. Morelia,Corral,250.0,16,74.0,75.0
+2015-12-29,Mich. : R.M. Morelia,Novillona,250.0,9,73.0,74.0
+2015-12-29,Mich. : R.M. Morelia,Toros,250.0,22,74.0,75.0
+2015-12-29,Mich. : R.M. Morelia,Vaca,250.0,6,59.0,61.0
+2015-12-30,Mich. : R.M. Morelia,Corral,250.0,24,74.0,75.0
+2015-12-30,Mich. : R.M. Morelia,Novillona,250.0,23,73.0,74.0
+2015-12-30,Mich. : R.M. Morelia,Toros,250.0,53,74.0,75.0
+2015-12-30,Mich. : R.M. Morelia,Vaca,250.0,14,59.0,61.0
+2015-12-31,Mich. : R.M. Morelia,Corral,250.0,17,74.0,75.0
+2015-12-31,Mich. : R.M. Morelia,Novillona,250.0,15,73.0,74.0
+2015-12-31,Mich. : R.M. Morelia,Toros,250.0,37,74.0,75.0
+2015-12-31,Mich. : R.M. Morelia,Vaca,250.0,10,59.0,61.0
+2015-12-01,N.L. : Chamar Alimentos TIF 356,Corral,280.0,298,70.0,71.0
+2015-12-02,N.L. : Chamar Alimentos TIF 356,Corral,280.0,277,70.0,71.0
+2015-12-03,N.L. : Chamar Alimentos TIF 356,Corral,280.0,213,70.0,71.0
+2015-12-04,N.L. : Chamar Alimentos TIF 356,Corral,280.0,223,70.0,71.0
+2015-12-07,N.L. : Chamar Alimentos TIF 356,Corral,280.0,137,70.0,71.0
+2015-12-08,N.L. : Chamar Alimentos TIF 356,Corral,280.0,242,70.0,71.0
+2015-12-09,N.L. : Chamar Alimentos TIF 356,Corral,280.0,57,70.0,71.0
+2015-12-10,N.L. : Chamar Alimentos TIF 356,Corral,280.0,42,70.0,71.0
+2015-12-11,N.L. : Chamar Alimentos TIF 356,Corral,280.0,111,70.0,71.0
+2015-12-14,N.L. : Chamar Alimentos TIF 356,Corral,280.0,239,70.0,71.0
+2015-12-15,N.L. : Chamar Alimentos TIF 356,Corral,280.0,285,70.0,71.0
+2015-12-16,N.L. : Chamar Alimentos TIF 356,Corral,280.0,79,70.0,71.0
+2015-12-17,N.L. : Chamar Alimentos TIF 356,Corral,280.0,161,70.0,71.0
+2015-12-18,N.L. : Chamar Alimentos TIF 356,Corral,280.0,210,70.0,71.0
+2015-12-21,N.L. : Chamar Alimentos TIF 356,Corral,280.0,300,70.0,71.0
+2015-12-22,N.L. : Chamar Alimentos TIF 356,Corral,280.0,361,70.0,71.0
+2015-12-23,N.L. : Chamar Alimentos TIF 356,Corral,280.0,165,70.0,71.0
+2015-12-24,N.L. : Chamar Alimentos TIF 356,Corral,280.0,67,70.0,71.0
+2015-12-28,N.L. : Chamar Alimentos TIF 356,Corral,280.0,275,70.0,71.0
+2015-12-29,N.L. : Chamar Alimentos TIF 356,Corral,280.0,374,70.0,71.0
+2015-12-30,N.L. : Chamar Alimentos TIF 356,Corral,280.0,43,70.0,71.0
+2015-12-31,N.L. : Chamar Alimentos TIF 356,Corral,280.0,20,70.0,71.0
+2015-12-01,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,20,70.0,71.0
+2015-12-02,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,20,70.0,71.0
+2015-12-03,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,12,70.0,71.0
+2015-12-04,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,20,70.0,71.0
+2015-12-07,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,20,70.0,71.0
+2015-12-08,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,30,70.0,71.0
+2015-12-09,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,10,70.0,71.0
+2015-12-10,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,22,70.0,71.0
+2015-12-11,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,10,70.0,71.0
+2015-12-14,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,20,70.0,71.0
+2015-12-15,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,19,70.0,71.0
+2015-12-16,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,49,70.0,71.0
+2015-12-17,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,47,70.0,71.0
+2015-12-18,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,110,70.0,76.0
+2015-12-21,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,20,70.0,71.0
+2015-12-22,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,49,70.0,71.0
+2015-12-23,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,10,70.0,71.0
+2015-12-24,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,10,70.0,71.0
+2015-12-28,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,10,70.0,71.0
+2015-12-29,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,10,70.0,71.0
+2015-12-30,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,10,70.0,71.0
+2015-12-31,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,10,70.0,71.0
+2015-12-01,N.L. : Sukarne,Corral,280.0,900,70.0,71.0
+2015-12-02,N.L. : Sukarne,Corral,280.0,1428,70.0,71.0
+2015-12-03,N.L. : Sukarne,Corral,280.0,1168,70.0,71.0
+2015-12-04,N.L. : Sukarne,Corral,280.0,1162,70.0,71.0
+2015-12-07,N.L. : Sukarne,Corral,280.0,2813,70.0,71.0
+2015-12-08,N.L. : Sukarne,Corral,280.0,922,70.0,71.0
+2015-12-09,N.L. : Sukarne,Corral,280.0,1022,70.0,71.0
+2015-12-10,N.L. : Sukarne,Corral,280.0,1204,70.0,71.0
+2015-12-11,N.L. : Sukarne,Corral,280.0,1120,70.0,71.0
+2015-12-14,N.L. : Sukarne,Corral,280.0,1789,70.0,71.0
+2015-12-15,N.L. : Sukarne,Corral,285.0,850,70.0,71.0
+2015-12-16,N.L. : Sukarne,Corral,280.0,1114,70.0,71.0
+2015-12-17,N.L. : Sukarne,Corral,280.0,1118,70.0,71.0
+2015-12-18,N.L. : Sukarne,Corral,280.0,1161,70.0,71.0
+2015-12-21,N.L. : Sukarne,Corral,280.0,2120,70.0,71.0
+2015-12-22,N.L. : Sukarne,Corral,280.0,1100,70.0,71.0
+2015-12-23,N.L. : Sukarne,Corral,280.0,1030,70.0,71.0
+2015-12-24,N.L. : Sukarne,Corral,280.0,1063,70.0,71.0
+2015-12-28,N.L. : Sukarne,Corral,280.0,558,70.0,71.0
+2015-12-29,N.L. : Sukarne,Corral,280.0,779,70.0,71.0
+2015-12-30,N.L. : Sukarne,Corral,280.0,740,70.0,71.0
+2015-12-31,N.L. : Sukarne,Corral,280.0,692,70.0,71.0
+2015-12-01,N.L. : TIF 15 Emp. Treviño,Corral,280.0,10,72.0,73.5
+2015-12-02,N.L. : TIF 15 Emp. Treviño,Corral,280.0,97,72.0,73.5
+2015-12-03,N.L. : TIF 15 Emp. Treviño,Corral,280.0,59,72.0,73.5
+2015-12-04,N.L. : TIF 15 Emp. Treviño,Corral,280.0,10,72.0,73.5
+2015-12-07,N.L. : TIF 15 Emp. Treviño,Corral,280.0,59,72.0,73.5
+2015-12-08,N.L. : TIF 15 Emp. Treviño,Corral,280.0,10,72.0,73.5
+2015-12-09,N.L. : TIF 15 Emp. Treviño,Corral,280.0,86,72.0,73.5
+2015-12-10,N.L. : TIF 15 Emp. Treviño,Corral,280.0,50,72.0,73.5
+2015-12-11,N.L. : TIF 15 Emp. Treviño,Corral,280.0,10,72.0,73.5
+2015-12-14,N.L. : TIF 15 Emp. Treviño,Corral,280.0,66,72.0,73.5
+2015-12-15,N.L. : TIF 15 Emp. Treviño,Corral,280.0,10,72.0,73.5
+2015-12-16,N.L. : TIF 15 Emp. Treviño,Corral,280.0,10,72.0,73.5
+2015-12-17,N.L. : TIF 15 Emp. Treviño,Corral,280.0,121,72.0,73.5
+2015-12-18,N.L. : TIF 15 Emp. Treviño,Corral,280.0,67,72.0,73.5
+2015-12-21,N.L. : TIF 15 Emp. Treviño,Corral,280.0,87,72.0,73.5
+2015-12-22,N.L. : TIF 15 Emp. Treviño,Corral,280.0,59,72.0,73.5
+2015-12-23,N.L. : TIF 15 Emp. Treviño,Corral,280.0,67,72.0,73.5
+2015-12-24,N.L. : TIF 15 Emp. Treviño,Corral,280.0,67,72.0,73.5
+2015-12-28,N.L. : TIF 15 Emp. Treviño,Corral,280.0,58,72.0,73.5
+2015-12-29,N.L. : TIF 15 Emp. Treviño,Corral,280.0,8,72.0,73.5
+2015-12-30,N.L. : TIF 15 Emp. Treviño,Corral,280.0,160,72.0,73.5
+2015-12-31,N.L. : TIF 15 Emp. Treviño,Corral,280.0,26,72.0,73.5
+2015-12-03,Nay. : R.M. Tepic,Vaca,220.0,35,60.0,65.0
+2015-12-04,Nay. : R.M. Tepic,Vaca,220.0,40,60.0,65.0
+2015-12-07,Nay. : R.M. Tepic,Vaca,210.0,35,60.0,65.0
+2015-12-08,Nay. : R.M. Tepic,Vaca,210.0,35,60.0,65.0
+2015-12-09,Nay. : R.M. Tepic,Vaca,210.0,40,60.0,65.0
+2015-12-11,Nay. : R.M. Tepic,Vaca,210.0,40,60.0,65.0
+2015-12-14,Nay. : R.M. Tepic,Vaca,210.0,40,60.0,65.0
+2015-12-16,Nay. : R.M. Tepic,Vaca,210.0,40,60.0,65.0
+2015-12-17,Nay. : R.M. Tepic,Vaca,210.0,40,60.0,65.0
+2015-12-18,Nay. : R.M. Tepic,Vaca,210.0,40,60.0,65.0
+2015-12-21,Nay. : R.M. Tepic,Vaca,210.0,40,60.0,65.0
+2015-12-22,Nay. : R.M. Tepic,Vaca,210.0,40,60.0,65.0
+2015-12-23,Nay. : R.M. Tepic,Vaca,210.0,40,60.0,65.0
+2015-12-24,Nay. : R.M. Tepic,Vaca,210.0,40,60.0,65.0
+2015-12-28,Nay. : R.M. Tepic,Vaca,210.0,40,60.0,65.0
+2015-12-29,Nay. : R.M. Tepic,Vaca,210.0,40,60.0,65.0
+2015-12-30,Nay. : R.M. Tepic,Vaca,210.0,40,60.0,65.0
+2015-12-31,Nay. : R.M. Tepic,Vaca,210.0,40,60.0,65.0
+2015-12-01,Oax. : Rastro Reforma Agraria,Corral,400.0,22,70.0,72.0
+2015-12-01,Oax. : Rastro Reforma Agraria,Vaca,300.0,14,56.0,59.0
+2015-12-02,Oax. : Rastro Reforma Agraria,Corral,400.0,25,70.0,72.0
+2015-12-02,Oax. : Rastro Reforma Agraria,Vaca,300.0,17,56.0,59.0
+2015-12-03,Oax. : Rastro Reforma Agraria,Corral,400.0,41,70.0,72.0
+2015-12-03,Oax. : Rastro Reforma Agraria,Vaca,400.0,17,56.0,59.0
+2015-12-04,Oax. : Rastro Reforma Agraria,Corral,400.0,48,70.0,72.0
+2015-12-04,Oax. : Rastro Reforma Agraria,Vaca,300.0,23,56.0,59.0
+2015-12-07,Oax. : Rastro Reforma Agraria,Corral,400.0,23,70.0,72.0
+2015-12-07,Oax. : Rastro Reforma Agraria,Vaca,300.0,12,56.0,59.0
+2015-12-08,Oax. : Rastro Reforma Agraria,Corral,400.0,37,70.0,72.0
+2015-12-08,Oax. : Rastro Reforma Agraria,Vaca,300.0,16,56.0,59.0
+2015-12-09,Oax. : Rastro Reforma Agraria,Corral,400.0,20,70.0,72.0
+2015-12-09,Oax. : Rastro Reforma Agraria,Vaca,300.0,18,56.0,59.0
+2015-12-10,Oax. : Rastro Reforma Agraria,Corral,300.0,41,70.0,72.0
+2015-12-10,Oax. : Rastro Reforma Agraria,Vaca,300.0,16,56.0,59.0
+2015-12-11,Oax. : Rastro Reforma Agraria,Corral,400.0,46,70.0,72.0
+2015-12-11,Oax. : Rastro Reforma Agraria,Vaca,300.0,19,56.0,59.0
+2015-12-14,Oax. : Rastro Reforma Agraria,Corral,400.0,23,70.0,72.0
+2015-12-14,Oax. : Rastro Reforma Agraria,Vaca,300.0,9,56.0,59.0
+2015-12-15,Oax. : Rastro Reforma Agraria,Corral,400.0,42,70.0,72.0
+2015-12-15,Oax. : Rastro Reforma Agraria,Vaca,300.0,15,56.0,59.0
+2015-12-16,Oax. : Rastro Reforma Agraria,Corral,400.0,44,70.0,72.0
+2015-12-16,Oax. : Rastro Reforma Agraria,Vaca,300.0,21,56.0,59.0
+2015-12-17,Oax. : Rastro Reforma Agraria,Corral,400.0,32,70.0,72.0
+2015-12-17,Oax. : Rastro Reforma Agraria,Vaca,400.0,12,56.0,59.0
+2015-12-18,Oax. : Rastro Reforma Agraria,Corral,400.0,46,70.0,72.0
+2015-12-18,Oax. : Rastro Reforma Agraria,Vaca,300.0,18,56.0,59.0
+2015-12-21,Oax. : Rastro Reforma Agraria,Corral,400.0,25,70.0,72.0
+2015-12-21,Oax. : Rastro Reforma Agraria,Vaca,300.0,13,56.0,59.0
+2015-12-22,Oax. : Rastro Reforma Agraria,Corral,400.0,29,70.0,72.0
+2015-12-22,Oax. : Rastro Reforma Agraria,Vaca,300.0,14,56.0,59.0
+2015-12-23,Oax. : Rastro Reforma Agraria,Corral,400.0,32,70.0,72.0
+2015-12-23,Oax. : Rastro Reforma Agraria,Vaca,300.0,24,56.0,59.0
+2015-12-24,Oax. : Rastro Reforma Agraria,Corral,400.0,52,70.0,72.0
+2015-12-24,Oax. : Rastro Reforma Agraria,Vaca,300.0,26,56.0,59.0
+2015-12-28,Oax. : Rastro Reforma Agraria,Corral,400.0,44,70.0,72.0
+2015-12-28,Oax. : Rastro Reforma Agraria,Vaca,300.0,19,56.0,59.0
+2015-12-29,Oax. : Rastro Reforma Agraria,Corral,400.0,37,70.0,72.0
+2015-12-29,Oax. : Rastro Reforma Agraria,Vaca,300.0,14,56.0,59.0
+2015-12-30,Oax. : Rastro Reforma Agraria,Corral,400.0,30,70.0,72.0
+2015-12-30,Oax. : Rastro Reforma Agraria,Vaca,300.0,13,56.0,59.0
+2015-12-31,Oax. : Rastro Reforma Agraria,Corral,400.0,49,70.0,72.0
+2015-12-31,Oax. : Rastro Reforma Agraria,Vaca,300.0,24,56.0,59.0
+2015-12-02,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,200.0,10,,55.0
+2015-12-03,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,380.0,1,,60.0
+2015-12-03,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,200.0,7,,55.0
+2015-12-04,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,380.0,2,,60.0
+2015-12-04,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,200.0,7,,55.0
+2015-12-06,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,200.0,7,,55.0
+2015-12-07,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,200.0,11,,55.0
+2015-12-09,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,200.0,4,,55.0
+2015-12-10,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,380.0,1,,60.0
+2015-12-10,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,200.0,4,,55.0
+2015-12-11,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,380.0,5,,60.0
+2015-12-11,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,200.0,7,,55.0
+2015-12-13,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,380.0,2,,60.0
+2015-12-13,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,200.0,6,,55.0
+2015-12-14,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,200.0,7,,55.0
+2015-12-16,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,380.0,2,,60.0
+2015-12-16,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,200.0,12,,55.0
+2015-12-17,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,380.0,1,,60.0
+2015-12-17,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,200.0,5,,55.0
+2015-12-18,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,380.0,1,,60.0
+2015-12-18,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,200.0,5,,55.0
+2015-12-20,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,380.0,1,,60.0
+2015-12-20,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,200.0,5,,55.0
+2015-12-21,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,380.0,5,,60.0
+2015-12-21,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,200.0,6,,55.0
+2015-12-23,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,380.0,2,,60.0
+2015-12-23,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,200.0,9,,55.0
+2015-12-27,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,200.0,6,,55.0
+2015-12-28,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,380.0,3,,60.0
+2015-12-28,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,200.0,11,,55.0
+2015-12-30,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,380.0,3,,60.0
+2015-12-30,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,200.0,9,,55.0
+2015-12-01,Qro. : R.M. Querétaro,Toros,260.0,16,70.0,70.0
+2015-12-02,Qro. : R.M. Querétaro,Toros,260.0,29,70.0,70.0
+2015-12-03,Qro. : R.M. Querétaro,Toros,260.0,16,70.0,70.0
+2015-12-04,Qro. : R.M. Querétaro,Toros,260.0,58,70.0,70.0
+2015-12-07,Qro. : R.M. Querétaro,Toros,260.0,44,70.0,70.0
+2015-12-08,Qro. : R.M. Querétaro,Toros,260.0,17,70.0,70.0
+2015-12-09,Qro. : R.M. Querétaro,Toros,260.0,24,70.0,70.0
+2015-12-10,Qro. : R.M. Querétaro,Toros,260.0,16,70.0,70.0
+2015-12-11,Qro. : R.M. Querétaro,Toros,260.0,26,70.0,70.0
+2015-12-14,Qro. : R.M. Querétaro,Toros,260.0,32,70.0,70.0
+2015-12-15,Qro. : R.M. Querétaro,Toros,260.0,25,70.0,70.0
+2015-12-16,Qro. : R.M. Querétaro,Toros,260.0,56,70.0,70.0
+2015-12-17,Qro. : R.M. Querétaro,Toros,260.0,27,70.0,70.0
+2015-12-18,Qro. : R.M. Querétaro,Toros,260.0,66,70.0,70.0
+2015-12-21,Qro. : R.M. Querétaro,Toros,260.0,42,70.0,70.0
+2015-12-22,Qro. : R.M. Querétaro,Toros,260.0,67,70.0,70.0
+2015-12-23,Qro. : R.M. Querétaro,Toros,260.0,17,70.0,70.0
+2015-12-24,Qro. : R.M. Querétaro,Toros,260.0,30,70.0,70.0
+2015-12-28,Qro. : R.M. Querétaro,Toros,260.0,70,70.0,70.0
+2015-12-29,Qro. : R.M. Querétaro,Toros,260.0,120,70.0,70.0
+2015-12-30,Qro. : R.M. Querétaro,Toros,260.0,89,70.0,70.0
+2015-12-31,Qro. : R.M. Querétaro,Toros,260.0,70,70.0,70.0
+2015-12-01,Sin. : TIF 111 Vizur Sin,Novillona,260.0,190,,58.0
+2015-12-01,Sin. : TIF 111 Vizur Sin,Toros,268.0,535,,50.0
+2015-12-01,Sin. : TIF 111 Vizur Sin,Vaca,270.0,55,,48.0
+2015-12-02,Sin. : TIF 111 Vizur Sin,Corral,268.0,410,,60.0
+2015-12-02,Sin. : TIF 111 Vizur Sin,Toros,270.0,370,,50.0
+2015-12-03,Sin. : TIF 111 Vizur Sin,Corral,265.0,360,,60.0
+2015-12-03,Sin. : TIF 111 Vizur Sin,Toros,260.0,420,,50.0
+2015-12-04,Sin. : TIF 111 Vizur Sin,Novillona,276.0,95,,58.0
+2015-12-04,Sin. : TIF 111 Vizur Sin,Toros,268.0,450,,50.0
+2015-12-04,Sin. : TIF 111 Vizur Sin,Vaca,270.0,235,,48.0
+2015-12-07,Sin. : TIF 111 Vizur Sin,Corral,258.0,564,,60.0
+2015-12-07,Sin. : TIF 111 Vizur Sin,Toros,260.0,216,,50.0
+2015-12-08,Sin. : TIF 111 Vizur Sin,Corral,260.0,266,,60.0
+2015-12-08,Sin. : TIF 111 Vizur Sin,Novillona,255.0,124,,58.0
+2015-12-08,Sin. : TIF 111 Vizur Sin,Toros,269.0,280,,50.0
+2015-12-08,Sin. : TIF 111 Vizur Sin,Vaca,265.0,110,,48.0
+2015-12-09,Sin. : TIF 111 Vizur Sin,Toros,268.0,450,,50.0
+2015-12-09,Sin. : TIF 111 Vizur Sin,Vaca,265.0,330,,48.0
+2015-12-10,Sin. : TIF 111 Vizur Sin,Corral,260.0,450,,60.0
+2015-12-10,Sin. : TIF 111 Vizur Sin,Toros,268.0,210,,50.0
+2015-12-10,Sin. : TIF 111 Vizur Sin,Vaca,258.0,120,,48.0
+2015-12-11,Sin. : TIF 111 Vizur Sin,Novillona,265.0,50,,58.0
+2015-12-11,Sin. : TIF 111 Vizur Sin,Toros,270.0,520,,50.0
+2015-12-11,Sin. : TIF 111 Vizur Sin,Vaca,269.0,210,,48.0
+2015-12-14,Sin. : TIF 111 Vizur Sin,Toros,258.0,510,,50.0
+2015-12-14,Sin. : TIF 111 Vizur Sin,Vaca,260.0,270,,48.0
+2015-12-15,Sin. : TIF 111 Vizur Sin,Corral,250.0,320,,60.0
+2015-12-15,Sin. : TIF 111 Vizur Sin,Toros,265.0,310,,50.0
+2015-12-15,Sin. : TIF 111 Vizur Sin,Vaca,260.0,150,,48.0
+2015-12-16,Sin. : TIF 111 Vizur Sin,Corral,264.0,490,,60.0
+2015-12-16,Sin. : TIF 111 Vizur Sin,Toros,268.0,290,,50.0
+2015-12-17,Sin. : TIF 111 Vizur Sin,Corral,265.0,245,,60.0
+2015-12-17,Sin. : TIF 111 Vizur Sin,Novillona,268.0,140,,58.0
+2015-12-17,Sin. : TIF 111 Vizur Sin,Toros,260.0,290,,50.0
+2015-12-17,Sin. : TIF 111 Vizur Sin,Vaca,263.0,105,,48.0
+2015-12-18,Sin. : TIF 111 Vizur Sin,Corral,258.0,275,,60.0
+2015-12-18,Sin. : TIF 111 Vizur Sin,Novillona,270.0,115,,58.0
+2015-12-18,Sin. : TIF 111 Vizur Sin,Toros,259.0,280,,50.0
+2015-12-18,Sin. : TIF 111 Vizur Sin,Vaca,269.0,110,,48.0
+2015-12-21,Sin. : TIF 111 Vizur Sin,Novillona,258.0,240,,58.0
+2015-12-21,Sin. : TIF 111 Vizur Sin,Toros,260.0,480,,50.0
+2015-12-21,Sin. : TIF 111 Vizur Sin,Vaca,259.0,60,,48.0
+2015-12-22,Sin. : TIF 111 Vizur Sin,Corral,246.0,265,,60.0
+2015-12-22,Sin. : TIF 111 Vizur Sin,Novillona,286.0,45,,58.0
+2015-12-22,Sin. : TIF 111 Vizur Sin,Toros,276.0,260,,50.0
+2015-12-22,Sin. : TIF 111 Vizur Sin,Vaca,260.0,210,,48.0
+2015-12-23,Sin. : TIF 111 Vizur Sin,Corral,268.0,156,,60.0
+2015-12-23,Sin. : TIF 111 Vizur Sin,Novillona,255.0,134,,58.0
+2015-12-23,Sin. : TIF 111 Vizur Sin,Toros,267.0,130,,50.0
+2015-12-23,Sin. : TIF 111 Vizur Sin,Vaca,260.0,360,,48.0
+2015-12-24,Sin. : TIF 111 Vizur Sin,Novillona,250.0,150,,58.0
+2015-12-24,Sin. : TIF 111 Vizur Sin,Toros,265.0,420,,50.0
+2015-12-24,Sin. : TIF 111 Vizur Sin,Vaca,265.0,210,,48.0
+2015-12-28,Sin. : TIF 111 Vizur Sin,Novillona,254.0,122,,58.0
+2015-12-28,Sin. : TIF 111 Vizur Sin,Toros,269.0,465,,50.0
+2015-12-28,Sin. : TIF 111 Vizur Sin,Vaca,265.0,193,,48.0
+2015-12-29,Sin. : TIF 111 Vizur Sin,Toros,266.0,420,,50.0
+2015-12-29,Sin. : TIF 111 Vizur Sin,Vaca,269.0,360,,48.0
+2015-12-30,Sin. : TIF 111 Vizur Sin,Corral,264.0,285,,60.0
+2015-12-30,Sin. : TIF 111 Vizur Sin,Toros,470.0,313,,28.0
+2015-12-30,Sin. : TIF 111 Vizur Sin,Vaca,270.0,182,,48.0
+2015-12-31,Sin. : TIF 111 Vizur Sin,Novillona,268.0,105,,58.0
+2015-12-31,Sin. : TIF 111 Vizur Sin,Toros,273.0,420,,50.0
+2015-12-31,Sin. : TIF 111 Vizur Sin,Vaca,262.0,255,,48.0
+2015-12-01,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,231.0,11,51.0,51.0
+2015-12-01,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,319.0,14,49.0,49.0
+2015-12-02,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,274.0,15,51.0,51.0
+2015-12-02,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,503.0,7,51.0,51.0
+2015-12-02,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,362.0,8,49.0,49.0
+2015-12-04,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,240.0,11,51.0,51.0
+2015-12-04,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,582.0,2,51.0,51.0
+2015-12-04,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,338.0,6,49.0,49.0
+2015-12-08,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,229.0,4,51.0,51.0
+2015-12-08,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,229.0,8,49.0,49.0
+2015-12-09,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,227.0,19,51.0,51.0
+2015-12-09,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,406.0,1,51.0,51.0
+2015-12-09,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,334.0,16,49.0,49.0
+2015-12-10,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,225.0,4,51.0,51.0
+2015-12-10,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,456.0,3,51.0,51.0
+2015-12-10,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,316.0,6,49.0,49.0
+2015-12-14,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,200.0,4,51.0,51.0
+2015-12-14,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,422.0,1,51.0,51.0
+2015-12-14,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,289.0,20,49.0,49.0
+2015-12-15,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,250.0,5,51.0,51.0
+2015-12-15,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,280.0,2,51.0,51.0
+2015-12-15,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,302.0,6,49.0,49.0
+2015-12-17,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,218.0,7,51.0,51.0
+2015-12-17,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,280.0,3,51.0,51.0
+2015-12-17,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,326.0,7,49.0,49.0
+2015-12-18,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,224.0,6,51.0,51.0
+2015-12-18,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,290.0,2,51.0,51.0
+2015-12-18,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,292.0,16,49.0,49.0
+2015-12-21,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,183.0,5,51.0,51.0
+2015-12-21,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,280.0,2,51.0,51.0
+2015-12-21,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,271.0,35,49.0,49.0
+2015-12-22,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,246.0,6,51.0,51.0
+2015-12-22,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,340.0,5,51.0,51.0
+2015-12-22,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,294.0,11,49.0,49.0
+2015-12-23,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,263.0,24,51.0,51.0
+2015-12-23,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,295.0,6,51.0,51.0
+2015-12-23,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,325.0,24,49.0,49.0
+2015-12-24,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,237.0,1,51.0,51.0
+2015-12-24,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,313.0,7,49.0,49.0
+2015-12-28,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,189.0,9,51.0,51.0
+2015-12-28,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,275.0,4,51.0,51.0
+2015-12-28,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,291.0,14,49.0,49.0
+2015-12-29,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,259.0,24,51.0,51.0
+2015-12-29,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,252.0,3,51.0,51.0
+2015-12-29,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,315.0,12,49.0,49.0
+2015-12-30,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,203.0,8,51.0,51.0
+2015-12-30,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,288.0,4,51.0,51.0
+2015-12-30,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,313.0,24,49.0,49.0
+2015-12-31,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,209.0,4,51.0,51.0
+2015-12-31,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,421.0,2,51.0,51.0
+2015-12-31,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,276.0,11,49.0,49.0
+2015-12-01,Son. : Rastro TIF Bovinos Hermosillo,Corral,,149,72.0,73.0
+2015-12-02,Son. : Rastro TIF Bovinos Hermosillo,Corral,,228,72.0,73.0
+2015-12-03,Son. : Rastro TIF Bovinos Hermosillo,Corral,,214,72.0,73.0
+2015-12-04,Son. : Rastro TIF Bovinos Hermosillo,Corral,,193,72.0,73.0
+2015-12-07,Son. : Rastro TIF Bovinos Hermosillo,Corral,,175,72.0,73.0
+2015-12-08,Son. : Rastro TIF Bovinos Hermosillo,Corral,,184,72.0,73.0
+2015-12-09,Son. : Rastro TIF Bovinos Hermosillo,Corral,,228,72.0,73.0
+2015-12-10,Son. : Rastro TIF Bovinos Hermosillo,Corral,,184,72.0,73.0
+2015-12-11,Son. : Rastro TIF Bovinos Hermosillo,Corral,,269,72.0,73.0
+2015-12-14,Son. : Rastro TIF Bovinos Hermosillo,Corral,,140,72.0,73.0
+2015-12-15,Son. : Rastro TIF Bovinos Hermosillo,Corral,,269,72.0,73.0
+2015-12-16,Son. : Rastro TIF Bovinos Hermosillo,Corral,,228,72.0,73.0
+2015-12-17,Son. : Rastro TIF Bovinos Hermosillo,Corral,,182,72.0,73.0
+2015-12-18,Son. : Rastro TIF Bovinos Hermosillo,Corral,,258,72.0,73.0
+2015-12-21,Son. : Rastro TIF Bovinos Hermosillo,Corral,,182,72.0,73.0
+2015-12-22,Son. : Rastro TIF Bovinos Hermosillo,Corral,,11,72.0,73.0
+2015-12-23,Son. : Rastro TIF Bovinos Hermosillo,Corral,,182,72.0,73.0
+2015-12-24,Son. : Rastro TIF Bovinos Hermosillo,Corral,,250,72.0,73.0
+2015-12-28,Son. : Rastro TIF Bovinos Hermosillo,Corral,,210,72.0,73.0
+2015-12-29,Son. : Rastro TIF Bovinos Hermosillo,Corral,,270,72.0,73.0
+2015-12-30,Son. : Rastro TIF Bovinos Hermosillo,Corral,,182,72.0,73.0
+2015-12-31,Son. : Rastro TIF Bovinos Hermosillo,Corral,,258,72.0,73.0
+2015-12-07,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,370.0,1,,61.0
+2015-12-07,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,510.0,69,,69.0
+2015-12-07,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,342.0,11,,61.0
+2015-12-14,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,275.0,1,,61.0
+2015-12-14,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,512.0,65,,69.0
+2015-12-14,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,672.0,1,,64.0
+2015-12-21,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,478.0,6,,61.0
+2015-12-21,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,479.0,40,,69.0
+2015-12-21,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,330.0,1,,61.0
+2015-12-24,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,454.0,19,,69.0
+2015-12-24,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,522.0,1,,61.0
+2015-12-31,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,193.0,10,,61.0
+2015-12-31,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,598.0,42,,69.0
+2015-12-31,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,726.0,1,,64.0
+2015-12-31,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,336.0,16,,61.0
+2015-12-01,Ver. : Rastro Municipal de Coatepec,Corral,226.0,3,52.0,53.0
+2015-12-02,Ver. : Rastro Municipal de Coatepec,Corral,225.0,4,52.0,53.0
+2015-12-02,Ver. : Rastro Municipal de Coatepec,Novillona,182.0,2,47.0,48.0
+2015-12-03,Ver. : Rastro Municipal de Coatepec,Corral,226.0,2,52.0,53.0
+2015-12-03,Ver. : Rastro Municipal de Coatepec,Novillona,184.0,1,47.0,48.0
+2015-12-04,Ver. : Rastro Municipal de Coatepec,Corral,226.0,5,52.0,53.0
+2015-12-04,Ver. : Rastro Municipal de Coatepec,Novillona,183.0,4,47.0,48.0
+2015-12-04,Ver. : Rastro Municipal de Coatepec,Vaca,302.0,2,40.0,41.0
+2015-12-07,Ver. : Rastro Municipal de Coatepec,Corral,226.0,3,52.0,53.0
+2015-12-07,Ver. : Rastro Municipal de Coatepec,Novillona,180.0,1,40.0,41.0
+2015-12-08,Ver. : Rastro Municipal de Coatepec,Corral,226.0,5,52.0,53.0
+2015-12-08,Ver. : Rastro Municipal de Coatepec,Novillona,183.0,2,40.0,41.0
+2015-12-09,Ver. : Rastro Municipal de Coatepec,Corral,225.0,2,52.0,53.0
+2015-12-09,Ver. : Rastro Municipal de Coatepec,Novillona,184.0,3,47.0,48.0
+2015-12-10,Ver. : Rastro Municipal de Coatepec,Corral,225.0,3,52.0,53.0
+2015-12-11,Ver. : Rastro Municipal de Coatepec,Corral,226.0,5,52.0,53.0
+2015-12-11,Ver. : Rastro Municipal de Coatepec,Novillona,183.0,3,47.0,48.0
+2015-12-11,Ver. : Rastro Municipal de Coatepec,Vaca,303.0,1,40.0,41.0
+2015-12-14,Ver. : Rastro Municipal de Coatepec,Corral,226.0,3,52.0,53.0
+2015-12-15,Ver. : Rastro Municipal de Coatepec,Corral,225.0,3,52.0,53.0
+2015-12-15,Ver. : Rastro Municipal de Coatepec,Novillona,181.0,2,47.0,48.0
+2015-12-15,Ver. : Rastro Municipal de Coatepec,Vaca,303.0,2,40.0,41.0
+2015-12-16,Ver. : Rastro Municipal de Coatepec,Corral,225.0,3,52.0,53.0
+2015-12-17,Ver. : Rastro Municipal de Coatepec,Corral,225.0,3,52.0,53.0
+2015-12-17,Ver. : Rastro Municipal de Coatepec,Novillona,183.0,1,47.0,48.0
+2015-12-18,Ver. : Rastro Municipal de Coatepec,Corral,224.0,7,52.0,53.0
+2015-12-18,Ver. : Rastro Municipal de Coatepec,Novillona,183.0,3,47.0,48.0
+2015-12-18,Ver. : Rastro Municipal de Coatepec,Vaca,302.0,1,40.0,41.0
+2015-12-21,Ver. : Rastro Municipal de Coatepec,Corral,225.0,3,52.0,53.0
+2015-12-21,Ver. : Rastro Municipal de Coatepec,Novillona,183.0,2,47.0,48.0
+2015-12-21,Ver. : Rastro Municipal de Coatepec,Vaca,303.0,2,40.0,41.0
+2015-12-22,Ver. : Rastro Municipal de Coatepec,Corral,226.0,5,52.0,53.0
+2015-12-22,Ver. : Rastro Municipal de Coatepec,Novillona,182.0,3,40.0,41.0
+2015-12-23,Ver. : Rastro Municipal de Coatepec,Corral,225.0,2,52.0,53.0
+2015-12-24,Ver. : Rastro Municipal de Coatepec,Corral,226.0,2,52.0,53.0
+2015-12-28,Ver. : Rastro Municipal de Coatepec,Corral,226.0,3,52.0,53.0
+2015-12-28,Ver. : Rastro Municipal de Coatepec,Novillona,183.0,2,47.0,48.0
+2015-12-29,Ver. : Rastro Municipal de Coatepec,Corral,225.0,1,52.0,53.0
+2015-12-29,Ver. : Rastro Municipal de Coatepec,Novillona,183.0,2,47.0,48.0
+2015-12-30,Ver. : Rastro Municipal de Coatepec,Corral,224.0,5,52.0,53.0
+2015-12-30,Ver. : Rastro Municipal de Coatepec,Novillona,183.0,3,47.0,48.0
+2015-12-30,Ver. : Rastro Municipal de Coatepec,Vaca,302.0,1,40.0,41.0
+2015-12-31,Ver. : Rastro Municipal de Coatepec,Corral,226.0,3,52.0,53.0
+2015-12-31,Ver. : Rastro Municipal de Coatepec,Novillona,182.0,2,47.0,48.0
+2015-12-01,Ver. : Rastro Municipal de Xalapa,Corral,226.0,2,52.0,53.0
+2015-12-02,Ver. : Rastro Municipal de Xalapa,Corral,226.0,2,52.0,53.0
+2015-12-03,Ver. : Rastro Municipal de Xalapa,Corral,225.0,2,52.0,53.0
+2015-12-04,Ver. : Rastro Municipal de Xalapa,Corral,224.0,3,52.0,53.0
+2015-12-04,Ver. : Rastro Municipal de Xalapa,Novillona,183.0,2,40.0,41.0
+2015-12-07,Ver. : Rastro Municipal de Xalapa,Corral,226.0,6,52.0,53.0
+2015-12-07,Ver. : Rastro Municipal de Xalapa,Novillona,184.0,4,40.0,41.0
+2015-12-07,Ver. : Rastro Municipal de Xalapa,Vaca,303.0,1,38.0,39.0
+2015-12-08,Ver. : Rastro Municipal de Xalapa,Corral,225.0,2,52.0,53.0
+2015-12-08,Ver. : Rastro Municipal de Xalapa,Novillona,183.0,1,40.0,41.0
+2015-12-09,Ver. : Rastro Municipal de Xalapa,Corral,224.0,2,52.0,53.0
+2015-12-10,Ver. : Rastro Municipal de Xalapa,Corral,226.0,1,52.0,53.0
+2015-12-11,Ver. : Rastro Municipal de Xalapa,Corral,226.0,3,52.0,53.0
+2015-12-11,Ver. : Rastro Municipal de Xalapa,Novillona,182.0,1,40.0,41.0
+2015-12-14,Ver. : Rastro Municipal de Xalapa,Corral,226.0,7,52.0,53.0
+2015-12-14,Ver. : Rastro Municipal de Xalapa,Novillona,183.0,3,40.0,41.0
+2015-12-14,Ver. : Rastro Municipal de Xalapa,Vaca,304.0,2,38.0,39.0
+2015-12-15,Ver. : Rastro Municipal de Xalapa,Corral,226.0,3,52.0,53.0
+2015-12-16,Ver. : Rastro Municipal de Xalapa,Corral,226.0,2,52.0,53.0
+2015-12-17,Ver. : Rastro Municipal de Xalapa,Corral,224.0,2,52.0,53.0
+2015-12-18,Ver. : Rastro Municipal de Xalapa,Corral,224.0,2,52.0,53.0
+2015-12-21,Ver. : Rastro Municipal de Xalapa,Corral,224.0,5,52.0,53.0
+2015-12-21,Ver. : Rastro Municipal de Xalapa,Novillona,182.0,3,40.0,41.0
+2015-12-21,Ver. : Rastro Municipal de Xalapa,Vaca,303.0,2,38.0,39.0
+2015-12-22,Ver. : Rastro Municipal de Xalapa,Corral,226.0,5,52.0,53.0
+2015-12-22,Ver. : Rastro Municipal de Xalapa,Novillona,182.0,3,40.0,41.0
+2015-12-22,Ver. : Rastro Municipal de Xalapa,Vaca,302.0,2,38.0,39.0
+2015-12-23,Ver. : Rastro Municipal de Xalapa,Corral,225.0,3,52.0,53.0
+2015-12-24,Ver. : Rastro Municipal de Xalapa,Corral,226.0,1,52.0,53.0
+2015-12-28,Ver. : Rastro Municipal de Xalapa,Corral,226.0,2,52.0,53.0
+2015-12-28,Ver. : Rastro Municipal de Xalapa,Novillona,183.0,2,40.0,41.0
+2015-12-29,Ver. : Rastro Municipal de Xalapa,Corral,225.0,2,52.0,53.0
+2015-12-30,Ver. : Rastro Municipal de Xalapa,Corral,226.0,4,52.0,53.0
+2015-12-30,Ver. : Rastro Municipal de Xalapa,Novillona,183.0,1,40.0,41.0
+2015-12-30,Ver. : Rastro Municipal de Xalapa,Vaca,302.0,1,38.0,39.0
+2015-12-31,Ver. : Rastro Municipal de Xalapa,Corral,226.0,2,52.0,53.0
+2015-12-14,Yuc. : Aric Planta TIF 170,Novillona,257.0,11,,75.0
+2015-12-15,Yuc. : Aric Planta TIF 170,Pradera,164.0,1,,76.0
+2015-12-21,Yuc. : Aric Planta TIF 170,Pradera,293.0,6,,76.0
+2015-12-01,Zac. : R.M. Zacatecas,Corral,247.0,2,57.0,57.0
+2015-12-01,Zac. : R.M. Zacatecas,Novillona,220.0,1,52.0,52.0
+2015-12-01,Zac. : R.M. Zacatecas,Vaca,216.0,1,49.0,49.0
+2015-12-03,Zac. : R.M. Zacatecas,Corral,247.0,1,57.0,57.0
+2015-12-03,Zac. : R.M. Zacatecas,Novillona,220.0,3,52.0,52.0
+2015-12-03,Zac. : R.M. Zacatecas,Toros,440.0,1,53.0,53.0
+2015-12-03,Zac. : R.M. Zacatecas,Vaca,216.0,1,49.0,49.0
+2015-12-08,Zac. : R.M. Zacatecas,Corral,247.0,8,57.0,57.0
+2015-12-08,Zac. : R.M. Zacatecas,Novillona,220.0,3,52.0,52.0
+2015-12-08,Zac. : R.M. Zacatecas,Toros,440.0,1,53.0,53.0
+2015-12-08,Zac. : R.M. Zacatecas,Vaca,216.0,2,49.0,49.0
+2015-12-10,Zac. : R.M. Zacatecas,Corral,247.0,1,57.0,57.0
+2015-12-10,Zac. : R.M. Zacatecas,Novillona,220.0,5,52.0,52.0
+2015-12-10,Zac. : R.M. Zacatecas,Toros,440.0,3,53.0,53.0
+2015-12-10,Zac. : R.M. Zacatecas,Vaca,216.0,2,49.0,49.0
+2015-12-15,Zac. : R.M. Zacatecas,Corral,247.0,12,57.0,57.0
+2015-12-15,Zac. : R.M. Zacatecas,Novillona,220.0,10,52.0,52.0
+2015-12-15,Zac. : R.M. Zacatecas,Toros,440.0,2,53.0,53.0
+2015-12-15,Zac. : R.M. Zacatecas,Vaca,216.0,8,49.0,49.0
+2015-12-17,Zac. : R.M. Zacatecas,Corral,247.0,9,57.0,57.0
+2015-12-17,Zac. : R.M. Zacatecas,Novillona,220.0,1,52.0,52.0
+2015-12-17,Zac. : R.M. Zacatecas,Toros,440.0,3,53.0,53.0
+2015-12-17,Zac. : R.M. Zacatecas,Vaca,216.0,3,49.0,49.0
+2015-12-22,Zac. : R.M. Zacatecas,Corral,247.0,5,57.0,57.0
+2015-12-22,Zac. : R.M. Zacatecas,Novillona,220.0,5,52.0,52.0
+2015-12-22,Zac. : R.M. Zacatecas,Toros,440.0,2,53.0,53.0
+2015-12-22,Zac. : R.M. Zacatecas,Vaca,216.0,5,49.0,49.0
+2015-12-29,Zac. : R.M. Zacatecas,Corral,247.0,5,57.0,57.0
+2015-12-29,Zac. : R.M. Zacatecas,Novillona,220.0,3,52.0,52.0
+2015-12-29,Zac. : R.M. Zacatecas,Toros,440.0,11,53.0,53.0
+2015-12-29,Zac. : R.M. Zacatecas,Vaca,216.0,14,49.0,49.0
+2015-12-31,Zac. : R.M. Zacatecas,Corral,247.0,2,57.0,57.0
+2015-12-31,Zac. : R.M. Zacatecas,Novillona,220.0,3,52.0,52.0
+2015-12-31,Zac. : R.M. Zacatecas,Toros,440.0,8,53.0,53.0
+2015-12-31,Zac. : R.M. Zacatecas,Vaca,216.0,7,49.0,49.0

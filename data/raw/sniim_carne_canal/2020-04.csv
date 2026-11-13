@@ -1,0 +1,948 @@
+date,slaughterhouse,type,avg_weight_kg,carcasses,price_min_mxn_kg,price_max_mxn_kg
+2020-04-01,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,24,64.0,68.0
+2020-04-01,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,187,44.0,47.0
+2020-04-02,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,27,64.0,68.0
+2020-04-02,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,180,44.0,47.0
+2020-04-03,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,26,64.0,68.0
+2020-04-03,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,180,44.0,47.0
+2020-04-04,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,23,64.0,68.0
+2020-04-04,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,167,44.0,47.0
+2020-04-06,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,22,64.0,68.0
+2020-04-06,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,158,44.0,47.0
+2020-04-07,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,23,64.0,68.0
+2020-04-07,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,173,44.0,47.0
+2020-04-08,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,26,64.0,68.0
+2020-04-08,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,194,44.0,47.0
+2020-04-13,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,23,64.0,68.0
+2020-04-13,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,173,44.0,47.0
+2020-04-14,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,31,64.0,68.0
+2020-04-14,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,140,44.0,47.0
+2020-04-15,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,24,64.0,68.0
+2020-04-15,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,210,44.0,47.0
+2020-04-16,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,26,64.0,68.0
+2020-04-16,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,154,44.0,47.0
+2020-04-17,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,23,64.0,68.0
+2020-04-17,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,167,44.0,47.0
+2020-04-18,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,24,64.0,68.0
+2020-04-18,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,156,44.0,47.0
+2020-04-20,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,27,64.0,68.0
+2020-04-20,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,139,44.0,47.0
+2020-04-21,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,26,64.0,68.0
+2020-04-21,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,168,44.0,47.0
+2020-04-22,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,23,64.0,68.0
+2020-04-22,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,157,44.0,47.0
+2020-04-23,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,23,64.0,68.0
+2020-04-23,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,165,44.0,47.0
+2020-04-24,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,22,64.0,68.0
+2020-04-24,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,174,44.0,47.0
+2020-04-25,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,25,64.0,68.0
+2020-04-25,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,186,44.0,47.0
+2020-04-27,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,21,64.0,68.0
+2020-04-27,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,172,44.0,47.0
+2020-04-28,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,18,64.0,68.0
+2020-04-28,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,179,44.0,47.0
+2020-04-29,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,20,64.0,68.0
+2020-04-29,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,170,44.0,47.0
+2020-04-30,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,26,64.0,68.0
+2020-04-30,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,194,44.0,47.0
+2020-04-01,Ags. : R.M. Aguascalientes,Toros,455.0,6,68.0,72.0
+2020-04-01,Ags. : R.M. Aguascalientes,Vaca,360.0,62,44.0,48.0
+2020-04-02,Ags. : R.M. Aguascalientes,Toros,455.0,6,68.0,72.0
+2020-04-02,Ags. : R.M. Aguascalientes,Vaca,360.0,84,44.0,48.0
+2020-04-03,Ags. : R.M. Aguascalientes,Toros,455.0,6,68.0,72.0
+2020-04-03,Ags. : R.M. Aguascalientes,Vaca,360.0,64,44.0,48.0
+2020-04-04,Ags. : R.M. Aguascalientes,Toros,455.0,5,68.0,72.0
+2020-04-04,Ags. : R.M. Aguascalientes,Vaca,360.0,83,44.0,48.0
+2020-04-06,Ags. : R.M. Aguascalientes,Toros,455.0,6,68.0,72.0
+2020-04-06,Ags. : R.M. Aguascalientes,Vaca,360.0,56,44.0,48.0
+2020-04-07,Ags. : R.M. Aguascalientes,Toros,455.0,7,68.0,72.0
+2020-04-07,Ags. : R.M. Aguascalientes,Vaca,360.0,74,44.0,48.0
+2020-04-08,Ags. : R.M. Aguascalientes,Toros,455.0,5,68.0,72.0
+2020-04-08,Ags. : R.M. Aguascalientes,Vaca,360.0,68,44.0,48.0
+2020-04-13,Ags. : R.M. Aguascalientes,Toros,455.0,8,68.0,72.0
+2020-04-13,Ags. : R.M. Aguascalientes,Vaca,360.0,52,44.0,48.0
+2020-04-14,Ags. : R.M. Aguascalientes,Toros,455.0,8,68.0,72.0
+2020-04-14,Ags. : R.M. Aguascalientes,Vaca,360.0,45,44.0,48.0
+2020-04-15,Ags. : R.M. Aguascalientes,Toros,455.0,5,68.0,72.0
+2020-04-15,Ags. : R.M. Aguascalientes,Vaca,360.0,85,44.0,48.0
+2020-04-16,Ags. : R.M. Aguascalientes,Toros,455.0,6,68.0,72.0
+2020-04-16,Ags. : R.M. Aguascalientes,Vaca,360.0,54,44.0,48.0
+2020-04-17,Ags. : R.M. Aguascalientes,Toros,455.0,8,68.0,72.0
+2020-04-17,Ags. : R.M. Aguascalientes,Vaca,360.0,64,44.0,48.0
+2020-04-18,Ags. : R.M. Aguascalientes,Toros,455.0,5,68.0,72.0
+2020-04-18,Ags. : R.M. Aguascalientes,Vaca,360.0,57,44.0,48.0
+2020-04-20,Ags. : R.M. Aguascalientes,Toros,455.0,6,68.0,72.0
+2020-04-20,Ags. : R.M. Aguascalientes,Vaca,360.0,53,44.0,48.0
+2020-04-21,Ags. : R.M. Aguascalientes,Toros,455.0,5,68.0,72.0
+2020-04-21,Ags. : R.M. Aguascalientes,Vaca,360.0,87,44.0,48.0
+2020-04-22,Ags. : R.M. Aguascalientes,Toros,455.0,8,68.0,72.0
+2020-04-22,Ags. : R.M. Aguascalientes,Vaca,360.0,66,44.0,48.0
+2020-04-23,Ags. : R.M. Aguascalientes,Toros,455.0,8,68.0,72.0
+2020-04-23,Ags. : R.M. Aguascalientes,Vaca,360.0,76,44.0,48.0
+2020-04-24,Ags. : R.M. Aguascalientes,Toros,455.0,6,68.0,72.0
+2020-04-24,Ags. : R.M. Aguascalientes,Vaca,360.0,70,44.0,48.0
+2020-04-25,Ags. : R.M. Aguascalientes,Toros,455.0,8,68.0,72.0
+2020-04-25,Ags. : R.M. Aguascalientes,Vaca,360.0,60,44.0,48.0
+2020-04-27,Ags. : R.M. Aguascalientes,Toros,455.0,8,68.0,72.0
+2020-04-27,Ags. : R.M. Aguascalientes,Vaca,360.0,72,44.0,48.0
+2020-04-28,Ags. : R.M. Aguascalientes,Toros,455.0,7,68.0,72.0
+2020-04-28,Ags. : R.M. Aguascalientes,Vaca,360.0,65,44.0,48.0
+2020-04-29,Ags. : R.M. Aguascalientes,Toros,455.0,8,68.0,72.0
+2020-04-29,Ags. : R.M. Aguascalientes,Vaca,360.0,62,44.0,48.0
+2020-04-30,Ags. : R.M. Aguascalientes,Toros,455.0,10,68.0,72.0
+2020-04-30,Ags. : R.M. Aguascalientes,Vaca,360.0,50,44.0,48.0
+2020-04-06,B.C.S. : R.M. La Paz B.C.S.,Corral,290.0,16,75.0,75.0
+2020-04-06,B.C.S. : R.M. La Paz B.C.S.,Toros,260.0,8,70.0,70.0
+2020-04-06,B.C.S. : R.M. La Paz B.C.S.,Vaca,190.0,14,55.0,55.0
+2020-04-13,B.C.S. : R.M. La Paz B.C.S.,Corral,290.0,9,75.0,75.0
+2020-04-13,B.C.S. : R.M. La Paz B.C.S.,Toros,260.0,3,70.0,70.0
+2020-04-13,B.C.S. : R.M. La Paz B.C.S.,Vaca,190.0,17,55.0,55.0
+2020-04-20,B.C.S. : R.M. La Paz B.C.S.,Corral,290.0,7,75.0,75.0
+2020-04-20,B.C.S. : R.M. La Paz B.C.S.,Toros,260.0,6,70.0,70.0
+2020-04-20,B.C.S. : R.M. La Paz B.C.S.,Vaca,190.0,11,55.0,55.0
+2020-04-27,B.C.S. : R.M. La Paz B.C.S.,Corral,290.0,9,75.0,75.0
+2020-04-27,B.C.S. : R.M. La Paz B.C.S.,Toros,260.0,4,70.0,70.0
+2020-04-27,B.C.S. : R.M. La Paz B.C.S.,Vaca,190.0,13,55.0,55.0
+2020-04-01,Camp. : R.M. Campeche,Pradera,270.0,1,70.0,75.0
+2020-04-01,Camp. : R.M. Campeche,Toros,192.0,9,65.0,70.0
+2020-04-01,Camp. : R.M. Campeche,Vaca,190.0,7,60.0,66.0
+2020-04-02,Camp. : R.M. Campeche,Pradera,268.0,2,70.0,75.0
+2020-04-02,Camp. : R.M. Campeche,Toros,193.0,8,65.0,70.0
+2020-04-02,Camp. : R.M. Campeche,Vaca,191.0,8,60.0,66.0
+2020-04-03,Camp. : R.M. Campeche,Pradera,270.0,1,70.0,75.0
+2020-04-03,Camp. : R.M. Campeche,Toros,191.0,10,65.0,70.0
+2020-04-03,Camp. : R.M. Campeche,Vaca,190.0,5,60.0,66.0
+2020-04-06,Camp. : R.M. Campeche,Pradera,269.0,1,70.0,75.0
+2020-04-06,Camp. : R.M. Campeche,Toros,190.0,11,65.0,70.0
+2020-04-06,Camp. : R.M. Campeche,Vaca,192.0,8,60.0,66.0
+2020-04-07,Camp. : R.M. Campeche,Pradera,271.0,1,70.0,75.0
+2020-04-07,Camp. : R.M. Campeche,Toros,192.0,12,65.0,70.0
+2020-04-07,Camp. : R.M. Campeche,Vaca,190.0,9,60.0,66.0
+2020-04-08,Camp. : R.M. Campeche,Pradera,272.0,2,70.0,75.0
+2020-04-08,Camp. : R.M. Campeche,Toros,193.0,10,65.0,70.0
+2020-04-08,Camp. : R.M. Campeche,Vaca,190.0,9,60.0,66.0
+2020-04-13,Camp. : R.M. Campeche,Pradera,268.0,2,70.0,75.0
+2020-04-13,Camp. : R.M. Campeche,Toros,193.0,13,65.0,70.0
+2020-04-13,Camp. : R.M. Campeche,Vaca,191.0,10,60.0,66.0
+2020-04-14,Camp. : R.M. Campeche,Pradera,271.0,1,70.0,75.0
+2020-04-14,Camp. : R.M. Campeche,Toros,192.0,14,65.0,70.0
+2020-04-14,Camp. : R.M. Campeche,Vaca,190.0,13,60.0,66.0
+2020-04-15,Camp. : R.M. Campeche,Pradera,270.0,1,70.0,75.0
+2020-04-15,Camp. : R.M. Campeche,Toros,190.0,15,65.0,70.0
+2020-04-15,Camp. : R.M. Campeche,Vaca,190.0,10,60.0,66.0
+2020-04-16,Camp. : R.M. Campeche,Pradera,268.0,1,70.0,75.0
+2020-04-16,Camp. : R.M. Campeche,Toros,193.0,14,65.0,70.0
+2020-04-16,Camp. : R.M. Campeche,Vaca,191.0,10,60.0,66.0
+2020-04-17,Camp. : R.M. Campeche,Pradera,270.0,1,70.0,75.0
+2020-04-17,Camp. : R.M. Campeche,Toros,193.0,11,65.0,70.0
+2020-04-17,Camp. : R.M. Campeche,Vaca,193.0,11,60.0,66.0
+2020-04-20,Camp. : R.M. Campeche,Pradera,269.0,2,70.0,75.0
+2020-04-20,Camp. : R.M. Campeche,Toros,193.0,14,65.0,70.0
+2020-04-20,Camp. : R.M. Campeche,Vaca,193.0,11,60.0,66.0
+2020-04-21,Camp. : R.M. Campeche,Pradera,270.0,1,70.0,75.0
+2020-04-21,Camp. : R.M. Campeche,Toros,193.0,12,65.0,70.0
+2020-04-21,Camp. : R.M. Campeche,Vaca,190.0,12,60.0,66.0
+2020-04-22,Camp. : R.M. Campeche,Pradera,271.0,1,70.0,75.0
+2020-04-22,Camp. : R.M. Campeche,Toros,191.0,11,65.0,70.0
+2020-04-22,Camp. : R.M. Campeche,Vaca,190.0,9,60.0,66.0
+2020-04-23,Camp. : R.M. Campeche,Pradera,272.0,2,70.0,75.0
+2020-04-23,Camp. : R.M. Campeche,Toros,194.0,12,65.0,70.0
+2020-04-23,Camp. : R.M. Campeche,Vaca,192.0,9,60.0,66.0
+2020-04-24,Camp. : R.M. Campeche,Pradera,271.0,1,70.0,75.0
+2020-04-24,Camp. : R.M. Campeche,Toros,193.0,13,65.0,70.0
+2020-04-24,Camp. : R.M. Campeche,Vaca,190.0,12,60.0,66.0
+2020-04-27,Camp. : R.M. Campeche,Pradera,271.0,1,70.0,75.0
+2020-04-27,Camp. : R.M. Campeche,Toros,194.0,14,65.0,70.0
+2020-04-27,Camp. : R.M. Campeche,Vaca,192.0,13,60.0,66.0
+2020-04-28,Camp. : R.M. Campeche,Pradera,270.0,1,70.0,75.0
+2020-04-28,Camp. : R.M. Campeche,Toros,193.0,13,65.0,70.0
+2020-04-28,Camp. : R.M. Campeche,Vaca,192.0,11,60.0,66.0
+2020-04-29,Camp. : R.M. Campeche,Pradera,271.0,1,70.0,75.0
+2020-04-29,Camp. : R.M. Campeche,Toros,192.0,11,65.0,70.0
+2020-04-29,Camp. : R.M. Campeche,Vaca,190.0,11,60.0,66.0
+2020-04-30,Camp. : R.M. Campeche,Pradera,271.0,2,70.0,75.0
+2020-04-30,Camp. : R.M. Campeche,Toros,194.0,15,65.0,70.0
+2020-04-30,Camp. : R.M. Campeche,Vaca,192.0,10,60.0,66.0
+2020-04-06,Coah. : R.M. Torreón,Corral,222.0,17,75.0,76.0
+2020-04-06,Coah. : R.M. Torreón,Vaca,360.0,100,60.0,65.0
+2020-04-07,Coah. : R.M. Torreón,Corral,222.0,15,75.0,76.0
+2020-04-07,Coah. : R.M. Torreón,Vaca,360.0,100,60.0,65.0
+2020-04-08,Coah. : R.M. Torreón,Corral,222.0,41,75.0,76.0
+2020-04-08,Coah. : R.M. Torreón,Vaca,360.0,41,60.0,65.0
+2020-04-14,Coah. : R.M. Torreón,Corral,222.0,26,75.0,76.0
+2020-04-14,Coah. : R.M. Torreón,Vaca,360.0,180,60.0,65.0
+2020-04-15,Coah. : R.M. Torreón,Corral,222.0,56,75.0,76.0
+2020-04-15,Coah. : R.M. Torreón,Vaca,360.0,100,60.0,65.0
+2020-04-20,Coah. : R.M. Torreón,Corral,222.0,94,75.0,76.0
+2020-04-20,Coah. : R.M. Torreón,Vaca,360.0,100,60.0,65.0
+2020-04-21,Coah. : R.M. Torreón,Corral,222.0,38,75.0,76.0
+2020-04-21,Coah. : R.M. Torreón,Vaca,360.0,150,60.0,65.0
+2020-04-22,Coah. : R.M. Torreón,Corral,222.0,63,75.0,76.0
+2020-04-22,Coah. : R.M. Torreón,Vaca,360.0,81,60.0,65.0
+2020-04-27,Coah. : R.M. Torreón,Corral,222.0,36,75.0,76.0
+2020-04-27,Coah. : R.M. Torreón,Vaca,360.0,200,60.0,65.0
+2020-04-28,Coah. : R.M. Torreón,Corral,222.0,50,75.0,76.0
+2020-04-28,Coah. : R.M. Torreón,Vaca,360.0,191,60.0,65.0
+2020-04-29,Coah. : R.M. Torreón,Corral,222.0,105,75.0,76.0
+2020-04-29,Coah. : R.M. Torreón,Vaca,360.0,134,60.0,65.0
+2020-04-02,Coah. : TIF 40 Procarne,Corral,222.0,338,68.0,70.0
+2020-04-03,Coah. : TIF 40 Procarne,Corral,222.0,363,68.0,70.0
+2020-04-06,Coah. : TIF 40 Procarne,Corral,222.0,301,68.0,70.0
+2020-04-07,Coah. : TIF 40 Procarne,Corral,222.0,387,68.0,70.0
+2020-04-08,Coah. : TIF 40 Procarne,Corral,222.0,331,68.0,70.0
+2020-04-14,Coah. : TIF 40 Procarne,Corral,222.0,378,68.0,70.0
+2020-04-15,Coah. : TIF 40 Procarne,Corral,222.0,268,68.0,70.0
+2020-04-16,Coah. : TIF 40 Procarne,Corral,222.0,359,68.0,70.0
+2020-04-17,Coah. : TIF 40 Procarne,Corral,222.0,217,68.0,70.0
+2020-04-20,Coah. : TIF 40 Procarne,Corral,222.0,377,68.0,70.0
+2020-04-21,Coah. : TIF 40 Procarne,Corral,222.0,313,68.0,70.0
+2020-04-22,Coah. : TIF 40 Procarne,Corral,222.0,290,68.0,70.0
+2020-04-23,Coah. : TIF 40 Procarne,Corral,222.0,250,68.0,70.0
+2020-04-24,Coah. : TIF 40 Procarne,Corral,222.0,317,68.0,70.0
+2020-04-27,Coah. : TIF 40 Procarne,Corral,222.0,311,68.0,70.0
+2020-04-28,Coah. : TIF 40 Procarne,Corral,222.0,209,68.0,70.0
+2020-04-29,Coah. : TIF 40 Procarne,Corral,222.0,290,68.0,70.0
+2020-04-30,Coah. : TIF 40 Procarne,Corral,222.0,345,68.0,70.0
+2020-04-01,Chis. : TIF 78 Frigorífico del Sureste,Pradera,277.0,1,66.0,66.0
+2020-04-01,Chis. : TIF 78 Frigorífico del Sureste,Toros,277.0,8,62.0,62.0
+2020-04-01,Chis. : TIF 78 Frigorífico del Sureste,Vaca,277.0,40,60.0,60.0
+2020-04-02,Chis. : TIF 78 Frigorífico del Sureste,Pradera,265.0,3,66.0,66.0
+2020-04-02,Chis. : TIF 78 Frigorífico del Sureste,Toros,265.0,3,62.0,62.0
+2020-04-02,Chis. : TIF 78 Frigorífico del Sureste,Vaca,265.0,40,60.0,60.0
+2020-04-03,Chis. : TIF 78 Frigorífico del Sureste,Pradera,287.0,1,66.0,66.0
+2020-04-03,Chis. : TIF 78 Frigorífico del Sureste,Toros,287.0,1,62.0,62.0
+2020-04-03,Chis. : TIF 78 Frigorífico del Sureste,Vaca,287.0,36,60.0,60.0
+2020-04-06,Chis. : TIF 78 Frigorífico del Sureste,Pradera,283.0,1,66.0,66.0
+2020-04-06,Chis. : TIF 78 Frigorífico del Sureste,Toros,283.0,1,62.0,62.0
+2020-04-06,Chis. : TIF 78 Frigorífico del Sureste,Vaca,283.0,64,60.0,60.0
+2020-04-07,Chis. : TIF 78 Frigorífico del Sureste,Pradera,280.0,1,66.0,66.0
+2020-04-07,Chis. : TIF 78 Frigorífico del Sureste,Toros,280.0,1,62.0,62.0
+2020-04-07,Chis. : TIF 78 Frigorífico del Sureste,Vaca,280.0,15,60.0,60.0
+2020-04-08,Chis. : TIF 78 Frigorífico del Sureste,Pradera,290.0,2,66.0,66.0
+2020-04-08,Chis. : TIF 78 Frigorífico del Sureste,Toros,290.0,12,62.0,62.0
+2020-04-08,Chis. : TIF 78 Frigorífico del Sureste,Vaca,290.0,36,60.0,60.0
+2020-04-13,Chis. : TIF 78 Frigorífico del Sureste,Pradera,290.0,2,66.0,66.0
+2020-04-13,Chis. : TIF 78 Frigorífico del Sureste,Toros,290.0,12,62.0,62.0
+2020-04-13,Chis. : TIF 78 Frigorífico del Sureste,Vaca,290.0,36,60.0,60.0
+2020-04-14,Chis. : TIF 78 Frigorífico del Sureste,Pradera,279.0,2,66.0,66.0
+2020-04-14,Chis. : TIF 78 Frigorífico del Sureste,Toros,279.0,2,62.0,62.0
+2020-04-14,Chis. : TIF 78 Frigorífico del Sureste,Vaca,279.0,18,60.0,60.0
+2020-04-15,Chis. : TIF 78 Frigorífico del Sureste,Pradera,266.0,1,66.0,66.0
+2020-04-15,Chis. : TIF 78 Frigorífico del Sureste,Toros,266.0,2,62.0,62.0
+2020-04-15,Chis. : TIF 78 Frigorífico del Sureste,Vaca,266.0,18,60.0,60.0
+2020-04-16,Chis. : TIF 78 Frigorífico del Sureste,Pradera,287.0,9,66.0,66.0
+2020-04-16,Chis. : TIF 78 Frigorífico del Sureste,Toros,287.0,6,62.0,62.0
+2020-04-16,Chis. : TIF 78 Frigorífico del Sureste,Vaca,287.0,54,60.0,60.0
+2020-04-17,Chis. : TIF 78 Frigorífico del Sureste,Pradera,289.0,2,66.0,66.0
+2020-04-17,Chis. : TIF 78 Frigorífico del Sureste,Toros,289.0,2,62.0,62.0
+2020-04-17,Chis. : TIF 78 Frigorífico del Sureste,Vaca,289.0,36,60.0,60.0
+2020-04-20,Chis. : TIF 78 Frigorífico del Sureste,Pradera,290.0,5,66.0,66.0
+2020-04-20,Chis. : TIF 78 Frigorífico del Sureste,Toros,290.0,5,62.0,62.0
+2020-04-20,Chis. : TIF 78 Frigorífico del Sureste,Vaca,290.0,18,60.0,60.0
+2020-04-21,Chis. : TIF 78 Frigorífico del Sureste,Pradera,282.0,3,66.0,66.0
+2020-04-21,Chis. : TIF 78 Frigorífico del Sureste,Toros,282.0,4,62.0,62.0
+2020-04-21,Chis. : TIF 78 Frigorífico del Sureste,Vaca,282.0,13,60.0,60.0
+2020-04-22,Chis. : TIF 78 Frigorífico del Sureste,Pradera,299.0,1,66.0,66.0
+2020-04-22,Chis. : TIF 78 Frigorífico del Sureste,Toros,299.0,1,62.0,62.0
+2020-04-22,Chis. : TIF 78 Frigorífico del Sureste,Vaca,299.0,8,60.0,60.0
+2020-04-23,Chis. : TIF 78 Frigorífico del Sureste,Pradera,270.0,1,66.0,66.0
+2020-04-23,Chis. : TIF 78 Frigorífico del Sureste,Toros,270.0,1,62.0,62.0
+2020-04-23,Chis. : TIF 78 Frigorífico del Sureste,Vaca,270.0,15,60.0,60.0
+2020-04-24,Chis. : TIF 78 Frigorífico del Sureste,Pradera,280.0,5,66.0,66.0
+2020-04-24,Chis. : TIF 78 Frigorífico del Sureste,Toros,280.0,5,62.0,62.0
+2020-04-24,Chis. : TIF 78 Frigorífico del Sureste,Vaca,280.0,27,60.0,60.0
+2020-04-27,Chis. : TIF 78 Frigorífico del Sureste,Pradera,310.0,1,66.0,66.0
+2020-04-27,Chis. : TIF 78 Frigorífico del Sureste,Toros,310.0,1,62.0,62.0
+2020-04-27,Chis. : TIF 78 Frigorífico del Sureste,Vaca,310.0,16,60.0,60.0
+2020-04-28,Chis. : TIF 78 Frigorífico del Sureste,Pradera,260.0,7,66.0,66.0
+2020-04-28,Chis. : TIF 78 Frigorífico del Sureste,Toros,260.0,2,62.0,62.0
+2020-04-28,Chis. : TIF 78 Frigorífico del Sureste,Vaca,260.0,45,60.0,60.0
+2020-04-29,Chis. : TIF 78 Frigorífico del Sureste,Pradera,271.0,1,66.0,66.0
+2020-04-29,Chis. : TIF 78 Frigorífico del Sureste,Toros,271.0,1,62.0,62.0
+2020-04-29,Chis. : TIF 78 Frigorífico del Sureste,Vaca,271.0,18,60.0,60.0
+2020-04-30,Chis. : TIF 78 Frigorífico del Sureste,Pradera,271.0,2,66.0,66.0
+2020-04-30,Chis. : TIF 78 Frigorífico del Sureste,Toros,271.0,13,62.0,62.0
+2020-04-30,Chis. : TIF 78 Frigorífico del Sureste,Vaca,271.0,57,60.0,60.0
+2020-04-01,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,360.0,31,76.0,78.0
+2020-04-01,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,270.0,19,48.0,55.0
+2020-04-02,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,370.0,13,72.0,74.0
+2020-04-02,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,300.0,36,48.0,55.0
+2020-04-03,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,550.0,15,64.0,68.0
+2020-04-03,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,275.0,67,48.0,55.0
+2020-04-06,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,300.0,13,76.0,78.0
+2020-04-06,Dgo. : Planta TIF No. 546 (antes TIF No.65),Novillona,280.0,1,74.0,76.0
+2020-04-06,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,260.0,33,48.0,55.0
+2020-04-07,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,460.0,25,78.0,80.0
+2020-04-07,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,280.0,41,48.0,55.0
+2020-04-08,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,300.0,12,76.0,78.0
+2020-04-08,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,270.0,103,48.0,55.0
+2020-04-13,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,300.0,7,72.0,74.0
+2020-04-13,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,270.0,25,48.0,55.0
+2020-04-14,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,450.0,28,64.0,68.0
+2020-04-14,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,270.0,35,48.0,55.0
+2020-04-15,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,300.0,26,76.0,78.0
+2020-04-15,Dgo. : Planta TIF No. 546 (antes TIF No.65),Novillona,290.0,5,74.0,76.0
+2020-04-15,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,270.0,43,48.0,55.0
+2020-04-16,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,300.0,10,72.0,74.0
+2020-04-16,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,280.0,48,48.0,55.0
+2020-04-17,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,300.0,12,72.0,74.0
+2020-04-17,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,500.0,5,64.0,68.0
+2020-04-17,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,280.0,98,48.0,55.0
+2020-04-20,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,300.0,6,72.0,74.0
+2020-04-20,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,270.0,28,48.0,55.0
+2020-04-21,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,450.0,29,64.0,68.0
+2020-04-21,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,260.0,27,48.0,55.0
+2020-04-01,Edo. Méx. : La Paz,Corral,320.0,175,,75.0
+2020-04-02,Edo. Méx. : La Paz,Corral,320.0,173,,75.0
+2020-04-06,Edo. Méx. : La Paz,Corral,320.0,190,,75.0
+2020-04-07,Edo. Méx. : La Paz,Corral,320.0,185,,75.0
+2020-04-08,Edo. Méx. : La Paz,Corral,320.0,150,,75.0
+2020-04-13,Edo. Méx. : La Paz,Corral,320.0,225,,75.0
+2020-04-14,Edo. Méx. : La Paz,Corral,320.0,211,,75.0
+2020-04-15,Edo. Méx. : La Paz,Corral,320.0,215,,75.0
+2020-04-16,Edo. Méx. : La Paz,Corral,320.0,212,,75.0
+2020-04-17,Edo. Méx. : La Paz,Corral,320.0,193,,75.0
+2020-04-20,Edo. Méx. : La Paz,Corral,320.0,193,,75.0
+2020-04-21,Edo. Méx. : La Paz,Corral,320.0,193,,75.0
+2020-04-22,Edo. Méx. : La Paz,Corral,320.0,202,,75.0
+2020-04-23,Edo. Méx. : La Paz,Corral,320.0,200,,75.0
+2020-04-24,Edo. Méx. : La Paz,Corral,320.0,190,,75.0
+2020-04-27,Edo. Méx. : La Paz,Corral,320.0,190,,75.0
+2020-04-28,Edo. Méx. : La Paz,Corral,320.0,214,,75.0
+2020-04-29,Edo. Méx. : La Paz,Corral,320.0,193,,75.0
+2020-04-30,Edo. Méx. : La Paz,Corral,320.0,199,,75.0
+2020-04-01,Edo. Méx. : Temamatla,Corral,320.0,190,,74.0
+2020-04-02,Edo. Méx. : Temamatla,Corral,320.0,155,,74.0
+2020-04-06,Edo. Méx. : Temamatla,Corral,320.0,180,,74.0
+2020-04-07,Edo. Méx. : Temamatla,Corral,320.0,170,,74.0
+2020-04-08,Edo. Méx. : Temamatla,Corral,320.0,125,,74.0
+2020-04-13,Edo. Méx. : Temamatla,Corral,320.0,194,,75.0
+2020-04-14,Edo. Méx. : Temamatla,Corral,320.0,185,,74.0
+2020-04-15,Edo. Méx. : Temamatla,Corral,320.0,188,,75.0
+2020-04-16,Edo. Méx. : Temamatla,Corral,320.0,206,,75.0
+2020-04-17,Edo. Méx. : Temamatla,Corral,320.0,185,,74.0
+2020-04-20,Edo. Méx. : Temamatla,Corral,320.0,185,,74.0
+2020-04-21,Edo. Méx. : Temamatla,Corral,320.0,183,,74.0
+2020-04-22,Edo. Méx. : Temamatla,Corral,320.0,196,,74.0
+2020-04-23,Edo. Méx. : Temamatla,Corral,320.0,172,,74.0
+2020-04-24,Edo. Méx. : Temamatla,Corral,320.0,175,,74.0
+2020-04-27,Edo. Méx. : Temamatla,Corral,320.0,193,,74.0
+2020-04-28,Edo. Méx. : Temamatla,Corral,320.0,186,,74.0
+2020-04-29,Edo. Méx. : Temamatla,Corral,320.0,165,,74.0
+2020-04-30,Edo. Méx. : Temamatla,Corral,320.0,160,,74.0
+2020-04-01,Edo. Méx. : Tlalnepantla,Corral,290.0,65,73.0,75.0
+2020-04-02,Edo. Méx. : Tlalnepantla,Corral,290.0,54,73.0,75.0
+2020-04-03,Edo. Méx. : Tlalnepantla,Corral,290.0,57,73.0,75.0
+2020-04-06,Edo. Méx. : Tlalnepantla,Corral,290.0,63,72.0,75.0
+2020-04-07,Edo. Méx. : Tlalnepantla,Corral,290.0,79,72.0,75.0
+2020-04-08,Edo. Méx. : Tlalnepantla,Corral,290.0,52,72.0,75.0
+2020-04-13,Edo. Méx. : Tlalnepantla,Corral,290.0,63,72.0,75.0
+2020-04-14,Edo. Méx. : Tlalnepantla,Corral,290.0,68,72.0,75.0
+2020-04-15,Edo. Méx. : Tlalnepantla,Corral,290.0,51,72.0,75.0
+2020-04-16,Edo. Méx. : Tlalnepantla,Corral,290.0,54,72.0,75.0
+2020-04-17,Edo. Méx. : Tlalnepantla,Corral,290.0,73,74.0,75.0
+2020-04-20,Edo. Méx. : Tlalnepantla,Corral,290.0,76,72.0,75.0
+2020-04-21,Edo. Méx. : Tlalnepantla,Corral,290.0,56,72.0,75.0
+2020-04-22,Edo. Méx. : Tlalnepantla,Corral,290.0,53,72.0,75.0
+2020-04-23,Edo. Méx. : Tlalnepantla,Corral,290.0,64,72.0,75.0
+2020-04-24,Edo. Méx. : Tlalnepantla,Corral,290.0,69,72.0,73.0
+2020-04-27,Edo. Méx. : Tlalnepantla,Corral,290.0,106,74.0,75.0
+2020-04-28,Edo. Méx. : Tlalnepantla,Corral,290.0,81,74.0,75.0
+2020-04-29,Edo. Méx. : Tlalnepantla,Corral,290.0,92,74.0,75.0
+2020-04-30,Edo. Méx. : Tlalnepantla,Corral,290.0,144,74.0,75.0
+2020-04-01,Jal. : R.M. Guadalajara,Corral,300.0,382,,70.0
+2020-04-01,Jal. : R.M. Guadalajara,Vaca,200.0,164,,56.0
+2020-04-02,Jal. : R.M. Guadalajara,Corral,300.0,269,,70.0
+2020-04-02,Jal. : R.M. Guadalajara,Vaca,200.0,115,,56.0
+2020-04-03,Jal. : R.M. Guadalajara,Corral,300.0,314,,70.0
+2020-04-03,Jal. : R.M. Guadalajara,Vaca,200.0,134,,56.0
+2020-04-13,Jal. : R.M. Guadalajara,Corral,300.0,270,,70.0
+2020-04-13,Jal. : R.M. Guadalajara,Vaca,200.0,116,,56.0
+2020-04-14,Jal. : R.M. Guadalajara,Corral,300.0,305,,70.0
+2020-04-14,Jal. : R.M. Guadalajara,Vaca,200.0,130,,56.0
+2020-04-15,Jal. : R.M. Guadalajara,Corral,300.0,468,,70.0
+2020-04-15,Jal. : R.M. Guadalajara,Vaca,200.0,200,,56.0
+2020-04-16,Jal. : R.M. Guadalajara,Corral,300.0,339,,70.0
+2020-04-16,Jal. : R.M. Guadalajara,Vaca,200.0,145,,56.0
+2020-04-17,Jal. : R.M. Guadalajara,Corral,300.0,368,,70.0
+2020-04-17,Jal. : R.M. Guadalajara,Vaca,200.0,157,,56.0
+2020-04-20,Jal. : R.M. Guadalajara,Corral,300.0,441,,70.0
+2020-04-20,Jal. : R.M. Guadalajara,Vaca,200.0,190,,56.0
+2020-04-21,Jal. : R.M. Guadalajara,Corral,300.0,307,,70.0
+2020-04-21,Jal. : R.M. Guadalajara,Vaca,200.0,131,,56.0
+2020-04-22,Jal. : R.M. Guadalajara,Corral,300.0,456,,70.0
+2020-04-22,Jal. : R.M. Guadalajara,Vaca,200.0,196,,56.0
+2020-04-23,Jal. : R.M. Guadalajara,Corral,300.0,298,,70.0
+2020-04-23,Jal. : R.M. Guadalajara,Vaca,200.0,127,,56.0
+2020-04-24,Jal. : R.M. Guadalajara,Corral,300.0,284,,70.0
+2020-04-24,Jal. : R.M. Guadalajara,Vaca,200.0,122,,56.0
+2020-04-27,Jal. : R.M. Guadalajara,Corral,300.0,349,,70.0
+2020-04-27,Jal. : R.M. Guadalajara,Vaca,200.0,149,,56.0
+2020-04-28,Jal. : R.M. Guadalajara,Corral,300.0,300,,70.0
+2020-04-28,Jal. : R.M. Guadalajara,Vaca,200.0,129,,56.0
+2020-04-29,Jal. : R.M. Guadalajara,Corral,300.0,349,,70.0
+2020-04-29,Jal. : R.M. Guadalajara,Vaca,200.0,149,,56.0
+2020-04-30,Jal. : R.M. Guadalajara,Corral,300.0,216,,70.0
+2020-04-30,Jal. : R.M. Guadalajara,Vaca,200.0,92,,56.0
+2020-04-02,Jal. : R.M. Tlaquepaque,Corral,300.0,42,,69.8
+2020-04-02,Jal. : R.M. Tlaquepaque,Vaca,200.0,18,,55.0
+2020-04-03,Jal. : R.M. Tlaquepaque,Corral,300.0,28,,69.8
+2020-04-03,Jal. : R.M. Tlaquepaque,Vaca,200.0,12,,55.0
+2020-04-13,Jal. : R.M. Tlaquepaque,Corral,300.0,72,,69.8
+2020-04-13,Jal. : R.M. Tlaquepaque,Vaca,200.0,31,,55.0
+2020-04-14,Jal. : R.M. Tlaquepaque,Corral,300.0,5,,69.8
+2020-04-14,Jal. : R.M. Tlaquepaque,Vaca,200.0,2,,55.0
+2020-04-15,Jal. : R.M. Tlaquepaque,Corral,300.0,30,,69.8
+2020-04-15,Jal. : R.M. Tlaquepaque,Vaca,200.0,13,,55.0
+2020-04-16,Jal. : R.M. Tlaquepaque,Corral,300.0,43,,69.8
+2020-04-16,Jal. : R.M. Tlaquepaque,Vaca,200.0,19,,55.0
+2020-04-17,Jal. : R.M. Tlaquepaque,Corral,300.0,25,,69.8
+2020-04-17,Jal. : R.M. Tlaquepaque,Vaca,200.0,10,,55.0
+2020-04-20,Jal. : R.M. Tlaquepaque,Corral,300.0,24,,69.8
+2020-04-20,Jal. : R.M. Tlaquepaque,Vaca,200.0,10,,55.0
+2020-04-21,Jal. : R.M. Tlaquepaque,Corral,300.0,11,,69.8
+2020-04-21,Jal. : R.M. Tlaquepaque,Vaca,200.0,5,,55.0
+2020-04-23,Jal. : R.M. Tlaquepaque,Corral,300.0,20,,69.8
+2020-04-23,Jal. : R.M. Tlaquepaque,Vaca,200.0,8,,55.0
+2020-04-24,Jal. : R.M. Tlaquepaque,Corral,300.0,28,,69.8
+2020-04-24,Jal. : R.M. Tlaquepaque,Vaca,200.0,12,,55.0
+2020-04-27,Jal. : R.M. Tlaquepaque,Corral,300.0,48,,69.8
+2020-04-27,Jal. : R.M. Tlaquepaque,Vaca,200.0,19,,55.0
+2020-04-28,Jal. : R.M. Tlaquepaque,Corral,300.0,13,,69.8
+2020-04-28,Jal. : R.M. Tlaquepaque,Vaca,200.0,5,,55.0
+2020-04-30,Jal. : R.M. Tlaquepaque,Corral,300.0,25,,69.8
+2020-04-30,Jal. : R.M. Tlaquepaque,Vaca,200.0,10,,55.0
+2020-04-01,Jal. : R.M. Tonalá,Corral,300.0,17,,70.0
+2020-04-01,Jal. : R.M. Tonalá,Vaca,200.0,14,,56.0
+2020-04-13,Jal. : R.M. Tonalá,Corral,300.0,20,,70.0
+2020-04-13,Jal. : R.M. Tonalá,Vaca,200.0,8,,56.0
+2020-04-14,Jal. : R.M. Tonalá,Corral,300.0,35,,70.0
+2020-04-14,Jal. : R.M. Tonalá,Vaca,200.0,36,,56.0
+2020-04-15,Jal. : R.M. Tonalá,Corral,300.0,16,,70.0
+2020-04-15,Jal. : R.M. Tonalá,Vaca,200.0,13,,56.0
+2020-04-17,Jal. : R.M. Tonalá,Corral,300.0,20,,70.0
+2020-04-17,Jal. : R.M. Tonalá,Vaca,200.0,40,,56.0
+2020-04-20,Jal. : R.M. Tonalá,Corral,300.0,16,,70.0
+2020-04-20,Jal. : R.M. Tonalá,Vaca,200.0,12,,56.0
+2020-04-21,Jal. : R.M. Tonalá,Corral,300.0,27,,70.0
+2020-04-21,Jal. : R.M. Tonalá,Vaca,200.0,30,,56.0
+2020-04-22,Jal. : R.M. Tonalá,Corral,300.0,17,,70.0
+2020-04-22,Jal. : R.M. Tonalá,Vaca,200.0,11,,56.0
+2020-04-24,Jal. : R.M. Tonalá,Corral,300.0,25,,70.0
+2020-04-24,Jal. : R.M. Tonalá,Vaca,200.0,23,,56.0
+2020-04-27,Jal. : R.M. Tonalá,Corral,300.0,15,,70.0
+2020-04-27,Jal. : R.M. Tonalá,Vaca,200.0,7,,56.0
+2020-04-28,Jal. : R.M. Tonalá,Corral,300.0,20,,70.0
+2020-04-28,Jal. : R.M. Tonalá,Vaca,200.0,25,,56.0
+2020-04-29,Jal. : R.M. Tonalá,Corral,300.0,14,,70.0
+2020-04-29,Jal. : R.M. Tonalá,Vaca,200.0,10,,56.0
+2020-04-01,Jal. : Rastro de Zapopan,Corral,300.0,186,,70.0
+2020-04-01,Jal. : Rastro de Zapopan,Vaca,200.0,80,,56.0
+2020-04-02,Jal. : Rastro de Zapopan,Corral,300.0,141,,70.0
+2020-04-02,Jal. : Rastro de Zapopan,Vaca,200.0,60,,56.0
+2020-04-03,Jal. : Rastro de Zapopan,Corral,300.0,155,,70.0
+2020-04-03,Jal. : Rastro de Zapopan,Vaca,200.0,66,,56.0
+2020-04-06,Jal. : Rastro de Zapopan,Corral,300.0,129,,70.0
+2020-04-06,Jal. : Rastro de Zapopan,Vaca,200.0,55,,56.0
+2020-04-13,Jal. : Rastro de Zapopan,Corral,300.0,186,,70.0
+2020-04-13,Jal. : Rastro de Zapopan,Vaca,200.0,80,,56.0
+2020-04-14,Jal. : Rastro de Zapopan,Corral,300.0,160,,70.0
+2020-04-14,Jal. : Rastro de Zapopan,Vaca,200.0,68,,56.0
+2020-04-15,Jal. : Rastro de Zapopan,Corral,300.0,195,,70.0
+2020-04-15,Jal. : Rastro de Zapopan,Vaca,200.0,84,,56.0
+2020-04-16,Jal. : Rastro de Zapopan,Corral,300.0,183,,70.0
+2020-04-16,Jal. : Rastro de Zapopan,Vaca,200.0,78,,56.0
+2020-04-17,Jal. : Rastro de Zapopan,Corral,300.0,80,,70.0
+2020-04-17,Jal. : Rastro de Zapopan,Vaca,200.0,34,,56.0
+2020-04-20,Jal. : Rastro de Zapopan,Corral,300.0,200,,70.0
+2020-04-20,Jal. : Rastro de Zapopan,Vaca,200.0,86,,56.0
+2020-04-21,Jal. : Rastro de Zapopan,Corral,300.0,148,,70.0
+2020-04-21,Jal. : Rastro de Zapopan,Vaca,200.0,64,,56.0
+2020-04-22,Jal. : Rastro de Zapopan,Corral,300.0,147,,70.0
+2020-04-22,Jal. : Rastro de Zapopan,Vaca,200.0,63,,56.0
+2020-04-23,Jal. : Rastro de Zapopan,Corral,300.0,58,,70.0
+2020-04-23,Jal. : Rastro de Zapopan,Vaca,200.0,25,,56.0
+2020-04-24,Jal. : Rastro de Zapopan,Corral,300.0,127,,70.0
+2020-04-24,Jal. : Rastro de Zapopan,Vaca,200.0,55,,56.0
+2020-04-27,Jal. : Rastro de Zapopan,Corral,300.0,121,,70.0
+2020-04-27,Jal. : Rastro de Zapopan,Vaca,200.0,52,,56.0
+2020-04-28,Jal. : Rastro de Zapopan,Corral,300.0,174,,70.0
+2020-04-28,Jal. : Rastro de Zapopan,Vaca,200.0,74,,56.0
+2020-04-29,Jal. : Rastro de Zapopan,Corral,300.0,146,,70.0
+2020-04-29,Jal. : Rastro de Zapopan,Vaca,200.0,62,,56.0
+2020-04-30,Jal. : Rastro de Zapopan,Corral,300.0,76,,70.0
+2020-04-30,Jal. : Rastro de Zapopan,Vaca,200.0,32,,56.0
+2020-04-01,Mich. : R.M. Morelia,Corral,254.0,60,74.0,75.0
+2020-04-01,Mich. : R.M. Morelia,Novillona,252.0,20,68.0,69.0
+2020-04-01,Mich. : R.M. Morelia,Toros,254.0,40,71.0,72.0
+2020-04-01,Mich. : R.M. Morelia,Vaca,250.0,2,55.0,56.0
+2020-04-02,Mich. : R.M. Morelia,Corral,254.0,50,74.0,75.0
+2020-04-02,Mich. : R.M. Morelia,Novillona,252.0,10,68.0,69.0
+2020-04-02,Mich. : R.M. Morelia,Toros,254.0,20,71.0,72.0
+2020-04-02,Mich. : R.M. Morelia,Vaca,250.0,5,55.0,56.0
+2020-04-03,Mich. : R.M. Morelia,Corral,254.0,80,74.0,75.0
+2020-04-03,Mich. : R.M. Morelia,Novillona,252.0,10,68.0,69.0
+2020-04-03,Mich. : R.M. Morelia,Toros,254.0,30,71.0,72.0
+2020-04-03,Mich. : R.M. Morelia,Vaca,250.0,3,55.0,56.0
+2020-04-13,Mich. : R.M. Morelia,Corral,254.0,25,74.0,75.0
+2020-04-13,Mich. : R.M. Morelia,Novillona,252.0,6,68.0,69.0
+2020-04-13,Mich. : R.M. Morelia,Toros,254.0,15,71.0,72.0
+2020-04-13,Mich. : R.M. Morelia,Vaca,250.0,4,55.0,56.0
+2020-04-14,Mich. : R.M. Morelia,Corral,254.0,70,74.0,75.0
+2020-04-14,Mich. : R.M. Morelia,Novillona,252.0,20,68.0,69.0
+2020-04-14,Mich. : R.M. Morelia,Toros,254.0,30,71.0,72.0
+2020-04-14,Mich. : R.M. Morelia,Vaca,250.0,5,55.0,56.0
+2020-04-15,Mich. : R.M. Morelia,Corral,254.0,80,74.0,75.0
+2020-04-15,Mich. : R.M. Morelia,Novillona,252.0,20,68.0,69.0
+2020-04-15,Mich. : R.M. Morelia,Toros,254.0,50,71.0,72.0
+2020-04-15,Mich. : R.M. Morelia,Vaca,250.0,1,55.0,56.0
+2020-04-16,Mich. : R.M. Morelia,Corral,254.0,15,74.0,75.0
+2020-04-16,Mich. : R.M. Morelia,Novillona,252.0,3,68.0,69.0
+2020-04-16,Mich. : R.M. Morelia,Toros,254.0,15,71.0,72.0
+2020-04-16,Mich. : R.M. Morelia,Vaca,250.0,2,55.0,56.0
+2020-04-17,Mich. : R.M. Morelia,Corral,254.0,100,74.0,75.0
+2020-04-17,Mich. : R.M. Morelia,Novillona,252.0,20,68.0,69.0
+2020-04-17,Mich. : R.M. Morelia,Toros,254.0,25,71.0,72.0
+2020-04-17,Mich. : R.M. Morelia,Vaca,250.0,3,55.0,56.0
+2020-04-20,Mich. : R.M. Morelia,Corral,254.0,60,74.0,75.0
+2020-04-20,Mich. : R.M. Morelia,Novillona,252.0,20,68.0,69.0
+2020-04-20,Mich. : R.M. Morelia,Toros,254.0,40,71.0,72.0
+2020-04-20,Mich. : R.M. Morelia,Vaca,250.0,2,55.0,56.0
+2020-04-21,Mich. : R.M. Morelia,Corral,254.0,100,74.0,75.0
+2020-04-21,Mich. : R.M. Morelia,Novillona,252.0,20,68.0,69.0
+2020-04-21,Mich. : R.M. Morelia,Toros,254.0,30,71.0,72.0
+2020-04-21,Mich. : R.M. Morelia,Vaca,250.0,2,55.0,56.0
+2020-04-22,Mich. : R.M. Morelia,Corral,254.0,20,74.0,75.0
+2020-04-22,Mich. : R.M. Morelia,Novillona,252.0,10,68.0,69.0
+2020-04-22,Mich. : R.M. Morelia,Toros,254.0,15,71.0,72.0
+2020-04-22,Mich. : R.M. Morelia,Vaca,250.0,1,55.0,56.0
+2020-04-23,Mich. : R.M. Morelia,Corral,254.0,50,74.0,75.0
+2020-04-23,Mich. : R.M. Morelia,Novillona,252.0,15,68.0,69.0
+2020-04-23,Mich. : R.M. Morelia,Toros,254.0,25,71.0,72.0
+2020-04-23,Mich. : R.M. Morelia,Vaca,250.0,5,55.0,56.0
+2020-04-24,Mich. : R.M. Morelia,Corral,254.0,80,74.0,75.0
+2020-04-24,Mich. : R.M. Morelia,Novillona,252.0,10,68.0,69.0
+2020-04-24,Mich. : R.M. Morelia,Toros,254.0,30,71.0,72.0
+2020-04-24,Mich. : R.M. Morelia,Vaca,250.0,5,55.0,56.0
+2020-04-27,Mich. : R.M. Morelia,Corral,254.0,60,74.0,75.0
+2020-04-27,Mich. : R.M. Morelia,Novillona,252.0,5,68.0,69.0
+2020-04-27,Mich. : R.M. Morelia,Toros,254.0,15,71.0,72.0
+2020-04-27,Mich. : R.M. Morelia,Vaca,250.0,3,55.0,56.0
+2020-04-28,Mich. : R.M. Morelia,Corral,254.0,50,74.0,75.0
+2020-04-28,Mich. : R.M. Morelia,Novillona,252.0,15,68.0,69.0
+2020-04-28,Mich. : R.M. Morelia,Toros,254.0,20,71.0,72.0
+2020-04-28,Mich. : R.M. Morelia,Vaca,250.0,5,55.0,56.0
+2020-04-29,Mich. : R.M. Morelia,Corral,254.0,50,74.0,75.0
+2020-04-29,Mich. : R.M. Morelia,Novillona,252.0,15,68.0,69.0
+2020-04-29,Mich. : R.M. Morelia,Toros,254.0,50,71.0,72.0
+2020-04-29,Mich. : R.M. Morelia,Vaca,250.0,5,55.0,56.0
+2020-04-30,Mich. : R.M. Morelia,Corral,254.0,20,74.0,75.0
+2020-04-30,Mich. : R.M. Morelia,Novillona,252.0,5,68.0,69.0
+2020-04-30,Mich. : R.M. Morelia,Toros,254.0,15,71.0,72.0
+2020-04-30,Mich. : R.M. Morelia,Vaca,250.0,2,55.0,56.0
+2020-04-01,N.L. : Chamar Alimentos TIF 356,Corral,280.0,204,72.0,76.0
+2020-04-02,N.L. : Chamar Alimentos TIF 356,Corral,280.0,198,72.0,76.0
+2020-04-03,N.L. : Chamar Alimentos TIF 356,Corral,280.0,110,72.0,76.0
+2020-04-06,N.L. : Chamar Alimentos TIF 356,Corral,280.0,645,72.0,76.0
+2020-04-07,N.L. : Chamar Alimentos TIF 356,Corral,280.0,141,72.0,76.0
+2020-04-08,N.L. : Chamar Alimentos TIF 356,Corral,280.0,240,72.0,76.0
+2020-04-13,N.L. : Chamar Alimentos TIF 356,Corral,280.0,480,72.0,76.0
+2020-04-14,N.L. : Chamar Alimentos TIF 356,Corral,280.0,353,72.0,76.0
+2020-04-15,N.L. : Chamar Alimentos TIF 356,Corral,280.0,158,72.0,76.0
+2020-04-16,N.L. : Chamar Alimentos TIF 356,Corral,280.0,151,72.0,76.0
+2020-04-17,N.L. : Chamar Alimentos TIF 356,Corral,280.0,119,72.0,76.0
+2020-04-20,N.L. : Chamar Alimentos TIF 356,Corral,280.0,452,72.0,76.0
+2020-04-21,N.L. : Chamar Alimentos TIF 356,Corral,280.0,290,72.0,76.0
+2020-04-22,N.L. : Chamar Alimentos TIF 356,Corral,280.0,248,72.0,76.0
+2020-04-23,N.L. : Chamar Alimentos TIF 356,Corral,280.0,241,72.0,76.0
+2020-04-24,N.L. : Chamar Alimentos TIF 356,Corral,280.0,67,72.0,76.0
+2020-04-27,N.L. : Chamar Alimentos TIF 356,Corral,280.0,490,72.0,76.0
+2020-04-28,N.L. : Chamar Alimentos TIF 356,Corral,280.0,282,72.0,76.0
+2020-04-29,N.L. : Chamar Alimentos TIF 356,Corral,280.0,336,72.0,76.0
+2020-04-30,N.L. : Chamar Alimentos TIF 356,Corral,280.0,117,72.0,76.0
+2020-04-01,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,70,72.0,76.0
+2020-04-02,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,96,72.0,76.0
+2020-04-03,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,86,72.0,76.0
+2020-04-06,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,155,72.0,76.0
+2020-04-07,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,262,72.0,73.0
+2020-04-08,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,118,72.0,73.0
+2020-04-13,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,290,72.0,73.0
+2020-04-14,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,145,72.0,76.0
+2020-04-15,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,240,72.0,76.0
+2020-04-16,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,133,72.0,73.0
+2020-04-17,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,22,72.0,73.0
+2020-04-20,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,214,72.0,73.0
+2020-04-21,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,140,72.0,73.0
+2020-04-22,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,77,72.0,73.0
+2020-04-23,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,73,72.0,73.0
+2020-04-24,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,5,72.0,73.0
+2020-04-27,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,193,72.0,73.0
+2020-04-28,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,126,72.0,73.0
+2020-04-29,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,188,72.0,73.0
+2020-04-30,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,146,72.0,73.0
+2020-04-01,N.L. : Sukarne,Corral,280.0,750,72.0,74.0
+2020-04-03,N.L. : Sukarne,Corral,280.0,763,72.0,74.0
+2020-04-06,N.L. : Sukarne,Corral,280.0,762,72.0,74.0
+2020-04-07,N.L. : Sukarne,Corral,280.0,491,72.0,74.0
+2020-04-08,N.L. : Sukarne,Corral,280.0,750,72.0,74.0
+2020-04-13,N.L. : Sukarne,Corral,280.0,750,72.0,74.0
+2020-04-15,N.L. : Sukarne,Corral,280.0,570,72.0,74.0
+2020-04-17,N.L. : Sukarne,Corral,280.0,680,72.0,74.0
+2020-04-20,N.L. : Sukarne,Corral,280.0,679,72.0,74.0
+2020-04-27,N.L. : Sukarne,Corral,280.0,720,72.0,74.0
+2020-04-29,N.L. : Sukarne,Corral,280.0,718,72.0,74.0
+2020-04-01,N.L. : TIF 15 Emp. Treviño,Corral,280.0,12,72.0,74.5
+2020-04-02,N.L. : TIF 15 Emp. Treviño,Corral,280.0,14,72.0,74.5
+2020-04-03,N.L. : TIF 15 Emp. Treviño,Corral,280.0,5,72.0,74.5
+2020-04-06,N.L. : TIF 15 Emp. Treviño,Corral,280.0,9,72.0,74.5
+2020-04-07,N.L. : TIF 15 Emp. Treviño,Corral,280.0,51,72.0,74.0
+2020-04-08,N.L. : TIF 15 Emp. Treviño,Corral,280.0,21,72.0,74.0
+2020-04-13,N.L. : TIF 15 Emp. Treviño,Corral,280.0,20,72.0,74.0
+2020-04-14,N.L. : TIF 15 Emp. Treviño,Corral,280.0,5,72.0,74.0
+2020-04-15,N.L. : TIF 15 Emp. Treviño,Corral,280.0,6,72.0,74.0
+2020-04-16,N.L. : TIF 15 Emp. Treviño,Corral,280.0,6,72.0,74.0
+2020-04-17,N.L. : TIF 15 Emp. Treviño,Corral,280.0,5,72.0,74.0
+2020-04-20,N.L. : TIF 15 Emp. Treviño,Corral,280.0,57,72.0,74.0
+2020-04-21,N.L. : TIF 15 Emp. Treviño,Corral,280.0,51,72.0,74.0
+2020-04-22,N.L. : TIF 15 Emp. Treviño,Corral,280.0,20,72.0,74.0
+2020-04-23,N.L. : TIF 15 Emp. Treviño,Corral,280.0,11,72.0,74.0
+2020-04-24,N.L. : TIF 15 Emp. Treviño,Corral,280.0,5,72.0,74.0
+2020-04-27,N.L. : TIF 15 Emp. Treviño,Corral,280.0,11,72.0,74.0
+2020-04-28,N.L. : TIF 15 Emp. Treviño,Corral,280.0,5,72.0,74.0
+2020-04-29,N.L. : TIF 15 Emp. Treviño,Corral,280.0,6,72.0,74.0
+2020-04-30,N.L. : TIF 15 Emp. Treviño,Corral,280.0,45,72.0,74.0
+2020-04-06,Nay. : R.M. Tepic,Vaca,210.0,42,56.0,62.0
+2020-04-07,Nay. : R.M. Tepic,Vaca,210.0,42,56.0,62.0
+2020-04-08,Nay. : R.M. Tepic,Vaca,210.0,42,56.0,62.0
+2020-04-13,Nay. : R.M. Tepic,Vaca,210.0,42,56.0,62.0
+2020-04-14,Nay. : R.M. Tepic,Vaca,210.0,44,56.0,62.0
+2020-04-15,Nay. : R.M. Tepic,Vaca,210.0,44,56.0,62.0
+2020-04-16,Nay. : R.M. Tepic,Vaca,210.0,44,56.0,62.0
+2020-04-17,Nay. : R.M. Tepic,Vaca,210.0,44,56.0,62.0
+2020-04-20,Nay. : R.M. Tepic,Vaca,210.0,44,56.0,62.0
+2020-04-21,Nay. : R.M. Tepic,Vaca,210.0,44,56.0,62.0
+2020-04-22,Nay. : R.M. Tepic,Vaca,210.0,44,56.0,62.0
+2020-04-23,Nay. : R.M. Tepic,Vaca,210.0,44,56.0,62.0
+2020-04-24,Nay. : R.M. Tepic,Vaca,210.0,44,56.0,62.0
+2020-04-27,Nay. : R.M. Tepic,Vaca,210.0,45,56.0,62.0
+2020-04-28,Nay. : R.M. Tepic,Vaca,210.0,45,56.0,62.0
+2020-04-29,Nay. : R.M. Tepic,Vaca,210.0,45,56.0,62.0
+2020-04-30,Nay. : R.M. Tepic,Vaca,210.0,45,56.0,62.0
+2020-04-01,Oax. : Rastro Reforma Agraria,Corral,400.0,30,71.0,73.0
+2020-04-01,Oax. : Rastro Reforma Agraria,Vaca,300.0,14,62.0,64.0
+2020-04-02,Oax. : Rastro Reforma Agraria,Corral,400.0,38,71.0,73.0
+2020-04-02,Oax. : Rastro Reforma Agraria,Vaca,300.0,13,62.0,64.0
+2020-04-03,Oax. : Rastro Reforma Agraria,Corral,400.0,45,71.0,73.0
+2020-04-03,Oax. : Rastro Reforma Agraria,Vaca,300.0,19,62.0,64.0
+2020-04-06,Oax. : Rastro Reforma Agraria,Corral,400.0,41,71.0,73.0
+2020-04-06,Oax. : Rastro Reforma Agraria,Vaca,300.0,23,62.0,64.0
+2020-04-07,Oax. : Rastro Reforma Agraria,Corral,400.0,30,71.0,73.0
+2020-04-07,Oax. : Rastro Reforma Agraria,Vaca,300.0,10,62.0,64.0
+2020-04-08,Oax. : Rastro Reforma Agraria,Corral,400.0,26,71.0,73.0
+2020-04-08,Oax. : Rastro Reforma Agraria,Vaca,300.0,12,62.0,64.0
+2020-04-09,Oax. : Rastro Reforma Agraria,Corral,400.0,30,71.0,73.0
+2020-04-09,Oax. : Rastro Reforma Agraria,Vaca,300.0,10,62.0,64.0
+2020-04-13,Oax. : Rastro Reforma Agraria,Corral,400.0,38,71.0,73.0
+2020-04-13,Oax. : Rastro Reforma Agraria,Vaca,300.0,13,62.0,64.0
+2020-04-14,Oax. : Rastro Reforma Agraria,Corral,400.0,39,72.0,75.0
+2020-04-14,Oax. : Rastro Reforma Agraria,Vaca,300.0,19,63.0,65.0
+2020-04-15,Oax. : Rastro Reforma Agraria,Corral,400.0,31,72.0,75.0
+2020-04-15,Oax. : Rastro Reforma Agraria,Vaca,300.0,13,63.0,65.0
+2020-04-16,Oax. : Rastro Reforma Agraria,Corral,400.0,42,72.0,75.0
+2020-04-16,Oax. : Rastro Reforma Agraria,Vaca,300.0,14,63.0,65.0
+2020-04-17,Oax. : Rastro Reforma Agraria,Corral,400.0,30,72.0,75.0
+2020-04-17,Oax. : Rastro Reforma Agraria,Vaca,300.0,14,63.0,65.0
+2020-04-20,Oax. : Rastro Reforma Agraria,Corral,400.0,24,72.0,75.0
+2020-04-20,Oax. : Rastro Reforma Agraria,Vaca,300.0,14,63.0,65.0
+2020-04-21,Oax. : Rastro Reforma Agraria,Corral,400.0,30,72.0,75.0
+2020-04-21,Oax. : Rastro Reforma Agraria,Vaca,300.0,11,63.0,65.0
+2020-04-22,Oax. : Rastro Reforma Agraria,Corral,400.0,30,72.0,75.0
+2020-04-22,Oax. : Rastro Reforma Agraria,Vaca,300.0,17,63.0,65.0
+2020-04-23,Oax. : Rastro Reforma Agraria,Corral,400.0,35,72.0,75.0
+2020-04-23,Oax. : Rastro Reforma Agraria,Vaca,300.0,15,63.0,65.0
+2020-04-24,Oax. : Rastro Reforma Agraria,Corral,400.0,25,72.0,75.0
+2020-04-24,Oax. : Rastro Reforma Agraria,Vaca,300.0,11,63.0,65.0
+2020-04-27,Oax. : Rastro Reforma Agraria,Corral,400.0,30,72.0,75.0
+2020-04-27,Oax. : Rastro Reforma Agraria,Vaca,300.0,14,63.0,65.0
+2020-04-28,Oax. : Rastro Reforma Agraria,Corral,400.0,40,72.0,75.0
+2020-04-28,Oax. : Rastro Reforma Agraria,Vaca,300.0,20,63.0,65.0
+2020-04-29,Oax. : Rastro Reforma Agraria,Corral,300.0,40,72.0,75.0
+2020-04-29,Oax. : Rastro Reforma Agraria,Vaca,300.0,14,63.0,65.0
+2020-04-30,Oax. : Rastro Reforma Agraria,Corral,400.0,15,72.0,75.0
+2020-04-30,Oax. : Rastro Reforma Agraria,Vaca,300.0,5,63.0,65.0
+2020-04-01,Qro. : R.M. Querétaro,Toros,260.0,78,74.0,74.0
+2020-04-02,Qro. : R.M. Querétaro,Toros,260.0,55,74.0,74.0
+2020-04-03,Qro. : R.M. Querétaro,Toros,260.0,120,74.0,74.0
+2020-04-06,Qro. : R.M. Querétaro,Toros,260.0,110,74.0,74.0
+2020-04-07,Qro. : R.M. Querétaro,Toros,260.0,80,74.0,74.0
+2020-04-08,Qro. : R.M. Querétaro,Toros,260.0,75,74.0,74.0
+2020-04-13,Qro. : R.M. Querétaro,Toros,260.0,105,74.0,74.0
+2020-04-14,Qro. : R.M. Querétaro,Toros,260.0,81,74.0,74.0
+2020-04-15,Qro. : R.M. Querétaro,Toros,260.0,95,74.0,74.0
+2020-04-16,Qro. : R.M. Querétaro,Toros,260.0,66,74.0,74.0
+2020-04-17,Qro. : R.M. Querétaro,Toros,260.0,125,74.0,74.0
+2020-04-20,Qro. : R.M. Querétaro,Toros,260.0,110,74.0,74.0
+2020-04-21,Qro. : R.M. Querétaro,Toros,260.0,90,74.0,74.0
+2020-04-22,Qro. : R.M. Querétaro,Toros,260.0,62,74.0,74.0
+2020-04-23,Qro. : R.M. Querétaro,Toros,260.0,75,74.0,74.0
+2020-04-24,Qro. : R.M. Querétaro,Toros,260.0,150,74.0,74.0
+2020-04-27,Qro. : R.M. Querétaro,Toros,260.0,130,74.0,74.0
+2020-04-28,Qro. : R.M. Querétaro,Toros,260.0,78,75.0,75.0
+2020-04-29,Qro. : R.M. Querétaro,Toros,260.0,68,75.0,75.0
+2020-04-30,Qro. : R.M. Querétaro,Toros,260.0,95,75.0,75.0
+2020-04-01,Sin. : TIF 111 Vizur Sin,Corral,228.0,455,,68.0
+2020-04-01,Sin. : TIF 111 Vizur Sin,Novillona,225.0,231,,63.0
+2020-04-01,Sin. : TIF 111 Vizur Sin,Toros,223.0,204,,60.0
+2020-04-02,Sin. : TIF 111 Vizur Sin,Corral,226.0,253,,68.0
+2020-04-02,Sin. : TIF 111 Vizur Sin,Novillona,219.0,108,,63.0
+2020-04-02,Sin. : TIF 111 Vizur Sin,Toros,225.0,235,,60.0
+2020-04-02,Sin. : TIF 111 Vizur Sin,Vaca,221.0,214,,52.0
+2020-04-03,Sin. : TIF 111 Vizur Sin,Corral,229.0,346,,68.0
+2020-04-03,Sin. : TIF 111 Vizur Sin,Novillona,217.0,53,,63.0
+2020-04-03,Sin. : TIF 111 Vizur Sin,Toros,224.0,194,,60.0
+2020-04-03,Sin. : TIF 111 Vizur Sin,Vaca,225.0,217,,52.0
+2020-04-06,Sin. : TIF 111 Vizur Sin,Corral,228.0,395,,68.0
+2020-04-06,Sin. : TIF 111 Vizur Sin,Toros,225.0,283,,60.0
+2020-04-06,Sin. : TIF 111 Vizur Sin,Vaca,221.0,132,,52.0
+2020-04-07,Sin. : TIF 111 Vizur Sin,Corral,226.0,261,,68.0
+2020-04-07,Sin. : TIF 111 Vizur Sin,Novillona,218.0,106,,63.0
+2020-04-07,Sin. : TIF 111 Vizur Sin,Toros,225.0,238,,60.0
+2020-04-07,Sin. : TIF 111 Vizur Sin,Vaca,222.0,205,,52.0
+2020-04-08,Sin. : TIF 111 Vizur Sin,Corral,228.0,289,,68.0
+2020-04-08,Sin. : TIF 111 Vizur Sin,Novillona,218.0,70,,63.0
+2020-04-08,Sin. : TIF 111 Vizur Sin,Toros,225.0,231,,60.0
+2020-04-08,Sin. : TIF 111 Vizur Sin,Vaca,223.0,210,,52.0
+2020-04-13,Sin. : TIF 111 Vizur Sin,Corral,226.0,253,,68.0
+2020-04-13,Sin. : TIF 111 Vizur Sin,Novillona,218.0,110,,63.0
+2020-04-13,Sin. : TIF 111 Vizur Sin,Toros,224.0,236,,60.0
+2020-04-13,Sin. : TIF 111 Vizur Sin,Vaca,223.0,201,,52.0
+2020-04-14,Sin. : TIF 111 Vizur Sin,Corral,227.0,273,,68.0
+2020-04-14,Sin. : TIF 111 Vizur Sin,Toros,225.0,258,,60.0
+2020-04-14,Sin. : TIF 111 Vizur Sin,Vaca,226.0,269,,52.0
+2020-04-15,Sin. : TIF 111 Vizur Sin,Corral,226.0,250,,68.0
+2020-04-15,Sin. : TIF 111 Vizur Sin,Novillona,223.0,193,,63.0
+2020-04-15,Sin. : TIF 111 Vizur Sin,Toros,224.0,236,,60.0
+2020-04-15,Sin. : TIF 111 Vizur Sin,Vaca,220.0,121,,52.0
+2020-04-16,Sin. : TIF 111 Vizur Sin,Corral,228.0,283,,68.0
+2020-04-16,Sin. : TIF 111 Vizur Sin,Novillona,217.0,52,,63.0
+2020-04-16,Sin. : TIF 111 Vizur Sin,Toros,224.0,241,,60.0
+2020-04-16,Sin. : TIF 111 Vizur Sin,Vaca,221.0,224,,52.0
+2020-04-17,Sin. : TIF 111 Vizur Sin,Corral,229.0,295,,68.0
+2020-04-17,Sin. : TIF 111 Vizur Sin,Novillona,226.0,268,,63.0
+2020-04-17,Sin. : TIF 111 Vizur Sin,Toros,224.0,237,,60.0
+2020-04-20,Sin. : TIF 111 Vizur Sin,Corral,232.0,258,,68.0
+2020-04-20,Sin. : TIF 111 Vizur Sin,Novillona,221.0,103,,63.0
+2020-04-20,Sin. : TIF 111 Vizur Sin,Toros,224.0,209,,60.0
+2020-04-20,Sin. : TIF 111 Vizur Sin,Vaca,227.0,225,,52.0
+2020-04-21,Sin. : TIF 111 Vizur Sin,Corral,230.0,260,,68.0
+2020-04-21,Sin. : TIF 111 Vizur Sin,Novillona,219.0,95,,63.0
+2020-04-21,Sin. : TIF 111 Vizur Sin,Toros,228.0,237,,60.0
+2020-04-21,Sin. : TIF 111 Vizur Sin,Vaca,224.0,200,,52.0
+2020-04-22,Sin. : TIF 111 Vizur Sin,Corral,230.0,299,,68.0
+2020-04-22,Sin. : TIF 111 Vizur Sin,Novillona,227.0,256,,60.0
+2020-04-22,Sin. : TIF 111 Vizur Sin,Vaca,224.0,235,,52.0
+2020-04-23,Sin. : TIF 111 Vizur Sin,Corral,228.0,307,,68.0
+2020-04-23,Sin. : TIF 111 Vizur Sin,Novillona,220.0,42,,63.0
+2020-04-23,Sin. : TIF 111 Vizur Sin,Toros,223.0,215,,60.0
+2020-04-23,Sin. : TIF 111 Vizur Sin,Vaca,224.0,226,,52.0
+2020-04-24,Sin. : TIF 111 Vizur Sin,Corral,228.0,225,,68.0
+2020-04-24,Sin. : TIF 111 Vizur Sin,Novillona,221.0,140,,63.0
+2020-04-24,Sin. : TIF 111 Vizur Sin,Toros,224.0,193,,60.0
+2020-04-24,Sin. : TIF 111 Vizur Sin,Vaca,226.0,211,,52.0
+2020-04-27,Sin. : TIF 111 Vizur Sin,Corral,230.0,281,,68.0
+2020-04-27,Sin. : TIF 111 Vizur Sin,Novillona,224.0,215,,63.0
+2020-04-27,Sin. : TIF 111 Vizur Sin,Toros,228.0,264,,60.0
+2020-04-28,Sin. : TIF 111 Vizur Sin,Corral,228.0,246,,68.0
+2020-04-28,Sin. : TIF 111 Vizur Sin,Novillona,219.0,54,,63.0
+2020-04-28,Sin. : TIF 111 Vizur Sin,Toros,226.0,208,,60.0
+2020-04-28,Sin. : TIF 111 Vizur Sin,Vaca,224.0,192,,52.0
+2020-04-29,Sin. : TIF 111 Vizur Sin,Corral,227.0,259,,68.0
+2020-04-29,Sin. : TIF 111 Vizur Sin,Toros,224.0,238,,60.0
+2020-04-29,Sin. : TIF 111 Vizur Sin,Vaca,220.0,203,,52.0
+2020-04-30,Sin. : TIF 111 Vizur Sin,Corral,234.0,305,,68.0
+2020-04-30,Sin. : TIF 111 Vizur Sin,Novillona,223.0,94,,63.0
+2020-04-30,Sin. : TIF 111 Vizur Sin,Toros,228.0,163,,60.0
+2020-04-30,Sin. : TIF 111 Vizur Sin,Vaca,225.0,138,,52.0
+2020-04-01,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,189.0,3,70.0,70.0
+2020-04-01,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,469.0,7,72.0,72.0
+2020-04-01,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,254.0,15,60.0,60.0
+2020-04-02,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,182.0,5,70.0,70.0
+2020-04-02,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,607.0,4,60.0,60.0
+2020-04-02,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,278.0,7,60.0,60.0
+2020-04-03,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,192.0,1,70.0,70.0
+2020-04-03,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,471.0,3,72.0,72.0
+2020-04-03,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,300.0,21,60.0,60.0
+2020-04-06,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,192.0,1,70.0,70.0
+2020-04-06,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,538.0,3,72.0,72.0
+2020-04-06,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,267.0,18,60.0,60.0
+2020-04-07,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,186.0,1,70.0,70.0
+2020-04-07,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,483.0,6,72.0,72.0
+2020-04-07,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,288.0,22,60.0,60.0
+2020-04-08,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,185.0,3,70.0,70.0
+2020-04-08,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,475.0,1,72.0,72.0
+2020-04-08,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,276.0,14,60.0,60.0
+2020-04-13,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,574.0,8,72.0,72.0
+2020-04-13,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,308.0,13,60.0,60.0
+2020-04-14,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,419.0,8,72.0,72.0
+2020-04-14,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,285.0,20,60.0,60.0
+2020-04-15,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,166.0,1,70.0,70.0
+2020-04-15,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,634.0,1,72.0,72.0
+2020-04-15,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,276.0,16,60.0,60.0
+2020-04-16,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,161.0,2,70.0,70.0
+2020-04-16,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,491.0,1,72.0,72.0
+2020-04-16,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,249.0,3,60.0,60.0
+2020-04-17,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,183.0,1,70.0,70.0
+2020-04-17,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,571.0,9,72.0,72.0
+2020-04-17,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,301.0,18,60.0,60.0
+2020-04-20,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,465.0,3,72.0,72.0
+2020-04-21,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,483.0,3,72.0,72.0
+2020-04-21,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,297.0,16,60.0,60.0
+2020-04-22,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,133.0,1,70.0,70.0
+2020-04-22,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,423.0,2,72.0,72.0
+2020-04-22,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,253.0,9,60.0,60.0
+2020-04-23,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,422.0,1,72.0,72.0
+2020-04-23,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,291.0,17,60.0,60.0
+2020-04-24,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,181.0,2,70.0,70.0
+2020-04-24,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,515.0,5,72.0,72.0
+2020-04-24,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,272.0,12,60.0,60.0
+2020-04-27,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,544.0,5,72.0,72.0
+2020-04-27,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,294.0,6,60.0,60.0
+2020-04-28,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,148.0,2,70.0,70.0
+2020-04-28,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,531.0,1,72.0,72.0
+2020-04-28,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,290.0,17,60.0,60.0
+2020-04-29,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,469.0,2,72.0,72.0
+2020-04-29,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,273.0,8,60.0,60.0
+2020-04-30,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,452.0,3,72.0,72.0
+2020-04-30,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,308.0,37,60.0,60.0
+2020-04-01,Son. : Rastro TIF Bovinos Hermosillo,Corral,,242,76.0,77.5
+2020-04-02,Son. : Rastro TIF Bovinos Hermosillo,Corral,,171,76.0,77.5
+2020-04-03,Son. : Rastro TIF Bovinos Hermosillo,Corral,,258,76.0,77.5
+2020-04-06,Son. : Rastro TIF Bovinos Hermosillo,Corral,,226,76.0,77.5
+2020-04-07,Son. : Rastro TIF Bovinos Hermosillo,Corral,,105,76.0,77.5
+2020-04-08,Son. : Rastro TIF Bovinos Hermosillo,Corral,,210,76.0,77.5
+2020-04-13,Son. : Rastro TIF Bovinos Hermosillo,Corral,,167,76.0,77.5
+2020-04-14,Son. : Rastro TIF Bovinos Hermosillo,Corral,,125,76.0,77.5
+2020-04-15,Son. : Rastro TIF Bovinos Hermosillo,Corral,,136,76.0,77.5
+2020-04-16,Son. : Rastro TIF Bovinos Hermosillo,Corral,,105,76.0,77.5
+2020-04-17,Son. : Rastro TIF Bovinos Hermosillo,Corral,,102,76.0,77.5
+2020-04-20,Son. : Rastro TIF Bovinos Hermosillo,Corral,,120,76.0,77.5
+2020-04-21,Son. : Rastro TIF Bovinos Hermosillo,Corral,,148,76.0,77.5
+2020-04-22,Son. : Rastro TIF Bovinos Hermosillo,Corral,,108,76.0,77.5
+2020-04-23,Son. : Rastro TIF Bovinos Hermosillo,Corral,,126,76.0,77.5
+2020-04-24,Son. : Rastro TIF Bovinos Hermosillo,Corral,,232,76.0,77.5
+2020-04-27,Son. : Rastro TIF Bovinos Hermosillo,Corral,,122,76.0,77.5
+2020-04-28,Son. : Rastro TIF Bovinos Hermosillo,Corral,,235,76.0,77.5
+2020-04-29,Son. : Rastro TIF Bovinos Hermosillo,Corral,,230,76.0,77.5
+2020-04-30,Son. : Rastro TIF Bovinos Hermosillo,Corral,,216,76.0,77.5
+2020-04-01,Ver. : Rastro Municipal de Coatepec,Corral,249.0,8,64.0,65.0
+2020-04-01,Ver. : Rastro Municipal de Coatepec,Novillona,349.0,1,63.0,64.0
+2020-04-02,Ver. : Rastro Municipal de Coatepec,Corral,249.0,8,64.0,65.0
+2020-04-02,Ver. : Rastro Municipal de Coatepec,Novillona,349.0,1,63.0,64.0
+2020-04-03,Ver. : Rastro Municipal de Coatepec,Corral,250.0,4,64.0,65.0
+2020-04-03,Ver. : Rastro Municipal de Coatepec,Novillona,350.0,1,63.0,64.0
+2020-04-06,Ver. : Rastro Municipal de Coatepec,Corral,249.0,9,64.0,65.0
+2020-04-06,Ver. : Rastro Municipal de Coatepec,Novillona,349.0,1,63.0,64.0
+2020-04-07,Ver. : Rastro Municipal de Coatepec,Corral,249.0,8,64.0,65.0
+2020-04-07,Ver. : Rastro Municipal de Coatepec,Novillona,349.0,1,63.0,64.0
+2020-04-08,Ver. : Rastro Municipal de Coatepec,Corral,249.0,7,64.0,65.0
+2020-04-13,Ver. : Rastro Municipal de Coatepec,Corral,249.0,10,64.0,65.0
+2020-04-13,Ver. : Rastro Municipal de Coatepec,Novillona,350.0,2,63.0,64.0
+2020-04-14,Ver. : Rastro Municipal de Coatepec,Corral,249.0,9,64.0,65.0
+2020-04-14,Ver. : Rastro Municipal de Coatepec,Novillona,349.0,1,63.0,64.0
+2020-04-15,Ver. : Rastro Municipal de Coatepec,Corral,249.0,9,64.0,65.0
+2020-04-15,Ver. : Rastro Municipal de Coatepec,Novillona,350.0,1,63.0,64.0
+2020-04-16,Ver. : Rastro Municipal de Coatepec,Corral,249.0,8,64.0,65.0
+2020-04-16,Ver. : Rastro Municipal de Coatepec,Novillona,350.0,1,63.0,64.0
+2020-04-17,Ver. : Rastro Municipal de Coatepec,Corral,249.0,9,64.0,65.0
+2020-04-17,Ver. : Rastro Municipal de Coatepec,Novillona,350.0,1,63.0,64.0
+2020-04-20,Ver. : Rastro Municipal de Coatepec,Corral,250.0,12,64.0,65.0
+2020-04-20,Ver. : Rastro Municipal de Coatepec,Novillona,350.0,2,63.0,64.0
+2020-04-21,Ver. : Rastro Municipal de Coatepec,Corral,249.0,11,64.0,65.0
+2020-04-21,Ver. : Rastro Municipal de Coatepec,Novillona,350.0,1,63.0,64.0
+2020-04-22,Ver. : Rastro Municipal de Coatepec,Corral,249.0,10,64.0,65.0
+2020-04-22,Ver. : Rastro Municipal de Coatepec,Novillona,350.0,2,63.0,64.0
+2020-04-23,Ver. : Rastro Municipal de Coatepec,Corral,249.0,11,64.0,65.0
+2020-04-23,Ver. : Rastro Municipal de Coatepec,Novillona,350.0,1,63.0,64.0
+2020-04-24,Ver. : Rastro Municipal de Coatepec,Corral,249.0,10,64.0,65.0
+2020-04-24,Ver. : Rastro Municipal de Coatepec,Novillona,350.0,1,63.0,64.0
+2020-04-27,Ver. : Rastro Municipal de Coatepec,Corral,249.0,13,64.0,65.0
+2020-04-27,Ver. : Rastro Municipal de Coatepec,Novillona,350.0,1,63.0,64.0
+2020-04-28,Ver. : Rastro Municipal de Coatepec,Corral,249.0,11,64.0,65.0
+2020-04-28,Ver. : Rastro Municipal de Coatepec,Novillona,350.0,1,63.0,64.0
+2020-04-29,Ver. : Rastro Municipal de Coatepec,Corral,250.0,12,64.0,65.0
+2020-04-29,Ver. : Rastro Municipal de Coatepec,Novillona,349.0,1,63.0,64.0
+2020-04-30,Ver. : Rastro Municipal de Coatepec,Corral,249.0,12,64.0,65.0
+2020-04-30,Ver. : Rastro Municipal de Coatepec,Novillona,350.0,2,63.0,64.0
+2020-04-01,Ver. : Rastro Municipal de Xalapa,Corral,250.0,11,64.0,65.0
+2020-04-01,Ver. : Rastro Municipal de Xalapa,Novillona,350.0,1,63.0,64.0
+2020-04-02,Ver. : Rastro Municipal de Xalapa,Corral,250.0,10,64.0,65.0
+2020-04-02,Ver. : Rastro Municipal de Xalapa,Novillona,350.0,1,63.0,64.0
+2020-04-03,Ver. : Rastro Municipal de Xalapa,Corral,250.0,6,64.0,65.0
+2020-04-03,Ver. : Rastro Municipal de Xalapa,Novillona,350.0,1,63.0,64.0
+2020-04-06,Ver. : Rastro Municipal de Xalapa,Corral,250.0,16,64.0,65.0
+2020-04-06,Ver. : Rastro Municipal de Xalapa,Novillona,350.0,2,63.0,64.0
+2020-04-07,Ver. : Rastro Municipal de Xalapa,Corral,250.0,11,64.0,65.0
+2020-04-07,Ver. : Rastro Municipal de Xalapa,Novillona,350.0,1,63.0,64.0
+2020-04-08,Ver. : Rastro Municipal de Xalapa,Corral,250.0,10,64.0,65.0
+2020-04-13,Ver. : Rastro Municipal de Xalapa,Corral,250.0,18,64.0,65.0
+2020-04-13,Ver. : Rastro Municipal de Xalapa,Novillona,350.0,1,63.0,64.0
+2020-04-14,Ver. : Rastro Municipal de Xalapa,Corral,250.0,13,64.0,65.0
+2020-04-14,Ver. : Rastro Municipal de Xalapa,Novillona,350.0,2,63.0,64.0
+2020-04-15,Ver. : Rastro Municipal de Xalapa,Corral,250.0,11,64.0,65.0
+2020-04-15,Ver. : Rastro Municipal de Xalapa,Novillona,350.0,1,63.0,64.0
+2020-04-16,Ver. : Rastro Municipal de Xalapa,Corral,250.0,11,64.0,65.0
+2020-04-16,Ver. : Rastro Municipal de Xalapa,Novillona,350.0,1,63.0,64.0
+2020-04-17,Ver. : Rastro Municipal de Xalapa,Corral,250.0,10,64.0,65.0
+2020-04-17,Ver. : Rastro Municipal de Xalapa,Novillona,350.0,2,63.0,64.0
+2020-04-20,Ver. : Rastro Municipal de Xalapa,Corral,250.0,17,64.0,65.0
+2020-04-20,Ver. : Rastro Municipal de Xalapa,Novillona,350.0,2,63.0,64.0
+2020-04-21,Ver. : Rastro Municipal de Xalapa,Corral,250.0,14,64.0,65.0
+2020-04-21,Ver. : Rastro Municipal de Xalapa,Novillona,350.0,2,63.0,64.0
+2020-04-22,Ver. : Rastro Municipal de Xalapa,Corral,250.0,17,64.0,65.0
+2020-04-22,Ver. : Rastro Municipal de Xalapa,Novillona,350.0,1,63.0,64.0
+2020-04-23,Ver. : Rastro Municipal de Xalapa,Corral,250.0,16,64.0,65.0
+2020-04-23,Ver. : Rastro Municipal de Xalapa,Novillona,350.0,2,63.0,64.0
+2020-04-24,Ver. : Rastro Municipal de Xalapa,Corral,250.0,13,64.0,65.0
+2020-04-24,Ver. : Rastro Municipal de Xalapa,Novillona,350.0,2,63.0,64.0
+2020-04-27,Ver. : Rastro Municipal de Xalapa,Corral,250.0,20,64.0,65.0
+2020-04-27,Ver. : Rastro Municipal de Xalapa,Novillona,350.0,1,63.0,64.0
+2020-04-28,Ver. : Rastro Municipal de Xalapa,Corral,250.0,13,64.0,65.0
+2020-04-28,Ver. : Rastro Municipal de Xalapa,Novillona,350.0,2,63.0,64.0
+2020-04-29,Ver. : Rastro Municipal de Xalapa,Corral,250.0,12,64.0,65.0
+2020-04-29,Ver. : Rastro Municipal de Xalapa,Novillona,350.0,2,63.0,64.0
+2020-04-30,Ver. : Rastro Municipal de Xalapa,Corral,250.0,18,64.0,65.0
+2020-04-30,Ver. : Rastro Municipal de Xalapa,Novillona,350.0,2,63.0,64.0
+2020-04-15,Yuc. : Abastos de Mérida,Pradera,313.0,15,65.0,65.0
+2020-04-17,Yuc. : Abastos de Mérida,Pradera,355.0,1,65.0,65.0
+2020-04-17,Yuc. : Abastos de Mérida,Vaca,247.0,1,56.0,56.0
+2020-04-23,Yuc. : Abastos de Mérida,Novillona,317.0,3,60.0,64.0
+2020-04-23,Yuc. : Abastos de Mérida,Vaca,278.0,30,56.0,56.0
+2020-04-02,Yuc. : Aric Planta TIF 170,Toros,463.0,1,56.0,56.0
+2020-04-02,Yuc. : Aric Planta TIF 170,Vaca,212.0,1,56.0,56.0
+2020-04-06,Yuc. : Aric Planta TIF 170,Pradera,402.0,1,65.0,65.0
+2020-04-06,Yuc. : Aric Planta TIF 170,Toros,566.0,1,56.0,56.0
+2020-04-06,Yuc. : Aric Planta TIF 170,Vaca,274.0,13,56.0,56.0
+2020-04-20,Yuc. : Aric Planta TIF 170,Vaca,258.0,14,56.0,56.0
+2020-04-24,Yuc. : Aric Planta TIF 170,Pradera,316.0,17,65.0,65.0
+2020-04-24,Yuc. : Aric Planta TIF 170,Toros,431.0,2,56.0,56.0
+2020-04-24,Yuc. : Aric Planta TIF 170,Vaca,281.0,19,56.0,56.0
+2020-04-07,Zac. : R.M. Zacatecas,Corral,247.0,1,72.0,72.0
+2020-04-07,Zac. : R.M. Zacatecas,Toros,270.0,8,72.0,72.0
+2020-04-07,Zac. : R.M. Zacatecas,Vaca,216.0,13,58.0,58.0
+2020-04-14,Zac. : R.M. Zacatecas,Corral,247.0,1,72.0,72.0
+2020-04-14,Zac. : R.M. Zacatecas,Novillona,220.0,2,62.0,62.0
+2020-04-14,Zac. : R.M. Zacatecas,Toros,270.0,8,72.0,72.0
+2020-04-14,Zac. : R.M. Zacatecas,Vaca,216.0,12,58.0,58.0
+2020-04-21,Zac. : R.M. Zacatecas,Corral,247.0,4,72.0,72.0
+2020-04-21,Zac. : R.M. Zacatecas,Toros,270.0,6,72.0,72.0
+2020-04-21,Zac. : R.M. Zacatecas,Vaca,216.0,32,58.0,58.0
+2020-04-23,Zac. : R.M. Zacatecas,Corral,247.0,6,72.0,72.0
+2020-04-23,Zac. : R.M. Zacatecas,Toros,270.0,5,72.0,72.0
+2020-04-23,Zac. : R.M. Zacatecas,Vaca,216.0,9,58.0,58.0
+2020-04-28,Zac. : R.M. Zacatecas,Corral,247.0,13,72.0,72.0
+2020-04-28,Zac. : R.M. Zacatecas,Toros,270.0,7,72.0,72.0
+2020-04-28,Zac. : R.M. Zacatecas,Vaca,216.0,10,58.0,58.0
+2020-04-30,Zac. : R.M. Zacatecas,Corral,247.0,18,72.0,72.0
+2020-04-30,Zac. : R.M. Zacatecas,Novillona,220.0,9,62.0,62.0
+2020-04-30,Zac. : R.M. Zacatecas,Toros,270.0,4,72.0,72.0
+2020-04-30,Zac. : R.M. Zacatecas,Vaca,216.0,13,58.0,58.0

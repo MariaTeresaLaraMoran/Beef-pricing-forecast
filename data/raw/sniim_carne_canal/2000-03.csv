@@ -1,0 +1,1142 @@
+date,slaughterhouse,type,avg_weight_kg,carcasses,price_min_mxn_kg,price_max_mxn_kg
+2000-03-02,Ags. : R.M. Aguascalientes,Vaca,245.0,28.0,14.0,15.0
+2000-03-03,Ags. : R.M. Aguascalientes,Pradera,245.0,132.0,18.0,19.0
+2000-03-03,Ags. : R.M. Aguascalientes,Vaca,245.0,20.0,14.0,15.0
+2000-03-04,Ags. : R.M. Aguascalientes,Vaca,245.0,37.0,14.0,15.0
+2000-03-05,Ags. : R.M. Aguascalientes,Vaca,245.0,23.0,14.0,15.0
+2000-03-06,Ags. : R.M. Aguascalientes,Pradera,245.0,30.0,18.0,19.0
+2000-03-06,Ags. : R.M. Aguascalientes,Vaca,245.0,44.0,14.0,15.0
+2000-03-07,Ags. : R.M. Aguascalientes,Vaca,245.0,39.0,14.0,15.0
+2000-03-08,Ags. : R.M. Aguascalientes,Vaca,245.0,30.0,14.0,15.0
+2000-03-09,Ags. : R.M. Aguascalientes,Vaca,245.0,25.0,14.0,15.0
+2000-03-10,Ags. : R.M. Aguascalientes,Pradera,245.0,200.0,18.0,19.0
+2000-03-10,Ags. : R.M. Aguascalientes,Toros,245.0,21.0,20.5,21.0
+2000-03-10,Ags. : R.M. Aguascalientes,Vaca,245.0,23.0,14.0,15.0
+2000-03-11,Ags. : R.M. Aguascalientes,Vaca,245.0,32.0,14.0,15.0
+2000-03-12,Ags. : R.M. Aguascalientes,Vaca,245.0,16.0,14.0,15.0
+2000-03-13,Ags. : R.M. Aguascalientes,Vaca,245.0,34.0,14.0,15.0
+2000-03-14,Ags. : R.M. Aguascalientes,Vaca,245.0,29.0,14.0,15.0
+2000-03-15,Ags. : R.M. Aguascalientes,Pradera,245.0,82.0,18.0,19.0
+2000-03-15,Ags. : R.M. Aguascalientes,Vaca,245.0,22.0,14.0,15.0
+2000-03-16,Ags. : R.M. Aguascalientes,Vaca,245.0,28.0,14.0,15.0
+2000-03-17,Ags. : R.M. Aguascalientes,Pradera,245.0,144.0,18.0,19.0
+2000-03-17,Ags. : R.M. Aguascalientes,Vaca,245.0,37.0,14.0,15.0
+2000-03-18,Ags. : R.M. Aguascalientes,Vaca,245.0,38.0,14.0,15.0
+2000-03-19,Ags. : R.M. Aguascalientes,Vaca,245.0,36.0,14.0,15.0
+2000-03-20,Ags. : R.M. Aguascalientes,Pradera,245.0,104.0,18.0,19.0
+2000-03-20,Ags. : R.M. Aguascalientes,Vaca,245.0,39.0,14.0,15.0
+2000-03-21,Ags. : R.M. Aguascalientes,Vaca,245.0,30.0,14.0,15.0
+2000-03-22,Ags. : R.M. Aguascalientes,Pradera,245.0,76.0,18.0,19.0
+2000-03-22,Ags. : R.M. Aguascalientes,Vaca,245.0,33.0,14.0,15.0
+2000-03-23,Ags. : R.M. Aguascalientes,Vaca,245.0,32.0,14.0,15.0
+2000-03-24,Ags. : R.M. Aguascalientes,Pradera,245.0,130.0,18.0,19.0
+2000-03-24,Ags. : R.M. Aguascalientes,Toros,245.0,20.0,20.5,21.0
+2000-03-24,Ags. : R.M. Aguascalientes,Vaca,245.0,36.0,12.5,13.5
+2000-03-25,Ags. : R.M. Aguascalientes,Vaca,245.0,36.0,14.0,15.0
+2000-03-27,Ags. : R.M. Aguascalientes,Pradera,245.0,104.0,18.0,19.0
+2000-03-27,Ags. : R.M. Aguascalientes,Toros,245.0,7.0,20.5,21.0
+2000-03-27,Ags. : R.M. Aguascalientes,Vaca,245.0,32.0,14.0,15.0
+2000-03-28,Ags. : R.M. Aguascalientes,Vaca,245.0,34.0,14.0,15.0
+2000-03-29,Ags. : R.M. Aguascalientes,Pradera,245.0,70.0,18.0,19.0
+2000-03-29,Ags. : R.M. Aguascalientes,Vaca,245.0,31.0,14.0,15.0
+2000-03-30,Ags. : R.M. Aguascalientes,Vaca,245.0,33.0,14.0,15.0
+2000-03-31,Ags. : R.M. Aguascalientes,Pradera,245.0,140.0,18.0,19.0
+2000-03-31,Ags. : R.M. Aguascalientes,Toros,245.0,15.0,20.5,21.0
+2000-03-31,Ags. : R.M. Aguascalientes,Vaca,245.0,33.0,14.0,15.0
+2000-03-06,B.C.S. : R.M. La Paz B.C.S.,Pradera,70.0,271.0,18.0,18.0
+2000-03-13,B.C.S. : R.M. La Paz B.C.S.,Pradera,165.0,250.0,18.0,18.0
+2000-03-27,B.C.S. : R.M. La Paz B.C.S.,Pradera,96.0,214.0,17.0,17.0
+2000-03-01,Camp. : R.M. Campeche,Corral,390.0,41.0,18.0,20.0
+2000-03-02,Camp. : R.M. Campeche,Pradera,440.0,30.0,18.0,20.0
+2000-03-08,Camp. : R.M. Campeche,Pradera,398.0,45.0,18.0,20.0
+2000-03-09,Camp. : R.M. Campeche,Pradera,390.0,40.0,18.0,20.0
+2000-03-10,Camp. : R.M. Campeche,Pradera,360.0,37.0,18.0,20.0
+2000-03-13,Camp. : R.M. Campeche,Pradera,350.0,45.0,18.0,20.0
+2000-03-14,Camp. : R.M. Campeche,Pradera,350.0,45.0,18.0,20.0
+2000-03-15,Camp. : R.M. Campeche,Pradera,350.0,45.0,18.0,20.0
+2000-03-16,Camp. : R.M. Campeche,Pradera,355.0,30.0,18.0,20.0
+2000-03-17,Camp. : R.M. Campeche,Pradera,450.0,12.0,18.5,20.3
+2000-03-20,Camp. : R.M. Campeche,Pradera,350.0,30.0,18.0,20.0
+2000-03-22,Camp. : R.M. Campeche,Pradera,370.0,30.0,18.5,20.0
+2000-03-23,Camp. : R.M. Campeche,Pradera,350.0,16.0,18.5,20.0
+2000-03-24,Camp. : R.M. Campeche,Pradera,420.0,10.0,18.5,20.0
+2000-03-27,Camp. : R.M. Campeche,Pradera,380.0,20.0,19.0,20.0
+2000-03-28,Camp. : R.M. Campeche,Pradera,380.0,15.0,19.0,20.0
+2000-03-30,Camp. : R.M. Campeche,Pradera,4.0,18.0,18.5,20.0
+2000-03-31,Camp. : R.M. Campeche,Pradera,370.0,18.0,18.5,20.0
+2000-03-01,Coah. : R.M. Torreón,Corral,222.0,33.0,22.5,22.5
+2000-03-01,Coah. : R.M. Torreón,Vaca,360.0,40.0,15.7,16.0
+2000-03-03,Coah. : R.M. Torreón,Corral,222.0,37.0,22.5,23.0
+2000-03-03,Coah. : R.M. Torreón,Vaca,360.0,54.0,15.7,16.0
+2000-03-04,Coah. : R.M. Torreón,Corral,222.0,77.0,22.5,23.0
+2000-03-06,Coah. : R.M. Torreón,Corral,222.0,32.0,22.5,23.0
+2000-03-06,Coah. : R.M. Torreón,Vaca,360.0,32.0,15.7,16.0
+2000-03-07,Coah. : R.M. Torreón,Corral,222.0,24.0,22.5,23.0
+2000-03-07,Coah. : R.M. Torreón,Vaca,360.0,24.0,15.7,16.0
+2000-03-08,Coah. : R.M. Torreón,Corral,222.0,36.0,22.5,23.0
+2000-03-08,Coah. : R.M. Torreón,Vaca,360.0,35.0,15.7,16.0
+2000-03-10,Coah. : R.M. Torreón,Corral,222.0,35.0,22.5,23.0
+2000-03-10,Coah. : R.M. Torreón,Vaca,360.0,34.0,15.7,16.0
+2000-03-11,Coah. : R.M. Torreón,Corral,222.0,70.0,22.5,23.0
+2000-03-11,Coah. : R.M. Torreón,Vaca,360.0,35.0,15.7,16.0
+2000-03-13,Coah. : R.M. Torreón,Corral,222.0,33.0,22.5,23.0
+2000-03-13,Coah. : R.M. Torreón,Vaca,360.0,22.0,15.7,16.0
+2000-03-14,Coah. : R.M. Torreón,Corral,222.0,27.0,22.5,23.0
+2000-03-14,Coah. : R.M. Torreón,Vaca,360.0,27.0,15.7,16.0
+2000-03-15,Coah. : R.M. Torreón,Corral,222.0,38.0,22.5,23.0
+2000-03-15,Coah. : R.M. Torreón,Vaca,360.0,44.0,15.7,16.0
+2000-03-17,Coah. : R.M. Torreón,Corral,222.0,49.0,22.5,23.0
+2000-03-17,Coah. : R.M. Torreón,Vaca,360.0,46.0,15.7,16.0
+2000-03-18,Coah. : R.M. Torreón,Corral,222.0,70.0,22.5,23.0
+2000-03-18,Coah. : R.M. Torreón,Vaca,360.0,40.0,15.7,16.0
+2000-03-20,Coah. : R.M. Torreón,Corral,222.0,37.0,22.5,23.0
+2000-03-22,Coah. : R.M. Torreón,Corral,222.0,125.0,22.5,23.0
+2000-03-22,Coah. : R.M. Torreón,Vaca,360.0,70.0,15.7,16.0
+2000-03-24,Coah. : R.M. Torreón,Corral,222.0,48.0,23.0,23.0
+2000-03-24,Coah. : R.M. Torreón,Vaca,360.0,35.0,14.5,15.5
+2000-03-25,Coah. : R.M. Torreón,Corral,222.0,62.0,23.0,23.0
+2000-03-25,Coah. : R.M. Torreón,Vaca,360.0,44.0,14.5,15.5
+2000-03-27,Coah. : R.M. Torreón,Corral,222.0,21.0,23.0,23.0
+2000-03-27,Coah. : R.M. Torreón,Vaca,360.0,27.0,14.5,15.5
+2000-03-28,Coah. : R.M. Torreón,Corral,222.0,25.0,23.0,23.0
+2000-03-28,Coah. : R.M. Torreón,Vaca,360.0,17.0,14.5,15.5
+2000-03-29,Coah. : R.M. Torreón,Corral,222.0,46.0,23.0,23.0
+2000-03-29,Coah. : R.M. Torreón,Vaca,360.0,14.0,14.5,15.5
+2000-03-31,Coah. : R.M. Torreón,Corral,222.0,50.0,23.5,23.5
+2000-03-31,Coah. : R.M. Torreón,Vaca,360.0,33.0,14.5,15.0
+2000-03-01,Coah. : R.P. La Torrena,Corral,350.0,90.0,21.5,21.5
+2000-03-03,Coah. : R.P. La Torrena,Novillona,210.0,15.0,21.5,21.5
+2000-03-03,Coah. : R.P. La Torrena,Vaca,360.0,95.0,15.5,15.5
+2000-03-04,Coah. : R.P. La Torrena,Novillona,210.0,57.0,21.5,21.5
+2000-03-04,Coah. : R.P. La Torrena,Vaca,350.0,80.0,15.5,15.5
+2000-03-06,Coah. : R.P. La Torrena,Vaca,350.0,66.0,15.5,15.5
+2000-03-07,Coah. : R.P. La Torrena,Novillona,210.0,5.0,21.5,22.0
+2000-03-07,Coah. : R.P. La Torrena,Vaca,350.0,58.0,15.7,15.7
+2000-03-08,Coah. : R.P. La Torrena,Corral,210.0,47.0,21.5,21.5
+2000-03-08,Coah. : R.P. La Torrena,Vaca,350.0,38.0,15.5,15.5
+2000-03-09,Coah. : R.P. La Torrena,Novillona,210.0,5.0,21.5,22.0
+2000-03-09,Coah. : R.P. La Torrena,Vaca,350.0,55.0,15.7,15.7
+2000-03-10,Coah. : R.P. La Torrena,Vaca,350.0,63.0,15.7,15.7
+2000-03-11,Coah. : R.P. La Torrena,Novillona,210.0,30.0,21.5,22.0
+2000-03-13,Coah. : R.P. La Torrena,Vaca,360.0,62.0,15.7,15.7
+2000-03-14,Coah. : R.P. La Torrena,Vaca,360.0,88.0,15.7,15.7
+2000-03-15,Coah. : R.P. La Torrena,Corral,210.0,50.0,21.5,21.5
+2000-03-15,Coah. : R.P. La Torrena,Vaca,350.0,69.0,15.5,15.5
+2000-03-16,Coah. : R.P. La Torrena,Vaca,360.0,49.0,15.0,15.5
+2000-03-17,Coah. : R.P. La Torrena,Corral,222.0,10.0,22.0,22.5
+2000-03-17,Coah. : R.P. La Torrena,Vaca,360.0,30.0,15.7,15.7
+2000-03-18,Coah. : R.P. La Torrena,Corral,222.0,78.0,22.0,22.0
+2000-03-18,Coah. : R.P. La Torrena,Vaca,360.0,30.0,15.5,15.5
+2000-03-20,Coah. : R.P. La Torrena,Corral,222.0,20.0,22.0,22.0
+2000-03-20,Coah. : R.P. La Torrena,Vaca,360.0,48.0,15.5,15.5
+2000-03-22,Coah. : R.P. La Torrena,Novillona,210.0,68.0,21.5,21.5
+2000-03-22,Coah. : R.P. La Torrena,Vaca,360.0,122.0,15.5,15.5
+2000-03-23,Coah. : R.P. La Torrena,Novillona,210.0,12.0,21.5,21.5
+2000-03-23,Coah. : R.P. La Torrena,Vaca,360.0,56.0,15.5,15.5
+2000-03-24,Coah. : R.P. La Torrena,Vaca,360.0,60.0,15.5,15.7
+2000-03-25,Coah. : R.P. La Torrena,Vaca,360.0,107.0,15.7,15.7
+2000-03-27,Coah. : R.P. La Torrena,Vaca,310.0,68.0,15.7,15.7
+2000-03-28,Coah. : R.P. La Torrena,Novillona,210.0,60.0,21.5,21.5
+2000-03-28,Coah. : R.P. La Torrena,Vaca,360.0,59.0,15.7,15.7
+2000-03-29,Coah. : R.P. La Torrena,Novillona,210.0,55.0,21.5,22.0
+2000-03-29,Coah. : R.P. La Torrena,Vaca,360.0,55.0,15.7,15.7
+2000-03-30,Coah. : R.P. La Torrena,Vaca,360.0,60.0,15.5,15.7
+2000-03-31,Coah. : R.P. La Torrena,Toros,600.0,1.0,19.5,19.5
+2000-03-31,Coah. : R.P. La Torrena,Vaca,360.0,55.0,15.0,15.5
+2000-03-01,Coah. : R.P. Perecederos y Derivados,Corral,222.0,142.0,22.5,22.5
+2000-03-04,Coah. : R.P. Perecederos y Derivados,Corral,222.0,140.0,22.5,22.5
+2000-03-06,Coah. : R.P. Perecederos y Derivados,Corral,222.0,137.0,22.5,22.5
+2000-03-07,Coah. : R.P. Perecederos y Derivados,Corral,222.0,152.0,22.5,22.5
+2000-03-08,Coah. : R.P. Perecederos y Derivados,Corral,222.0,102.0,22.5,22.5
+2000-03-09,Coah. : R.P. Perecederos y Derivados,Corral,222.0,33.0,22.5,22.5
+2000-03-11,Coah. : R.P. Perecederos y Derivados,Corral,222.0,118.0,22.5,22.5
+2000-03-13,Coah. : R.P. Perecederos y Derivados,Corral,222.0,156.0,22.5,22.5
+2000-03-13,Coah. : R.P. Perecederos y Derivados,Vaca,360.0,30.0,15.7,15.7
+2000-03-14,Coah. : R.P. Perecederos y Derivados,Corral,222.0,156.0,22.5,22.5
+2000-03-14,Coah. : R.P. Perecederos y Derivados,Vaca,360.0,18.0,15.7,15.7
+2000-03-15,Coah. : R.P. Perecederos y Derivados,Corral,222.0,72.0,22.5,22.5
+2000-03-15,Coah. : R.P. Perecederos y Derivados,Vaca,360.0,4.0,15.7,15.7
+2000-03-16,Coah. : R.P. Perecederos y Derivados,Corral,222.0,20.0,22.5,22.5
+2000-03-18,Coah. : R.P. Perecederos y Derivados,Corral,222.0,232.0,22.5,22.5
+2000-03-20,Coah. : R.P. Perecederos y Derivados,Corral,222.0,245.0,22.5,22.5
+2000-03-22,Coah. : R.P. Perecederos y Derivados,Corral,222.0,187.0,22.5,22.5
+2000-03-23,Coah. : R.P. Perecederos y Derivados,Corral,222.0,44.0,22.5,22.5
+2000-03-23,Coah. : R.P. Perecederos y Derivados,Vaca,360.0,55.0,15.8,15.8
+2000-03-25,Coah. : R.P. Perecederos y Derivados,Corral,222.0,200.0,22.5,22.5
+2000-03-27,Coah. : R.P. Perecederos y Derivados,Corral,222.0,100.0,22.5,22.5
+2000-03-28,Coah. : R.P. Perecederos y Derivados,Corral,222.0,170.0,22.5,22.5
+2000-03-29,Coah. : R.P. Perecederos y Derivados,Corral,222.0,85.0,22.5,22.5
+2000-03-30,Coah. : R.P. Perecederos y Derivados,Corral,222.0,20.0,22.5,22.5
+2000-03-30,Coah. : R.P. Perecederos y Derivados,Toros,600.0,1.0,20.0,20.0
+2000-03-30,Coah. : R.P. Perecederos y Derivados,Vaca,360.0,4.0,15.4,15.4
+2000-03-04,Col. : Procesadora municipal de carne de Colima,Corral,202.0,264.0,18.0,24.0
+2000-03-07,Chis. : TIF 53 S.C.C. Agropecuario,Corral,244.0,117.0,10.0,19.2
+2000-03-08,Chis. : TIF 53 S.C.C. Agropecuario,Corral,297.0,77.0,18.0,19.2
+2000-03-10,Chis. : TIF 53 S.C.C. Agropecuario,Corral,226.0,33.0,18.0,19.2
+2000-03-11,Chis. : TIF 53 S.C.C. Agropecuario,Corral,245.0,22.0,18.0,19.2
+2000-03-15,Chis. : TIF 53 S.C.C. Agropecuario,Corral,242.0,45.0,18.0,19.2
+2000-03-16,Chis. : TIF 53 S.C.C. Agropecuario,Corral,267.0,51.0,18.0,19.2
+2000-03-19,Chis. : TIF 53 S.C.C. Agropecuario,Corral,253.0,137.0,18.0,19.2
+2000-03-22,Chis. : TIF 53 S.C.C. Agropecuario,Corral,267.0,189.0,18.0,19.2
+2000-03-06,Chis. : TIF 78 Frigorífico del Sureste,Corral,238.0,117.0,18.5,20.2
+2000-03-07,Chis. : TIF 78 Frigorífico del Sureste,Corral,248.0,54.0,18.5,20.2
+2000-03-08,Chis. : TIF 78 Frigorífico del Sureste,Corral,228.0,134.0,18.5,20.2
+2000-03-10,Chis. : TIF 78 Frigorífico del Sureste,Corral,258.0,67.0,18.5,20.2
+2000-03-11,Chis. : TIF 78 Frigorífico del Sureste,Corral,254.0,71.0,18.5,20.2
+2000-03-13,Chis. : TIF 78 Frigorífico del Sureste,Corral,247.0,98.0,18.5,20.2
+2000-03-14,Chis. : TIF 78 Frigorífico del Sureste,Corral,247.0,95.0,18.5,20.2
+2000-03-15,Chis. : TIF 78 Frigorífico del Sureste,Corral,241.0,74.0,18.5,20.2
+2000-03-16,Chis. : TIF 78 Frigorífico del Sureste,Corral,251.0,48.0,18.5,20.2
+2000-03-17,Chis. : TIF 78 Frigorífico del Sureste,Corral,169.0,49.0,18.5,20.2
+2000-03-19,Chis. : TIF 78 Frigorífico del Sureste,Corral,249.0,108.0,18.5,20.2
+2000-03-21,Chis. : TIF 78 Frigorífico del Sureste,Corral,236.0,93.0,18.5,20.2
+2000-03-22,Chis. : TIF 78 Frigorífico del Sureste,Corral,266.0,60.0,18.5,20.2
+2000-03-23,Chis. : TIF 78 Frigorífico del Sureste,Corral,216.0,93.0,18.5,20.2
+2000-03-24,Chis. : TIF 78 Frigorífico del Sureste,Corral,252.0,46.0,18.5,20.2
+2000-03-25,Chis. : TIF 78 Frigorífico del Sureste,Corral,248.0,80.0,18.5,20.2
+2000-03-01,Dgo. : R.M. Gómez Palacio,Corral,222.0,10.0,22.0,22.0
+2000-03-01,Dgo. : R.M. Gómez Palacio,Novillona,210.0,5.0,21.5,21.5
+2000-03-01,Dgo. : R.M. Gómez Palacio,Toros,600.0,2.0,19.0,19.0
+2000-03-01,Dgo. : R.M. Gómez Palacio,Vaca,360.0,18.0,15.5,15.5
+2000-03-03,Dgo. : R.M. Gómez Palacio,Corral,222.0,15.0,22.0,22.0
+2000-03-03,Dgo. : R.M. Gómez Palacio,Novillona,210.0,8.0,21.5,21.5
+2000-03-03,Dgo. : R.M. Gómez Palacio,Vaca,360.0,38.0,15.5,15.5
+2000-03-04,Dgo. : R.M. Gómez Palacio,Toros,600.0,2.0,19.0,19.0
+2000-03-04,Dgo. : R.M. Gómez Palacio,Vaca,360.0,11.0,15.5,19.5
+2000-03-06,Dgo. : R.M. Gómez Palacio,Toros,600.0,4.0,19.0,19.0
+2000-03-06,Dgo. : R.M. Gómez Palacio,Vaca,360.0,31.0,15.5,19.5
+2000-03-10,Dgo. : R.M. Gómez Palacio,Toros,600.0,2.0,19.0,19.0
+2000-03-10,Dgo. : R.M. Gómez Palacio,Vaca,360.0,10.0,15.5,19.5
+2000-03-11,Dgo. : R.M. Gómez Palacio,Corral,222.0,8.0,22.0,22.0
+2000-03-11,Dgo. : R.M. Gómez Palacio,Novillona,210.0,9.0,21.5,21.5
+2000-03-11,Dgo. : R.M. Gómez Palacio,Toros,600.0,4.0,19.0,19.0
+2000-03-11,Dgo. : R.M. Gómez Palacio,Vaca,360.0,12.0,15.5,15.5
+2000-03-13,Dgo. : R.M. Gómez Palacio,Corral,222.0,12.0,22.0,22.0
+2000-03-13,Dgo. : R.M. Gómez Palacio,Novillona,210.0,6.0,21.5,21.5
+2000-03-13,Dgo. : R.M. Gómez Palacio,Toros,600.0,3.0,19.0,19.0
+2000-03-13,Dgo. : R.M. Gómez Palacio,Vaca,360.0,8.0,15.5,15.5
+2000-03-14,Dgo. : R.M. Gómez Palacio,Corral,222.0,4.0,22.0,22.0
+2000-03-14,Dgo. : R.M. Gómez Palacio,Novillona,210.0,8.0,21.5,21.5
+2000-03-14,Dgo. : R.M. Gómez Palacio,Vaca,360.0,5.0,15.5,15.5
+2000-03-15,Dgo. : R.M. Gómez Palacio,Corral,222.0,9.0,22.0,22.0
+2000-03-15,Dgo. : R.M. Gómez Palacio,Novillona,210.0,6.0,21.5,21.5
+2000-03-15,Dgo. : R.M. Gómez Palacio,Toros,600.0,3.0,19.0,19.0
+2000-03-15,Dgo. : R.M. Gómez Palacio,Vaca,360.0,12.0,15.5,15.5
+2000-03-17,Dgo. : R.M. Gómez Palacio,Corral,222.0,15.0,22.0,22.0
+2000-03-17,Dgo. : R.M. Gómez Palacio,Novillona,210.0,20.0,21.5,21.5
+2000-03-17,Dgo. : R.M. Gómez Palacio,Vaca,360.0,23.0,15.5,15.5
+2000-03-18,Dgo. : R.M. Gómez Palacio,Novillona,210.0,9.0,21.5,21.5
+2000-03-18,Dgo. : R.M. Gómez Palacio,Vaca,360.0,17.0,15.5,19.5
+2000-03-20,Dgo. : R.M. Gómez Palacio,Novillona,210.0,7.0,21.5,21.5
+2000-03-20,Dgo. : R.M. Gómez Palacio,Toros,600.0,2.0,19.0,19.0
+2000-03-20,Dgo. : R.M. Gómez Palacio,Vaca,360.0,18.0,15.5,19.5
+2000-03-22,Dgo. : R.M. Gómez Palacio,Novillona,210.0,7.0,21.5,21.5
+2000-03-22,Dgo. : R.M. Gómez Palacio,Vaca,360.0,29.0,15.5,19.5
+2000-03-24,Dgo. : R.M. Gómez Palacio,Toros,600.0,3.0,19.0,19.0
+2000-03-24,Dgo. : R.M. Gómez Palacio,Vaca,360.0,24.0,15.5,19.0
+2000-03-25,Dgo. : R.M. Gómez Palacio,Novillona,210.0,6.0,22.5,22.5
+2000-03-25,Dgo. : R.M. Gómez Palacio,Toros,600.0,2.0,19.0,19.0
+2000-03-25,Dgo. : R.M. Gómez Palacio,Vaca,360.0,15.0,14.0,14.5
+2000-03-27,Dgo. : R.M. Gómez Palacio,Corral,222.0,6.0,23.0,23.0
+2000-03-27,Dgo. : R.M. Gómez Palacio,Novillona,210.0,4.0,22.5,22.5
+2000-03-27,Dgo. : R.M. Gómez Palacio,Toros,600.0,3.0,19.0,19.0
+2000-03-27,Dgo. : R.M. Gómez Palacio,Vaca,360.0,9.0,14.0,14.5
+2000-03-28,Dgo. : R.M. Gómez Palacio,Novillona,210.0,6.0,22.5,22.5
+2000-03-28,Dgo. : R.M. Gómez Palacio,Vaca,360.0,6.0,14.0,14.5
+2000-03-29,Dgo. : R.M. Gómez Palacio,Corral,222.0,9.0,23.0,23.0
+2000-03-29,Dgo. : R.M. Gómez Palacio,Novillona,210.0,6.0,22.5,22.5
+2000-03-29,Dgo. : R.M. Gómez Palacio,Toros,600.0,3.0,19.0,19.0
+2000-03-29,Dgo. : R.M. Gómez Palacio,Vaca,360.0,10.0,14.0,14.5
+2000-03-31,Dgo. : R.M. Gómez Palacio,Corral,222.0,8.0,23.0,23.0
+2000-03-31,Dgo. : R.M. Gómez Palacio,Novillona,210.0,31.0,22.5,22.5
+2000-03-31,Dgo. : R.M. Gómez Palacio,Toros,600.0,3.0,19.0,19.0
+2000-03-31,Dgo. : R.M. Gómez Palacio,Vaca,360.0,9.0,14.0,14.5
+2000-03-01,Edo. Méx. : Cerro Gordo,Corral,,74.0,24.0,24.0
+2000-03-01,Edo. Méx. : Cerro Gordo,Pradera,,10.0,22.0,22.0
+2000-03-02,Edo. Méx. : Cerro Gordo,Corral,,10.0,24.0,24.0
+2000-03-02,Edo. Méx. : Cerro Gordo,Vaca,,5.0,17.0,17.0
+2000-03-03,Edo. Méx. : Cerro Gordo,Corral,,62.0,24.0,24.0
+2000-03-03,Edo. Méx. : Cerro Gordo,Pradera,,24.0,22.0,22.0
+2000-03-03,Edo. Méx. : Cerro Gordo,Vaca,,2.0,17.0,17.0
+2000-03-04,Edo. Méx. : Cerro Gordo,Corral,,102.0,24.0,24.0
+2000-03-04,Edo. Méx. : Cerro Gordo,Pradera,,13.0,22.0,22.0
+2000-03-04,Edo. Méx. : Cerro Gordo,Vaca,,4.0,17.0,17.0
+2000-03-06,Edo. Méx. : Cerro Gordo,Corral,,47.0,24.0,24.0
+2000-03-06,Edo. Méx. : Cerro Gordo,Pradera,,12.0,22.0,22.0
+2000-03-07,Edo. Méx. : Cerro Gordo,Corral,,39.0,24.0,24.0
+2000-03-07,Edo. Méx. : Cerro Gordo,Pradera,,3.0,22.0,22.0
+2000-03-07,Edo. Méx. : Cerro Gordo,Vaca,,2.0,17.0,17.0
+2000-03-09,Edo. Méx. : Cerro Gordo,Corral,,39.0,24.0,24.0
+2000-03-09,Edo. Méx. : Cerro Gordo,Pradera,,7.0,22.0,22.0
+2000-03-09,Edo. Méx. : Cerro Gordo,Vaca,,10.0,17.0,17.0
+2000-03-11,Edo. Méx. : Cerro Gordo,Corral,,126.0,24.0,24.0
+2000-03-11,Edo. Méx. : Cerro Gordo,Pradera,,18.0,22.0,22.0
+2000-03-11,Edo. Méx. : Cerro Gordo,Vaca,,4.0,17.0,17.0
+2000-03-13,Edo. Méx. : Cerro Gordo,Corral,,59.0,24.0,24.0
+2000-03-13,Edo. Méx. : Cerro Gordo,Pradera,,15.0,22.0,22.0
+2000-03-13,Edo. Méx. : Cerro Gordo,Vaca,,2.0,17.0,17.0
+2000-03-14,Edo. Méx. : Cerro Gordo,Corral,,69.0,24.0,24.0
+2000-03-14,Edo. Méx. : Cerro Gordo,Pradera,,11.0,22.0,22.0
+2000-03-14,Edo. Méx. : Cerro Gordo,Vaca,,14.0,17.0,17.0
+2000-03-15,Edo. Méx. : Cerro Gordo,Corral,,37.0,24.0,24.0
+2000-03-15,Edo. Méx. : Cerro Gordo,Pradera,,12.0,22.0,22.0
+2000-03-16,Edo. Méx. : Cerro Gordo,Corral,,47.0,24.0,24.0
+2000-03-16,Edo. Méx. : Cerro Gordo,Pradera,,2.0,22.0,22.0
+2000-03-18,Edo. Méx. : Cerro Gordo,Corral,,110.0,24.0,24.0
+2000-03-18,Edo. Méx. : Cerro Gordo,Pradera,,28.0,22.0,22.0
+2000-03-18,Edo. Méx. : Cerro Gordo,Vaca,,15.0,17.0,17.0
+2000-03-20,Edo. Méx. : Cerro Gordo,Corral,,75.0,24.0,24.0
+2000-03-20,Edo. Méx. : Cerro Gordo,Pradera,,12.0,22.0,22.0
+2000-03-22,Edo. Méx. : Cerro Gordo,Corral,,90.0,24.0,24.0
+2000-03-22,Edo. Méx. : Cerro Gordo,Pradera,,14.0,22.0,22.0
+2000-03-22,Edo. Méx. : Cerro Gordo,Vaca,,4.0,17.0,17.0
+2000-03-23,Edo. Méx. : Cerro Gordo,Corral,,37.0,24.0,24.0
+2000-03-23,Edo. Méx. : Cerro Gordo,Pradera,,7.0,22.0,22.0
+2000-03-23,Edo. Méx. : Cerro Gordo,Vaca,,2.0,17.0,17.0
+2000-03-25,Edo. Méx. : Cerro Gordo,Pradera,,32.0,,22.0
+2000-03-25,Edo. Méx. : Cerro Gordo,Vaca,,6.0,,17.0
+2000-03-27,Edo. Méx. : Cerro Gordo,Corral,,47.0,,24.5
+2000-03-27,Edo. Méx. : Cerro Gordo,Pradera,,11.0,,22.0
+2000-03-27,Edo. Méx. : Cerro Gordo,Vaca,,3.0,,17.0
+2000-03-28,Edo. Méx. : Cerro Gordo,Corral,,65.0,,24.5
+2000-03-28,Edo. Méx. : Cerro Gordo,Pradera,,17.0,,22.0
+2000-03-28,Edo. Méx. : Cerro Gordo,Vaca,,7.0,,17.0
+2000-03-30,Edo. Méx. : Cerro Gordo,Corral,,36.0,,24.5
+2000-03-30,Edo. Méx. : Cerro Gordo,Pradera,,9.0,,22.0
+2000-03-01,Edo. Méx. : Ecatepec,Corral,285.0,25.0,23.4,23.4
+2000-03-01,Edo. Méx. : Ecatepec,Pradera,260.0,35.0,21.0,21.0
+2000-03-01,Edo. Méx. : Ecatepec,Vaca,180.0,4.0,16.0,16.0
+2000-03-02,Edo. Méx. : Ecatepec,Corral,280.0,20.0,23.5,23.5
+2000-03-02,Edo. Méx. : Ecatepec,Pradera,250.0,19.0,21.0,21.0
+2000-03-03,Edo. Méx. : Ecatepec,Corral,285.0,37.0,23.5,23.5
+2000-03-03,Edo. Méx. : Ecatepec,Pradera,260.0,50.0,21.3,21.3
+2000-03-03,Edo. Méx. : Ecatepec,Vaca,190.0,8.0,16.0,16.0
+2000-03-04,Edo. Méx. : Ecatepec,Corral,275.0,20.0,23.5,23.5
+2000-03-04,Edo. Méx. : Ecatepec,Pradera,250.0,25.0,21.0,21.0
+2000-03-04,Edo. Méx. : Ecatepec,Vaca,180.0,3.0,16.0,16.0
+2000-03-06,Edo. Méx. : Ecatepec,Corral,280.0,35.0,23.5,23.5
+2000-03-06,Edo. Méx. : Ecatepec,Pradera,260.0,46.0,21.0,21.0
+2000-03-06,Edo. Méx. : Ecatepec,Vaca,190.0,8.0,16.0,16.0
+2000-03-07,Edo. Méx. : Ecatepec,Corral,280.0,17.0,23.5,23.5
+2000-03-07,Edo. Méx. : Ecatepec,Pradera,260.0,20.0,21.0,21.0
+2000-03-09,Edo. Méx. : Ecatepec,Corral,280.0,26.0,23.5,23.5
+2000-03-09,Edo. Méx. : Ecatepec,Pradera,250.0,41.0,21.0,21.0
+2000-03-09,Edo. Méx. : Ecatepec,Vaca,170.0,9.0,16.0,16.0
+2000-03-11,Edo. Méx. : Ecatepec,Corral,280.0,13.0,23.5,23.5
+2000-03-11,Edo. Méx. : Ecatepec,Pradera,260.0,22.0,21.4,21.4
+2000-03-13,Edo. Méx. : Ecatepec,Corral,270.0,10.0,23.5,23.5
+2000-03-13,Edo. Méx. : Ecatepec,Pradera,250.0,16.0,21.0,21.0
+2000-03-13,Edo. Méx. : Ecatepec,Vaca,190.0,6.0,16.5,16.5
+2000-03-14,Edo. Méx. : Ecatepec,Corral,275.0,10.0,23.5,23.5
+2000-03-14,Edo. Méx. : Ecatepec,Pradera,250.0,16.0,21.0,21.0
+2000-03-15,Edo. Méx. : Ecatepec,Corral,280.0,23.0,23.5,23.5
+2000-03-15,Edo. Méx. : Ecatepec,Pradera,250.0,27.0,21.0,21.0
+2000-03-15,Edo. Méx. : Ecatepec,Vaca,190.0,10.0,16.0,16.0
+2000-03-16,Edo. Méx. : Ecatepec,Corral,270.0,12.0,23.5,23.5
+2000-03-16,Edo. Méx. : Ecatepec,Pradera,250.0,19.0,21.0,21.0
+2000-03-16,Edo. Méx. : Ecatepec,Vaca,180.0,9.0,16.0,16.0
+2000-03-18,Edo. Méx. : Ecatepec,Corral,280.0,18.0,23.4,23.4
+2000-03-18,Edo. Méx. : Ecatepec,Pradera,255.0,14.0,21.0,21.0
+2000-03-20,Edo. Méx. : Ecatepec,Corral,280.0,25.0,23.6,23.6
+2000-03-20,Edo. Méx. : Ecatepec,Pradera,260.0,32.0,21.0,21.0
+2000-03-20,Edo. Méx. : Ecatepec,Vaca,190.0,10.0,16.0,16.0
+2000-03-22,Edo. Méx. : Ecatepec,Corral,280.0,13.0,23.5,23.5
+2000-03-22,Edo. Méx. : Ecatepec,Pradera,270.0,10.0,21.0,21.0
+2000-03-22,Edo. Méx. : Ecatepec,Vaca,180.0,6.0,16.0,16.0
+2000-03-23,Edo. Méx. : Ecatepec,Corral,280.0,15.0,23.5,23.5
+2000-03-23,Edo. Méx. : Ecatepec,Pradera,250.0,10.0,21.0,21.0
+2000-03-23,Edo. Méx. : Ecatepec,Vaca,190.0,7.0,16.0,16.0
+2000-03-25,Edo. Méx. : Ecatepec,Corral,280.0,12.0,,23.5
+2000-03-25,Edo. Méx. : Ecatepec,Pradera,260.0,11.0,,21.0
+2000-03-25,Edo. Méx. : Ecatepec,Vaca,180.0,7.0,,16.0
+2000-03-27,Edo. Méx. : Ecatepec,Corral,270.0,20.0,,23.5
+2000-03-27,Edo. Méx. : Ecatepec,Pradera,250.0,22.0,,21.0
+2000-03-28,Edo. Méx. : Ecatepec,Corral,280.0,18.0,,23.5
+2000-03-28,Edo. Méx. : Ecatepec,Pradera,250.0,19.0,,21.0
+2000-03-30,Edo. Méx. : Ecatepec,Corral,280.0,13.0,,23.5
+2000-03-30,Edo. Méx. : Ecatepec,Pradera,260.0,22.0,,21.0
+2000-03-30,Edo. Méx. : Ecatepec,Vaca,190.0,5.0,,16.0
+2000-03-01,Edo. Méx. : La Paz,Pradera,,130.0,21.5,21.5
+2000-03-02,Edo. Méx. : La Paz,Pradera,255.0,103.0,21.0,21.0
+2000-03-03,Edo. Méx. : La Paz,Corral,290.0,103.0,23.5,23.5
+2000-03-03,Edo. Méx. : La Paz,Pradera,260.0,192.0,21.5,21.5
+2000-03-04,Edo. Méx. : La Paz,Corral,297.0,169.0,23.0,23.0
+2000-03-04,Edo. Méx. : La Paz,Pradera,268.0,229.0,21.5,21.5
+2000-03-04,Edo. Méx. : La Paz,Toros,328.0,13.0,20.0,20.0
+2000-03-06,Edo. Méx. : La Paz,Corral,300.0,78.0,23.0,23.0
+2000-03-06,Edo. Méx. : La Paz,Pradera,259.0,161.0,21.5,21.5
+2000-03-07,Edo. Méx. : La Paz,Corral,318.0,102.0,23.0,23.0
+2000-03-07,Edo. Méx. : La Paz,Pradera,274.0,215.0,21.5,21.5
+2000-03-11,Edo. Méx. : La Paz,Corral,,89.0,23.0,23.0
+2000-03-11,Edo. Méx. : La Paz,Pradera,,134.0,21.5,21.5
+2000-03-13,Edo. Méx. : La Paz,Corral,,143.0,23.0,23.0
+2000-03-13,Edo. Méx. : La Paz,Pradera,,250.0,21.5,21.5
+2000-03-14,Edo. Méx. : La Paz,Corral,,198.0,23.0,23.0
+2000-03-14,Edo. Méx. : La Paz,Pradera,,293.0,21.5,21.5
+2000-03-14,Edo. Méx. : La Paz,Toros,,16.0,20.0,20.0
+2000-03-15,Edo. Méx. : La Paz,Corral,,45.0,23.0,23.0
+2000-03-15,Edo. Méx. : La Paz,Pradera,,90.0,21.5,21.5
+2000-03-16,Edo. Méx. : La Paz,Corral,,90.0,23.0,23.0
+2000-03-16,Edo. Méx. : La Paz,Pradera,,200.0,21.5,21.5
+2000-03-16,Edo. Méx. : La Paz,Toros,,10.0,20.0,20.0
+2000-03-18,Edo. Méx. : La Paz,Pradera,260.0,113.0,21.5,21.5
+2000-03-20,Edo. Méx. : La Paz,Corral,295.0,192.0,23.0,23.0
+2000-03-20,Edo. Méx. : La Paz,Pradera,260.0,305.0,21.5,21.5
+2000-03-20,Edo. Méx. : La Paz,Toros,320.0,18.0,20.0,20.0
+2000-03-22,Edo. Méx. : La Paz,Corral,282.0,169.0,23.0,23.0
+2000-03-22,Edo. Méx. : La Paz,Pradera,256.0,319.0,21.5,21.5
+2000-03-22,Edo. Méx. : La Paz,Toros,340.0,32.0,20.0,20.0
+2000-03-23,Edo. Méx. : La Paz,Corral,292.0,91.0,23.0,23.0
+2000-03-23,Edo. Méx. : La Paz,Pradera,250.0,180.0,21.5,21.5
+2000-03-28,Edo. Méx. : La Paz,Corral,278.0,318.0,,23.0
+2000-03-28,Edo. Méx. : La Paz,Pradera,260.0,588.0,,21.5
+2000-03-28,Edo. Méx. : La Paz,Toros,310.0,26.0,,20.0
+2000-03-30,Edo. Méx. : La Paz,Corral,290.0,92.0,,23.0
+2000-03-30,Edo. Méx. : La Paz,Pradera,250.0,162.0,,21.5
+2000-03-01,Edo. Méx. : Naucalpan,Corral,252.0,202.0,23.5,23.5
+2000-03-02,Edo. Méx. : Naucalpan,Corral,252.0,201.0,23.5,23.5
+2000-03-03,Edo. Méx. : Naucalpan,Corral,252.0,235.0,23.5,23.5
+2000-03-04,Edo. Méx. : Naucalpan,Corral,260.0,343.0,23.5,23.5
+2000-03-06,Edo. Méx. : Naucalpan,Corral,260.0,225.0,23.5,23.5
+2000-03-07,Edo. Méx. : Naucalpan,Corral,160.0,211.0,23.5,23.5
+2000-03-09,Edo. Méx. : Naucalpan,Corral,256.0,220.0,23.5,23.5
+2000-03-11,Edo. Méx. : Naucalpan,Corral,256.0,414.0,23.5,23.5
+2000-03-13,Edo. Méx. : Naucalpan,Corral,256.0,218.0,23.5,23.5
+2000-03-14,Edo. Méx. : Naucalpan,Corral,260.0,192.0,23.5,23.5
+2000-03-15,Edo. Méx. : Naucalpan,Corral,260.0,212.0,23.5,23.5
+2000-03-16,Edo. Méx. : Naucalpan,Corral,260.0,220.0,23.5,23.5
+2000-03-18,Edo. Méx. : Naucalpan,Corral,260.0,600.0,23.5,23.5
+2000-03-20,Edo. Méx. : Naucalpan,Corral,260.0,277.0,23.5,23.5
+2000-03-22,Edo. Méx. : Naucalpan,Corral,260.0,238.0,23.5,23.5
+2000-03-23,Edo. Méx. : Naucalpan,Corral,260.0,201.0,23.5,23.5
+2000-03-27,Edo. Méx. : Naucalpan,Corral,,84.0,,23.5
+2000-03-27,Edo. Méx. : Naucalpan,Pradera,,29.0,,22.5
+2000-03-27,Edo. Méx. : Naucalpan,Vaca,,42.0,14.7,16.5
+2000-03-30,Edo. Méx. : Naucalpan,Corral,270.0,206.0,,23.5
+2000-03-02,Edo. Méx. : Nezahualcóyotl,Pradera,,310.0,21.0,21.0
+2000-03-02,Edo. Méx. : Nezahualcóyotl,Toros,,20.0,19.5,19.5
+2000-03-03,Edo. Méx. : Nezahualcóyotl,Pradera,250.0,200.0,21.5,21.5
+2000-03-03,Edo. Méx. : Nezahualcóyotl,Toros,320.0,10.0,19.5,19.5
+2000-03-04,Edo. Méx. : Nezahualcóyotl,Pradera,260.0,200.0,21.0,21.0
+2000-03-04,Edo. Méx. : Nezahualcóyotl,Toros,340.0,15.0,19.5,19.5
+2000-03-06,Edo. Méx. : Nezahualcóyotl,Pradera,,180.0,21.0,21.0
+2000-03-06,Edo. Méx. : Nezahualcóyotl,Toros,,20.0,19.5,19.5
+2000-03-07,Edo. Méx. : Nezahualcóyotl,Pradera,,140.0,21.0,21.0
+2000-03-09,Edo. Méx. : Nezahualcóyotl,Pradera,,135.0,21.0,21.0
+2000-03-11,Edo. Méx. : Nezahualcóyotl,Pradera,,200.0,21.2,21.2
+2000-03-13,Edo. Méx. : Nezahualcóyotl,Pradera,,210.0,21.2,21.2
+2000-03-14,Edo. Méx. : Nezahualcóyotl,Pradera,,140.0,21.2,21.2
+2000-03-14,Edo. Méx. : Nezahualcóyotl,Toros,,10.0,19.5,19.5
+2000-03-15,Edo. Méx. : Nezahualcóyotl,Pradera,,190.0,21.2,21.2
+2000-03-15,Edo. Méx. : Nezahualcóyotl,Toros,,10.0,19.5,19.5
+2000-03-16,Edo. Méx. : Nezahualcóyotl,Pradera,280.0,140.0,21.2,21.2
+2000-03-16,Edo. Méx. : Nezahualcóyotl,Toros,420.0,10.0,19.5,19.5
+2000-03-18,Edo. Méx. : Nezahualcóyotl,Pradera,260.0,240.0,21.5,21.5
+2000-03-18,Edo. Méx. : Nezahualcóyotl,Toros,380.0,10.0,19.5,19.5
+2000-03-20,Edo. Méx. : Nezahualcóyotl,Pradera,260.0,280.0,21.0,21.0
+2000-03-20,Edo. Méx. : Nezahualcóyotl,Toros,340.0,20.0,19.5,19.5
+2000-03-22,Edo. Méx. : Nezahualcóyotl,Pradera,,590.0,21.5,21.5
+2000-03-22,Edo. Méx. : Nezahualcóyotl,Toros,,20.0,19.5,19.5
+2000-03-23,Edo. Méx. : Nezahualcóyotl,Pradera,,260.0,21.5,21.5
+2000-03-25,Edo. Méx. : Nezahualcóyotl,Pradera,,200.0,,21.5
+2000-03-25,Edo. Méx. : Nezahualcóyotl,Toros,,15.0,,19.5
+2000-03-27,Edo. Méx. : Nezahualcóyotl,Pradera,,280.0,,21.5
+2000-03-27,Edo. Méx. : Nezahualcóyotl,Toros,,10.0,,19.5
+2000-03-28,Edo. Méx. : Nezahualcóyotl,Pradera,,200.0,,21.5
+2000-03-28,Edo. Méx. : Nezahualcóyotl,Toros,,20.0,,19.5
+2000-03-30,Edo. Méx. : Nezahualcóyotl,Pradera,,190.0,,21.5
+2000-03-30,Edo. Méx. : Nezahualcóyotl,Toros,,10.0,,19.5
+2000-03-01,Edo. Méx. : Temamatla,Corral,278.0,39.0,24.0,24.0
+2000-03-01,Edo. Méx. : Temamatla,Pradera,240.0,72.0,21.5,21.8
+2000-03-02,Edo. Méx. : Temamatla,Pradera,238.0,80.0,21.5,21.8
+2000-03-03,Edo. Méx. : Temamatla,Pradera,242.0,27.0,21.5,21.5
+2000-03-04,Edo. Méx. : Temamatla,Pradera,246.0,222.0,21.5,21.8
+2000-03-06,Edo. Méx. : Temamatla,Pradera,248.0,44.0,21.5,21.8
+2000-03-07,Edo. Méx. : Temamatla,Corral,276.0,42.0,24.0,24.0
+2000-03-07,Edo. Méx. : Temamatla,Pradera,242.0,105.0,21.5,21.8
+2000-03-09,Edo. Méx. : Temamatla,Pradera,238.0,38.0,21.5,21.5
+2000-03-11,Edo. Méx. : Temamatla,Corral,280.0,34.0,24.0,24.0
+2000-03-11,Edo. Méx. : Temamatla,Pradera,238.0,186.0,21.5,21.8
+2000-03-13,Edo. Méx. : Temamatla,Pradera,242.0,80.0,21.5,21.8
+2000-03-14,Edo. Méx. : Temamatla,Pradera,238.0,113.0,21.5,21.8
+2000-03-15,Edo. Méx. : Temamatla,Corral,279.0,42.0,24.0,24.0
+2000-03-15,Edo. Méx. : Temamatla,Pradera,258.0,44.0,21.5,21.8
+2000-03-16,Edo. Méx. : Temamatla,Pradera,236.0,86.0,21.5,21.8
+2000-03-18,Edo. Méx. : Temamatla,Pradera,250.0,82.0,21.5,21.8
+2000-03-20,Edo. Méx. : Temamatla,Corral,278.0,42.0,24.0,24.0
+2000-03-20,Edo. Méx. : Temamatla,Pradera,240.0,120.0,21.5,21.8
+2000-03-22,Edo. Méx. : Temamatla,Pradera,250.0,115.0,21.5,21.8
+2000-03-23,Edo. Méx. : Temamatla,Corral,284.0,32.0,24.0,24.0
+2000-03-23,Edo. Méx. : Temamatla,Pradera,246.0,77.0,21.8,21.8
+2000-03-25,Edo. Méx. : Temamatla,Pradera,246.0,114.0,21.5,21.8
+2000-03-27,Edo. Méx. : Temamatla,Corral,282.0,42.0,,24.0
+2000-03-27,Edo. Méx. : Temamatla,Pradera,240.0,111.0,,21.8
+2000-03-28,Edo. Méx. : Temamatla,Pradera,240.0,104.0,21.5,21.8
+2000-03-30,Edo. Méx. : Temamatla,Pradera,241.0,77.0,21.5,21.8
+2000-03-01,Edo. Méx. : Tlalnepantla,Corral,,13.0,23.5,23.5
+2000-03-01,Edo. Méx. : Tlalnepantla,Pradera,,34.0,22.5,22.5
+2000-03-01,Edo. Méx. : Tlalnepantla,Vaca,,35.0,14.7,16.5
+2000-03-02,Edo. Méx. : Tlalnepantla,Corral,,11.0,23.5,23.5
+2000-03-02,Edo. Méx. : Tlalnepantla,Pradera,,22.0,22.5,22.5
+2000-03-02,Edo. Méx. : Tlalnepantla,Toros,,9.0,22.0,22.0
+2000-03-02,Edo. Méx. : Tlalnepantla,Vaca,,47.0,14.7,16.5
+2000-03-03,Edo. Méx. : Tlalnepantla,Corral,,39.0,23.5,23.5
+2000-03-03,Edo. Méx. : Tlalnepantla,Pradera,,45.0,22.5,22.5
+2000-03-03,Edo. Méx. : Tlalnepantla,Vaca,,37.0,14.7,16.5
+2000-03-04,Edo. Méx. : Tlalnepantla,Pradera,,115.0,22.5,22.5
+2000-03-04,Edo. Méx. : Tlalnepantla,Vaca,,28.0,14.7,16.5
+2000-03-06,Edo. Méx. : Tlalnepantla,Corral,,43.0,23.5,23.5
+2000-03-06,Edo. Méx. : Tlalnepantla,Pradera,,61.0,22.5,22.5
+2000-03-07,Edo. Méx. : Tlalnepantla,Pradera,,58.0,22.5,22.5
+2000-03-07,Edo. Méx. : Tlalnepantla,Toros,,3.0,22.0,22.0
+2000-03-07,Edo. Méx. : Tlalnepantla,Vaca,,32.0,14.6,16.5
+2000-03-09,Edo. Méx. : Tlalnepantla,Corral,,9.0,23.5,23.5
+2000-03-09,Edo. Méx. : Tlalnepantla,Pradera,,55.0,22.5,22.5
+2000-03-09,Edo. Méx. : Tlalnepantla,Vaca,,49.0,14.7,16.5
+2000-03-11,Edo. Méx. : Tlalnepantla,Corral,,79.0,23.5,23.5
+2000-03-11,Edo. Méx. : Tlalnepantla,Pradera,,57.0,22.5,22.5
+2000-03-11,Edo. Méx. : Tlalnepantla,Vaca,,41.0,14.7,16.5
+2000-03-13,Edo. Méx. : Tlalnepantla,Corral,,43.0,23.5,23.5
+2000-03-13,Edo. Méx. : Tlalnepantla,Pradera,,65.0,22.5,22.5
+2000-03-13,Edo. Méx. : Tlalnepantla,Toros,,7.0,22.0,22.0
+2000-03-13,Edo. Méx. : Tlalnepantla,Vaca,,21.0,14.7,16.5
+2000-03-14,Edo. Méx. : Tlalnepantla,Corral,,19.0,23.5,23.5
+2000-03-14,Edo. Méx. : Tlalnepantla,Pradera,,28.0,22.5,22.5
+2000-03-14,Edo. Méx. : Tlalnepantla,Vaca,,46.0,14.7,16.5
+2000-03-15,Edo. Méx. : Tlalnepantla,Corral,,31.0,23.5,23.5
+2000-03-15,Edo. Méx. : Tlalnepantla,Pradera,,51.0,22.5,22.5
+2000-03-15,Edo. Méx. : Tlalnepantla,Vaca,,39.0,14.7,16.5
+2000-03-16,Edo. Méx. : Tlalnepantla,Pradera,,44.0,22.5,22.5
+2000-03-16,Edo. Méx. : Tlalnepantla,Vaca,,47.0,14.7,16.5
+2000-03-18,Edo. Méx. : Tlalnepantla,Corral,,29.0,23.5,23.5
+2000-03-18,Edo. Méx. : Tlalnepantla,Pradera,,48.0,22.5,22.5
+2000-03-18,Edo. Méx. : Tlalnepantla,Vaca,,46.0,14.7,16.5
+2000-03-20,Edo. Méx. : Tlalnepantla,Pradera,,50.0,22.5,22.5
+2000-03-20,Edo. Méx. : Tlalnepantla,Vaca,,43.0,14.7,16.5
+2000-03-22,Edo. Méx. : Tlalnepantla,Corral,,51.0,23.5,23.5
+2000-03-22,Edo. Méx. : Tlalnepantla,Pradera,,41.0,22.5,22.5
+2000-03-22,Edo. Méx. : Tlalnepantla,Vaca,,43.0,14.7,16.5
+2000-03-23,Edo. Méx. : Tlalnepantla,Pradera,,46.0,22.5,22.5
+2000-03-23,Edo. Méx. : Tlalnepantla,Vaca,,36.0,14.7,16.5
+2000-03-25,Edo. Méx. : Tlalnepantla,Corral,,63.0,,23.5
+2000-03-25,Edo. Méx. : Tlalnepantla,Pradera,,56.0,,22.5
+2000-03-25,Edo. Méx. : Tlalnepantla,Vaca,,41.0,14.7,16.0
+2000-03-28,Edo. Méx. : Tlalnepantla,Pradera,,61.0,,22.5
+2000-03-28,Edo. Méx. : Tlalnepantla,Vaca,,36.0,14.7,16.5
+2000-03-30,Edo. Méx. : Tlalnepantla,Pradera,,68.0,,22.5
+2000-03-30,Edo. Méx. : Tlalnepantla,Vaca,,49.0,14.5,16.7
+2000-03-01,"Gto. : R.P. León, Serv. Integral",Novillona,,16.0,18.0,19.0
+2000-03-01,"Gto. : R.P. León, Serv. Integral",Toros,,153.0,20.5,21.0
+2000-03-01,"Gto. : R.P. León, Serv. Integral",Vaca,,32.0,13.0,14.0
+2000-03-02,"Gto. : R.P. León, Serv. Integral",Novillona,,17.0,18.0,19.0
+2000-03-02,"Gto. : R.P. León, Serv. Integral",Toros,,191.0,20.5,21.0
+2000-03-02,"Gto. : R.P. León, Serv. Integral",Vaca,,26.0,13.0,14.0
+2000-03-03,"Gto. : R.P. León, Serv. Integral",Novillona,,16.0,18.0,19.0
+2000-03-03,"Gto. : R.P. León, Serv. Integral",Toros,,294.0,20.5,21.0
+2000-03-03,"Gto. : R.P. León, Serv. Integral",Vaca,,48.0,13.0,14.0
+2000-03-04,"Gto. : R.P. León, Serv. Integral",Novillona,,1.0,18.0,19.0
+2000-03-04,"Gto. : R.P. León, Serv. Integral",Toros,,81.0,20.5,21.0
+2000-03-04,"Gto. : R.P. León, Serv. Integral",Vaca,,9.0,13.0,14.0
+2000-03-06,"Gto. : R.P. León, Serv. Integral",Novillona,,35.0,18.0,19.0
+2000-03-06,"Gto. : R.P. León, Serv. Integral",Toros,,188.0,20.5,21.0
+2000-03-06,"Gto. : R.P. León, Serv. Integral",Vaca,,13.0,13.0,14.0
+2000-03-07,"Gto. : R.P. León, Serv. Integral",Novillona,,6.0,18.0,19.0
+2000-03-07,"Gto. : R.P. León, Serv. Integral",Toros,,71.0,20.5,21.0
+2000-03-07,"Gto. : R.P. León, Serv. Integral",Vaca,,2.0,13.0,14.0
+2000-03-09,"Gto. : R.P. León, Serv. Integral",Novillona,,9.0,18.0,19.0
+2000-03-09,"Gto. : R.P. León, Serv. Integral",Toros,,138.0,20.5,21.0
+2000-03-09,"Gto. : R.P. León, Serv. Integral",Vaca,,26.0,13.0,14.0
+2000-03-10,"Gto. : R.P. León, Serv. Integral",Novillona,,29.0,18.0,19.0
+2000-03-10,"Gto. : R.P. León, Serv. Integral",Toros,,344.0,20.5,21.0
+2000-03-10,"Gto. : R.P. León, Serv. Integral",Vaca,,34.0,13.0,14.0
+2000-03-11,"Gto. : R.P. León, Serv. Integral",Novillona,,3.0,18.0,19.0
+2000-03-11,"Gto. : R.P. León, Serv. Integral",Toros,,103.0,20.5,21.0
+2000-03-11,"Gto. : R.P. León, Serv. Integral",Vaca,,10.0,13.0,14.0
+2000-03-13,"Gto. : R.P. León, Serv. Integral",Novillona,,61.0,18.0,19.0
+2000-03-13,"Gto. : R.P. León, Serv. Integral",Toros,,280.0,20.5,21.0
+2000-03-13,"Gto. : R.P. León, Serv. Integral",Vaca,,24.0,13.0,14.0
+2000-03-14,"Gto. : R.P. León, Serv. Integral",Novillona,,10.0,18.0,19.0
+2000-03-14,"Gto. : R.P. León, Serv. Integral",Toros,,162.0,20.5,21.0
+2000-03-14,"Gto. : R.P. León, Serv. Integral",Vaca,,19.0,13.0,14.0
+2000-03-15,"Gto. : R.P. León, Serv. Integral",Novillona,,36.0,18.0,19.0
+2000-03-15,"Gto. : R.P. León, Serv. Integral",Toros,,142.0,20.5,21.0
+2000-03-15,"Gto. : R.P. León, Serv. Integral",Vaca,,20.0,13.0,14.0
+2000-03-16,"Gto. : R.P. León, Serv. Integral",Novillona,,22.0,18.0,19.0
+2000-03-16,"Gto. : R.P. León, Serv. Integral",Toros,,134.0,20.5,21.0
+2000-03-16,"Gto. : R.P. León, Serv. Integral",Vaca,,30.0,13.0,14.0
+2000-03-17,"Gto. : R.P. León, Serv. Integral",Novillona,,31.0,18.0,19.0
+2000-03-17,"Gto. : R.P. León, Serv. Integral",Toros,,414.0,20.5,21.0
+2000-03-17,"Gto. : R.P. León, Serv. Integral",Vaca,,38.0,13.0,14.0
+2000-03-22,"Gto. : R.P. León, Serv. Integral",Novillona,,425.0,18.0,18.0
+2000-03-22,"Gto. : R.P. León, Serv. Integral",Toros,,425.0,20.5,21.0
+2000-03-22,"Gto. : R.P. León, Serv. Integral",Vaca,,425.0,13.0,14.0
+2000-03-29,"Gto. : R.P. León, Serv. Integral",Novillona,,19.0,18.0,19.0
+2000-03-29,"Gto. : R.P. León, Serv. Integral",Toros,,147.0,20.5,21.0
+2000-03-29,"Gto. : R.P. León, Serv. Integral",Vaca,,10.0,13.0,14.0
+2000-03-30,"Gto. : R.P. León, Serv. Integral",Novillona,,14.0,18.0,19.0
+2000-03-30,"Gto. : R.P. León, Serv. Integral",Toros,,133.0,20.5,21.0
+2000-03-30,"Gto. : R.P. León, Serv. Integral",Vaca,,17.0,13.0,14.0
+2000-03-31,"Gto. : R.P. León, Serv. Integral",Novillona,,39.0,18.0,19.0
+2000-03-31,"Gto. : R.P. León, Serv. Integral",Toros,,393.0,20.5,21.0
+2000-03-31,"Gto. : R.P. León, Serv. Integral",Vaca,,26.0,13.0,14.0
+2000-03-02,Jal. : R.M. Guadalajara,Toros,350.0,314.0,20.95,20.95
+2000-03-02,Jal. : R.M. Guadalajara,Vaca,250.0,169.0,16.6,16.6
+2000-03-03,Jal. : R.M. Guadalajara,Toros,350.0,560.0,20.85,20.85
+2000-03-03,Jal. : R.M. Guadalajara,Vaca,250.0,302.0,16.7,16.7
+2000-03-06,Jal. : R.M. Guadalajara,Toros,350.0,397.0,20.8,20.8
+2000-03-06,Jal. : R.M. Guadalajara,Vaca,250.0,213.0,16.5,16.5
+2000-03-13,Jal. : R.M. Guadalajara,Toros,350.0,766.0,20.95,20.95
+2000-03-13,Jal. : R.M. Guadalajara,Vaca,250.0,412.0,16.95,16.95
+2000-03-14,Jal. : R.M. Guadalajara,Toros,350.0,609.0,20.9,20.9
+2000-03-14,Jal. : R.M. Guadalajara,Vaca,250.0,328.0,16.9,16.9
+2000-03-15,Jal. : R.M. Guadalajara,Toros,350.0,415.0,20.95,20.95
+2000-03-15,Jal. : R.M. Guadalajara,Vaca,250.0,224.0,16.95,16.95
+2000-03-20,Jal. : R.M. Guadalajara,Toros,350.0,853.0,21.0,21.0
+2000-03-20,Jal. : R.M. Guadalajara,Vaca,250.0,460.0,17.0,17.0
+2000-03-22,Jal. : R.M. Guadalajara,Toros,350.0,579.0,21.0,21.0
+2000-03-22,Jal. : R.M. Guadalajara,Vaca,250.0,312.0,17.0,17.0
+2000-03-24,Jal. : R.M. Guadalajara,Toros,350.0,562.0,21.25,21.25
+2000-03-24,Jal. : R.M. Guadalajara,Vaca,250.0,303.0,17.3,17.3
+2000-03-27,Jal. : R.M. Guadalajara,Toros,350.0,602.0,21.15,21.15
+2000-03-27,Jal. : R.M. Guadalajara,Vaca,250.0,324.0,17.15,17.15
+2000-03-28,Jal. : R.M. Guadalajara,Toros,350.0,582.0,21.25,21.25
+2000-03-28,Jal. : R.M. Guadalajara,Vaca,250.0,314.0,17.25,17.25
+2000-03-31,Jal. : R.M. Guadalajara,Toros,350.0,502.0,21.35,21.35
+2000-03-31,Jal. : R.M. Guadalajara,Vaca,250.0,270.0,17.35,17.35
+2000-03-03,Jal. : R.M. Tlaquepaque,Toros,350.0,35.0,21.0,21.0
+2000-03-03,Jal. : R.M. Tlaquepaque,Vaca,250.0,54.0,16.5,16.5
+2000-03-13,Jal. : R.M. Tlaquepaque,Toros,350.0,84.0,20.95,20.95
+2000-03-13,Jal. : R.M. Tlaquepaque,Vaca,250.0,132.0,16.95,16.95
+2000-03-14,Jal. : R.M. Tlaquepaque,Toros,350.0,18.0,21.0,21.0
+2000-03-14,Jal. : R.M. Tlaquepaque,Vaca,250.0,47.0,17.0,17.0
+2000-03-15,Jal. : R.M. Tlaquepaque,Toros,350.0,16.0,21.0,21.0
+2000-03-15,Jal. : R.M. Tlaquepaque,Vaca,250.0,42.0,17.0,17.0
+2000-03-20,Jal. : R.M. Tlaquepaque,Toros,350.0,70.0,21.0,21.0
+2000-03-20,Jal. : R.M. Tlaquepaque,Vaca,250.0,121.0,17.0,17.0
+2000-03-22,Jal. : R.M. Tlaquepaque,Toros,350.0,25.0,21.0,21.0
+2000-03-22,Jal. : R.M. Tlaquepaque,Vaca,250.0,53.0,17.0,17.0
+2000-03-24,Jal. : R.M. Tlaquepaque,Toros,350.0,29.0,21.25,21.25
+2000-03-24,Jal. : R.M. Tlaquepaque,Vaca,250.0,43.0,17.25,17.25
+2000-03-27,Jal. : R.M. Tlaquepaque,Toros,350.0,62.0,21.3,21.3
+2000-03-27,Jal. : R.M. Tlaquepaque,Vaca,250.0,27.0,17.25,17.25
+2000-03-28,Jal. : R.M. Tlaquepaque,Toros,350.0,15.0,21.2,21.2
+2000-03-28,Jal. : R.M. Tlaquepaque,Vaca,250.0,32.0,17.25,17.25
+2000-03-30,Jal. : R.M. Tlaquepaque,Toros,350.0,12.0,21.4,21.4
+2000-03-30,Jal. : R.M. Tlaquepaque,Vaca,250.0,26.0,17.4,17.4
+2000-03-02,Jal. : R.M. Tonalá,Toros,350.0,18.0,20.9,20.9
+2000-03-02,Jal. : R.M. Tonalá,Vaca,250.0,53.0,16.7,16.7
+2000-03-13,Jal. : R.M. Tonalá,Toros,350.0,59.0,20.95,20.95
+2000-03-13,Jal. : R.M. Tonalá,Vaca,250.0,110.0,17.0,17.0
+2000-03-14,Jal. : R.M. Tonalá,Toros,350.0,20.0,20.95,20.95
+2000-03-14,Jal. : R.M. Tonalá,Vaca,250.0,42.0,16.95,16.95
+2000-03-15,Jal. : R.M. Tonalá,Toros,350.0,13.0,21.0,21.0
+2000-03-15,Jal. : R.M. Tonalá,Vaca,250.0,27.0,17.0,17.0
+2000-03-16,Jal. : R.M. Tonalá,Toros,350.0,15.0,20.95,20.95
+2000-03-16,Jal. : R.M. Tonalá,Vaca,250.0,28.0,16.95,16.95
+2000-03-20,Jal. : R.M. Tonalá,Toros,350.0,46.0,21.0,21.0
+2000-03-20,Jal. : R.M. Tonalá,Vaca,250.0,87.0,17.0,17.0
+2000-03-22,Jal. : R.M. Tonalá,Toros,350.0,33.0,21.0,21.0
+2000-03-22,Jal. : R.M. Tonalá,Vaca,250.0,52.0,17.0,17.0
+2000-03-23,Jal. : R.M. Tonalá,Toros,350.0,19.0,21.2,21.2
+2000-03-23,Jal. : R.M. Tonalá,Vaca,250.0,38.0,17.2,17.2
+2000-03-27,Jal. : R.M. Tonalá,Toros,350.0,52.0,21.35,21.35
+2000-03-27,Jal. : R.M. Tonalá,Vaca,250.0,55.0,17.3,17.3
+2000-03-28,Jal. : R.M. Tonalá,Toros,350.0,14.0,21.25,21.25
+2000-03-28,Jal. : R.M. Tonalá,Vaca,250.0,29.0,17.25,17.25
+2000-03-30,Jal. : R.M. Tonalá,Toros,350.0,15.0,21.3,21.3
+2000-03-30,Jal. : R.M. Tonalá,Vaca,250.0,29.0,17.3,17.3
+2000-03-01,Mich. : R.M. Morelia,Corral,,97.0,22.0,23.0
+2000-03-02,Mich. : R.M. Morelia,Corral,,180.0,22.2,23.3
+2000-03-03,Mich. : R.M. Morelia,Corral,,139.0,22.0,23.0
+2000-03-06,Mich. : R.M. Morelia,Corral,,178.0,22.2,23.3
+2000-03-07,Mich. : R.M. Morelia,Corral,,148.0,22.2,23.3
+2000-03-08,Mich. : R.M. Morelia,Corral,,150.0,22.2,23.3
+2000-03-09,Mich. : R.M. Morelia,Corral,,136.0,22.2,23.3
+2000-03-10,Mich. : R.M. Morelia,Corral,,160.0,22.3,23.3
+2000-03-13,Mich. : R.M. Morelia,Corral,,170.0,18.0,21.0
+2000-03-14,Mich. : R.M. Morelia,Corral,,167.0,22.0,23.0
+2000-03-15,Mich. : R.M. Morelia,Corral,,161.0,22.0,23.0
+2000-03-16,Mich. : R.M. Morelia,Corral,,158.0,22.3,23.3
+2000-03-20,Mich. : R.M. Morelia,Corral,,148.0,22.0,23.0
+2000-03-22,Mich. : R.M. Morelia,Corral,,128.0,22.0,23.0
+2000-03-23,Mich. : R.M. Morelia,Corral,,127.0,22.0,23.0
+2000-03-27,Mich. : R.M. Morelia,Corral,,134.0,22.0,23.0
+2000-03-28,Mich. : R.M. Morelia,Corral,,154.0,22.0,23.0
+2000-03-30,Mich. : R.M. Morelia,Corral,118.0,133.0,22.0,23.0
+2000-03-01,N.L. : TIF 196 Monterrey,Corral,280.0,34.0,22.5,23.0
+2000-03-03,N.L. : TIF 196 Monterrey,Corral,280.0,350.0,22.5,23.0
+2000-03-06,N.L. : TIF 196 Monterrey,Corral,280.0,12.0,22.5,23.0
+2000-03-07,N.L. : TIF 196 Monterrey,Corral,280.0,345.0,22.5,23.0
+2000-03-08,N.L. : TIF 196 Monterrey,Corral,280.0,288.0,22.5,23.0
+2000-03-10,N.L. : TIF 196 Monterrey,Corral,280.0,38.0,22.5,23.0
+2000-03-13,N.L. : TIF 196 Monterrey,Corral,280.0,24.0,22.5,23.0
+2000-03-14,N.L. : TIF 196 Monterrey,Corral,280.0,351.0,22.5,23.0
+2000-03-15,N.L. : TIF 196 Monterrey,Corral,280.0,32.0,22.5,23.0
+2000-03-17,N.L. : TIF 196 Monterrey,Corral,280.0,346.0,22.5,23.0
+2000-03-20,N.L. : TIF 196 Monterrey,Corral,280.0,13.0,22.5,23.0
+2000-03-23,N.L. : TIF 196 Monterrey,Corral,280.0,357.0,22.5,23.0
+2000-03-27,N.L. : TIF 196 Monterrey,Corral,280.0,20.0,22.5,23.0
+2000-03-28,N.L. : TIF 196 Monterrey,Corral,280.0,399.0,22.5,23.0
+2000-03-29,N.L. : TIF 196 Monterrey,Corral,280.0,36.0,22.5,23.0
+2000-03-31,N.L. : TIF 196 Monterrey,Corral,280.0,392.0,17.5,23.0
+2000-03-01,N.L. : R.M. Sn. Nicolás,Corral,280.0,80.0,22.8,23.0
+2000-03-02,N.L. : R.M. Sn. Nicolás,Corral,280.0,20.0,22.8,23.0
+2000-03-03,N.L. : R.M. Sn. Nicolás,Corral,280.0,55.0,22.8,23.0
+2000-03-06,N.L. : R.M. Sn. Nicolás,Corral,280.0,27.0,22.8,23.0
+2000-03-07,N.L. : R.M. Sn. Nicolás,Corral,280.0,57.0,22.8,23.0
+2000-03-08,N.L. : R.M. Sn. Nicolás,Corral,280.0,28.0,22.8,23.0
+2000-03-09,N.L. : R.M. Sn. Nicolás,Corral,280.0,20.0,22.8,23.0
+2000-03-10,N.L. : R.M. Sn. Nicolás,Corral,280.0,66.0,22.8,23.0
+2000-03-13,N.L. : R.M. Sn. Nicolás,Corral,280.0,49.0,22.8,23.0
+2000-03-14,N.L. : R.M. Sn. Nicolás,Corral,280.0,70.0,22.9,23.0
+2000-03-15,N.L. : R.M. Sn. Nicolás,Corral,280.0,88.0,22.8,23.0
+2000-03-16,N.L. : R.M. Sn. Nicolás,Corral,280.0,16.0,22.8,23.0
+2000-03-17,N.L. : R.M. Sn. Nicolás,Corral,280.0,57.0,22.8,23.0
+2000-03-20,N.L. : R.M. Sn. Nicolás,Corral,280.0,47.0,22.8,23.0
+2000-03-23,N.L. : R.M. Sn. Nicolás,Corral,280.0,57.0,22.8,23.0
+2000-03-24,N.L. : R.M. Sn. Nicolás,Corral,280.0,37.0,17.5,23.0
+2000-03-29,N.L. : R.M. Sn. Nicolás,Corral,280.0,49.0,22.8,23.0
+2000-03-30,N.L. : R.M. Sn. Nicolás,Corral,280.0,37.0,18.0,23.0
+2000-03-31,N.L. : R.M. Sn. Nicolás,Corral,280.0,47.0,18.0,23.0
+2000-03-09,N.L. : Ricky Alimentos,Corral,280.0,181.0,23.0,23.5
+2000-03-22,N.L. : Sukarne,Corral,280.0,320.0,22.5,22.5
+2000-03-29,N.L. : Sukarne,Corral,280.0,343.0,23.5,23.5
+2000-03-01,N.L. : TIF 105 Emp. Sukarne,Corral,280.0,251.0,22.8,23.0
+2000-03-02,N.L. : TIF 105 Emp. Sukarne,Corral,280.0,286.0,23.0,23.0
+2000-03-03,N.L. : TIF 105 Emp. Sukarne,Corral,280.0,258.0,23.0,23.0
+2000-03-07,N.L. : TIF 105 Emp. Sukarne,Corral,280.0,301.0,23.0,23.0
+2000-03-08,N.L. : TIF 105 Emp. Sukarne,Corral,280.0,311.0,23.0,23.0
+2000-03-09,N.L. : TIF 105 Emp. Sukarne,Corral,280.0,293.0,23.0,23.0
+2000-03-10,N.L. : TIF 105 Emp. Sukarne,Corral,280.0,276.0,23.0,23.0
+2000-03-13,N.L. : TIF 105 Emp. Sukarne,Corral,280.0,168.0,23.0,23.0
+2000-03-14,N.L. : TIF 105 Emp. Sukarne,Corral,280.0,286.0,23.0,23.0
+2000-03-15,N.L. : TIF 105 Emp. Sukarne,Corral,280.0,297.0,23.0,23.0
+2000-03-16,N.L. : TIF 105 Emp. Sukarne,Corral,280.0,286.0,23.5,23.5
+2000-03-17,N.L. : TIF 105 Emp. Sukarne,Corral,280.0,264.0,23.5,23.5
+2000-03-20,N.L. : TIF 105 Emp. Sukarne,Corral,280.0,154.0,23.5,23.5
+2000-03-23,N.L. : TIF 105 Emp. Sukarne,Corral,280.0,323.0,22.5,22.5
+2000-03-24,N.L. : TIF 105 Emp. Sukarne,Corral,280.0,327.0,22.5,22.5
+2000-03-27,N.L. : TIF 105 Emp. Sukarne,Corral,280.0,341.0,22.5,22.5
+2000-03-28,N.L. : TIF 105 Emp. Sukarne,Corral,280.0,345.0,23.5,23.5
+2000-03-30,N.L. : TIF 105 Emp. Sukarne,Corral,280.0,322.0,23.5,23.5
+2000-03-31,N.L. : TIF 105 Emp. Sukarne,Corral,280.0,278.0,23.5,23.5
+2000-03-01,N.L. : TIF 15 Emp. Treviño,Corral,280.0,65.0,22.7,23.0
+2000-03-02,N.L. : TIF 15 Emp. Treviño,Corral,280.0,88.0,22.7,23.0
+2000-03-03,N.L. : TIF 15 Emp. Treviño,Corral,280.0,61.0,22.7,23.0
+2000-03-06,N.L. : TIF 15 Emp. Treviño,Corral,280.0,58.0,22.8,23.0
+2000-03-07,N.L. : TIF 15 Emp. Treviño,Corral,280.0,50.0,22.8,22.8
+2000-03-08,N.L. : TIF 15 Emp. Treviño,Corral,280.0,104.0,22.8,22.8
+2000-03-09,N.L. : TIF 15 Emp. Treviño,Corral,280.0,89.0,22.8,22.8
+2000-03-10,N.L. : TIF 15 Emp. Treviño,Corral,280.0,60.0,22.8,23.0
+2000-03-13,N.L. : TIF 15 Emp. Treviño,Corral,280.0,54.0,23.0,23.0
+2000-03-14,N.L. : TIF 15 Emp. Treviño,Corral,280.0,51.0,22.8,23.0
+2000-03-15,N.L. : TIF 15 Emp. Treviño,Corral,280.0,65.0,23.0,23.0
+2000-03-16,N.L. : TIF 15 Emp. Treviño,Corral,280.0,69.0,23.0,23.0
+2000-03-20,N.L. : TIF 15 Emp. Treviño,Corral,280.0,94.0,23.0,23.0
+2000-03-23,N.L. : TIF 15 Emp. Treviño,Corral,280.0,50.0,23.0,23.0
+2000-03-24,N.L. : TIF 15 Emp. Treviño,Corral,280.0,77.0,23.0,23.0
+2000-03-27,N.L. : TIF 15 Emp. Treviño,Corral,280.0,50.0,23.0,23.0
+2000-03-28,N.L. : TIF 15 Emp. Treviño,Corral,280.0,36.0,23.0,23.0
+2000-03-29,N.L. : TIF 15 Emp. Treviño,Corral,280.0,64.0,23.0,23.0
+2000-03-31,N.L. : TIF 15 Emp. Treviño,Corral,280.0,64.0,23.0,23.0
+2000-03-01,N.L. : TIF 92 A Kir Alimentos,Corral,280.0,216.0,23.0,23.5
+2000-03-02,N.L. : TIF 92 A Kir Alimentos,Corral,280.0,176.0,23.0,23.5
+2000-03-03,N.L. : TIF 92 A Kir Alimentos,Corral,280.0,195.0,23.0,23.5
+2000-03-06,N.L. : TIF 92 A Kir Alimentos,Corral,280.0,50.0,23.0,23.5
+2000-03-07,N.L. : TIF 92 A Kir Alimentos,Corral,280.0,215.0,23.0,23.5
+2000-03-08,N.L. : TIF 92 A Kir Alimentos,Corral,280.0,199.0,23.0,23.5
+2000-03-10,N.L. : TIF 92 A Kir Alimentos,Corral,280.0,123.0,23.0,23.5
+2000-03-13,N.L. : TIF 92 A Kir Alimentos,Corral,280.0,151.0,23.0,23.5
+2000-03-14,N.L. : TIF 92 A Kir Alimentos,Corral,280.0,79.0,23.0,23.5
+2000-03-15,N.L. : TIF 92 A Kir Alimentos,Corral,280.0,80.0,23.0,23.5
+2000-03-16,N.L. : TIF 92 A Kir Alimentos,Corral,280.0,125.0,23.0,23.5
+2000-03-17,N.L. : TIF 92 A Kir Alimentos,Corral,280.0,177.0,23.0,23.5
+2000-03-20,N.L. : TIF 92 A Kir Alimentos,Corral,280.0,289.0,23.0,23.5
+2000-03-23,N.L. : TIF 92 A Kir Alimentos,Corral,280.0,149.0,23.0,23.5
+2000-03-24,N.L. : TIF 92 A Kir Alimentos,Corral,280.0,288.0,23.0,23.5
+2000-03-27,N.L. : TIF 92 A Kir Alimentos,Corral,280.0,205.0,23.0,23.5
+2000-03-28,N.L. : TIF 92 A Kir Alimentos,Corral,280.0,192.0,23.0,23.5
+2000-03-29,N.L. : TIF 92 A Kir Alimentos,Corral,280.0,121.0,23.0,23.5
+2000-03-30,N.L. : TIF 92 A Kir Alimentos,Corral,280.0,120.0,23.0,23.5
+2000-03-31,N.L. : TIF 92 A Kir Alimentos,Corral,280.0,144.0,23.5,23.5
+2000-03-01,N.L. : TIF 96 Carnes Bif,Corral,280.0,137.0,23.0,23.0
+2000-03-02,N.L. : TIF 96 Carnes Bif,Corral,280.0,158.0,23.0,23.2
+2000-03-03,N.L. : TIF 96 Carnes Bif,Corral,280.0,76.0,23.0,23.2
+2000-03-06,N.L. : TIF 96 Carnes Bif,Corral,280.0,125.0,23.0,23.0
+2000-03-07,N.L. : TIF 96 Carnes Bif,Corral,280.0,138.0,23.5,23.5
+2000-03-08,N.L. : TIF 96 Carnes Bif,Corral,280.0,122.0,23.5,23.5
+2000-03-09,N.L. : TIF 96 Carnes Bif,Corral,280.0,156.0,23.5,23.5
+2000-03-10,N.L. : TIF 96 Carnes Bif,Corral,280.0,122.0,23.5,23.5
+2000-03-13,N.L. : TIF 96 Carnes Bif,Corral,280.0,149.0,23.0,23.5
+2000-03-14,N.L. : TIF 96 Carnes Bif,Corral,280.0,126.0,23.0,23.5
+2000-03-15,N.L. : TIF 96 Carnes Bif,Corral,280.0,155.0,23.5,23.6
+2000-03-16,N.L. : TIF 96 Carnes Bif,Corral,280.0,180.0,23.5,23.5
+2000-03-17,N.L. : TIF 96 Carnes Bif,Corral,280.0,162.0,23.5,23.5
+2000-03-20,N.L. : TIF 96 Carnes Bif,Corral,280.0,200.0,23.5,23.5
+2000-03-23,N.L. : TIF 96 Carnes Bif,Corral,280.0,176.0,23.5,23.5
+2000-03-24,N.L. : TIF 96 Carnes Bif,Corral,280.0,195.0,23.5,23.5
+2000-03-27,N.L. : TIF 96 Carnes Bif,Corral,280.0,187.0,23.5,23.5
+2000-03-28,N.L. : TIF 96 Carnes Bif,Corral,280.0,188.0,23.5,23.5
+2000-03-29,N.L. : TIF 96 Carnes Bif,Corral,280.0,135.0,23.5,23.5
+2000-03-30,N.L. : TIF 96 Carnes Bif,Corral,280.0,216.0,23.5,23.5
+2000-03-31,N.L. : TIF 96 Carnes Bif,Corral,280.0,180.0,23.5,23.5
+2000-03-30,N.L. : Treviño,Corral,280.0,72.0,22.8,23.0
+2000-03-01,Nay. : R.M. Tepic,Toros,260.0,52.0,23.0,23.5
+2000-03-01,Nay. : R.M. Tepic,Vaca,200.0,42.0,19.0,19.5
+2000-03-03,Nay. : R.M. Tepic,Toros,260.0,44.0,23.0,23.5
+2000-03-03,Nay. : R.M. Tepic,Vaca,240.0,50.0,19.0,19.5
+2000-03-04,Nay. : R.M. Tepic,Toros,260.0,47.0,23.0,23.5
+2000-03-04,Nay. : R.M. Tepic,Vaca,245.0,35.0,19.0,19.5
+2000-03-06,Nay. : R.M. Tepic,Toros,260.0,75.0,23.0,23.5
+2000-03-06,Nay. : R.M. Tepic,Vaca,205.0,53.0,19.0,19.5
+2000-03-10,Nay. : R.M. Tepic,Toros,235.0,52.0,23.0,23.0
+2000-03-10,Nay. : R.M. Tepic,Vaca,205.0,52.0,19.0,19.5
+2000-03-11,Nay. : R.M. Tepic,Toros,260.0,53.0,23.0,23.0
+2000-03-11,Nay. : R.M. Tepic,Vaca,220.0,36.0,19.0,19.5
+2000-03-13,Nay. : R.M. Tepic,Toros,260.0,32.0,23.0,23.5
+2000-03-13,Nay. : R.M. Tepic,Vaca,200.0,38.0,19.0,19.5
+2000-03-14,Nay. : R.M. Tepic,Toros,235.0,37.0,23.0,23.5
+2000-03-14,Nay. : R.M. Tepic,Vaca,190.0,30.0,19.0,19.5
+2000-03-15,Nay. : R.M. Tepic,Toros,235.0,23.0,23.0,23.5
+2000-03-15,Nay. : R.M. Tepic,Vaca,190.0,29.0,19.0,19.5
+2000-03-16,Nay. : R.M. Tepic,Toros,260.0,40.0,23.0,23.5
+2000-03-16,Nay. : R.M. Tepic,Vaca,190.0,28.0,19.0,19.5
+2000-03-18,Nay. : R.M. Tepic,Toros,260.0,55.0,23.0,23.5
+2000-03-18,Nay. : R.M. Tepic,Vaca,200.0,42.0,19.0,19.5
+2000-03-20,Nay. : R.M. Tepic,Toros,260.0,42.0,23.0,23.5
+2000-03-20,Nay. : R.M. Tepic,Vaca,200.0,38.0,19.0,19.5
+2000-03-21,Nay. : R.M. Tepic,Toros,240.0,13.0,23.0,23.5
+2000-03-21,Nay. : R.M. Tepic,Vaca,200.0,24.0,19.0,19.5
+2000-03-22,Nay. : R.M. Tepic,Toros,260.0,36.0,23.0,23.5
+2000-03-22,Nay. : R.M. Tepic,Vaca,200.0,34.0,19.0,19.5
+2000-03-23,Nay. : R.M. Tepic,Toros,265.0,36.0,23.0,23.5
+2000-03-23,Nay. : R.M. Tepic,Vaca,200.0,20.0,19.0,19.5
+2000-03-25,Nay. : R.M. Tepic,Toros,230.0,55.0,23.0,23.5
+2000-03-25,Nay. : R.M. Tepic,Vaca,200.0,35.0,19.0,19.5
+2000-03-27,Nay. : R.M. Tepic,Toros,230.0,31.0,23.0,23.5
+2000-03-27,Nay. : R.M. Tepic,Vaca,200.0,25.0,19.0,19.5
+2000-03-28,Nay. : R.M. Tepic,Toros,235.0,37.0,23.0,23.5
+2000-03-28,Nay. : R.M. Tepic,Vaca,200.0,29.0,19.0,19.5
+2000-03-29,Nay. : R.M. Tepic,Toros,230.0,26.0,23.0,23.5
+2000-03-29,Nay. : R.M. Tepic,Vaca,290.0,25.0,19.0,19.5
+2000-03-30,Nay. : R.M. Tepic,Toros,230.0,28.0,23.0,23.5
+2000-03-30,Nay. : R.M. Tepic,Vaca,200.0,39.0,19.0,19.5
+2000-03-01,Nay. : Rastro Municipal de Compostela,Toros,280.0,1.0,21.0,22.0
+2000-03-01,Nay. : Rastro Municipal de Compostela,Vaca,220.0,6.0,20.0,20.5
+2000-03-02,Nay. : Rastro Municipal de Compostela,Toros,290.0,1.0,21.0,22.0
+2000-03-02,Nay. : Rastro Municipal de Compostela,Vaca,270.0,3.0,20.0,20.5
+2000-03-03,Nay. : Rastro Municipal de Compostela,Toros,230.0,3.0,20.0,21.0
+2000-03-03,Nay. : Rastro Municipal de Compostela,Vaca,210.0,6.0,19.0,20.0
+2000-03-04,Nay. : Rastro Municipal de Compostela,Toros,235.0,2.0,20.0,21.0
+2000-03-04,Nay. : Rastro Municipal de Compostela,Vaca,215.0,6.0,19.0,20.0
+2000-03-06,Nay. : Rastro Municipal de Compostela,Toros,200.0,2.0,20.0,21.0
+2000-03-06,Nay. : Rastro Municipal de Compostela,Vaca,190.0,6.0,19.0,20.0
+2000-03-10,Nay. : Rastro Municipal de Compostela,Toros,210.0,4.0,20.0,21.0
+2000-03-10,Nay. : Rastro Municipal de Compostela,Vaca,190.0,13.0,19.0,20.0
+2000-03-11,Nay. : Rastro Municipal de Compostela,Toros,270.0,3.0,20.0,21.0
+2000-03-11,Nay. : Rastro Municipal de Compostela,Vaca,250.0,5.0,19.0,20.0
+2000-03-13,Nay. : Rastro Municipal de Compostela,Toros,215.0,2.0,20.0,21.0
+2000-03-13,Nay. : Rastro Municipal de Compostela,Vaca,200.0,7.0,19.0,20.0
+2000-03-14,Nay. : Rastro Municipal de Compostela,Vaca,220.0,2.0,19.0,20.0
+2000-03-15,Nay. : Rastro Municipal de Compostela,Toros,320.0,3.0,20.0,21.0
+2000-03-15,Nay. : Rastro Municipal de Compostela,Vaca,290.0,6.0,19.0,20.0
+2000-03-17,Nay. : Rastro Municipal de Compostela,Toros,290.0,3.0,20.0,21.0
+2000-03-17,Nay. : Rastro Municipal de Compostela,Vaca,279.0,7.0,19.0,20.0
+2000-03-18,Nay. : Rastro Municipal de Compostela,Toros,340.0,3.0,20.0,21.0
+2000-03-18,Nay. : Rastro Municipal de Compostela,Vaca,320.0,8.0,19.0,20.0
+2000-03-20,Nay. : Rastro Municipal de Compostela,Toros,320.0,4.0,20.0,21.0
+2000-03-20,Nay. : Rastro Municipal de Compostela,Vaca,290.0,5.0,19.0,20.0
+2000-03-21,Nay. : Rastro Municipal de Compostela,Toros,340.0,1.0,20.0,21.0
+2000-03-21,Nay. : Rastro Municipal de Compostela,Vaca,320.0,5.0,19.0,20.0
+2000-03-22,Nay. : Rastro Municipal de Compostela,Toros,250.0,1.0,20.0,21.0
+2000-03-22,Nay. : Rastro Municipal de Compostela,Vaca,220.0,7.0,19.0,20.0
+2000-03-23,Nay. : Rastro Municipal de Compostela,Toros,330.0,5.0,20.0,21.0
+2000-03-23,Nay. : Rastro Municipal de Compostela,Vaca,300.0,4.0,19.0,20.0
+2000-03-25,Nay. : Rastro Municipal de Compostela,Toros,400.0,4.0,20.0,21.0
+2000-03-25,Nay. : Rastro Municipal de Compostela,Vaca,370.0,7.0,19.0,20.0
+2000-03-27,Nay. : Rastro Municipal de Compostela,Toros,260.0,3.0,20.0,21.0
+2000-03-27,Nay. : Rastro Municipal de Compostela,Vaca,240.0,4.0,19.0,20.0
+2000-03-28,Nay. : Rastro Municipal de Compostela,Toros,235.0,2.0,20.0,21.0
+2000-03-28,Nay. : Rastro Municipal de Compostela,Vaca,200.0,4.0,19.0,20.0
+2000-03-29,Nay. : Rastro Municipal de Compostela,Toros,290.0,1.0,20.0,21.0
+2000-03-29,Nay. : Rastro Municipal de Compostela,Vaca,270.0,1.0,19.0,20.0
+2000-03-31,Nay. : Rastro Municipal de Compostela,Toros,260.0,5.0,20.0,21.0
+2000-03-31,Nay. : Rastro Municipal de Compostela,Vaca,245.0,6.0,19.0,20.0
+2000-03-01,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,340.0,4.0,20.0,20.0
+2000-03-01,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,320.0,5.0,20.0,20.0
+2000-03-03,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,340.0,4.0,20.0,20.0
+2000-03-03,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,320.0,6.0,20.0,20.0
+2000-03-04,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,340.0,4.0,20.0,20.0
+2000-03-04,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,320.0,6.0,20.0,20.0
+2000-03-05,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,340.0,3.0,20.0,20.0
+2000-03-05,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,320.0,4.0,20.0,20.0
+2000-03-06,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,340.0,3.0,20.0,20.0
+2000-03-06,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,320.0,4.0,20.0,20.0
+2000-03-08,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,340.0,2.0,20.0,20.0
+2000-03-08,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,320.0,3.0,20.0,20.0
+2000-03-10,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,340.0,4.0,20.0,20.0
+2000-03-10,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,320.0,7.0,20.0,20.0
+2000-03-11,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,340.0,4.0,20.0,20.0
+2000-03-11,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,320.0,6.0,20.0,20.0
+2000-03-12,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,340.0,3.0,20.0,20.0
+2000-03-12,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,320.0,5.0,20.0,20.0
+2000-03-13,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,340.0,3.0,20.0,20.0
+2000-03-13,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,320.0,5.0,20.0,20.0
+2000-03-14,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,340.0,4.0,20.0,20.0
+2000-03-14,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,320.0,6.0,20.0,20.0
+2000-03-15,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,340.0,2.0,20.0,20.0
+2000-03-15,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,320.0,2.0,20.0,20.0
+2000-03-19,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,340.0,2.0,20.0,20.0
+2000-03-19,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,320.0,3.0,20.0,20.0
+2000-03-20,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,340.0,4.0,20.0,20.0
+2000-03-20,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,320.0,6.0,20.0,20.0
+2000-03-21,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,340.0,2.0,20.0,20.0
+2000-03-21,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,320.0,4.0,20.0,20.0
+2000-03-22,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,340.0,3.0,20.0,20.0
+2000-03-22,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,320.0,5.0,20.0,20.0
+2000-03-23,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,340.0,5.0,20.0,20.0
+2000-03-23,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,320.0,7.0,20.0,20.0
+2000-03-25,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,340.0,3.0,20.0,20.0
+2000-03-25,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,320.0,5.0,20.0,20.0
+2000-03-26,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,340.0,2.0,20.0,20.0
+2000-03-26,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,320.0,4.0,20.0,20.0
+2000-03-27,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,340.0,4.0,20.0,20.0
+2000-03-27,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,320.0,5.0,20.0,20.0
+2000-03-28,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,340.0,2.0,20.0,20.0
+2000-03-28,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,320.0,3.0,20.0,20.0
+2000-03-29,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,340.0,1.0,20.0,20.0
+2000-03-29,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,320.0,2.0,20.0,20.0
+2000-03-31,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,340.0,6.0,20.0,20.0
+2000-03-31,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,320.0,8.0,20.0,20.0
+2000-03-01,Oax. : Rastro Reforma Agraria,Corral,,31.0,21.0,21.5
+2000-03-01,Oax. : Rastro Reforma Agraria,Vaca,,,19.0,19.5
+2000-03-02,Oax. : Rastro Reforma Agraria,Corral,,54.0,21.0,21.5
+2000-03-03,Oax. : Rastro Reforma Agraria,Corral,,,21.0,21.5
+2000-03-03,Oax. : Rastro Reforma Agraria,Vaca,,,19.0,19.5
+2000-03-06,Oax. : Rastro Reforma Agraria,Corral,,,21.0,21.5
+2000-03-06,Oax. : Rastro Reforma Agraria,Vaca,,,19.0,19.5
+2000-03-08,Oax. : Rastro Reforma Agraria,Corral,,,21.0,21.5
+2000-03-08,Oax. : Rastro Reforma Agraria,Vaca,,,19.0,19.5
+2000-03-10,Oax. : Rastro Reforma Agraria,Corral,,,21.0,21.5
+2000-03-10,Oax. : Rastro Reforma Agraria,Vaca,,,19.0,19.5
+2000-03-13,Oax. : Rastro Reforma Agraria,Corral,,,21.0,21.5
+2000-03-13,Oax. : Rastro Reforma Agraria,Vaca,,,19.0,19.5
+2000-03-14,Oax. : Rastro Reforma Agraria,Corral,,,21.0,21.5
+2000-03-14,Oax. : Rastro Reforma Agraria,Vaca,,,19.0,19.5
+2000-03-15,Oax. : Rastro Reforma Agraria,Corral,,,21.0,21.5
+2000-03-15,Oax. : Rastro Reforma Agraria,Vaca,,,19.0,19.5
+2000-03-17,Oax. : Rastro Reforma Agraria,Corral,,,21.0,21.5
+2000-03-17,Oax. : Rastro Reforma Agraria,Vaca,,,19.0,19.5
+2000-03-20,Oax. : Rastro Reforma Agraria,Corral,,,21.0,21.5
+2000-03-20,Oax. : Rastro Reforma Agraria,Vaca,,,19.0,19.5
+2000-03-22,Oax. : Rastro Reforma Agraria,Corral,,,21.0,21.5
+2000-03-22,Oax. : Rastro Reforma Agraria,Vaca,,,19.0,19.5
+2000-03-24,Oax. : Rastro Reforma Agraria,Corral,,,21.0,21.5
+2000-03-24,Oax. : Rastro Reforma Agraria,Vaca,,,19.0,19.5
+2000-03-27,Oax. : Rastro Reforma Agraria,Corral,,32.0,21.0,21.5
+2000-03-28,Oax. : Rastro Reforma Agraria,Corral,,35.0,21.0,21.5
+2000-03-31,Oax. : Rastro Reforma Agraria,Corral,300.0,28.0,21.0,21.5
+2000-03-31,Oax. : Rastro Reforma Agraria,Vaca,298.0,15.0,19.0,19.5
+2000-03-01,Qro. : R.M. Querétaro,Toros,260.0,70.0,21.5,23.0
+2000-03-01,Qro. : R.M. Querétaro,Vaca,200.0,7.0,16.0,16.5
+2000-03-02,Qro. : R.M. Querétaro,Toros,260.0,46.0,21.5,23.0
+2000-03-02,Qro. : R.M. Querétaro,Vaca,200.0,12.0,16.0,16.5
+2000-03-03,Qro. : R.M. Querétaro,Toros,260.0,99.0,22.0,23.0
+2000-03-03,Qro. : R.M. Querétaro,Vaca,200.0,17.0,14.0,17.0
+2000-03-04,Qro. : R.M. Querétaro,Toros,260.0,55.0,22.0,23.0
+2000-03-04,Qro. : R.M. Querétaro,Vaca,200.0,12.0,14.0,17.0
+2000-03-06,Qro. : R.M. Querétaro,Toros,260.0,52.0,22.0,23.0
+2000-03-06,Qro. : R.M. Querétaro,Vaca,200.0,21.0,14.0,17.0
+2000-03-07,Qro. : R.M. Querétaro,Toros,260.0,10.0,22.0,23.0
+2000-03-07,Qro. : R.M. Querétaro,Vaca,200.0,11.0,14.0,17.0
+2000-03-08,Qro. : R.M. Querétaro,Toros,260.0,31.0,22.0,23.0
+2000-03-08,Qro. : R.M. Querétaro,Vaca,200.0,11.0,14.0,17.0
+2000-03-09,Qro. : R.M. Querétaro,Toros,260.0,49.0,22.0,23.0
+2000-03-09,Qro. : R.M. Querétaro,Vaca,200.0,8.0,14.0,17.0
+2000-03-11,Qro. : R.M. Querétaro,Toros,260.0,64.0,22.0,23.0
+2000-03-11,Qro. : R.M. Querétaro,Vaca,200.0,15.0,14.0,17.0
+2000-03-13,Qro. : R.M. Querétaro,Toros,260.0,84.0,22.0,23.0
+2000-03-13,Qro. : R.M. Querétaro,Vaca,200.0,10.0,14.0,17.0
+2000-03-14,Qro. : R.M. Querétaro,Toros,260.0,45.0,22.0,23.0
+2000-03-14,Qro. : R.M. Querétaro,Vaca,200.0,22.0,14.0,17.0
+2000-03-15,Qro. : R.M. Querétaro,Toros,260.0,67.0,22.0,22.5
+2000-03-15,Qro. : R.M. Querétaro,Vaca,200.0,10.0,9.0,14.0
+2000-03-16,Qro. : R.M. Querétaro,Toros,260.0,41.0,22.0,22.5
+2000-03-16,Qro. : R.M. Querétaro,Vaca,200.0,15.0,9.0,14.0
+2000-03-17,Qro. : R.M. Querétaro,Toros,260.0,89.0,22.0,22.5
+2000-03-17,Qro. : R.M. Querétaro,Vaca,200.0,25.0,9.0,14.0
+2000-03-18,Qro. : R.M. Querétaro,Toros,260.0,60.0,22.0,22.5
+2000-03-18,Qro. : R.M. Querétaro,Vaca,200.0,8.0,9.0,14.0
+2000-03-20,Qro. : R.M. Querétaro,Toros,260.0,89.0,22.0,22.5
+2000-03-20,Qro. : R.M. Querétaro,Vaca,200.0,25.0,9.0,14.0
+2000-03-22,Qro. : R.M. Querétaro,Toros,260.0,54.0,21.0,23.0
+2000-03-22,Qro. : R.M. Querétaro,Vaca,200.0,12.0,12.0,17.0
+2000-03-23,Qro. : R.M. Querétaro,Toros,260.0,46.0,22.0,22.5
+2000-03-23,Qro. : R.M. Querétaro,Vaca,200.0,4.0,9.0,14.0
+2000-03-24,Qro. : R.M. Querétaro,Toros,260.0,97.0,21.0,23.0
+2000-03-24,Qro. : R.M. Querétaro,Vaca,200.0,26.0,12.0,17.0
+2000-03-25,Qro. : R.M. Querétaro,Toros,260.0,59.0,22.0,22.5
+2000-03-25,Qro. : R.M. Querétaro,Vaca,200.0,15.0,9.0,14.0
+2000-03-27,Qro. : R.M. Querétaro,Toros,260.0,87.0,22.0,22.5
+2000-03-27,Qro. : R.M. Querétaro,Vaca,200.0,17.0,9.0,14.0
+2000-03-28,Qro. : R.M. Querétaro,Toros,260.0,30.0,22.0,22.5
+2000-03-28,Qro. : R.M. Querétaro,Vaca,200.0,21.0,9.0,14.0
+2000-03-29,Qro. : R.M. Querétaro,Toros,260.0,35.0,22.0,22.5
+2000-03-29,Qro. : R.M. Querétaro,Vaca,200.0,6.0,9.0,14.0
+2000-03-30,Qro. : R.M. Querétaro,Toros,260.0,63.0,22.0,22.5
+2000-03-30,Qro. : R.M. Querétaro,Vaca,200.0,4.0,9.0,14.0
+2000-03-31,Qro. : R.M. Querétaro,Toros,260.0,74.0,22.0,22.5
+2000-03-31,Qro. : R.M. Querétaro,Vaca,200.0,37.0,9.0,14.0
+2000-03-01,Son. : Rastro TIF Bovinos Hermosillo,Corral,,217.0,19.0,23.5
+2000-03-03,Son. : Rastro TIF Bovinos Hermosillo,Corral,,161.0,19.0,23.5
+2000-03-08,Son. : Rastro TIF Bovinos Hermosillo,Corral,,237.0,19.0,23.5
+2000-03-09,Son. : Rastro TIF Bovinos Hermosillo,Corral,,286.0,19.0,23.5
+2000-03-10,Son. : Rastro TIF Bovinos Hermosillo,Corral,,113.0,19.0,23.5
+2000-03-13,Son. : Rastro TIF Bovinos Hermosillo,Corral,,118.0,19.0,23.5
+2000-03-14,Son. : Rastro TIF Bovinos Hermosillo,Corral,,68.0,19.0,23.5
+2000-03-15,Son. : Rastro TIF Bovinos Hermosillo,Corral,,199.0,19.0,23.5
+2000-03-16,Son. : Rastro TIF Bovinos Hermosillo,Corral,,227.0,19.0,23.5
+2000-03-24,Son. : Rastro TIF Bovinos Hermosillo,Corral,,222.0,19.0,23.5
+2000-03-29,Son. : Rastro TIF Bovinos Hermosillo,Corral,,132.0,19.0,23.5
+2000-03-30,Son. : Rastro TIF Bovinos Hermosillo,Corral,,130.0,19.0,23.5
+2000-03-01,Ver. : Rastro Municipal de Xalapa,Novillona,175.0,3.0,22.0,22.0
+2000-03-01,Ver. : Rastro Municipal de Xalapa,Toros,247.0,11.0,20.0,20.0
+2000-03-01,Ver. : Rastro Municipal de Xalapa,Vaca,252.0,1.0,20.0,20.0
+2000-03-02,Ver. : Rastro Municipal de Xalapa,Corral,217.0,3.0,25.0,25.0
+2000-03-02,Ver. : Rastro Municipal de Xalapa,Novillona,203.0,3.0,22.0,22.0
+2000-03-02,Ver. : Rastro Municipal de Xalapa,Toros,202.0,33.0,20.0,20.0
+2000-03-02,Ver. : Rastro Municipal de Xalapa,Vaca,160.0,3.0,20.0,20.0
+2000-03-03,Ver. : Rastro Municipal de Xalapa,Novillona,205.0,2.0,22.0,22.0
+2000-03-03,Ver. : Rastro Municipal de Xalapa,Pradera,245.0,1.0,25.0,25.0
+2000-03-03,Ver. : Rastro Municipal de Xalapa,Toros,242.0,17.0,20.0,20.0
+2000-03-03,Ver. : Rastro Municipal de Xalapa,Vaca,192.0,5.0,20.0,20.0
+2000-03-08,Ver. : Rastro Municipal de Xalapa,Corral,181.0,7.0,25.0,25.0
+2000-03-08,Ver. : Rastro Municipal de Xalapa,Novillona,226.0,7.0,23.0,23.0
+2000-03-08,Ver. : Rastro Municipal de Xalapa,Toros,218.0,65.0,20.0,20.0
+2000-03-08,Ver. : Rastro Municipal de Xalapa,Vaca,222.0,11.0,20.0,20.0
+2000-03-09,Ver. : Rastro Municipal de Xalapa,Corral,195.0,7.0,25.0,25.0
+2000-03-09,Ver. : Rastro Municipal de Xalapa,Novillona,188.0,1.0,23.0,23.0
+2000-03-09,Ver. : Rastro Municipal de Xalapa,Toros,212.0,24.0,20.0,20.0
+2000-03-09,Ver. : Rastro Municipal de Xalapa,Vaca,222.0,3.0,20.0,20.0
+2000-03-10,Ver. : Rastro Municipal de Xalapa,Corral,172.0,8.0,25.0,25.0
+2000-03-10,Ver. : Rastro Municipal de Xalapa,Toros,216.0,14.0,20.0,20.0
+2000-03-10,Ver. : Rastro Municipal de Xalapa,Vaca,201.0,1.0,20.0,20.0
+2000-03-13,Ver. : Rastro Municipal de Xalapa,Toros,243.0,44.0,20.0,20.0
+2000-03-13,Ver. : Rastro Municipal de Xalapa,Vaca,187.0,13.0,20.0,20.0
+2000-03-14,Ver. : Rastro Municipal de Xalapa,Corral,164.0,1.0,25.0,25.0
+2000-03-14,Ver. : Rastro Municipal de Xalapa,Toros,225.0,16.0,20.0,20.0
+2000-03-14,Ver. : Rastro Municipal de Xalapa,Vaca,168.0,2.0,20.0,20.0
+2000-03-15,Ver. : Rastro Municipal de Xalapa,Novillona,186.0,2.0,23.0,23.0
+2000-03-15,Ver. : Rastro Municipal de Xalapa,Toros,167.0,19.0,20.0,20.0
+2000-03-15,Ver. : Rastro Municipal de Xalapa,Vaca,203.0,4.0,20.0,20.0
+2000-03-16,Ver. : Rastro Municipal de Xalapa,Novillona,171.0,5.0,23.0,23.0
+2000-03-16,Ver. : Rastro Municipal de Xalapa,Toros,239.0,29.0,20.0,20.0
+2000-03-16,Ver. : Rastro Municipal de Xalapa,Vaca,200.0,5.0,20.0,20.0
+2000-03-17,Ver. : Rastro Municipal de Xalapa,Toros,196.0,16.0,20.0,20.0
+2000-03-17,Ver. : Rastro Municipal de Xalapa,Vaca,218.0,2.0,20.0,20.0
+2000-03-22,Ver. : Rastro Municipal de Xalapa,Corral,229.0,42.0,25.0,27.0
+2000-03-22,Ver. : Rastro Municipal de Xalapa,Toros,217.0,44.0,20.0,20.0
+2000-03-22,Ver. : Rastro Municipal de Xalapa,Vaca,205.0,10.0,20.0,20.0
+2000-03-23,Ver. : Rastro Municipal de Xalapa,Corral,252.0,5.0,26.0,26.0
+2000-03-23,Ver. : Rastro Municipal de Xalapa,Vaca,180.0,3.0,20.0,21.0
+2000-03-24,Ver. : Rastro Municipal de Xalapa,Corral,218.0,5.0,26.0,26.0
+2000-03-24,Ver. : Rastro Municipal de Xalapa,Toros,251.0,28.0,22.0,22.0
+2000-03-24,Ver. : Rastro Municipal de Xalapa,Vaca,240.0,2.0,20.0,20.0
+2000-03-27,Ver. : Rastro Municipal de Xalapa,Toros,238.0,49.0,22.0,22.0
+2000-03-27,Ver. : Rastro Municipal de Xalapa,Vaca,249.0,13.0,20.0,20.0
+2000-03-28,Ver. : Rastro Municipal de Xalapa,Pradera,154.0,2.0,23.0,23.0
+2000-03-28,Ver. : Rastro Municipal de Xalapa,Toros,251.0,21.0,22.0,22.0
+2000-03-28,Ver. : Rastro Municipal de Xalapa,Vaca,218.0,1.0,20.0,20.0
+2000-03-29,Ver. : Rastro Municipal de Xalapa,Toros,225.0,14.0,22.0,22.0
+2000-03-30,Ver. : Rastro Municipal de Xalapa,Toros,209.0,28.0,22.0,22.0
+2000-03-30,Ver. : Rastro Municipal de Xalapa,Vaca,223.0,4.0,20.0,20.0
+2000-03-31,Ver. : Rastro Municipal de Xalapa,Corral,228.0,5.0,25.0,27.0
+2000-03-31,Ver. : Rastro Municipal de Xalapa,Novillona,197.0,1.0,23.0,23.0
+2000-03-31,Ver. : Rastro Municipal de Xalapa,Toros,183.0,16.0,22.0,22.0
+2000-03-31,Ver. : Rastro Municipal de Xalapa,Vaca,208.0,2.0,20.0,20.0
+2000-03-01,Yuc. : Abastos de Mérida,Toros,240.0,9.0,,
+2000-03-01,Yuc. : Abastos de Mérida,Vaca,300.0,43.0,,
+2000-03-02,Yuc. : Abastos de Mérida,Toros,240.0,1.0,,
+2000-03-02,Yuc. : Abastos de Mérida,Vaca,300.0,44.0,,
+2000-03-03,Yuc. : Abastos de Mérida,Toros,240.0,1.0,,
+2000-03-03,Yuc. : Abastos de Mérida,Vaca,300.0,140.0,,
+2000-03-05,Yuc. : Abastos de Mérida,Toros,240.0,5.0,,
+2000-03-05,Yuc. : Abastos de Mérida,Vaca,300.0,32.0,,
+2000-03-06,Yuc. : Abastos de Mérida,Toros,240.0,12.0,,
+2000-03-06,Yuc. : Abastos de Mérida,Vaca,300.0,42.0,,
+2000-03-08,Yuc. : Abastos de Mérida,Toros,240.0,4.0,,
+2000-03-08,Yuc. : Abastos de Mérida,Vaca,300.0,81.0,,
+2000-03-10,Yuc. : Abastos de Mérida,Toros,240.0,6.0,,
+2000-03-10,Yuc. : Abastos de Mérida,Vaca,300.0,106.0,,
+2000-03-12,Yuc. : Abastos de Mérida,Toros,240.0,4.0,,
+2000-03-12,Yuc. : Abastos de Mérida,Vaca,300.0,25.0,,
+2000-03-13,Yuc. : Abastos de Mérida,Toros,240.0,2.0,,
+2000-03-13,Yuc. : Abastos de Mérida,Vaca,300.0,68.0,,
+2000-03-14,Yuc. : Abastos de Mérida,Toros,240.0,5.0,,
+2000-03-14,Yuc. : Abastos de Mérida,Vaca,300.0,36.0,,
+2000-03-15,Yuc. : Abastos de Mérida,Novillona,200.0,10.0,,
+2000-03-15,Yuc. : Abastos de Mérida,Toros,240.0,25.0,,
+2000-03-15,Yuc. : Abastos de Mérida,Vaca,300.0,58.0,,
+2000-03-17,Yuc. : Abastos de Mérida,Toros,240.0,16.0,,
+2000-03-17,Yuc. : Abastos de Mérida,Vaca,300.0,95.0,,
+2000-03-19,Yuc. : Abastos de Mérida,Toros,240.0,2.0,,
+2000-03-19,Yuc. : Abastos de Mérida,Vaca,300.0,34.0,,
+2000-03-20,Yuc. : Abastos de Mérida,Toros,240.0,23.0,,
+2000-03-20,Yuc. : Abastos de Mérida,Vaca,300.0,73.0,,
+2000-03-22,Yuc. : Abastos de Mérida,Toros,240.0,6.0,,
+2000-03-22,Yuc. : Abastos de Mérida,Vaca,300.0,57.0,,
+2000-03-24,Yuc. : Abastos de Mérida,Toros,240.0,29.0,,
+2000-03-24,Yuc. : Abastos de Mérida,Vaca,300.0,83.0,,
+2000-03-26,Yuc. : Abastos de Mérida,Toros,240.0,2.0,,
+2000-03-26,Yuc. : Abastos de Mérida,Vaca,300.0,37.0,,
+2000-03-27,Yuc. : Abastos de Mérida,Toros,240.0,9.0,,
+2000-03-27,Yuc. : Abastos de Mérida,Vaca,300.0,61.0,,
+2000-03-28,Yuc. : Abastos de Mérida,Toros,240.0,9.0,,16.0
+2000-03-28,Yuc. : Abastos de Mérida,Vaca,300.0,61.0,,16.0
+2000-03-29,Yuc. : Abastos de Mérida,Toros,240.0,4.0,,16.0
+2000-03-29,Yuc. : Abastos de Mérida,Vaca,300.0,66.0,,16.0
+2000-03-31,Yuc. : Abastos de Mérida,Toros,240.0,7.0,,16.0
+2000-03-31,Yuc. : Abastos de Mérida,Vaca,300.0,105.0,,16.0
+2000-03-01,Yuc. : Aric Planta TIF 170,Novillona,200.0,40.0,,19.0
+2000-03-01,Yuc. : Aric Planta TIF 170,Pradera,252.0,40.0,,21.5
+2000-03-03,Yuc. : Aric Planta TIF 170,Novillona,180.0,26.0,,19.0
+2000-03-03,Yuc. : Aric Planta TIF 170,Pradera,247.0,212.0,,21.5
+2000-03-03,Yuc. : Aric Planta TIF 170,Toros,456.0,4.0,,18.5
+2000-03-03,Yuc. : Aric Planta TIF 170,Vaca,242.0,8.0,,17.5
+2000-03-08,Yuc. : Aric Planta TIF 170,Novillona,203.0,15.0,,19.0
+2000-03-08,Yuc. : Aric Planta TIF 170,Pradera,244.0,65.0,,21.5
+2000-03-08,Yuc. : Aric Planta TIF 170,Vaca,219.0,12.0,,17.5
+2000-03-10,Yuc. : Aric Planta TIF 170,Novillona,198.0,25.0,,19.0
+2000-03-10,Yuc. : Aric Planta TIF 170,Pradera,249.0,215.0,,21.5
+2000-03-13,Yuc. : Aric Planta TIF 170,Novillona,186.0,15.0,,19.0
+2000-03-13,Yuc. : Aric Planta TIF 170,Pradera,267.0,66.0,,21.5
+2000-03-13,Yuc. : Aric Planta TIF 170,Vaca,242.0,13.0,,17.5
+2000-03-15,Yuc. : Aric Planta TIF 170,Novillona,195.0,40.0,,19.0
+2000-03-15,Yuc. : Aric Planta TIF 170,Pradera,244.0,40.0,,21.5
+2000-03-16,Yuc. : Aric Planta TIF 170,Pradera,240.0,160.0,,21.5
+2000-03-17,Yuc. : Aric Planta TIF 170,Novillona,190.0,20.0,,19.0
+2000-03-17,Yuc. : Aric Planta TIF 170,Pradera,249.0,140.0,,21.5
+2000-03-20,Yuc. : Aric Planta TIF 170,Novillona,199.0,17.0,,19.0
+2000-03-20,Yuc. : Aric Planta TIF 170,Pradera,244.0,141.0,,21.5
+2000-03-20,Yuc. : Aric Planta TIF 170,Toros,458.0,2.0,,18.5
+2000-03-22,Yuc. : Aric Planta TIF 170,Novillona,203.0,30.0,,19.0
+2000-03-22,Yuc. : Aric Planta TIF 170,Pradera,238.0,50.0,,21.5
+2000-03-24,Yuc. : Aric Planta TIF 170,Novillona,184.0,25.0,,19.0
+2000-03-24,Yuc. : Aric Planta TIF 170,Pradera,247.0,210.0,,21.5
+2000-03-24,Yuc. : Aric Planta TIF 170,Toros,,2.0,,18.5
+2000-03-25,Yuc. : Aric Planta TIF 170,Novillona,172.0,22.0,,19.0
+2000-03-25,Yuc. : Aric Planta TIF 170,Pradera,253.0,136.0,,21.5
+2000-03-25,Yuc. : Aric Planta TIF 170,Toros,436.0,1.0,,18.5
+2000-03-25,Yuc. : Aric Planta TIF 170,Vaca,243.0,75.0,,17.5
+2000-03-28,Yuc. : Aric Planta TIF 170,Novillona,207.0,15.0,,19.0
+2000-03-28,Yuc. : Aric Planta TIF 170,Pradera,252.0,144.0,,21.5
+2000-03-28,Yuc. : Aric Planta TIF 170,Toros,405.0,2.0,,18.5
+2000-03-29,Yuc. : Aric Planta TIF 170,Novillona,191.0,40.0,,19.0
+2000-03-29,Yuc. : Aric Planta TIF 170,Pradera,254.0,40.0,,21.5
+2000-03-31,Yuc. : Aric Planta TIF 170,Novillona,197.0,25.0,,19.0
+2000-03-31,Yuc. : Aric Planta TIF 170,Pradera,251.0,215.0,,21.5
+2000-03-31,Yuc. : Aric Planta TIF 170,Vaca,246.0,12.0,,17.5
+2000-03-22,Zac. : R.M. Zacatecas,Vaca,,57.0,20.0,21.5
+2000-03-28,Zac. : R.M. Zacatecas,Corral,,19.0,19.0,22.0
+2000-03-30,Zac. : R.M. Zacatecas,Corral,,22.0,19.0,22.0
+2000-03-27,Zac. : Rastros de Bovinos Zacatecas,Corral,,85.0,19.0,22.0

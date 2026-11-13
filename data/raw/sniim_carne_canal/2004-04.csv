@@ -1,0 +1,1485 @@
+date,slaughterhouse,type,avg_weight_kg,carcasses,price_min_mxn_kg,price_max_mxn_kg
+2004-04-01,Ags. : R.M. Aguascalientes,Vaca,360.0,39.0,16.5,17.5
+2004-04-02,Ags. : R.M. Aguascalientes,Novillona,295.0,28.0,20.0,21.0
+2004-04-02,Ags. : R.M. Aguascalientes,Pradera,240.0,79.0,22.0,23.0
+2004-04-02,Ags. : R.M. Aguascalientes,Toros,455.0,16.0,25.0,26.0
+2004-04-02,Ags. : R.M. Aguascalientes,Vaca,360.0,55.0,16.5,17.5
+2004-04-03,Ags. : R.M. Aguascalientes,Vaca,360.0,40.0,16.5,17.5
+2004-04-05,Ags. : R.M. Aguascalientes,Novillona,295.0,25.0,20.0,21.0
+2004-04-05,Ags. : R.M. Aguascalientes,Pradera,240.0,60.0,22.0,23.0
+2004-04-05,Ags. : R.M. Aguascalientes,Toros,455.0,22.0,25.0,26.0
+2004-04-05,Ags. : R.M. Aguascalientes,Vaca,360.0,54.0,16.5,17.5
+2004-04-06,Ags. : R.M. Aguascalientes,Vaca,360.0,46.0,16.5,17.5
+2004-04-07,Ags. : R.M. Aguascalientes,Novillona,295.0,20.0,20.0,21.0
+2004-04-07,Ags. : R.M. Aguascalientes,Pradera,240.0,49.0,22.0,23.0
+2004-04-07,Ags. : R.M. Aguascalientes,Toros,455.0,13.0,25.0,26.0
+2004-04-07,Ags. : R.M. Aguascalientes,Vaca,360.0,50.0,16.5,17.5
+2004-04-08,Ags. : R.M. Aguascalientes,Vaca,360.0,29.0,16.5,17.5
+2004-04-09,Ags. : R.M. Aguascalientes,Pradera,240.0,12.0,22.0,23.0
+2004-04-09,Ags. : R.M. Aguascalientes,Vaca,360.0,26.0,16.5,17.5
+2004-04-10,Ags. : R.M. Aguascalientes,Pradera,240.0,27.0,22.0,23.0
+2004-04-10,Ags. : R.M. Aguascalientes,Toros,455.0,6.0,25.0,26.0
+2004-04-10,Ags. : R.M. Aguascalientes,Vaca,360.0,35.0,16.5,17.5
+2004-04-12,Ags. : R.M. Aguascalientes,Novillona,295.0,30.0,20.0,21.0
+2004-04-12,Ags. : R.M. Aguascalientes,Pradera,240.0,73.0,22.0,23.0
+2004-04-12,Ags. : R.M. Aguascalientes,Toros,455.0,24.0,25.0,26.0
+2004-04-12,Ags. : R.M. Aguascalientes,Vaca,360.0,97.0,16.5,17.5
+2004-04-13,Ags. : R.M. Aguascalientes,Pradera,240.0,12.0,22.0,23.0
+2004-04-13,Ags. : R.M. Aguascalientes,Vaca,360.0,29.0,16.5,17.5
+2004-04-14,Ags. : R.M. Aguascalientes,Novillona,295.0,23.0,20.0,21.0
+2004-04-14,Ags. : R.M. Aguascalientes,Pradera,240.0,61.0,22.0,23.0
+2004-04-14,Ags. : R.M. Aguascalientes,Toros,455.0,20.0,25.0,26.0
+2004-04-14,Ags. : R.M. Aguascalientes,Vaca,360.0,55.0,16.5,17.5
+2004-04-15,Ags. : R.M. Aguascalientes,Vaca,360.0,39.0,16.5,17.5
+2004-04-16,Ags. : R.M. Aguascalientes,Novillona,295.0,28.0,20.0,21.0
+2004-04-16,Ags. : R.M. Aguascalientes,Pradera,240.0,61.0,22.0,23.0
+2004-04-16,Ags. : R.M. Aguascalientes,Toros,455.0,19.0,25.0,26.0
+2004-04-16,Ags. : R.M. Aguascalientes,Vaca,360.0,46.0,16.5,17.5
+2004-04-17,Ags. : R.M. Aguascalientes,Pradera,240.0,15.0,22.0,23.0
+2004-04-17,Ags. : R.M. Aguascalientes,Vaca,360.0,50.0,16.5,17.5
+2004-04-19,Ags. : R.M. Aguascalientes,Novillona,295.0,30.0,20.0,21.0
+2004-04-19,Ags. : R.M. Aguascalientes,Pradera,240.0,51.0,22.0,23.0
+2004-04-19,Ags. : R.M. Aguascalientes,Toros,455.0,21.0,25.0,26.0
+2004-04-19,Ags. : R.M. Aguascalientes,Vaca,360.0,68.0,16.5,17.5
+2004-04-20,Ags. : R.M. Aguascalientes,Vaca,360.0,40.0,16.5,17.5
+2004-04-21,Ags. : R.M. Aguascalientes,Novillona,295.0,26.0,20.0,21.0
+2004-04-21,Ags. : R.M. Aguascalientes,Pradera,240.0,56.0,22.0,23.0
+2004-04-21,Ags. : R.M. Aguascalientes,Toros,455.0,12.0,25.0,26.0
+2004-04-21,Ags. : R.M. Aguascalientes,Vaca,360.0,46.0,16.5,17.5
+2004-04-22,Ags. : R.M. Aguascalientes,Vaca,360.0,32.0,16.5,17.5
+2004-04-23,Ags. : R.M. Aguascalientes,Novillona,295.0,24.0,20.0,21.0
+2004-04-23,Ags. : R.M. Aguascalientes,Pradera,240.0,65.0,22.0,23.0
+2004-04-23,Ags. : R.M. Aguascalientes,Toros,455.0,21.0,25.0,26.0
+2004-04-23,Ags. : R.M. Aguascalientes,Vaca,360.0,53.0,16.5,17.5
+2004-04-24,Ags. : R.M. Aguascalientes,Pradera,240.0,28.0,22.0,23.0
+2004-04-24,Ags. : R.M. Aguascalientes,Vaca,360.0,19.0,16.5,17.5
+2004-04-26,Ags. : R.M. Aguascalientes,Novillona,295.0,29.0,20.0,21.0
+2004-04-26,Ags. : R.M. Aguascalientes,Pradera,240.0,60.0,22.0,23.0
+2004-04-26,Ags. : R.M. Aguascalientes,Toros,455.0,23.0,25.0,26.0
+2004-04-26,Ags. : R.M. Aguascalientes,Vaca,360.0,51.0,16.5,17.5
+2004-04-27,Ags. : R.M. Aguascalientes,Vaca,360.0,33.0,16.5,17.5
+2004-04-28,Ags. : R.M. Aguascalientes,Novillona,295.0,27.0,20.0,21.0
+2004-04-28,Ags. : R.M. Aguascalientes,Pradera,240.0,55.0,22.0,23.0
+2004-04-28,Ags. : R.M. Aguascalientes,Toros,455.0,15.0,25.0,26.0
+2004-04-28,Ags. : R.M. Aguascalientes,Vaca,360.0,41.0,16.5,17.5
+2004-04-29,Ags. : R.M. Aguascalientes,Pradera,240.0,15.0,22.0,23.0
+2004-04-29,Ags. : R.M. Aguascalientes,Vaca,360.0,23.0,16.5,17.5
+2004-04-30,Ags. : R.M. Aguascalientes,Novillona,295.0,38.0,20.0,21.0
+2004-04-30,Ags. : R.M. Aguascalientes,Pradera,240.0,69.0,22.0,23.0
+2004-04-30,Ags. : R.M. Aguascalientes,Toros,455.0,19.0,25.0,26.0
+2004-04-30,Ags. : R.M. Aguascalientes,Vaca,360.0,47.0,16.5,17.5
+2004-04-01,B.C.S. : R.M. La Paz B.C.S.,Pradera,189.0,11.0,24.0,25.0
+2004-04-02,B.C.S. : R.M. La Paz B.C.S.,Pradera,177.0,58.0,24.0,25.0
+2004-04-05,B.C.S. : R.M. La Paz B.C.S.,Pradera,200.0,58.0,20.0,23.0
+2004-04-06,B.C.S. : R.M. La Paz B.C.S.,Pradera,201.0,21.0,24.0,25.0
+2004-04-12,B.C.S. : R.M. La Paz B.C.S.,Pradera,172.0,27.0,21.0,24.0
+2004-04-19,B.C.S. : R.M. La Paz B.C.S.,Pradera,198.0,61.0,21.0,24.0
+2004-04-20,B.C.S. : R.M. La Paz B.C.S.,Pradera,198.0,17.0,21.0,24.0
+2004-04-21,B.C.S. : R.M. La Paz B.C.S.,Pradera,221.0,10.0,21.0,24.0
+2004-04-22,B.C.S. : R.M. La Paz B.C.S.,Pradera,224.0,17.0,21.0,24.0
+2004-04-23,B.C.S. : R.M. La Paz B.C.S.,Pradera,187.0,28.0,21.0,24.0
+2004-04-26,B.C.S. : R.M. La Paz B.C.S.,Pradera,193.0,34.0,25.0,26.0
+2004-04-27,B.C.S. : R.M. La Paz B.C.S.,Pradera,209.0,25.0,25.0,26.0
+2004-04-28,B.C.S. : R.M. La Paz B.C.S.,Pradera,178.0,8.0,25.0,26.0
+2004-04-29,B.C.S. : R.M. La Paz B.C.S.,Pradera,197.0,16.0,25.0,26.0
+2004-04-30,B.C.S. : R.M. La Paz B.C.S.,Pradera,180.0,21.0,25.0,26.0
+2004-04-01,Camp. : R.M. Campeche,Pradera,322.0,9.0,22.5,23.5
+2004-04-02,Camp. : R.M. Campeche,Pradera,322.0,5.0,22.5,23.5
+2004-04-05,Camp. : R.M. Campeche,Pradera,320.0,15.0,22.5,23.5
+2004-04-06,Camp. : R.M. Campeche,Pradera,320.0,13.0,22.5,23.5
+2004-04-07,Camp. : R.M. Campeche,Pradera,320.0,16.0,22.5,23.5
+2004-04-12,Camp. : R.M. Campeche,Pradera,320.0,40.0,22.5,23.5
+2004-04-13,Camp. : R.M. Campeche,Pradera,320.0,28.0,22.5,23.5
+2004-04-14,Camp. : R.M. Campeche,Pradera,320.0,15.0,22.5,23.5
+2004-04-15,Camp. : R.M. Campeche,Pradera,320.0,15.0,22.5,23.5
+2004-04-16,Camp. : R.M. Campeche,Pradera,320.0,16.0,22.5,23.5
+2004-04-19,Camp. : R.M. Campeche,Pradera,320.0,25.0,22.5,23.5
+2004-04-20,Camp. : R.M. Campeche,Pradera,320.0,14.0,22.5,23.5
+2004-04-21,Camp. : R.M. Campeche,Pradera,320.0,24.0,22.5,23.5
+2004-04-22,Camp. : R.M. Campeche,Pradera,320.0,16.0,22.5,23.5
+2004-04-23,Camp. : R.M. Campeche,Pradera,320.0,13.0,22.5,23.5
+2004-04-26,Camp. : R.M. Campeche,Pradera,320.0,25.0,22.5,23.5
+2004-04-27,Camp. : R.M. Campeche,Pradera,320.0,37.0,22.5,23.5
+2004-04-28,Camp. : R.M. Campeche,Pradera,320.0,20.0,22.5,23.5
+2004-04-29,Camp. : R.M. Campeche,Pradera,320.0,14.0,22.5,23.5
+2004-04-30,Camp. : R.M. Campeche,Pradera,320.0,19.0,22.5,23.5
+2004-04-01,Coah. : R.M. Torreón,Corral,222.0,51.0,28.5,29.5
+2004-04-01,Coah. : R.M. Torreón,Vaca,360.0,36.0,19.5,20.0
+2004-04-03,Coah. : R.M. Torreón,Corral,222.0,39.0,28.5,29.5
+2004-04-03,Coah. : R.M. Torreón,Vaca,360.0,31.0,19.5,20.0
+2004-04-05,Coah. : R.M. Torreón,Corral,222.0,26.0,28.5,29.5
+2004-04-05,Coah. : R.M. Torreón,Vaca,360.0,13.0,19.5,20.0
+2004-04-06,Coah. : R.M. Torreón,Corral,222.0,33.0,28.5,29.5
+2004-04-06,Coah. : R.M. Torreón,Vaca,360.0,38.0,19.5,20.0
+2004-04-07,Coah. : R.M. Torreón,Corral,222.0,26.0,28.5,29.5
+2004-04-07,Coah. : R.M. Torreón,Vaca,360.0,39.0,19.5,20.0
+2004-04-13,Coah. : R.M. Torreón,Corral,222.0,55.0,28.5,29.5
+2004-04-13,Coah. : R.M. Torreón,Vaca,360.0,39.0,19.5,20.0
+2004-04-14,Coah. : R.M. Torreón,Corral,222.0,39.0,28.5,29.5
+2004-04-14,Coah. : R.M. Torreón,Vaca,360.0,19.0,19.5,20.0
+2004-04-15,Coah. : R.M. Torreón,Corral,222.0,47.0,28.5,29.5
+2004-04-15,Coah. : R.M. Torreón,Vaca,360.0,29.0,19.5,20.0
+2004-04-17,Coah. : R.M. Torreón,Corral,222.0,40.0,28.5,29.5
+2004-04-17,Coah. : R.M. Torreón,Vaca,360.0,21.0,19.5,20.0
+2004-04-19,Coah. : R.M. Torreón,Corral,222.0,36.0,28.5,29.5
+2004-04-19,Coah. : R.M. Torreón,Vaca,360.0,28.0,19.5,20.0
+2004-04-20,Coah. : R.M. Torreón,Corral,222.0,65.0,28.5,29.5
+2004-04-20,Coah. : R.M. Torreón,Vaca,360.0,46.0,19.5,20.0
+2004-04-21,Coah. : R.M. Torreón,Corral,222.0,23.0,28.5,29.5
+2004-04-21,Coah. : R.M. Torreón,Vaca,360.0,6.0,19.5,20.0
+2004-04-22,Coah. : R.M. Torreón,Corral,222.0,42.0,28.5,29.5
+2004-04-22,Coah. : R.M. Torreón,Vaca,360.0,17.0,19.5,20.0
+2004-04-24,Coah. : R.M. Torreón,Corral,222.0,45.0,28.5,29.5
+2004-04-24,Coah. : R.M. Torreón,Vaca,360.0,17.0,19.5,20.0
+2004-04-26,Coah. : R.M. Torreón,Corral,222.0,57.0,27.0,30.0
+2004-04-26,Coah. : R.M. Torreón,Vaca,360.0,41.0,20.5,21.0
+2004-04-27,Coah. : R.M. Torreón,Corral,222.0,48.0,28.5,29.5
+2004-04-27,Coah. : R.M. Torreón,Vaca,360.0,16.0,19.5,20.0
+2004-04-28,Coah. : R.M. Torreón,Corral,222.0,42.0,28.5,29.5
+2004-04-28,Coah. : R.M. Torreón,Vaca,360.0,30.0,19.5,20.0
+2004-04-29,Coah. : R.M. Torreón,Corral,222.0,47.0,28.5,29.5
+2004-04-29,Coah. : R.M. Torreón,Vaca,360.0,19.0,19.5,20.0
+2004-04-01,Coah. : R.P. La Torrena,Corral,222.0,1.0,27.0,30.0
+2004-04-01,Coah. : R.P. La Torrena,Vaca,360.0,80.0,20.5,21.0
+2004-04-02,Coah. : R.P. La Torrena,Corral,222.0,11.0,27.0,30.0
+2004-04-02,Coah. : R.P. La Torrena,Vaca,360.0,54.0,20.5,21.0
+2004-04-03,Coah. : R.P. La Torrena,Corral,222.0,2.0,27.0,30.0
+2004-04-03,Coah. : R.P. La Torrena,Vaca,360.0,81.0,20.5,21.0
+2004-04-05,Coah. : R.P. La Torrena,Corral,222.0,6.0,27.0,30.0
+2004-04-05,Coah. : R.P. La Torrena,Vaca,360.0,56.0,20.5,21.0
+2004-04-06,Coah. : R.P. La Torrena,Corral,222.0,5.0,27.0,30.0
+2004-04-06,Coah. : R.P. La Torrena,Vaca,360.0,64.0,20.5,21.0
+2004-04-07,Coah. : R.P. La Torrena,Corral,222.0,1.0,27.0,30.0
+2004-04-07,Coah. : R.P. La Torrena,Vaca,360.0,72.0,20.5,21.0
+2004-04-12,Coah. : R.P. La Torrena,Corral,222.0,9.0,27.0,30.0
+2004-04-12,Coah. : R.P. La Torrena,Vaca,360.0,77.0,20.5,21.0
+2004-04-13,Coah. : R.P. La Torrena,Corral,222.0,8.0,27.0,30.0
+2004-04-13,Coah. : R.P. La Torrena,Vaca,360.0,57.0,20.5,21.0
+2004-04-14,Coah. : R.P. La Torrena,Corral,222.0,3.0,27.0,30.0
+2004-04-14,Coah. : R.P. La Torrena,Vaca,360.0,71.0,20.5,21.0
+2004-04-15,Coah. : R.P. La Torrena,Corral,222.0,8.0,27.0,30.0
+2004-04-15,Coah. : R.P. La Torrena,Vaca,360.0,88.0,20.5,21.0
+2004-04-16,Coah. : R.P. La Torrena,Corral,222.0,8.0,27.0,30.0
+2004-04-16,Coah. : R.P. La Torrena,Vaca,360.0,45.0,20.5,21.0
+2004-04-17,Coah. : R.P. La Torrena,Corral,222.0,2.0,27.0,30.0
+2004-04-17,Coah. : R.P. La Torrena,Vaca,360.0,68.0,20.5,21.0
+2004-04-19,Coah. : R.P. La Torrena,Corral,222.0,29.0,27.0,30.0
+2004-04-19,Coah. : R.P. La Torrena,Vaca,360.0,88.0,20.5,21.0
+2004-04-20,Coah. : R.P. La Torrena,Corral,222.0,5.0,27.0,30.0
+2004-04-20,Coah. : R.P. La Torrena,Vaca,360.0,76.0,20.5,21.0
+2004-04-21,Coah. : R.P. La Torrena,Corral,222.0,9.0,27.0,30.0
+2004-04-21,Coah. : R.P. La Torrena,Vaca,360.0,77.0,20.5,21.0
+2004-04-22,Coah. : R.P. La Torrena,Corral,222.0,10.0,27.0,30.0
+2004-04-22,Coah. : R.P. La Torrena,Vaca,360.0,52.0,20.5,21.0
+2004-04-23,Coah. : R.P. La Torrena,Corral,222.0,5.0,27.0,30.0
+2004-04-23,Coah. : R.P. La Torrena,Vaca,360.0,56.0,20.5,21.0
+2004-04-24,Coah. : R.P. La Torrena,Corral,222.0,11.0,27.0,30.0
+2004-04-24,Coah. : R.P. La Torrena,Vaca,360.0,100.0,20.5,21.0
+2004-04-26,Coah. : R.P. La Torrena,Corral,222.0,36.0,28.5,29.5
+2004-04-26,Coah. : R.P. La Torrena,Vaca,360.0,15.0,19.5,20.0
+2004-04-27,Coah. : R.P. La Torrena,Corral,222.0,22.0,27.0,30.0
+2004-04-27,Coah. : R.P. La Torrena,Vaca,360.0,99.0,20.5,21.0
+2004-04-28,Coah. : R.P. La Torrena,Corral,222.0,4.0,27.0,30.0
+2004-04-28,Coah. : R.P. La Torrena,Vaca,360.0,72.0,20.5,21.0
+2004-04-29,Coah. : R.P. La Torrena,Corral,222.0,18.0,27.0,30.0
+2004-04-29,Coah. : R.P. La Torrena,Vaca,360.0,15.0,20.5,21.0
+2004-04-30,Coah. : R.P. La Torrena,Corral,222.0,8.0,27.0,30.0
+2004-04-30,Coah. : R.P. La Torrena,Vaca,360.0,54.0,20.5,21.0
+2004-04-01,Coah. : R.P. Perecederos y Derivados,Corral,222.0,43.0,29.0,30.0
+2004-04-01,Coah. : R.P. Perecederos y Derivados,Vaca,360.0,10.0,20.0,21.0
+2004-04-05,Coah. : R.P. Perecederos y Derivados,Corral,222.0,45.0,29.0,30.0
+2004-04-05,Coah. : R.P. Perecederos y Derivados,Vaca,360.0,52.0,20.0,21.0
+2004-04-06,Coah. : R.P. Perecederos y Derivados,Corral,222.0,160.0,29.0,30.0
+2004-04-07,Coah. : R.P. Perecederos y Derivados,Corral,222.0,40.0,29.0,30.0
+2004-04-07,Coah. : R.P. Perecederos y Derivados,Vaca,360.0,4.0,20.0,21.0
+2004-04-13,Coah. : R.P. Perecederos y Derivados,Corral,222.0,230.0,29.0,30.0
+2004-04-13,Coah. : R.P. Perecederos y Derivados,Vaca,360.0,30.0,20.0,21.0
+2004-04-14,Coah. : R.P. Perecederos y Derivados,Corral,222.0,5.0,29.0,30.0
+2004-04-14,Coah. : R.P. Perecederos y Derivados,Vaca,360.0,60.0,20.0,21.0
+2004-04-19,Coah. : R.P. Perecederos y Derivados,Corral,222.0,180.0,29.0,30.0
+2004-04-19,Coah. : R.P. Perecederos y Derivados,Vaca,360.0,60.0,20.0,21.0
+2004-04-20,Coah. : R.P. Perecederos y Derivados,Corral,222.0,60.0,29.0,30.0
+2004-04-20,Coah. : R.P. Perecederos y Derivados,Vaca,360.0,4.0,20.0,21.0
+2004-04-21,Coah. : R.P. Perecederos y Derivados,Corral,222.0,76.0,29.0,30.0
+2004-04-21,Coah. : R.P. Perecederos y Derivados,Vaca,360.0,81.0,20.0,21.0
+2004-04-22,Coah. : R.P. Perecederos y Derivados,Corral,222.0,35.0,29.0,30.0
+2004-04-22,Coah. : R.P. Perecederos y Derivados,Vaca,360.0,40.0,20.0,21.0
+2004-04-24,Coah. : R.P. Perecederos y Derivados,Vaca,360.0,45.0,20.0,21.0
+2004-04-26,Coah. : R.P. Perecederos y Derivados,Corral,222.0,54.0,29.0,30.0
+2004-04-26,Coah. : R.P. Perecederos y Derivados,Vaca,360.0,10.0,20.0,21.0
+2004-04-27,Coah. : R.P. Perecederos y Derivados,Corral,222.0,44.0,29.0,30.0
+2004-04-28,Coah. : R.P. Perecederos y Derivados,Corral,222.0,20.0,29.0,30.0
+2004-04-28,Coah. : R.P. Perecederos y Derivados,Vaca,360.0,44.0,20.0,21.0
+2004-04-29,Coah. : R.P. Perecederos y Derivados,Corral,222.0,20.0,29.0,30.0
+2004-04-29,Coah. : R.P. Perecederos y Derivados,Vaca,360.0,15.0,20.0,21.0
+2004-04-02,Col. : Procesadora municipal de carne de Colima,Corral,208.0,66.0,19.0,30.0
+2004-04-03,Col. : Procesadora municipal de carne de Colima,Corral,208.0,66.0,19.0,30.0
+2004-04-05,Col. : Procesadora municipal de carne de Colima,Corral,208.0,50.0,19.0,30.0
+2004-04-06,Col. : Procesadora municipal de carne de Colima,Corral,208.0,44.0,19.0,30.0
+2004-04-07,Col. : Procesadora municipal de carne de Colima,Corral,208.0,87.0,19.0,30.0
+2004-04-12,Col. : Procesadora municipal de carne de Colima,Corral,208.0,110.0,19.0,30.0
+2004-04-13,Col. : Procesadora municipal de carne de Colima,Corral,208.0,39.0,19.0,30.0
+2004-04-14,Col. : Procesadora municipal de carne de Colima,Corral,208.0,79.0,19.0,30.0
+2004-04-16,Col. : Procesadora municipal de carne de Colima,Corral,208.0,82.0,19.0,30.0
+2004-04-17,Col. : Procesadora municipal de carne de Colima,Corral,208.0,70.0,19.0,30.0
+2004-04-19,Col. : Procesadora municipal de carne de Colima,Corral,208.0,63.0,19.0,30.0
+2004-04-20,Col. : Procesadora municipal de carne de Colima,Corral,208.0,43.0,19.0,30.0
+2004-04-21,Col. : Procesadora municipal de carne de Colima,Corral,208.0,65.0,19.0,30.0
+2004-04-23,Col. : Procesadora municipal de carne de Colima,Corral,208.0,77.0,19.0,30.0
+2004-04-24,Col. : Procesadora municipal de carne de Colima,Corral,208.0,66.0,19.0,30.0
+2004-04-26,Col. : Procesadora municipal de carne de Colima,Corral,208.0,48.0,19.0,30.0
+2004-04-27,Col. : Procesadora municipal de carne de Colima,Corral,208.0,43.0,19.0,30.0
+2004-04-28,Col. : Procesadora municipal de carne de Colima,Corral,208.0,62.0,19.0,30.0
+2004-04-30,Col. : Procesadora municipal de carne de Colima,Corral,208.0,139.0,19.0,30.0
+2004-04-01,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,210.0,8.0,,27.5
+2004-04-01,Chih. : R.M.TIF 366 Corral de San Ignacio,Toros,320.0,15.0,,22.5
+2004-04-01,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,220.0,37.0,,21.0
+2004-04-02,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,210.0,10.0,,27.5
+2004-04-02,Chih. : R.M.TIF 366 Corral de San Ignacio,Toros,320.0,5.0,,22.5
+2004-04-02,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,220.0,15.0,,21.0
+2004-04-05,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,320.0,3.0,,22.5
+2004-04-05,Chih. : R.M.TIF 366 Corral de San Ignacio,Toros,320.0,3.0,,22.5
+2004-04-05,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,220.0,25.0,,21.0
+2004-04-06,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,210.0,19.0,,27.5
+2004-04-06,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,220.0,19.0,,21.0
+2004-04-07,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,210.0,5.0,,27.5
+2004-04-07,Chih. : R.M.TIF 366 Corral de San Ignacio,Toros,320.0,3.0,,22.5
+2004-04-07,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,220.0,13.0,,21.0
+2004-04-12,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,210.0,22.0,,27.5
+2004-04-12,Chih. : R.M.TIF 366 Corral de San Ignacio,Toros,320.0,10.0,,22.5
+2004-04-12,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,220.0,34.0,,21.0
+2004-04-13,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,210.0,37.0,,27.5
+2004-04-13,Chih. : R.M.TIF 366 Corral de San Ignacio,Toros,320.0,4.0,,22.5
+2004-04-13,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,220.0,39.0,,21.0
+2004-04-14,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,210.0,26.0,,27.5
+2004-04-14,Chih. : R.M.TIF 366 Corral de San Ignacio,Toros,320.0,1.0,,22.5
+2004-04-14,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,220.0,35.0,,21.0
+2004-04-15,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,210.0,27.0,,27.5
+2004-04-15,Chih. : R.M.TIF 366 Corral de San Ignacio,Toros,320.0,3.0,,22.5
+2004-04-15,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,220.0,58.0,,21.0
+2004-04-16,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,210.0,19.0,,27.5
+2004-04-16,Chih. : R.M.TIF 366 Corral de San Ignacio,Toros,320.0,10.0,,22.5
+2004-04-16,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,220.0,54.0,,21.0
+2004-04-19,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,210.0,40.0,,28.0
+2004-04-19,Chih. : R.M.TIF 366 Corral de San Ignacio,Toros,420.0,15.0,,23.0
+2004-04-19,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,225.0,20.0,,24.0
+2004-04-20,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,200.0,25.0,,26.0
+2004-04-20,Chih. : R.M.TIF 366 Corral de San Ignacio,Toros,456.0,5.0,,23.0
+2004-04-20,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,230.0,23.0,,24.0
+2004-04-21,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,196.0,40.0,,26.0
+2004-04-21,Chih. : R.M.TIF 366 Corral de San Ignacio,Toros,420.0,10.0,,23.0
+2004-04-21,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,220.0,20.0,,24.0
+2004-04-22,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,195.0,25.0,,28.0
+2004-04-22,Chih. : R.M.TIF 366 Corral de San Ignacio,Toros,420.0,5.0,,23.0
+2004-04-22,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,220.0,25.0,,24.0
+2004-04-23,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,193.0,65.0,,28.0
+2004-04-23,Chih. : R.M.TIF 366 Corral de San Ignacio,Toros,620.0,3.0,,23.0
+2004-04-23,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,223.0,22.0,,24.0
+2004-04-26,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,205.0,60.0,,28.0
+2004-04-26,Chih. : R.M.TIF 366 Corral de San Ignacio,Toros,475.0,10.0,,23.0
+2004-04-26,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,225.0,40.0,,24.0
+2004-04-27,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,202.0,60.0,,28.0
+2004-04-27,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,225.0,32.0,,24.0
+2004-04-28,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,189.0,15.0,,28.0
+2004-04-28,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,208.0,25.0,,24.0
+2004-04-29,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,195.0,35.0,,28.0
+2004-04-29,Chih. : R.M.TIF 366 Corral de San Ignacio,Toros,515.0,2.0,,23.0
+2004-04-29,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,217.0,28.0,,24.0
+2004-04-30,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,199.0,57.0,,28.0
+2004-04-30,Chih. : R.M.TIF 366 Corral de San Ignacio,Toros,525.0,5.0,,23.0
+2004-04-30,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,226.0,35.0,,24.0
+2004-04-02,Chis. : TIF 78 Frigorífico del Sureste,Pradera,232.0,150.0,20.0,23.0
+2004-04-05,Chis. : TIF 78 Frigorífico del Sureste,Pradera,240.0,115.0,20.0,23.0
+2004-04-06,Chis. : TIF 78 Frigorífico del Sureste,Pradera,121.0,212.0,20.0,23.0
+2004-04-07,Chis. : TIF 78 Frigorífico del Sureste,Pradera,92.0,252.0,20.0,23.0
+2004-04-13,Chis. : TIF 78 Frigorífico del Sureste,Pradera,130.0,284.0,20.0,23.0
+2004-04-14,Chis. : TIF 78 Frigorífico del Sureste,Pradera,119.0,120.0,20.0,23.0
+2004-04-15,Chis. : TIF 78 Frigorífico del Sureste,Pradera,134.0,164.0,20.0,23.0
+2004-04-16,Chis. : TIF 78 Frigorífico del Sureste,Pradera,118.0,126.0,20.0,23.0
+2004-04-19,Chis. : TIF 78 Frigorífico del Sureste,Pradera,129.0,312.0,20.0,23.0
+2004-04-20,Chis. : TIF 78 Frigorífico del Sureste,Pradera,132.0,206.0,20.0,23.0
+2004-04-21,Chis. : TIF 78 Frigorífico del Sureste,Pradera,126.0,104.0,20.0,23.0
+2004-04-22,Chis. : TIF 78 Frigorífico del Sureste,Pradera,120.0,284.0,21.0,24.0
+2004-04-23,Chis. : TIF 78 Frigorífico del Sureste,Pradera,123.0,154.0,21.0,24.0
+2004-04-26,Chis. : TIF 78 Frigorífico del Sureste,Pradera,99.0,234.0,21.0,24.0
+2004-04-27,Chis. : TIF 78 Frigorífico del Sureste,Pradera,115.0,308.0,21.0,24.0
+2004-04-28,Chis. : TIF 78 Frigorífico del Sureste,Pradera,127.0,126.0,21.0,24.0
+2004-04-29,Chis. : TIF 78 Frigorífico del Sureste,Pradera,118.0,206.0,21.0,24.0
+2004-04-30,Chis. : TIF 78 Frigorífico del Sureste,Pradera,131.0,56.0,21.0,24.0
+2004-04-01,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,480.0,6.0,32.0,32.0
+2004-04-01,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,330.0,25.0,28.0,32.0
+2004-04-01,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,350.0,69.0,22.0,24.0
+2004-04-05,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,450.0,40.0,32.0,32.0
+2004-04-05,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,340.0,19.0,28.0,32.0
+2004-04-05,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,220.0,20.0,22.0,24.0
+2004-04-06,Dgo. : Planta TIF No. 546 (antes TIF No.65),Novillona,220.0,21.0,30.0,32.0
+2004-04-06,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,280.0,11.0,28.0,32.0
+2004-04-06,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,260.0,16.0,22.0,24.0
+2004-04-12,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,400.0,20.0,32.0,32.0
+2004-04-12,Dgo. : Planta TIF No. 546 (antes TIF No.65),Novillona,300.0,20.0,30.0,32.0
+2004-04-12,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,300.0,21.0,28.0,32.0
+2004-04-12,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,320.0,44.0,22.0,24.0
+2004-04-14,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,360.0,13.0,27.0,32.0
+2004-04-14,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,230.0,30.0,22.0,24.0
+2004-04-15,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,500.0,7.0,32.0,32.0
+2004-04-15,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,280.0,44.0,27.0,32.0
+2004-04-15,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,220.0,39.0,22.0,24.0
+2004-04-16,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,260.0,11.0,27.0,32.0
+2004-04-16,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,250.0,88.0,22.0,24.0
+2004-04-19,Dgo. : Planta TIF No. 546 (antes TIF No.65),Novillona,250.0,5.0,28.0,32.0
+2004-04-19,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,280.0,52.0,27.0,32.0
+2004-04-19,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,220.0,36.0,22.0,24.0
+2004-04-20,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,230.0,2.0,28.0,28.0
+2004-04-20,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,220.0,19.0,22.0,24.0
+2004-04-21,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,330.0,25.0,27.0,32.0
+2004-04-21,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,280.0,90.0,22.0,24.0
+2004-04-22,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,500.0,20.0,31.0,32.0
+2004-04-22,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,340.0,38.0,27.0,32.0
+2004-04-22,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,230.0,57.0,22.0,24.0
+2004-04-23,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,340.0,17.0,27.0,32.0
+2004-04-23,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,230.0,45.0,22.0,24.0
+2004-04-26,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,450.0,5.0,32.0,32.0
+2004-04-26,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,220.0,24.0,22.0,24.0
+2004-04-27,Dgo. : Planta TIF No. 546 (antes TIF No.65),Novillona,210.0,59.0,30.0,32.0
+2004-04-27,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,290.0,16.0,27.0,32.0
+2004-04-27,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,200.0,20.0,22.0,24.0
+2004-04-28,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,200.0,11.0,27.0,32.0
+2004-04-28,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,200.0,83.0,22.0,24.0
+2004-04-29,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,500.0,4.0,32.0,32.0
+2004-04-29,Dgo. : Planta TIF No. 546 (antes TIF No.65),Novillona,220.0,10.0,29.0,32.0
+2004-04-29,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,290.0,35.0,27.0,32.0
+2004-04-29,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,280.0,51.0,22.0,24.0
+2004-04-30,Dgo. : Planta TIF No. 546 (antes TIF No.65),Novillona,220.0,18.0,29.0,32.0
+2004-04-30,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,270.0,14.0,27.0,32.0
+2004-04-30,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,220.0,27.0,22.0,24.0
+2004-04-01,Edo. Méx. : Cerro Gordo,Corral,,95.0,,29.0
+2004-04-01,Edo. Méx. : Cerro Gordo,Pradera,,11.0,,28.0
+2004-04-01,Edo. Méx. : Cerro Gordo,Vaca,,4.0,,18.0
+2004-04-03,Edo. Méx. : Cerro Gordo,Corral,,105.0,,29.0
+2004-04-03,Edo. Méx. : Cerro Gordo,Pradera,,10.0,,28.0
+2004-04-03,Edo. Méx. : Cerro Gordo,Vaca,,2.0,,18.0
+2004-04-05,Edo. Méx. : Cerro Gordo,Corral,,58.0,,29.0
+2004-04-05,Edo. Méx. : Cerro Gordo,Pradera,,9.0,,28.0
+2004-04-05,Edo. Méx. : Cerro Gordo,Vaca,,3.0,,18.0
+2004-04-10,Edo. Méx. : Cerro Gordo,Corral,,107.0,,29.0
+2004-04-10,Edo. Méx. : Cerro Gordo,Pradera,,11.0,,28.0
+2004-04-10,Edo. Méx. : Cerro Gordo,Vaca,,1.0,,18.0
+2004-04-12,Edo. Méx. : Cerro Gordo,Corral,,67.0,,29.0
+2004-04-12,Edo. Méx. : Cerro Gordo,Pradera,,10.0,,28.0
+2004-04-12,Edo. Méx. : Cerro Gordo,Vaca,,3.0,,18.0
+2004-04-13,Edo. Méx. : Cerro Gordo,Corral,,21.0,,29.0
+2004-04-13,Edo. Méx. : Cerro Gordo,Pradera,,8.0,,28.0
+2004-04-13,Edo. Méx. : Cerro Gordo,Vaca,,2.0,,18.0
+2004-04-14,Edo. Méx. : Cerro Gordo,Corral,,121.0,,29.0
+2004-04-14,Edo. Méx. : Cerro Gordo,Pradera,,10.0,,28.0
+2004-04-14,Edo. Méx. : Cerro Gordo,Vaca,,4.0,,18.0
+2004-04-16,Edo. Méx. : Cerro Gordo,Corral,,83.0,,29.0
+2004-04-16,Edo. Méx. : Cerro Gordo,Pradera,,8.0,,28.0
+2004-04-16,Edo. Méx. : Cerro Gordo,Vaca,,4.0,,18.0
+2004-04-17,Edo. Méx. : Cerro Gordo,Corral,,73.0,,29.0
+2004-04-17,Edo. Méx. : Cerro Gordo,Pradera,,9.0,,28.0
+2004-04-17,Edo. Méx. : Cerro Gordo,Vaca,,1.0,,18.0
+2004-04-19,Edo. Méx. : Cerro Gordo,Corral,,78.0,,29.0
+2004-04-19,Edo. Méx. : Cerro Gordo,Pradera,,8.0,,28.0
+2004-04-19,Edo. Méx. : Cerro Gordo,Vaca,,3.0,,18.0
+2004-04-20,Edo. Méx. : Cerro Gordo,Corral,,15.0,,29.0
+2004-04-20,Edo. Méx. : Cerro Gordo,Pradera,,5.0,,28.0
+2004-04-20,Edo. Méx. : Cerro Gordo,Vaca,,2.0,,18.0
+2004-04-21,Edo. Méx. : Cerro Gordo,Corral,,74.0,,29.0
+2004-04-21,Edo. Méx. : Cerro Gordo,Pradera,,8.0,,28.0
+2004-04-21,Edo. Méx. : Cerro Gordo,Vaca,,3.0,,18.0
+2004-04-23,Edo. Méx. : Cerro Gordo,Corral,,93.0,,29.0
+2004-04-23,Edo. Méx. : Cerro Gordo,Pradera,,10.0,,28.0
+2004-04-23,Edo. Méx. : Cerro Gordo,Vaca,,3.0,,18.0
+2004-04-25,Edo. Méx. : Cerro Gordo,Corral,,72.0,,29.0
+2004-04-25,Edo. Méx. : Cerro Gordo,Pradera,,8.0,,28.0
+2004-04-25,Edo. Méx. : Cerro Gordo,Vaca,,2.0,,18.0
+2004-04-26,Edo. Méx. : Cerro Gordo,Corral,,69.0,,29.0
+2004-04-26,Edo. Méx. : Cerro Gordo,Pradera,,8.0,,28.0
+2004-04-26,Edo. Méx. : Cerro Gordo,Vaca,,3.0,,18.0
+2004-04-27,Edo. Méx. : Cerro Gordo,Corral,,10.0,,29.0
+2004-04-27,Edo. Méx. : Cerro Gordo,Pradera,,5.0,,28.0
+2004-04-28,Edo. Méx. : Cerro Gordo,Corral,,74.0,,29.0
+2004-04-28,Edo. Méx. : Cerro Gordo,Pradera,,8.0,,28.0
+2004-04-28,Edo. Méx. : Cerro Gordo,Vaca,,3.0,,18.0
+2004-04-29,Edo. Méx. : Cerro Gordo,Corral,,45.0,,29.0
+2004-04-29,Edo. Méx. : Cerro Gordo,Pradera,,7.0,,28.0
+2004-04-29,Edo. Méx. : Cerro Gordo,Vaca,,3.0,,18.0
+2004-04-30,Edo. Méx. : Cerro Gordo,Corral,,83.0,,29.0
+2004-04-30,Edo. Méx. : Cerro Gordo,Pradera,,9.0,,28.0
+2004-04-30,Edo. Méx. : Cerro Gordo,Vaca,,4.0,,18.0
+2004-04-01,Edo. Méx. : Ecatepec,Corral,280.0,56.0,,28.5
+2004-04-01,Edo. Méx. : Ecatepec,Pradera,240.0,8.0,,27.0
+2004-04-01,Edo. Méx. : Ecatepec,Vaca,190.0,10.0,,18.0
+2004-04-03,Edo. Méx. : Ecatepec,Corral,,63.0,,29.0
+2004-04-03,Edo. Méx. : Ecatepec,Pradera,,8.0,,28.0
+2004-04-03,Edo. Méx. : Ecatepec,Vaca,,4.0,,18.0
+2004-04-05,Edo. Méx. : Ecatepec,Corral,,57.0,,29.0
+2004-04-05,Edo. Méx. : Ecatepec,Pradera,,9.0,,28.0
+2004-04-05,Edo. Méx. : Ecatepec,Vaca,,4.0,,18.0
+2004-04-06,Edo. Méx. : Ecatepec,Corral,,20.0,,29.0
+2004-04-06,Edo. Méx. : Ecatepec,Pradera,,5.0,,28.0
+2004-04-12,Edo. Méx. : Ecatepec,Corral,,63.0,,29.0
+2004-04-12,Edo. Méx. : Ecatepec,Pradera,,9.0,,28.0
+2004-04-12,Edo. Méx. : Ecatepec,Vaca,,3.0,,18.0
+2004-04-13,Edo. Méx. : Ecatepec,Corral,,19.0,,29.0
+2004-04-13,Edo. Méx. : Ecatepec,Pradera,,5.0,,28.0
+2004-04-13,Edo. Méx. : Ecatepec,Vaca,,3.0,,18.0
+2004-04-14,Edo. Méx. : Ecatepec,Corral,280.0,47.0,,28.5
+2004-04-14,Edo. Méx. : Ecatepec,Pradera,240.0,11.0,,27.0
+2004-04-14,Edo. Méx. : Ecatepec,Vaca,190.0,6.0,,18.0
+2004-04-15,Edo. Méx. : Ecatepec,Corral,280.0,30.0,,28.5
+2004-04-15,Edo. Méx. : Ecatepec,Pradera,250.0,13.0,,27.0
+2004-04-15,Edo. Méx. : Ecatepec,Vaca,190.0,5.0,,18.0
+2004-04-16,Edo. Méx. : Ecatepec,Corral,280.0,79.0,,28.5
+2004-04-16,Edo. Méx. : Ecatepec,Pradera,240.0,10.0,,27.0
+2004-04-16,Edo. Méx. : Ecatepec,Vaca,190.0,8.0,,18.0
+2004-04-17,Edo. Méx. : Ecatepec,Corral,280.0,45.0,,28.5
+2004-04-17,Edo. Méx. : Ecatepec,Pradera,250.0,14.0,,27.0
+2004-04-17,Edo. Méx. : Ecatepec,Vaca,190.0,5.0,,18.0
+2004-04-19,Edo. Méx. : Ecatepec,Corral,280.0,89.0,,28.5
+2004-04-19,Edo. Méx. : Ecatepec,Pradera,240.0,20.0,,27.0
+2004-04-19,Edo. Méx. : Ecatepec,Vaca,190.0,9.0,,18.0
+2004-04-20,Edo. Méx. : Ecatepec,Corral,280.0,57.0,,28.5
+2004-04-20,Edo. Méx. : Ecatepec,Pradera,250.0,10.0,,27.0
+2004-04-20,Edo. Méx. : Ecatepec,Vaca,190.0,5.0,,18.0
+2004-04-21,Edo. Méx. : Ecatepec,Corral,280.0,35.0,,28.5
+2004-04-21,Edo. Méx. : Ecatepec,Pradera,250.0,14.0,,27.0
+2004-04-22,Edo. Méx. : Ecatepec,Corral,280.0,30.0,,28.5
+2004-04-22,Edo. Méx. : Ecatepec,Pradera,240.0,8.0,,27.0
+2004-04-22,Edo. Méx. : Ecatepec,Vaca,190.0,4.0,,18.0
+2004-04-23,Edo. Méx. : Ecatepec,Corral,280.0,97.0,,28.5
+2004-04-23,Edo. Méx. : Ecatepec,Pradera,250.0,20.0,,27.0
+2004-04-23,Edo. Méx. : Ecatepec,Vaca,180.0,11.0,,18.0
+2004-04-24,Edo. Méx. : Ecatepec,Corral,280.0,49.0,,28.5
+2004-04-24,Edo. Méx. : Ecatepec,Pradera,240.0,12.0,,27.0
+2004-04-24,Edo. Méx. : Ecatepec,Vaca,190.0,4.0,,18.0
+2004-04-26,Edo. Méx. : Ecatepec,Corral,280.0,95.0,,28.5
+2004-04-26,Edo. Méx. : Ecatepec,Pradera,250.0,12.0,,27.0
+2004-04-26,Edo. Méx. : Ecatepec,Vaca,200.0,8.0,,18.0
+2004-04-27,Edo. Méx. : Ecatepec,Corral,280.0,59.0,,28.5
+2004-04-27,Edo. Méx. : Ecatepec,Pradera,250.0,12.0,,27.0
+2004-04-27,Edo. Méx. : Ecatepec,Vaca,190.0,5.0,,18.0
+2004-04-28,Edo. Méx. : Ecatepec,Corral,280.0,35.0,,28.5
+2004-04-28,Edo. Méx. : Ecatepec,Pradera,240.0,10.0,,27.0
+2004-04-29,Edo. Méx. : Ecatepec,Corral,280.0,46.0,,28.5
+2004-04-29,Edo. Méx. : Ecatepec,Pradera,240.0,10.0,,27.0
+2004-04-29,Edo. Méx. : Ecatepec,Vaca,190.0,6.0,,18.0
+2004-04-30,Edo. Méx. : Ecatepec,Corral,280.0,94.0,,28.5
+2004-04-30,Edo. Méx. : Ecatepec,Pradera,240.0,20.0,,27.0
+2004-04-30,Edo. Méx. : Ecatepec,Vaca,200.0,8.0,,18.0
+2004-04-01,Edo. Méx. : La Paz,Corral,320.0,76.0,,28.0
+2004-04-03,Edo. Méx. : La Paz,Corral,320.0,73.0,,28.0
+2004-04-05,Edo. Méx. : La Paz,Corral,320.0,122.0,,28.0
+2004-04-06,Edo. Méx. : La Paz,Corral,320.0,120.0,,28.0
+2004-04-07,Edo. Méx. : La Paz,Corral,320.0,107.0,,28.0
+2004-04-12,Edo. Méx. : La Paz,Corral,300.0,111.0,,27.8
+2004-04-13,Edo. Méx. : La Paz,Corral,320.0,56.0,,28.0
+2004-04-14,Edo. Méx. : La Paz,Corral,320.0,75.0,,28.0
+2004-04-15,Edo. Méx. : La Paz,Corral,320.0,91.0,,28.0
+2004-04-16,Edo. Méx. : La Paz,Corral,320.0,132.0,,27.9
+2004-04-17,Edo. Méx. : La Paz,Corral,320.0,118.0,,28.0
+2004-04-19,Edo. Méx. : La Paz,Corral,320.0,104.0,,28.0
+2004-04-20,Edo. Méx. : La Paz,Corral,320.0,80.0,,28.0
+2004-04-21,Edo. Méx. : La Paz,Corral,320.0,59.0,,28.0
+2004-04-22,Edo. Méx. : La Paz,Corral,320.0,151.0,,28.0
+2004-04-23,Edo. Méx. : La Paz,Corral,320.0,88.0,,28.0
+2004-04-24,Edo. Méx. : La Paz,Corral,320.0,72.0,,28.0
+2004-04-26,Edo. Méx. : La Paz,Corral,320.0,102.0,,28.0
+2004-04-27,Edo. Méx. : La Paz,Corral,320.0,100.0,,28.0
+2004-04-28,Edo. Méx. : La Paz,Corral,320.0,87.0,,27.9
+2004-04-29,Edo. Méx. : La Paz,Corral,320.0,72.0,,27.9
+2004-04-30,Edo. Méx. : La Paz,Corral,320.0,123.0,,28.0
+2004-04-01,Edo. Méx. : Naucalpan,Corral,280.0,234.0,28.5,29.0
+2004-04-03,Edo. Méx. : Naucalpan,Corral,280.0,486.0,28.5,29.0
+2004-04-05,Edo. Méx. : Naucalpan,Corral,280.0,127.0,28.5,29.0
+2004-04-06,Edo. Méx. : Naucalpan,Corral,280.0,134.0,28.5,29.0
+2004-04-07,Edo. Méx. : Naucalpan,Corral,280.0,40.0,28.5,29.0
+2004-04-10,Edo. Méx. : Naucalpan,Corral,280.0,164.0,28.5,29.0
+2004-04-12,Edo. Méx. : Naucalpan,Corral,280.0,349.0,28.5,29.0
+2004-04-13,Edo. Méx. : Naucalpan,Corral,280.0,244.0,28.5,29.0
+2004-04-14,Edo. Méx. : Naucalpan,Corral,280.0,210.0,28.5,29.0
+2004-04-15,Edo. Méx. : Naucalpan,Corral,280.0,234.0,28.5,29.0
+2004-04-16,Edo. Méx. : Naucalpan,Corral,280.0,258.0,28.5,29.0
+2004-04-17,Edo. Méx. : Naucalpan,Corral,280.0,429.0,28.5,29.0
+2004-04-19,Edo. Méx. : Naucalpan,Corral,280.0,248.0,28.5,29.0
+2004-04-20,Edo. Méx. : Naucalpan,Corral,280.0,233.0,28.5,29.0
+2004-04-21,Edo. Méx. : Naucalpan,Corral,280.0,253.0,28.5,29.0
+2004-04-22,Edo. Méx. : Naucalpan,Corral,280.0,241.0,28.5,29.0
+2004-04-23,Edo. Méx. : Naucalpan,Corral,280.0,251.0,28.5,29.0
+2004-04-24,Edo. Méx. : Naucalpan,Corral,280.0,377.0,,28.5
+2004-04-26,Edo. Méx. : Naucalpan,Corral,280.0,273.0,,28.5
+2004-04-27,Edo. Méx. : Naucalpan,Corral,280.0,243.0,,28.5
+2004-04-28,Edo. Méx. : Naucalpan,Corral,280.0,238.0,,28.5
+2004-04-29,Edo. Méx. : Naucalpan,Corral,280.0,250.0,,28.5
+2004-04-30,Edo. Méx. : Naucalpan,Corral,280.0,239.0,,28.5
+2004-04-01,Edo. Méx. : Nezahualcóyotl,Pradera,260.0,110.0,,28.0
+2004-04-03,Edo. Méx. : Nezahualcóyotl,Pradera,260.0,205.0,,28.0
+2004-04-05,Edo. Méx. : Nezahualcóyotl,Pradera,260.0,175.0,,28.0
+2004-04-10,Edo. Méx. : Nezahualcóyotl,Pradera,260.0,250.0,,28.0
+2004-04-12,Edo. Méx. : Nezahualcóyotl,Pradera,260.0,200.0,,28.0
+2004-04-13,Edo. Méx. : Nezahualcóyotl,Pradera,260.0,110.0,,28.0
+2004-04-14,Edo. Méx. : Nezahualcóyotl,Pradera,260.0,170.0,,28.0
+2004-04-15,Edo. Méx. : Nezahualcóyotl,Pradera,260.0,115.0,,28.0
+2004-04-16,Edo. Méx. : Nezahualcóyotl,Pradera,260.0,200.0,,28.0
+2004-04-17,Edo. Méx. : Nezahualcóyotl,Pradera,260.0,195.0,,28.0
+2004-04-19,Edo. Méx. : Nezahualcóyotl,Pradera,260.0,180.0,,28.0
+2004-04-20,Edo. Méx. : Nezahualcóyotl,Pradera,260.0,110.0,,28.0
+2004-04-21,Edo. Méx. : Nezahualcóyotl,Pradera,260.0,185.0,,28.0
+2004-04-22,Edo. Méx. : Nezahualcóyotl,Pradera,260.0,110.0,,28.0
+2004-04-23,Edo. Méx. : Nezahualcóyotl,Pradera,260.0,200.0,,28.0
+2004-04-24,Edo. Méx. : Nezahualcóyotl,Pradera,260.0,195.0,,28.0
+2004-04-26,Edo. Méx. : Nezahualcóyotl,Pradera,260.0,200.0,,28.0
+2004-04-27,Edo. Méx. : Nezahualcóyotl,Pradera,260.0,105.0,,28.0
+2004-04-28,Edo. Méx. : Nezahualcóyotl,Pradera,260.0,175.0,,28.0
+2004-04-29,Edo. Méx. : Nezahualcóyotl,Pradera,260.0,110.0,,28.0
+2004-04-30,Edo. Méx. : Nezahualcóyotl,Pradera,260.0,195.0,,28.0
+2004-04-01,Edo. Méx. : Temamatla,Corral,320.0,46.0,,28.0
+2004-04-02,Edo. Méx. : Temamatla,Corral,320.0,42.0,,27.5
+2004-04-03,Edo. Méx. : Temamatla,Corral,320.0,84.0,,27.5
+2004-04-05,Edo. Méx. : Temamatla,Corral,315.0,82.0,,27.5
+2004-04-10,Edo. Méx. : Temamatla,Corral,315.0,110.0,,27.5
+2004-04-12,Edo. Méx. : Temamatla,Corral,320.0,76.0,,27.5
+2004-04-13,Edo. Méx. : Temamatla,Corral,310.0,70.0,,27.5
+2004-04-14,Edo. Méx. : Temamatla,Corral,320.0,80.0,,27.5
+2004-04-15,Edo. Méx. : Temamatla,Corral,320.0,52.0,,27.5
+2004-04-16,Edo. Méx. : Temamatla,Corral,320.0,88.0,,27.5
+2004-04-17,Edo. Méx. : Temamatla,Corral,320.0,76.0,,27.5
+2004-04-19,Edo. Méx. : Temamatla,Corral,325.0,88.0,,27.5
+2004-04-20,Edo. Méx. : Temamatla,Corral,315.0,62.0,,27.5
+2004-04-21,Edo. Méx. : Temamatla,Corral,320.0,70.0,,27.5
+2004-04-22,Edo. Méx. : Temamatla,Corral,320.0,48.0,,27.5
+2004-04-23,Edo. Méx. : Temamatla,Corral,320.0,90.0,,27.5
+2004-04-24,Edo. Méx. : Temamatla,Corral,325.0,50.0,,27.5
+2004-04-26,Edo. Méx. : Temamatla,Corral,320.0,76.0,,27.5
+2004-04-27,Edo. Méx. : Temamatla,Corral,315.0,50.0,,27.5
+2004-04-28,Edo. Méx. : Temamatla,Corral,310.0,64.0,,27.5
+2004-04-29,Edo. Méx. : Temamatla,Corral,320.0,44.0,,27.5
+2004-04-30,Edo. Méx. : Temamatla,Corral,325.0,80.0,,27.5
+2004-04-01,Edo. Méx. : Tlalnepantla,Corral,250.0,36.0,,28.0
+2004-04-01,Edo. Méx. : Tlalnepantla,Vaca,190.0,37.0,21.0,23.0
+2004-04-03,Edo. Méx. : Tlalnepantla,Corral,255.0,45.0,28.0,28.5
+2004-04-03,Edo. Méx. : Tlalnepantla,Pradera,250.0,55.0,,28.0
+2004-04-03,Edo. Méx. : Tlalnepantla,Toros,340.0,7.0,,27.5
+2004-04-03,Edo. Méx. : Tlalnepantla,Vaca,195.0,42.0,21.0,23.0
+2004-04-05,Edo. Méx. : Tlalnepantla,Pradera,250.0,42.0,,28.0
+2004-04-05,Edo. Méx. : Tlalnepantla,Vaca,190.0,32.0,21.0,23.0
+2004-04-06,Edo. Méx. : Tlalnepantla,Pradera,250.0,22.0,,28.0
+2004-04-06,Edo. Méx. : Tlalnepantla,Vaca,190.0,27.0,21.0,24.0
+2004-04-10,Edo. Méx. : Tlalnepantla,Pradera,245.0,35.0,,28.0
+2004-04-10,Edo. Méx. : Tlalnepantla,Vaca,190.0,57.0,21.0,24.0
+2004-04-12,Edo. Méx. : Tlalnepantla,Corral,255.0,39.0,28.5,29.0
+2004-04-12,Edo. Méx. : Tlalnepantla,Pradera,250.0,52.0,,28.0
+2004-04-12,Edo. Méx. : Tlalnepantla,Vaca,195.0,23.0,21.0,23.0
+2004-04-13,Edo. Méx. : Tlalnepantla,Corral,255.0,44.0,28.5,29.0
+2004-04-13,Edo. Méx. : Tlalnepantla,Pradera,250.0,29.0,,28.0
+2004-04-13,Edo. Méx. : Tlalnepantla,Toros,335.0,3.0,,27.5
+2004-04-13,Edo. Méx. : Tlalnepantla,Vaca,190.0,37.0,22.0,24.0
+2004-04-14,Edo. Méx. : Tlalnepantla,Pradera,250.0,70.0,,28.0
+2004-04-14,Edo. Méx. : Tlalnepantla,Vaca,195.0,23.0,22.0,24.0
+2004-04-15,Edo. Méx. : Tlalnepantla,Pradera,250.0,26.0,,28.0
+2004-04-15,Edo. Méx. : Tlalnepantla,Vaca,185.0,31.0,22.0,24.0
+2004-04-16,Edo. Méx. : Tlalnepantla,Corral,250.0,38.0,28.5,29.0
+2004-04-16,Edo. Méx. : Tlalnepantla,Pradera,245.0,51.0,,28.0
+2004-04-16,Edo. Méx. : Tlalnepantla,Toros,340.0,3.0,,28.0
+2004-04-16,Edo. Méx. : Tlalnepantla,Vaca,195.0,39.0,22.0,24.0
+2004-04-17,Edo. Méx. : Tlalnepantla,Corral,255.0,42.0,,28.0
+2004-04-17,Edo. Méx. : Tlalnepantla,Vaca,190.0,32.0,22.0,24.0
+2004-04-19,Edo. Méx. : Tlalnepantla,Corral,255.0,41.0,28.0,29.0
+2004-04-19,Edo. Méx. : Tlalnepantla,Pradera,250.0,57.0,,28.0
+2004-04-19,Edo. Méx. : Tlalnepantla,Vaca,195.0,21.0,22.0,24.0
+2004-04-20,Edo. Méx. : Tlalnepantla,Corral,255.0,42.0,28.5,29.0
+2004-04-20,Edo. Méx. : Tlalnepantla,Pradera,245.0,43.0,,28.0
+2004-04-20,Edo. Méx. : Tlalnepantla,Toros,340.0,3.0,,28.0
+2004-04-20,Edo. Méx. : Tlalnepantla,Vaca,190.0,35.0,22.0,24.0
+2004-04-21,Edo. Méx. : Tlalnepantla,Corral,255.0,27.0,28.5,29.0
+2004-04-21,Edo. Méx. : Tlalnepantla,Pradera,250.0,22.0,,28.0
+2004-04-21,Edo. Méx. : Tlalnepantla,Toros,345.0,20.0,,28.0
+2004-04-21,Edo. Méx. : Tlalnepantla,Vaca,185.0,36.0,22.0,24.0
+2004-04-22,Edo. Méx. : Tlalnepantla,Corral,245.0,36.0,,28.0
+2004-04-22,Edo. Méx. : Tlalnepantla,Vaca,185.0,37.0,22.0,24.0
+2004-04-23,Edo. Méx. : Tlalnepantla,Corral,255.0,24.0,28.5,29.0
+2004-04-23,Edo. Méx. : Tlalnepantla,Pradera,250.0,57.0,,28.0
+2004-04-23,Edo. Méx. : Tlalnepantla,Vaca,200.0,32.0,21.0,24.0
+2004-04-24,Edo. Méx. : Tlalnepantla,Corral,250.0,42.0,28.5,29.0
+2004-04-24,Edo. Méx. : Tlalnepantla,Pradera,255.0,42.0,,28.0
+2004-04-24,Edo. Méx. : Tlalnepantla,Vaca,190.0,37.0,17.0,23.0
+2004-04-26,Edo. Méx. : Tlalnepantla,Corral,255.0,36.0,28.5,29.0
+2004-04-26,Edo. Méx. : Tlalnepantla,Pradera,250.0,52.0,,28.0
+2004-04-26,Edo. Méx. : Tlalnepantla,Vaca,190.0,19.0,17.0,23.0
+2004-04-27,Edo. Méx. : Tlalnepantla,Corral,255.0,14.0,28.5,29.0
+2004-04-27,Edo. Méx. : Tlalnepantla,Pradera,245.0,46.0,,28.0
+2004-04-27,Edo. Méx. : Tlalnepantla,Vaca,185.0,33.0,17.0,23.0
+2004-04-28,Edo. Méx. : Tlalnepantla,Corral,250.0,42.0,28.5,29.0
+2004-04-28,Edo. Méx. : Tlalnepantla,Vaca,185.0,31.0,17.0,23.0
+2004-04-29,Edo. Méx. : Tlalnepantla,Pradera,250.0,63.0,,28.0
+2004-04-29,Edo. Méx. : Tlalnepantla,Vaca,190.0,46.0,17.0,23.0
+2004-04-30,Edo. Méx. : Tlalnepantla,Pradera,255.0,51.0,,28.5
+2004-04-30,Edo. Méx. : Tlalnepantla,Toros,355.0,3.0,,28.0
+2004-04-30,Edo. Méx. : Tlalnepantla,Vaca,195.0,29.0,19.0,23.0
+2004-04-01,"Gto. : R.P. León, Serv. Integral",Novillona,,18.0,22.0,22.5
+2004-04-01,"Gto. : R.P. León, Serv. Integral",Toros,,166.0,24.5,25.7
+2004-04-01,"Gto. : R.P. León, Serv. Integral",Vaca,,19.0,15.5,17.5
+2004-04-02,"Gto. : R.P. León, Serv. Integral",Novillona,,27.0,22.0,22.5
+2004-04-02,"Gto. : R.P. León, Serv. Integral",Toros,,112.0,24.5,25.7
+2004-04-02,"Gto. : R.P. León, Serv. Integral",Vaca,,9.0,15.5,17.5
+2004-04-03,"Gto. : R.P. León, Serv. Integral",Novillona,,15.0,22.0,22.5
+2004-04-03,"Gto. : R.P. León, Serv. Integral",Toros,,367.0,24.5,25.7
+2004-04-03,"Gto. : R.P. León, Serv. Integral",Vaca,,22.0,15.5,17.5
+2004-04-05,"Gto. : R.P. León, Serv. Integral",Novillona,,15.0,22.0,22.5
+2004-04-05,"Gto. : R.P. León, Serv. Integral",Toros,,97.0,24.5,25.7
+2004-04-05,"Gto. : R.P. León, Serv. Integral",Vaca,,14.0,15.5,17.5
+2004-04-06,"Gto. : R.P. León, Serv. Integral",Novillona,,33.0,22.0,22.5
+2004-04-06,"Gto. : R.P. León, Serv. Integral",Toros,,249.0,24.5,25.7
+2004-04-06,"Gto. : R.P. León, Serv. Integral",Vaca,,12.0,15.5,17.5
+2004-04-07,"Gto. : R.P. León, Serv. Integral",Novillona,,32.0,22.0,22.5
+2004-04-07,"Gto. : R.P. León, Serv. Integral",Toros,,115.0,24.5,25.7
+2004-04-07,"Gto. : R.P. León, Serv. Integral",Vaca,,10.0,15.5,17.5
+2004-04-12,"Gto. : R.P. León, Serv. Integral",Novillona,,46.0,22.0,22.5
+2004-04-12,"Gto. : R.P. León, Serv. Integral",Toros,,270.0,24.5,25.7
+2004-04-12,"Gto. : R.P. León, Serv. Integral",Vaca,,18.0,15.5,17.5
+2004-04-13,"Gto. : R.P. León, Serv. Integral",Novillona,,23.0,22.0,22.5
+2004-04-13,"Gto. : R.P. León, Serv. Integral",Toros,,169.0,24.5,25.7
+2004-04-13,"Gto. : R.P. León, Serv. Integral",Vaca,,11.0,15.5,17.5
+2004-04-14,"Gto. : R.P. León, Serv. Integral",Novillona,,9.0,22.0,22.5
+2004-04-14,"Gto. : R.P. León, Serv. Integral",Toros,,326.0,24.5,25.7
+2004-04-14,"Gto. : R.P. León, Serv. Integral",Vaca,,38.0,15.5,17.5
+2004-04-15,"Gto. : R.P. León, Serv. Integral",Novillona,,37.0,22.0,22.5
+2004-04-15,"Gto. : R.P. León, Serv. Integral",Toros,,302.0,24.5,25.7
+2004-04-15,"Gto. : R.P. León, Serv. Integral",Vaca,,10.0,15.5,17.5
+2004-04-16,"Gto. : R.P. León, Serv. Integral",Novillona,,35.0,22.0,22.5
+2004-04-16,"Gto. : R.P. León, Serv. Integral",Toros,,378.0,24.5,25.7
+2004-04-16,"Gto. : R.P. León, Serv. Integral",Vaca,,25.0,15.5,17.5
+2004-04-17,"Gto. : R.P. León, Serv. Integral",Novillona,,10.0,22.0,22.5
+2004-04-17,"Gto. : R.P. León, Serv. Integral",Toros,,155.0,24.5,25.7
+2004-04-17,"Gto. : R.P. León, Serv. Integral",Vaca,,6.0,15.5,17.5
+2004-04-19,"Gto. : R.P. León, Serv. Integral",Novillona,,38.0,22.0,22.5
+2004-04-19,"Gto. : R.P. León, Serv. Integral",Toros,,355.0,24.5,25.7
+2004-04-19,"Gto. : R.P. León, Serv. Integral",Vaca,,7.0,15.5,17.5
+2004-04-20,"Gto. : R.P. León, Serv. Integral",Novillona,,30.0,22.0,22.5
+2004-04-20,"Gto. : R.P. León, Serv. Integral",Toros,,119.0,24.5,25.7
+2004-04-20,"Gto. : R.P. León, Serv. Integral",Vaca,,18.0,15.5,17.5
+2004-04-21,"Gto. : R.P. León, Serv. Integral",Novillona,,11.0,22.0,22.5
+2004-04-21,"Gto. : R.P. León, Serv. Integral",Toros,,123.0,24.5,25.7
+2004-04-21,"Gto. : R.P. León, Serv. Integral",Vaca,,13.0,15.5,17.5
+2004-04-22,"Gto. : R.P. León, Serv. Integral",Novillona,,30.0,22.0,22.5
+2004-04-22,"Gto. : R.P. León, Serv. Integral",Toros,,281.0,24.5,25.7
+2004-04-22,"Gto. : R.P. León, Serv. Integral",Vaca,,18.0,15.5,17.5
+2004-04-23,"Gto. : R.P. León, Serv. Integral",Novillona,,21.0,22.0,22.5
+2004-04-23,"Gto. : R.P. León, Serv. Integral",Toros,,286.0,24.5,25.7
+2004-04-23,"Gto. : R.P. León, Serv. Integral",Vaca,,26.0,15.5,17.5
+2004-04-24,"Gto. : R.P. León, Serv. Integral",Novillona,,60.0,22.0,22.5
+2004-04-24,"Gto. : R.P. León, Serv. Integral",Toros,,289.0,24.5,25.7
+2004-04-24,"Gto. : R.P. León, Serv. Integral",Vaca,,18.0,15.5,17.5
+2004-04-26,"Gto. : R.P. León, Serv. Integral",Novillona,,12.0,22.0,22.5
+2004-04-26,"Gto. : R.P. León, Serv. Integral",Vaca,,95.0,15.5,17.5
+2004-04-27,"Gto. : R.P. León, Serv. Integral",Novillona,,48.0,22.0,22.5
+2004-04-27,"Gto. : R.P. León, Serv. Integral",Toros,,319.0,24.5,25.7
+2004-04-27,"Gto. : R.P. León, Serv. Integral",Vaca,,14.0,15.5,17.5
+2004-04-28,"Gto. : R.P. León, Serv. Integral",Novillona,,8.0,22.0,22.5
+2004-04-28,"Gto. : R.P. León, Serv. Integral",Toros,,140.0,24.5,25.7
+2004-04-28,"Gto. : R.P. León, Serv. Integral",Vaca,,7.0,15.5,17.5
+2004-04-29,"Gto. : R.P. León, Serv. Integral",Novillona,,13.0,22.0,22.5
+2004-04-29,"Gto. : R.P. León, Serv. Integral",Toros,,236.0,24.5,25.7
+2004-04-29,"Gto. : R.P. León, Serv. Integral",Vaca,,6.0,15.5,17.5
+2004-04-30,"Gto. : R.P. León, Serv. Integral",Novillona,,22.0,22.0,22.5
+2004-04-30,"Gto. : R.P. León, Serv. Integral",Toros,,274.0,24.5,25.7
+2004-04-30,"Gto. : R.P. León, Serv. Integral",Vaca,,19.0,15.5,17.5
+2004-04-02,Jal. : R.M. Guadalajara,Corral,300.0,525.0,,26.7
+2004-04-02,Jal. : R.M. Guadalajara,Vaca,200.0,282.0,,20.4
+2004-04-05,Jal. : R.M. Guadalajara,Corral,300.0,521.0,,26.7
+2004-04-05,Jal. : R.M. Guadalajara,Vaca,200.0,286.0,,20.4
+2004-04-06,Jal. : R.M. Guadalajara,Corral,300.0,351.0,,26.7
+2004-04-06,Jal. : R.M. Guadalajara,Vaca,200.0,189.0,,20.4
+2004-04-12,Jal. : R.M. Guadalajara,Corral,300.0,772.0,,26.65
+2004-04-12,Jal. : R.M. Guadalajara,Vaca,200.0,415.0,,20.55
+2004-04-13,Jal. : R.M. Guadalajara,Corral,300.0,562.0,,26.6
+2004-04-13,Jal. : R.M. Guadalajara,Vaca,200.0,303.0,,20.6
+2004-04-14,Jal. : R.M. Guadalajara,Corral,300.0,332.0,,26.7
+2004-04-14,Jal. : R.M. Guadalajara,Vaca,200.0,178.0,,20.7
+2004-04-15,Jal. : R.M. Guadalajara,Corral,300.0,302.0,,26.5
+2004-04-15,Jal. : R.M. Guadalajara,Vaca,200.0,163.0,,20.5
+2004-04-16,Jal. : R.M. Guadalajara,Corral,300.0,449.0,,26.4
+2004-04-16,Jal. : R.M. Guadalajara,Vaca,200.0,241.0,,20.4
+2004-04-19,Jal. : R.M. Guadalajara,Corral,300.0,847.0,,26.8
+2004-04-19,Jal. : R.M. Guadalajara,Vaca,200.0,455.0,,20.8
+2004-04-20,Jal. : R.M. Guadalajara,Corral,300.0,571.0,,26.5
+2004-04-20,Jal. : R.M. Guadalajara,Vaca,200.0,307.0,,20.5
+2004-04-21,Jal. : R.M. Guadalajara,Corral,300.0,371.0,,26.7
+2004-04-21,Jal. : R.M. Guadalajara,Vaca,200.0,199.0,,20.7
+2004-04-22,Jal. : R.M. Guadalajara,Corral,300.0,291.0,,26.7
+2004-04-22,Jal. : R.M. Guadalajara,Vaca,200.0,157.0,,20.7
+2004-04-23,Jal. : R.M. Guadalajara,Corral,300.0,442.0,,26.4
+2004-04-23,Jal. : R.M. Guadalajara,Vaca,200.0,238.0,,20.4
+2004-04-26,Jal. : R.M. Guadalajara,Corral,300.0,545.0,,26.45
+2004-04-26,Jal. : R.M. Guadalajara,Vaca,200.0,293.0,,20.45
+2004-04-27,Jal. : R.M. Guadalajara,Corral,300.0,508.0,,26.4
+2004-04-27,Jal. : R.M. Guadalajara,Vaca,200.0,273.0,,20.4
+2004-04-28,Jal. : R.M. Guadalajara,Corral,300.0,313.0,,26.5
+2004-04-28,Jal. : R.M. Guadalajara,Vaca,200.0,169.0,,20.4
+2004-04-29,Jal. : R.M. Guadalajara,Corral,300.0,328.0,,26.4
+2004-04-29,Jal. : R.M. Guadalajara,Vaca,200.0,176.0,,20.4
+2004-04-30,Jal. : R.M. Guadalajara,Corral,300.0,494.0,,26.4
+2004-04-30,Jal. : R.M. Guadalajara,Vaca,200.0,266.0,,20.4
+2004-04-02,Jal. : R.M. Tlaquepaque,Corral,300.0,23.0,,26.75
+2004-04-02,Jal. : R.M. Tlaquepaque,Vaca,200.0,90.0,,20.6
+2004-04-12,Jal. : R.M. Tlaquepaque,Corral,300.0,87.0,,26.85
+2004-04-12,Jal. : R.M. Tlaquepaque,Vaca,200.0,231.0,,20.5
+2004-04-13,Jal. : R.M. Tlaquepaque,Corral,300.0,31.0,,26.75
+2004-04-13,Jal. : R.M. Tlaquepaque,Vaca,200.0,54.0,,20.75
+2004-04-14,Jal. : R.M. Tlaquepaque,Corral,300.0,41.0,,26.5
+2004-04-14,Jal. : R.M. Tlaquepaque,Vaca,200.0,57.0,,20.5
+2004-04-16,Jal. : R.M. Tlaquepaque,Corral,300.0,29.0,,26.6
+2004-04-16,Jal. : R.M. Tlaquepaque,Vaca,200.0,50.0,,20.6
+2004-04-19,Jal. : R.M. Tlaquepaque,Corral,300.0,71.0,,26.7
+2004-04-19,Jal. : R.M. Tlaquepaque,Vaca,200.0,151.0,,20.7
+2004-04-20,Jal. : R.M. Tlaquepaque,Corral,300.0,29.0,,26.5
+2004-04-20,Jal. : R.M. Tlaquepaque,Vaca,200.0,41.0,,20.5
+2004-04-21,Jal. : R.M. Tlaquepaque,Corral,300.0,26.0,,26.55
+2004-04-21,Jal. : R.M. Tlaquepaque,Vaca,200.0,63.0,,20.55
+2004-04-23,Jal. : R.M. Tlaquepaque,Corral,300.0,25.0,,26.4
+2004-04-23,Jal. : R.M. Tlaquepaque,Vaca,200.0,90.0,,20.5
+2004-04-26,Jal. : R.M. Tlaquepaque,Corral,300.0,61.0,,26.55
+2004-04-26,Jal. : R.M. Tlaquepaque,Vaca,200.0,134.0,,20.55
+2004-04-27,Jal. : R.M. Tlaquepaque,Corral,300.0,35.0,,26.6
+2004-04-27,Jal. : R.M. Tlaquepaque,Vaca,200.0,39.0,,20.6
+2004-04-28,Jal. : R.M. Tlaquepaque,Corral,300.0,19.0,,26.5
+2004-04-28,Jal. : R.M. Tlaquepaque,Vaca,200.0,73.0,,20.5
+2004-04-30,Jal. : R.M. Tlaquepaque,Corral,300.0,23.0,,26.5
+2004-04-30,Jal. : R.M. Tlaquepaque,Vaca,200.0,66.0,,20.5
+2004-04-01,Jal. : R.M. Tonalá,Corral,300.0,12.0,,26.8
+2004-04-01,Jal. : R.M. Tonalá,Vaca,200.0,75.0,,21.35
+2004-04-05,Jal. : R.M. Tonalá,Corral,300.0,19.0,,26.7
+2004-04-05,Jal. : R.M. Tonalá,Vaca,200.0,48.0,,20.55
+2004-04-12,Jal. : R.M. Tonalá,Corral,300.0,63.0,,26.7
+2004-04-12,Jal. : R.M. Tonalá,Vaca,200.0,177.0,,20.6
+2004-04-13,Jal. : R.M. Tonalá,Corral,300.0,20.0,,26.7
+2004-04-13,Jal. : R.M. Tonalá,Vaca,200.0,75.0,,20.7
+2004-04-14,Jal. : R.M. Tonalá,Corral,300.0,12.0,,26.6
+2004-04-14,Jal. : R.M. Tonalá,Vaca,200.0,33.0,,20.5
+2004-04-15,Jal. : R.M. Tonalá,Corral,300.0,17.0,,26.6
+2004-04-15,Jal. : R.M. Tonalá,Vaca,200.0,99.0,,20.65
+2004-04-19,Jal. : R.M. Tonalá,Corral,300.0,52.0,,26.6
+2004-04-19,Jal. : R.M. Tonalá,Vaca,200.0,156.0,,20.6
+2004-04-20,Jal. : R.M. Tonalá,Corral,300.0,12.0,,26.5
+2004-04-20,Jal. : R.M. Tonalá,Vaca,200.0,55.0,,20.5
+2004-04-21,Jal. : R.M. Tonalá,Corral,300.0,26.0,,26.65
+2004-04-21,Jal. : R.M. Tonalá,Vaca,200.0,47.0,,20.65
+2004-04-22,Jal. : R.M. Tonalá,Corral,300.0,28.0,,26.7
+2004-04-22,Jal. : R.M. Tonalá,Vaca,200.0,51.0,,20.7
+2004-04-26,Jal. : R.M. Tonalá,Corral,300.0,55.0,,26.5
+2004-04-26,Jal. : R.M. Tonalá,Vaca,200.0,161.0,,20.5
+2004-04-27,Jal. : R.M. Tonalá,Corral,300.0,12.0,,26.65
+2004-04-27,Jal. : R.M. Tonalá,Vaca,200.0,65.0,,20.65
+2004-04-28,Jal. : R.M. Tonalá,Corral,300.0,24.0,,26.55
+2004-04-28,Jal. : R.M. Tonalá,Vaca,200.0,28.0,,20.5
+2004-04-29,Jal. : R.M. Tonalá,Corral,300.0,24.0,,26.45
+2004-04-29,Jal. : R.M. Tonalá,Vaca,200.0,60.0,,20.45
+2004-04-01,Jal. : Rastro de Egosa,Corral,300.0,33.0,,26.3
+2004-04-01,Jal. : Rastro de Egosa,Vaca,200.0,60.0,,20.5
+2004-04-02,Jal. : Rastro de Egosa,Corral,300.0,29.0,,26.75
+2004-04-02,Jal. : Rastro de Egosa,Vaca,200.0,60.0,,20.55
+2004-04-05,Jal. : Rastro de Egosa,Corral,300.0,70.0,,26.75
+2004-04-05,Jal. : Rastro de Egosa,Vaca,200.0,130.0,,20.55
+2004-04-06,Jal. : Rastro de Egosa,Corral,300.0,29.0,,26.75
+2004-04-06,Jal. : Rastro de Egosa,Vaca,200.0,50.0,,20.55
+2004-04-07,Jal. : Rastro de Egosa,Corral,300.0,20.0,,26.75
+2004-04-07,Jal. : Rastro de Egosa,Vaca,200.0,50.0,,20.55
+2004-04-12,Jal. : Rastro de Egosa,Corral,300.0,60.0,,26.55
+2004-04-12,Jal. : Rastro de Egosa,Vaca,200.0,145.0,,20.55
+2004-04-13,Jal. : Rastro de Egosa,Corral,300.0,29.0,,26.7
+2004-04-13,Jal. : Rastro de Egosa,Vaca,200.0,60.0,,20.7
+2004-04-14,Jal. : Rastro de Egosa,Corral,300.0,48.0,,26.65
+2004-04-14,Jal. : Rastro de Egosa,Vaca,200.0,60.0,,20.6
+2004-04-15,Jal. : Rastro de Egosa,Corral,300.0,45.0,,26.55
+2004-04-15,Jal. : Rastro de Egosa,Vaca,200.0,60.0,,20.55
+2004-04-16,Jal. : Rastro de Egosa,Corral,300.0,52.0,,26.5
+2004-04-16,Jal. : Rastro de Egosa,Vaca,200.0,60.0,,20.5
+2004-04-19,Jal. : Rastro de Egosa,Corral,300.0,55.0,,26.7
+2004-04-19,Jal. : Rastro de Egosa,Vaca,200.0,135.0,,20.7
+2004-04-20,Jal. : Rastro de Egosa,Corral,300.0,33.0,,26.75
+2004-04-20,Jal. : Rastro de Egosa,Vaca,200.0,70.0,,20.75
+2004-04-21,Jal. : Rastro de Egosa,Corral,300.0,28.0,,26.5
+2004-04-21,Jal. : Rastro de Egosa,Vaca,200.0,70.0,,20.5
+2004-04-22,Jal. : Rastro de Egosa,Corral,300.0,50.0,,26.65
+2004-04-22,Jal. : Rastro de Egosa,Vaca,200.0,60.0,,20.65
+2004-04-23,Jal. : Rastro de Egosa,Corral,300.0,23.0,,26.65
+2004-04-23,Jal. : Rastro de Egosa,Vaca,200.0,80.0,,20.65
+2004-04-26,Jal. : Rastro de Egosa,Corral,300.0,80.0,,26.55
+2004-04-26,Jal. : Rastro de Egosa,Vaca,200.0,120.0,,20.55
+2004-04-27,Jal. : Rastro de Egosa,Corral,300.0,35.0,,26.5
+2004-04-27,Jal. : Rastro de Egosa,Vaca,200.0,70.0,,20.5
+2004-04-28,Jal. : Rastro de Egosa,Corral,300.0,29.0,,26.45
+2004-04-28,Jal. : Rastro de Egosa,Vaca,200.0,70.0,,20.45
+2004-04-29,Jal. : Rastro de Egosa,Corral,300.0,45.0,,26.5
+2004-04-29,Jal. : Rastro de Egosa,Vaca,200.0,70.0,,20.5
+2004-04-30,Jal. : Rastro de Egosa,Corral,300.0,50.0,,26.5
+2004-04-30,Jal. : Rastro de Egosa,Vaca,200.0,70.0,,20.5
+2004-04-01,Jal. : Rastro de Zapopan,Corral,300.0,150.0,,26.55
+2004-04-01,Jal. : Rastro de Zapopan,Vaca,200.0,30.0,,20.6
+2004-04-02,Jal. : Rastro de Zapopan,Corral,300.0,236.0,,26.5
+2004-04-02,Jal. : Rastro de Zapopan,Vaca,200.0,59.0,,20.5
+2004-04-05,Jal. : Rastro de Zapopan,Corral,300.0,292.0,,26.5
+2004-04-05,Jal. : Rastro de Zapopan,Vaca,200.0,36.0,,20.5
+2004-04-12,Jal. : Rastro de Zapopan,Corral,300.0,648.0,,26.8
+2004-04-12,Jal. : Rastro de Zapopan,Vaca,200.0,123.0,,20.5
+2004-04-13,Jal. : Rastro de Zapopan,Corral,300.0,332.0,,26.5
+2004-04-13,Jal. : Rastro de Zapopan,Vaca,200.0,95.0,,20.5
+2004-04-14,Jal. : Rastro de Zapopan,Corral,300.0,230.0,,26.5
+2004-04-14,Jal. : Rastro de Zapopan,Vaca,200.0,45.0,,20.5
+2004-04-15,Jal. : Rastro de Zapopan,Corral,300.0,222.0,,26.65
+2004-04-15,Jal. : Rastro de Zapopan,Vaca,200.0,51.0,,20.6
+2004-04-16,Jal. : Rastro de Zapopan,Corral,300.0,284.0,,26.65
+2004-04-16,Jal. : Rastro de Zapopan,Vaca,200.0,113.0,,20.65
+2004-04-19,Jal. : Rastro de Zapopan,Corral,300.0,539.0,,26.5
+2004-04-19,Jal. : Rastro de Zapopan,Vaca,200.0,82.0,,20.5
+2004-04-20,Jal. : Rastro de Zapopan,Corral,300.0,140.0,,26.7
+2004-04-20,Jal. : Rastro de Zapopan,Vaca,200.0,92.0,,20.7
+2004-04-21,Jal. : Rastro de Zapopan,Corral,300.0,224.0,,26.7
+2004-04-21,Jal. : Rastro de Zapopan,Vaca,200.0,56.0,,20.7
+2004-04-23,Jal. : Rastro de Zapopan,Corral,300.0,301.0,,26.5
+2004-04-23,Jal. : Rastro de Zapopan,Vaca,200.0,68.0,,20.5
+2004-04-26,Jal. : Rastro de Zapopan,Corral,300.0,151.0,,26.5
+2004-04-26,Jal. : Rastro de Zapopan,Vaca,200.0,60.0,,20.5
+2004-04-27,Jal. : Rastro de Zapopan,Corral,300.0,442.0,,26.45
+2004-04-27,Jal. : Rastro de Zapopan,Vaca,200.0,113.0,,20.45
+2004-04-28,Jal. : Rastro de Zapopan,Corral,300.0,153.0,,26.5
+2004-04-28,Jal. : Rastro de Zapopan,Vaca,200.0,27.0,,20.5
+2004-04-30,Jal. : Rastro de Zapopan,Corral,300.0,260.0,,26.6
+2004-04-30,Jal. : Rastro de Zapopan,Vaca,200.0,83.0,,20.6
+2004-04-01,Mich. : R.M. Morelia,Corral,300.0,92.0,25.0,26.0
+2004-04-02,Mich. : R.M. Morelia,Corral,300.0,80.0,25.0,26.0
+2004-04-05,Mich. : R.M. Morelia,Corral,300.0,231.0,25.0,26.0
+2004-04-12,Mich. : R.M. Morelia,Corral,300.0,106.0,25.0,26.0
+2004-04-13,Mich. : R.M. Morelia,Corral,300.0,269.0,25.0,26.0
+2004-04-14,Mich. : R.M. Morelia,Corral,300.0,179.0,25.5,26.0
+2004-04-15,Mich. : R.M. Morelia,Corral,300.0,97.0,26.0,26.5
+2004-04-16,Mich. : R.M. Morelia,Corral,300.0,76.0,26.0,26.5
+2004-04-19,Mich. : R.M. Morelia,Corral,300.0,214.0,26.0,26.5
+2004-04-20,Mich. : R.M. Morelia,Corral,300.0,213.0,26.5,27.0
+2004-04-21,Mich. : R.M. Morelia,Corral,300.0,193.0,26.0,26.5
+2004-04-22,Mich. : R.M. Morelia,Corral,300.0,74.0,26.0,26.5
+2004-04-23,Mich. : R.M. Morelia,Corral,300.0,63.0,26.0,26.5
+2004-04-26,Mich. : R.M. Morelia,Corral,300.0,230.0,26.0,26.5
+2004-04-27,Mich. : R.M. Morelia,Corral,300.0,192.0,26.5,27.0
+2004-04-28,Mich. : R.M. Morelia,Corral,300.0,198.0,26.0,26.5
+2004-04-29,Mich. : R.M. Morelia,Corral,300.0,78.0,26.5,27.0
+2004-04-30,Mich. : R.M. Morelia,Corral,300.0,50.0,26.6,26.8
+2004-04-01,N.L. : Bodega de Productos Internacional,Corral,280.0,135.0,29.5,31.0
+2004-04-02,N.L. : Bodega de Productos Internacional,Corral,280.0,124.0,29.5,31.0
+2004-04-05,N.L. : Bodega de Productos Internacional,Corral,280.0,274.0,29.5,31.0
+2004-04-06,N.L. : Bodega de Productos Internacional,Corral,280.0,125.0,29.5,31.0
+2004-04-07,N.L. : Bodega de Productos Internacional,Corral,280.0,88.0,29.5,31.0
+2004-04-12,N.L. : Bodega de Productos Internacional,Corral,280.0,151.0,29.5,31.0
+2004-04-13,N.L. : Bodega de Productos Internacional,Corral,280.0,165.0,29.5,31.0
+2004-04-14,N.L. : Bodega de Productos Internacional,Corral,280.0,148.0,29.5,31.0
+2004-04-15,N.L. : Bodega de Productos Internacional,Corral,280.0,138.0,29.5,31.0
+2004-04-16,N.L. : Bodega de Productos Internacional,Corral,280.0,155.0,29.5,31.0
+2004-04-19,N.L. : Bodega de Productos Internacional,Corral,280.0,270.0,29.5,31.0
+2004-04-20,N.L. : Bodega de Productos Internacional,Corral,280.0,188.0,29.5,31.0
+2004-04-21,N.L. : Bodega de Productos Internacional,Corral,280.0,100.0,29.0,31.0
+2004-04-22,N.L. : Bodega de Productos Internacional,Corral,280.0,136.0,29.0,31.0
+2004-04-23,N.L. : Bodega de Productos Internacional,Corral,280.0,223.0,29.0,31.0
+2004-04-26,N.L. : Bodega de Productos Internacional,Corral,280.0,362.0,29.0,31.0
+2004-04-27,N.L. : Bodega de Productos Internacional,Corral,280.0,125.0,29.0,31.0
+2004-04-28,N.L. : Bodega de Productos Internacional,Corral,280.0,75.0,29.0,30.5
+2004-04-29,N.L. : Bodega de Productos Internacional,Corral,280.0,151.0,29.0,30.5
+2004-04-30,N.L. : Bodega de Productos Internacional,Corral,280.0,132.0,29.0,30.5
+2004-04-01,N.L. : CONAGRO,Corral,280.0,86.0,31.5,31.5
+2004-04-02,N.L. : CONAGRO,Corral,280.0,57.0,31.5,31.5
+2004-04-05,N.L. : CONAGRO,Corral,280.0,270.0,31.5,31.5
+2004-04-06,N.L. : CONAGRO,Corral,280.0,115.0,31.5,31.5
+2004-04-07,N.L. : CONAGRO,Corral,280.0,92.0,31.5,31.5
+2004-04-12,N.L. : CONAGRO,Corral,280.0,141.0,31.5,31.5
+2004-04-13,N.L. : CONAGRO,Corral,280.0,88.0,31.5,31.5
+2004-04-14,N.L. : CONAGRO,Corral,280.0,156.0,31.5,31.5
+2004-04-15,N.L. : CONAGRO,Corral,280.0,131.0,31.5,31.5
+2004-04-16,N.L. : CONAGRO,Corral,280.0,96.0,31.5,31.5
+2004-04-19,N.L. : CONAGRO,Corral,280.0,354.0,31.5,31.5
+2004-04-20,N.L. : CONAGRO,Corral,280.0,228.0,31.5,31.5
+2004-04-21,N.L. : CONAGRO,Corral,280.0,130.0,31.5,31.5
+2004-04-22,N.L. : CONAGRO,Corral,280.0,135.0,31.5,31.5
+2004-04-23,N.L. : CONAGRO,Corral,280.0,127.0,31.5,31.5
+2004-04-26,N.L. : CONAGRO,Corral,280.0,326.0,31.5,31.5
+2004-04-27,N.L. : CONAGRO,Corral,280.0,118.0,31.5,31.5
+2004-04-28,N.L. : CONAGRO,Corral,280.0,220.0,29.0,29.0
+2004-04-29,N.L. : CONAGRO,Corral,280.0,201.0,29.0,29.0
+2004-04-30,N.L. : CONAGRO,Corral,280.0,139.0,29.0,29.0
+2004-04-01,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,116.0,29.0,29.5
+2004-04-02,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,87.0,29.0,29.5
+2004-04-05,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,207.0,29.0,29.5
+2004-04-06,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,69.0,29.0,29.5
+2004-04-07,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,60.0,29.0,29.5
+2004-04-12,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,145.0,29.0,29.5
+2004-04-13,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,146.0,29.0,29.0
+2004-04-14,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,223.0,29.0,29.0
+2004-04-15,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,63.0,29.0,29.0
+2004-04-16,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,101.0,29.0,29.0
+2004-04-19,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,172.0,29.0,29.0
+2004-04-20,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,77.0,29.0,29.0
+2004-04-21,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,161.0,29.0,29.0
+2004-04-22,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,196.0,29.0,29.0
+2004-04-23,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,123.0,29.0,29.0
+2004-04-26,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,190.0,29.0,29.0
+2004-04-27,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,187.0,29.0,29.0
+2004-04-28,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,68.0,29.5,29.5
+2004-04-29,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,128.0,29.5,29.5
+2004-04-30,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,70.0,29.5,29.5
+2004-04-01,"N.L. : Qualtia Alimentos, S.A. de C.V.",Corral,280.0,145.0,30.0,30.0
+2004-04-02,"N.L. : Qualtia Alimentos, S.A. de C.V.",Corral,280.0,145.0,30.0,30.0
+2004-04-05,"N.L. : Qualtia Alimentos, S.A. de C.V.",Corral,280.0,185.0,30.0,30.0
+2004-04-06,"N.L. : Qualtia Alimentos, S.A. de C.V.",Corral,280.0,36.0,30.0,30.0
+2004-04-07,"N.L. : Qualtia Alimentos, S.A. de C.V.",Corral,280.0,137.0,30.0,30.0
+2004-04-13,"N.L. : Qualtia Alimentos, S.A. de C.V.",Corral,280.0,202.0,30.0,30.0
+2004-04-14,"N.L. : Qualtia Alimentos, S.A. de C.V.",Corral,280.0,92.0,30.0,30.0
+2004-04-15,"N.L. : Qualtia Alimentos, S.A. de C.V.",Corral,280.0,117.0,30.0,30.0
+2004-04-16,"N.L. : Qualtia Alimentos, S.A. de C.V.",Corral,280.0,237.0,30.0,30.0
+2004-04-19,"N.L. : Qualtia Alimentos, S.A. de C.V.",Corral,280.0,186.0,30.0,30.0
+2004-04-20,"N.L. : Qualtia Alimentos, S.A. de C.V.",Corral,280.0,88.0,30.0,30.0
+2004-04-21,"N.L. : Qualtia Alimentos, S.A. de C.V.",Corral,280.0,119.0,30.0,30.0
+2004-04-22,"N.L. : Qualtia Alimentos, S.A. de C.V.",Corral,280.0,114.0,30.0,30.0
+2004-04-23,"N.L. : Qualtia Alimentos, S.A. de C.V.",Corral,280.0,137.0,30.0,30.0
+2004-04-26,"N.L. : Qualtia Alimentos, S.A. de C.V.",Corral,280.0,181.0,30.0,30.0
+2004-04-27,"N.L. : Qualtia Alimentos, S.A. de C.V.",Corral,280.0,89.0,30.0,30.0
+2004-04-28,"N.L. : Qualtia Alimentos, S.A. de C.V.",Corral,280.0,62.0,30.0,30.0
+2004-04-29,"N.L. : Qualtia Alimentos, S.A. de C.V.",Corral,280.0,101.0,30.0,30.0
+2004-04-30,"N.L. : Qualtia Alimentos, S.A. de C.V.",Corral,280.0,143.0,30.0,30.0
+2004-04-02,Nay. : R.M. Tepic,Toros,288.0,22.0,27.0,28.0
+2004-04-02,Nay. : R.M. Tepic,Vaca,222.0,78.0,24.0,25.0
+2004-04-03,Nay. : R.M. Tepic,Toros,288.0,15.0,27.0,28.0
+2004-04-03,Nay. : R.M. Tepic,Vaca,216.0,74.0,24.0,25.0
+2004-04-05,Nay. : R.M. Tepic,Toros,288.0,15.0,27.0,28.0
+2004-04-05,Nay. : R.M. Tepic,Vaca,216.0,74.0,24.0,25.0
+2004-04-06,Nay. : R.M. Tepic,Toros,282.0,3.0,27.0,28.0
+2004-04-06,Nay. : R.M. Tepic,Vaca,210.0,20.0,24.0,25.0
+2004-04-13,Nay. : R.M. Tepic,Toros,282.0,13.0,27.0,28.0
+2004-04-13,Nay. : R.M. Tepic,Vaca,216.0,46.0,24.0,25.0
+2004-04-16,Nay. : R.M. Tepic,Toros,282.0,16.0,27.0,28.0
+2004-04-16,Nay. : R.M. Tepic,Vaca,228.0,58.0,24.0,25.0
+2004-04-17,Nay. : R.M. Tepic,Toros,288.0,12.0,27.0,28.0
+2004-04-17,Nay. : R.M. Tepic,Vaca,216.0,68.0,24.0,25.0
+2004-04-19,Nay. : R.M. Tepic,Toros,288.0,13.0,27.0,28.0
+2004-04-19,Nay. : R.M. Tepic,Vaca,222.0,74.0,24.0,25.0
+2004-04-20,Nay. : R.M. Tepic,Toros,281.0,14.0,27.0,28.0
+2004-04-20,Nay. : R.M. Tepic,Vaca,210.0,42.0,24.0,25.0
+2004-04-21,Nay. : R.M. Tepic,Toros,282.0,21.0,27.0,28.0
+2004-04-21,Nay. : R.M. Tepic,Vaca,228.0,73.0,24.0,25.0
+2004-04-23,Nay. : R.M. Tepic,Toros,294.0,21.0,27.0,28.0
+2004-04-23,Nay. : R.M. Tepic,Vaca,228.0,72.0,24.0,25.0
+2004-04-24,Nay. : R.M. Tepic,Toros,288.0,13.0,27.0,28.0
+2004-04-24,Nay. : R.M. Tepic,Vaca,222.0,72.0,24.0,25.0
+2004-04-26,Nay. : R.M. Tepic,Toros,288.0,14.0,27.0,28.0
+2004-04-26,Nay. : R.M. Tepic,Vaca,206.0,78.0,24.0,25.0
+2004-04-27,Nay. : R.M. Tepic,Toros,276.0,13.0,27.0,28.0
+2004-04-27,Nay. : R.M. Tepic,Vaca,204.0,48.0,24.0,25.0
+2004-04-28,Nay. : R.M. Tepic,Toros,282.0,17.0,27.0,28.0
+2004-04-28,Nay. : R.M. Tepic,Vaca,222.0,65.0,24.0,25.0
+2004-04-04,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,340.0,1.0,23.0,23.0
+2004-04-04,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,240.0,,23.0,23.0
+2004-04-05,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,340.0,2.0,23.0,23.0
+2004-04-05,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,240.0,8.0,23.0,23.0
+2004-04-06,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,240.0,3.0,23.0,23.0
+2004-04-09,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,340.0,3.0,23.0,23.0
+2004-04-09,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,240.0,15.0,23.0,23.0
+2004-04-10,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,340.0,4.0,23.0,23.0
+2004-04-10,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,240.0,7.0,23.0,23.0
+2004-04-11,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,340.0,3.0,23.0,23.0
+2004-04-11,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,240.0,9.0,23.0,23.0
+2004-04-12,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,240.0,3.0,23.0,23.0
+2004-04-13,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,340.0,3.0,23.0,23.0
+2004-04-13,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,240.0,7.0,23.0,23.0
+2004-04-14,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,340.0,1.0,23.0,23.0
+2004-04-14,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,240.0,7.0,23.0,23.0
+2004-04-16,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,340.0,2.0,23.0,23.0
+2004-04-16,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,240.0,10.0,23.0,23.0
+2004-04-17,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,340.0,1.0,23.0,23.0
+2004-04-17,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,240.0,15.0,23.0,23.0
+2004-04-18,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,240.0,7.0,23.0,23.0
+2004-04-19,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,340.0,2.0,23.0,23.0
+2004-04-19,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,240.0,5.0,23.0,23.0
+2004-04-20,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,240.0,4.0,23.0,23.0
+2004-04-21,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,340.0,1.0,23.0,23.0
+2004-04-21,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,240.0,4.0,23.0,23.0
+2004-04-23,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,280.0,1.0,24.0,24.0
+2004-04-23,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,180.0,6.0,24.0,24.0
+2004-04-24,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,180.0,14.0,24.0,24.0
+2004-04-25,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,280.0,1.0,24.0,24.0
+2004-04-25,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,180.0,6.0,24.0,24.0
+2004-04-26,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,280.0,1.0,24.0,24.0
+2004-04-26,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,180.0,7.0,24.0,24.0
+2004-04-27,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,240.0,1.0,24.0,24.0
+2004-04-27,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,180.0,7.0,24.0,24.0
+2004-04-28,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,180.0,7.0,24.0,24.0
+2004-04-30,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,180.0,18.0,24.0,24.0
+2004-04-01,Oax. : Rastro Reforma Agraria,Corral,250.0,24.0,27.0,28.0
+2004-04-01,Oax. : Rastro Reforma Agraria,Vaca,230.0,14.0,24.0,25.0
+2004-04-02,Oax. : Rastro Reforma Agraria,Corral,250.0,30.0,27.0,28.0
+2004-04-02,Oax. : Rastro Reforma Agraria,Vaca,250.0,10.0,25.0,26.0
+2004-04-05,Oax. : Rastro Reforma Agraria,Corral,250.0,35.0,27.0,28.0
+2004-04-05,Oax. : Rastro Reforma Agraria,Vaca,230.0,15.0,23.0,24.0
+2004-04-06,Oax. : Rastro Reforma Agraria,Corral,250.0,34.0,27.0,28.0
+2004-04-06,Oax. : Rastro Reforma Agraria,Vaca,230.0,13.0,24.0,25.0
+2004-04-07,Oax. : Rastro Reforma Agraria,Corral,250.0,18.0,27.0,28.0
+2004-04-07,Oax. : Rastro Reforma Agraria,Vaca,230.0,10.0,25.0,26.0
+2004-04-12,Oax. : Rastro Reforma Agraria,Corral,250.0,32.0,27.0,28.0
+2004-04-12,Oax. : Rastro Reforma Agraria,Vaca,230.0,10.0,24.0,25.0
+2004-04-13,Oax. : Rastro Reforma Agraria,Corral,250.0,60.0,27.0,28.0
+2004-04-13,Oax. : Rastro Reforma Agraria,Vaca,230.0,30.0,25.0,26.0
+2004-04-14,Oax. : Rastro Reforma Agraria,Corral,250.0,50.0,27.0,28.0
+2004-04-14,Oax. : Rastro Reforma Agraria,Vaca,230.0,25.0,24.0,25.0
+2004-04-15,Oax. : Rastro Reforma Agraria,Corral,250.0,35.0,27.0,28.0
+2004-04-15,Oax. : Rastro Reforma Agraria,Vaca,230.0,10.0,23.0,24.0
+2004-04-16,Oax. : Rastro Reforma Agraria,Corral,250.0,20.0,27.0,28.0
+2004-04-16,Oax. : Rastro Reforma Agraria,Vaca,230.0,18.0,24.0,25.0
+2004-04-19,Oax. : Rastro Reforma Agraria,Corral,250.0,30.0,27.0,28.0
+2004-04-19,Oax. : Rastro Reforma Agraria,Vaca,230.0,17.0,23.0,24.0
+2004-04-20,Oax. : Rastro Reforma Agraria,Corral,250.0,35.0,27.0,28.0
+2004-04-20,Oax. : Rastro Reforma Agraria,Vaca,230.0,15.0,23.0,24.0
+2004-04-21,Oax. : Rastro Reforma Agraria,Corral,250.0,30.0,27.0,28.0
+2004-04-21,Oax. : Rastro Reforma Agraria,Vaca,230.0,20.0,24.0,25.0
+2004-04-22,Oax. : Rastro Reforma Agraria,Corral,250.0,35.0,27.0,28.0
+2004-04-22,Oax. : Rastro Reforma Agraria,Vaca,230.0,15.0,24.0,25.0
+2004-04-23,Oax. : Rastro Reforma Agraria,Corral,250.0,40.0,27.0,28.0
+2004-04-23,Oax. : Rastro Reforma Agraria,Vaca,230.0,19.0,23.0,24.0
+2004-04-26,Oax. : Rastro Reforma Agraria,Corral,250.0,30.0,27.0,28.0
+2004-04-26,Oax. : Rastro Reforma Agraria,Vaca,230.0,24.0,23.0,24.0
+2004-04-27,Oax. : Rastro Reforma Agraria,Corral,250.0,25.0,25.0,27.0
+2004-04-27,Oax. : Rastro Reforma Agraria,Vaca,230.0,10.0,22.0,24.0
+2004-04-28,Oax. : Rastro Reforma Agraria,Corral,250.0,24.0,26.0,27.0
+2004-04-29,Oax. : Rastro Reforma Agraria,Corral,250.0,20.0,27.0,28.0
+2004-04-29,Oax. : Rastro Reforma Agraria,Vaca,230.0,10.0,25.0,26.0
+2004-04-30,Oax. : Rastro Reforma Agraria,Corral,250.0,20.0,27.0,28.0
+2004-04-30,Oax. : Rastro Reforma Agraria,Vaca,230.0,17.0,25.0,26.0
+2004-04-02,"Q. Roo. : Procesadora de carnes ""La Alianza""",Novillona,166.0,1.0,,21.0
+2004-04-02,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,221.0,7.0,,23.0
+2004-04-02,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,204.0,12.0,,20.0
+2004-04-04,"Q. Roo. : Procesadora de carnes ""La Alianza""",Novillona,155.0,5.0,,21.0
+2004-04-04,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,244.0,9.0,,23.0
+2004-04-04,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,215.0,13.0,,20.0
+2004-04-05,"Q. Roo. : Procesadora de carnes ""La Alianza""",Novillona,160.0,5.0,,21.0
+2004-04-05,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,231.0,6.0,,23.0
+2004-04-05,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,205.0,14.0,,20.0
+2004-04-06,"Q. Roo. : Procesadora de carnes ""La Alianza""",Novillona,150.0,7.0,,21.0
+2004-04-06,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,240.0,11.0,,23.0
+2004-04-06,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,215.0,22.0,,20.0
+2004-04-12,"Q. Roo. : Procesadora de carnes ""La Alianza""",Novillona,148.0,7.0,,21.0
+2004-04-12,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,226.0,1.0,,23.0
+2004-04-12,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,212.0,14.0,,20.0
+2004-04-13,"Q. Roo. : Procesadora de carnes ""La Alianza""",Novillona,148.0,7.0,,21.0
+2004-04-13,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,234.0,2.0,,23.0
+2004-04-13,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,215.0,9.0,,20.0
+2004-04-14,"Q. Roo. : Procesadora de carnes ""La Alianza""",Novillona,140.0,2.0,,21.0
+2004-04-14,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,200.0,3.0,,23.0
+2004-04-14,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,205.0,4.0,,20.0
+2004-04-15,"Q. Roo. : Procesadora de carnes ""La Alianza""",Novillona,163.0,8.0,,21.0
+2004-04-15,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,239.0,6.0,,23.0
+2004-04-15,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,207.0,20.0,,20.0
+2004-04-16,"Q. Roo. : Procesadora de carnes ""La Alianza""",Novillona,163.0,5.0,,21.0
+2004-04-16,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,250.0,15.0,,23.0
+2004-04-16,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,225.0,1.0,,20.0
+2004-04-18,"Q. Roo. : Procesadora de carnes ""La Alianza""",Novillona,152.0,7.0,,21.0
+2004-04-18,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,215.0,13.0,,23.0
+2004-04-18,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,197.0,5.0,,20.0
+2004-04-19,"Q. Roo. : Procesadora de carnes ""La Alianza""",Novillona,155.0,8.0,,21.0
+2004-04-19,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,227.0,11.0,,23.0
+2004-04-19,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,208.0,3.0,,20.0
+2004-04-20,"Q. Roo. : Procesadora de carnes ""La Alianza""",Novillona,161.0,4.0,,21.0
+2004-04-20,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,238.0,20.0,,23.0
+2004-04-20,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,206.0,5.0,,20.0
+2004-04-21,"Q. Roo. : Procesadora de carnes ""La Alianza""",Novillona,163.0,8.0,,21.0
+2004-04-21,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,227.0,10.0,,23.0
+2004-04-21,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,204.0,7.0,,20.0
+2004-04-22,"Q. Roo. : Procesadora de carnes ""La Alianza""",Novillona,144.0,11.0,,21.0
+2004-04-22,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,206.0,9.0,,23.0
+2004-04-22,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,185.0,7.0,,20.0
+2004-04-23,"Q. Roo. : Procesadora de carnes ""La Alianza""",Novillona,156.0,3.0,,21.0
+2004-04-23,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,231.0,10.0,,23.0
+2004-04-23,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,209.0,10.0,,20.0
+2004-04-25,"Q. Roo. : Procesadora de carnes ""La Alianza""",Novillona,170.0,4.0,,21.0
+2004-04-25,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,237.0,10.0,,23.0
+2004-04-25,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,214.0,2.0,,20.0
+2004-04-26,"Q. Roo. : Procesadora de carnes ""La Alianza""",Novillona,160.0,2.0,,21.0
+2004-04-26,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,238.0,5.0,,23.0
+2004-04-26,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,207.0,9.0,,20.0
+2004-04-27,"Q. Roo. : Procesadora de carnes ""La Alianza""",Novillona,168.0,13.0,,21.0
+2004-04-27,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,229.0,9.0,,23.0
+2004-04-27,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,202.0,10.0,,20.0
+2004-04-28,"Q. Roo. : Procesadora de carnes ""La Alianza""",Novillona,158.0,5.0,,21.0
+2004-04-28,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,244.0,7.0,,23.0
+2004-04-28,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,216.0,10.0,,20.0
+2004-04-29,"Q. Roo. : Procesadora de carnes ""La Alianza""",Novillona,155.0,5.0,,21.0
+2004-04-29,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,240.0,3.0,,23.0
+2004-04-29,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,212.0,12.0,,20.0
+2004-04-30,"Q. Roo. : Procesadora de carnes ""La Alianza""",Novillona,150.0,3.0,,21.0
+2004-04-30,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,229.0,7.0,,23.0
+2004-04-30,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,202.0,6.0,,20.0
+2004-04-01,Qro. : R.M. Querétaro,Toros,260.0,98.0,27.0,28.5
+2004-04-01,Qro. : R.M. Querétaro,Vaca,200.0,87.0,16.0,17.0
+2004-04-02,Qro. : R.M. Querétaro,Toros,260.0,56.0,27.0,28.5
+2004-04-02,Qro. : R.M. Querétaro,Vaca,200.0,34.0,16.0,17.0
+2004-04-03,Qro. : R.M. Querétaro,Toros,260.0,57.0,27.0,28.5
+2004-04-03,Qro. : R.M. Querétaro,Vaca,200.0,28.0,16.0,17.0
+2004-04-05,Qro. : R.M. Querétaro,Toros,260.0,87.0,27.0,28.0
+2004-04-05,Qro. : R.M. Querétaro,Vaca,200.0,52.0,13.0,14.0
+2004-04-06,Qro. : R.M. Querétaro,Toros,260.0,58.0,27.0,28.0
+2004-04-06,Qro. : R.M. Querétaro,Vaca,200.0,20.0,13.0,14.0
+2004-04-07,Qro. : R.M. Querétaro,Toros,260.0,66.0,27.0,28.0
+2004-04-07,Qro. : R.M. Querétaro,Vaca,200.0,38.0,13.0,14.0
+2004-04-10,Qro. : R.M. Querétaro,Toros,260.0,127.0,27.0,28.0
+2004-04-10,Qro. : R.M. Querétaro,Vaca,200.0,45.0,13.0,14.0
+2004-04-12,Qro. : R.M. Querétaro,Toros,260.0,115.0,27.0,28.0
+2004-04-12,Qro. : R.M. Querétaro,Vaca,200.0,65.0,13.0,14.0
+2004-04-13,Qro. : R.M. Querétaro,Toros,260.0,98.0,27.0,28.0
+2004-04-13,Qro. : R.M. Querétaro,Vaca,200.0,47.0,13.0,14.0
+2004-04-14,Qro. : R.M. Querétaro,Toros,260.0,118.0,27.0,28.0
+2004-04-14,Qro. : R.M. Querétaro,Vaca,200.0,28.0,13.0,14.0
+2004-04-15,Qro. : R.M. Querétaro,Toros,260.0,50.0,27.0,28.0
+2004-04-15,Qro. : R.M. Querétaro,Vaca,200.0,19.0,13.0,14.0
+2004-04-16,Qro. : R.M. Querétaro,Toros,260.0,63.0,27.0,28.0
+2004-04-16,Qro. : R.M. Querétaro,Vaca,200.0,32.0,13.0,14.0
+2004-04-17,Qro. : R.M. Querétaro,Toros,260.0,120.0,27.0,28.0
+2004-04-17,Qro. : R.M. Querétaro,Vaca,200.0,21.0,13.0,14.0
+2004-04-19,Qro. : R.M. Querétaro,Toros,200.0,114.0,27.0,28.0
+2004-04-19,Qro. : R.M. Querétaro,Vaca,200.0,63.0,13.0,14.0
+2004-04-20,Qro. : R.M. Querétaro,Toros,260.0,70.0,27.0,28.0
+2004-04-20,Qro. : R.M. Querétaro,Vaca,200.0,12.0,13.0,14.0
+2004-04-21,Qro. : R.M. Querétaro,Toros,260.0,67.0,26.0,27.5
+2004-04-21,Qro. : R.M. Querétaro,Vaca,200.0,32.0,12.0,14.0
+2004-04-22,Qro. : R.M. Querétaro,Toros,260.0,60.0,27.0,28.0
+2004-04-22,Qro. : R.M. Querétaro,Vaca,200.0,16.0,13.0,14.0
+2004-04-23,Qro. : R.M. Querétaro,Toros,260.0,123.0,27.0,28.0
+2004-04-23,Qro. : R.M. Querétaro,Vaca,200.0,28.0,13.0,14.0
+2004-04-24,Qro. : R.M. Querétaro,Toros,260.0,89.0,27.0,28.0
+2004-04-24,Qro. : R.M. Querétaro,Vaca,200.0,75.0,13.0,14.0
+2004-04-26,Qro. : R.M. Querétaro,Toros,260.0,66.0,27.0,28.0
+2004-04-26,Qro. : R.M. Querétaro,Vaca,200.0,45.0,13.0,14.0
+2004-04-27,Qro. : R.M. Querétaro,Toros,260.0,87.0,27.0,28.0
+2004-04-27,Qro. : R.M. Querétaro,Vaca,200.0,67.0,13.0,14.0
+2004-04-28,Qro. : R.M. Querétaro,Toros,260.0,85.0,27.0,28.0
+2004-04-28,Qro. : R.M. Querétaro,Vaca,200.0,11.0,13.0,14.0
+2004-04-29,Qro. : R.M. Querétaro,Toros,260.0,76.0,27.0,28.0
+2004-04-29,Qro. : R.M. Querétaro,Vaca,200.0,66.0,13.0,14.0
+2004-04-30,Qro. : R.M. Querétaro,Toros,260.0,70.0,27.0,28.0
+2004-04-30,Qro. : R.M. Querétaro,Vaca,200.0,24.0,13.0,14.0
+2004-04-01,Sin. : TIF 111 Vizur Sin,Corral,274.0,202.0,,21.5
+2004-04-01,Sin. : TIF 111 Vizur Sin,Novillona,266.0,88.0,,21.5
+2004-04-02,Sin. : TIF 111 Vizur Sin,Corral,274.0,187.0,,21.5
+2004-04-02,Sin. : TIF 111 Vizur Sin,Novillona,266.0,83.0,,21.5
+2004-04-05,Sin. : TIF 111 Vizur Sin,Corral,274.0,214.0,,21.5
+2004-04-05,Sin. : TIF 111 Vizur Sin,Novillona,266.0,63.0,,21.5
+2004-04-06,Sin. : TIF 111 Vizur Sin,Corral,274.0,220.0,,21.5
+2004-04-06,Sin. : TIF 111 Vizur Sin,Novillona,266.0,50.0,,21.5
+2004-04-07,Sin. : TIF 111 Vizur Sin,Corral,274.0,241.0,,21.5
+2004-04-07,Sin. : TIF 111 Vizur Sin,Novillona,266.0,39.0,,21.5
+2004-04-08,Sin. : TIF 111 Vizur Sin,Corral,274.0,235.0,,21.5
+2004-04-08,Sin. : TIF 111 Vizur Sin,Novillona,266.0,95.0,,21.5
+2004-04-12,Sin. : TIF 111 Vizur Sin,Corral,274.0,235.0,,21.5
+2004-04-12,Sin. : TIF 111 Vizur Sin,Novillona,266.0,95.0,,21.5
+2004-04-13,Sin. : TIF 111 Vizur Sin,Corral,274.0,284.0,,21.5
+2004-04-13,Sin. : TIF 111 Vizur Sin,Novillona,266.0,46.0,,21.5
+2004-04-14,Sin. : TIF 111 Vizur Sin,Corral,274.0,204.0,,21.5
+2004-04-14,Sin. : TIF 111 Vizur Sin,Novillona,266.0,131.0,,21.5
+2004-04-15,Sin. : TIF 111 Vizur Sin,Corral,274.0,194.0,,21.5
+2004-04-15,Sin. : TIF 111 Vizur Sin,Novillona,266.0,106.0,,21.5
+2004-04-16,Sin. : TIF 111 Vizur Sin,Corral,274.0,266.0,,21.5
+2004-04-16,Sin. : TIF 111 Vizur Sin,Novillona,266.0,54.0,,21.5
+2004-04-19,Sin. : TIF 111 Vizur Sin,Corral,274.0,308.0,,21.5
+2004-04-19,Sin. : TIF 111 Vizur Sin,Novillona,266.0,2.0,,21.5
+2004-04-20,Sin. : TIF 111 Vizur Sin,Corral,274.0,266.0,,21.5
+2004-04-20,Sin. : TIF 111 Vizur Sin,Novillona,266.0,59.0,,21.5
+2004-04-21,Sin. : TIF 111 Vizur Sin,Corral,274.0,251.0,,21.5
+2004-04-21,Sin. : TIF 111 Vizur Sin,Novillona,266.0,29.0,,21.5
+2004-04-22,Sin. : TIF 111 Vizur Sin,Corral,274.0,216.0,,21.5
+2004-04-22,Sin. : TIF 111 Vizur Sin,Novillona,266.0,64.0,,21.5
+2004-04-23,Sin. : TIF 111 Vizur Sin,Corral,274.0,320.0,,21.5
+2004-04-26,Sin. : TIF 111 Vizur Sin,Corral,274.0,146.0,,21.5
+2004-04-26,Sin. : TIF 111 Vizur Sin,Novillona,266.0,174.0,,21.5
+2004-04-27,Sin. : TIF 111 Vizur Sin,Corral,274.0,270.0,,21.5
+2004-04-28,Sin. : TIF 111 Vizur Sin,Corral,274.0,230.0,,21.5
+2004-04-28,Sin. : TIF 111 Vizur Sin,Novillona,266.0,10.0,,21.5
+2004-04-29,Sin. : TIF 111 Vizur Sin,Corral,274.0,149.0,,21.5
+2004-04-29,Sin. : TIF 111 Vizur Sin,Novillona,266.0,111.0,,21.5
+2004-04-30,Sin. : TIF 111 Vizur Sin,Corral,274.0,264.0,,21.5
+2004-04-30,Sin. : TIF 111 Vizur Sin,Novillona,266.0,46.0,,21.5
+2004-04-01,Son. : Rastro TIF Bovinos Cd. Obregón,Corral,,17.0,18.0,18.0
+2004-04-02,Son. : Rastro TIF Bovinos Cd. Obregón,Corral,,55.0,18.0,18.0
+2004-04-06,Son. : Rastro TIF Bovinos Cd. Obregón,Corral,,58.0,18.0,18.0
+2004-04-07,Son. : Rastro TIF Bovinos Cd. Obregón,Corral,,26.0,18.0,18.0
+2004-04-12,Son. : Rastro TIF Bovinos Cd. Obregón,Corral,,9.0,18.0,18.0
+2004-04-13,Son. : Rastro TIF Bovinos Cd. Obregón,Corral,,28.0,18.0,18.0
+2004-04-14,Son. : Rastro TIF Bovinos Cd. Obregón,Corral,,87.0,18.0,18.0
+2004-04-19,Son. : Rastro TIF Bovinos Cd. Obregón,Corral,,40.0,18.0,18.0
+2004-04-20,Son. : Rastro TIF Bovinos Cd. Obregón,Corral,,39.0,18.0,18.0
+2004-04-21,Son. : Rastro TIF Bovinos Cd. Obregón,Corral,,16.0,18.0,18.0
+2004-04-22,Son. : Rastro TIF Bovinos Cd. Obregón,Corral,,7.0,18.0,18.0
+2004-04-23,Son. : Rastro TIF Bovinos Cd. Obregón,Corral,,71.0,18.0,18.0
+2004-04-28,Son. : Rastro TIF Bovinos Cd. Obregón,Corral,,31.0,18.0,18.0
+2004-04-29,Son. : Rastro TIF Bovinos Cd. Obregón,Corral,,15.0,18.0,18.0
+2004-04-01,Son. : Rastro TIF Bovinos Hermosillo,Corral,,135.0,32.0,32.5
+2004-04-02,Son. : Rastro TIF Bovinos Hermosillo,Corral,,139.0,32.0,32.5
+2004-04-03,Son. : Rastro TIF Bovinos Hermosillo,Corral,,183.0,32.0,32.5
+2004-04-05,Son. : Rastro TIF Bovinos Hermosillo,Corral,,81.0,32.0,32.5
+2004-04-06,Son. : Rastro TIF Bovinos Hermosillo,Corral,,62.0,32.0,32.5
+2004-04-07,Son. : Rastro TIF Bovinos Hermosillo,Corral,,95.0,32.0,32.5
+2004-04-12,Son. : Rastro TIF Bovinos Hermosillo,Corral,,37.0,32.0,32.5
+2004-04-13,Son. : Rastro TIF Bovinos Hermosillo,Corral,,134.0,32.0,32.5
+2004-04-14,Son. : Rastro TIF Bovinos Hermosillo,Corral,,70.0,32.0,32.5
+2004-04-15,Son. : Rastro TIF Bovinos Hermosillo,Corral,,59.0,32.0,32.5
+2004-04-16,Son. : Rastro TIF Bovinos Hermosillo,Corral,,121.0,32.0,32.5
+2004-04-19,Son. : Rastro TIF Bovinos Hermosillo,Corral,,241.0,32.0,32.5
+2004-04-20,Son. : Rastro TIF Bovinos Hermosillo,Corral,,142.0,32.0,32.5
+2004-04-21,Son. : Rastro TIF Bovinos Hermosillo,Corral,,104.0,32.0,32.5
+2004-04-22,Son. : Rastro TIF Bovinos Hermosillo,Corral,,80.0,32.0,32.5
+2004-04-23,Son. : Rastro TIF Bovinos Hermosillo,Corral,,130.0,32.0,32.5
+2004-04-24,Son. : Rastro TIF Bovinos Hermosillo,Corral,,141.0,32.0,32.5
+2004-04-26,Son. : Rastro TIF Bovinos Hermosillo,Corral,,291.0,32.0,32.5
+2004-04-27,Son. : Rastro TIF Bovinos Hermosillo,Corral,,141.0,32.0,32.5
+2004-04-28,Son. : Rastro TIF Bovinos Hermosillo,Corral,,82.0,32.0,32.5
+2004-04-29,Son. : Rastro TIF Bovinos Hermosillo,Corral,,204.0,32.0,32.5
+2004-04-30,Son. : Rastro TIF Bovinos Hermosillo,Corral,,87.0,32.0,32.5
+2004-04-01,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,167.0,32.0,,22.0
+2004-04-01,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,273.0,375.0,,24.0
+2004-04-01,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,429.0,5.0,,21.0
+2004-04-01,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,259.0,58.0,,19.5
+2004-04-02,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,170.0,1.0,,22.0
+2004-04-02,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,256.0,351.0,,24.0
+2004-04-02,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,415.0,7.0,,21.0
+2004-04-02,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,278.0,30.0,,19.5
+2004-04-03,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,201.0,19.0,,22.0
+2004-04-03,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,263.0,301.0,,24.0
+2004-04-03,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,376.0,5.0,,21.0
+2004-04-03,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,232.0,86.0,,19.5
+2004-04-05,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,187.0,10.0,,22.0
+2004-04-05,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,251.0,321.0,,24.0
+2004-04-05,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,392.0,8.0,,21.0
+2004-04-05,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,247.0,31.0,,19.5
+2004-04-06,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,168.0,2.0,,22.0
+2004-04-06,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,256.0,263.0,,24.0
+2004-04-06,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,392.0,2.0,,21.0
+2004-04-06,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,279.0,4.0,,19.5
+2004-04-07,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,197.0,6.0,,22.0
+2004-04-07,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,279.0,323.0,,24.0
+2004-04-07,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,441.0,4.0,,21.0
+2004-04-07,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,256.0,26.0,,19.5
+2004-04-08,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,172.0,1.0,,22.0
+2004-04-08,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,281.0,143.0,,24.0
+2004-04-08,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,416.0,6.0,,21.0
+2004-04-08,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,238.0,60.0,,19.5
+2004-04-12,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,275.0,174.0,,24.0
+2004-04-12,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,332.0,1.0,,21.0
+2004-04-12,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,232.0,10.0,,19.5
+2004-04-13,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,203.0,27.0,,22.0
+2004-04-13,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,272.0,292.0,,24.0
+2004-04-13,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,383.0,2.0,,21.0
+2004-04-13,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,266.0,41.0,,19.5
+2004-04-14,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,227.0,23.0,,22.0
+2004-04-14,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,262.0,195.0,,24.0
+2004-04-14,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,399.0,1.0,,21.0
+2004-04-14,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,247.0,23.0,,19.5
+2004-04-15,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,213.0,24.0,,22.0
+2004-04-15,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,255.0,360.0,,24.0
+2004-04-15,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,309.0,1.0,,21.0
+2004-04-15,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,253.0,24.0,,19.5
+2004-04-16,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,205.0,22.0,,22.0
+2004-04-16,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,264.0,320.0,,24.0
+2004-04-16,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,372.0,4.0,,21.0
+2004-04-16,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,236.0,56.0,,19.5
+2004-04-17,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,187.0,22.0,,22.0
+2004-04-17,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,254.0,298.0,,24.0
+2004-04-17,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,392.0,9.0,,21.0
+2004-04-17,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,276.0,24.0,,19.5
+2004-04-19,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,182.0,2.0,,22.0
+2004-04-19,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,271.0,135.0,,24.0
+2004-04-19,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,272.0,1.0,,21.0
+2004-04-19,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,244.0,57.0,,19.5
+2004-04-20,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,227.0,11.0,,22.0
+2004-04-20,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,262.0,240.0,,24.0
+2004-04-20,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,418.0,5.0,,21.0
+2004-04-20,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,247.0,44.0,,19.5
+2004-04-21,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,188.0,19.0,,22.0
+2004-04-21,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,258.0,243.0,,24.0
+2004-04-21,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,387.0,5.0,,21.0
+2004-04-21,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,269.0,48.0,,19.5
+2004-04-22,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,167.0,47.0,,22.0
+2004-04-22,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,263.0,391.0,,24.0
+2004-04-22,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,353.0,17.0,,21.0
+2004-04-22,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,239.0,38.0,,19.5
+2004-04-23,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,204.0,43.0,,22.0
+2004-04-23,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,273.0,368.0,,24.0
+2004-04-23,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,370.0,6.0,,21.0
+2004-04-23,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,251.0,40.0,,19.5
+2004-04-24,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,220.0,12.0,,22.0
+2004-04-24,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,253.0,277.0,,24.0
+2004-04-24,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,309.0,9.0,,21.0
+2004-04-24,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,221.0,113.0,,19.5
+2004-04-26,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,200.0,20.0,,22.0
+2004-04-26,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,271.0,139.0,,24.0
+2004-04-26,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,392.0,5.0,,21.0
+2004-04-26,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,244.0,16.0,,19.5
+2004-04-27,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,188.0,15.0,,22.0
+2004-04-27,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,259.0,373.0,,24.0
+2004-04-27,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,437.0,6.0,,21.0
+2004-04-27,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,243.0,23.0,,19.5
+2004-04-28,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,165.0,35.0,,22.0
+2004-04-28,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,250.0,492.0,,24.0
+2004-04-28,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,375.0,8.0,,21.0
+2004-04-28,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,203.0,101.0,,19.5
+2004-04-29,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,166.0,7.0,,22.0
+2004-04-29,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,269.0,345.0,,24.0
+2004-04-29,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,374.0,5.0,,21.0
+2004-04-29,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,246.0,58.0,,19.5
+2004-04-30,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,208.0,15.0,,22.0
+2004-04-30,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,284.0,296.0,,24.0
+2004-04-30,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,394.0,3.0,,21.0
+2004-04-30,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,241.0,138.0,,19.5
+2004-04-01,Tamps. : Rastro TIF de Aldama,Corral,234.0,1.0,28.0,28.0
+2004-04-01,Tamps. : Rastro TIF de Aldama,Novillona,196.0,2.0,24.0,27.0
+2004-04-01,Tamps. : Rastro TIF de Aldama,Toros,385.0,1.0,16.8,21.0
+2004-04-01,Tamps. : Rastro TIF de Aldama,Vaca,227.0,7.0,16.8,20.0
+2004-04-02,Tamps. : Rastro TIF de Aldama,Corral,286.0,81.0,28.0,28.0
+2004-04-02,Tamps. : Rastro TIF de Aldama,Novillona,278.0,36.0,24.0,27.0
+2004-04-02,Tamps. : Rastro TIF de Aldama,Toros,447.0,1.0,16.8,21.0
+2004-04-03,Tamps. : Rastro TIF de Aldama,Corral,297.0,135.0,28.0,28.0
+2004-04-03,Tamps. : Rastro TIF de Aldama,Novillona,244.0,50.0,24.0,27.0
+2004-04-03,Tamps. : Rastro TIF de Aldama,Toros,560.0,2.0,16.8,21.0
+2004-04-03,Tamps. : Rastro TIF de Aldama,Vaca,245.0,15.0,16.8,20.0
+2004-04-05,Tamps. : Rastro TIF de Aldama,Corral,272.0,59.0,28.0,28.0
+2004-04-05,Tamps. : Rastro TIF de Aldama,Vaca,255.0,1.0,16.8,20.0
+2004-04-06,Tamps. : Rastro TIF de Aldama,Corral,275.0,24.0,28.0,28.0
+2004-04-06,Tamps. : Rastro TIF de Aldama,Novillona,243.0,35.0,24.0,27.0
+2004-04-06,Tamps. : Rastro TIF de Aldama,Vaca,235.0,4.0,16.8,20.0
+2004-04-07,Tamps. : Rastro TIF de Aldama,Corral,288.0,94.0,28.0,28.0
+2004-04-07,Tamps. : Rastro TIF de Aldama,Novillona,253.0,131.0,24.0,27.0
+2004-04-07,Tamps. : Rastro TIF de Aldama,Toros,305.0,1.0,16.8,21.0
+2004-04-07,Tamps. : Rastro TIF de Aldama,Vaca,141.0,1.0,16.8,20.0
+2004-04-12,Tamps. : Rastro TIF de Aldama,Corral,188.0,190.0,28.0,28.0
+2004-04-12,Tamps. : Rastro TIF de Aldama,Novillona,282.0,185.0,24.0,27.0
+2004-04-12,Tamps. : Rastro TIF de Aldama,Vaca,235.0,9.0,16.8,20.0
+2004-04-13,Tamps. : Rastro TIF de Aldama,Corral,289.0,334.0,28.0,28.0
+2004-04-13,Tamps. : Rastro TIF de Aldama,Novillona,237.0,72.0,24.0,27.0
+2004-04-13,Tamps. : Rastro TIF de Aldama,Toros,437.0,2.0,16.8,21.0
+2004-04-13,Tamps. : Rastro TIF de Aldama,Vaca,228.0,9.0,16.8,20.0
+2004-04-14,Tamps. : Rastro TIF de Aldama,Corral,269.0,65.0,28.0,28.0
+2004-04-14,Tamps. : Rastro TIF de Aldama,Novillona,235.0,55.0,24.0,27.0
+2004-04-14,Tamps. : Rastro TIF de Aldama,Toros,367.0,6.0,16.8,21.0
+2004-04-14,Tamps. : Rastro TIF de Aldama,Vaca,221.0,17.0,16.8,20.0
+2004-04-15,Tamps. : Rastro TIF de Aldama,Corral,282.0,51.0,28.0,28.0
+2004-04-15,Tamps. : Rastro TIF de Aldama,Novillona,305.0,46.0,24.0,27.0
+2004-04-16,Tamps. : Rastro TIF de Aldama,Corral,289.0,153.0,28.0,28.0
+2004-04-16,Tamps. : Rastro TIF de Aldama,Novillona,248.0,25.0,24.0,27.0
+2004-04-16,Tamps. : Rastro TIF de Aldama,Toros,423.0,2.0,16.8,21.0
+2004-04-16,Tamps. : Rastro TIF de Aldama,Vaca,237.0,8.0,16.8,20.0
+2004-04-17,Tamps. : Rastro TIF de Aldama,Corral,301.0,84.0,28.0,28.0
+2004-04-17,Tamps. : Rastro TIF de Aldama,Novillona,252.0,75.0,24.0,27.0
+2004-04-17,Tamps. : Rastro TIF de Aldama,Vaca,275.0,1.0,16.8,20.0
+2004-04-19,Tamps. : Rastro TIF de Aldama,Corral,211.0,135.0,28.0,28.0
+2004-04-19,Tamps. : Rastro TIF de Aldama,Novillona,278.0,172.0,24.0,27.0
+2004-04-20,Tamps. : Rastro TIF de Aldama,Corral,281.0,127.0,28.0,28.0
+2004-04-20,Tamps. : Rastro TIF de Aldama,Novillona,245.0,56.0,24.0,27.0
+2004-04-20,Tamps. : Rastro TIF de Aldama,Toros,237.0,2.0,16.8,21.0
+2004-04-20,Tamps. : Rastro TIF de Aldama,Vaca,236.0,23.0,16.8,20.0
+2004-04-21,Tamps. : Rastro TIF de Aldama,Corral,291.0,131.0,28.0,28.0
+2004-04-21,Tamps. : Rastro TIF de Aldama,Novillona,248.0,21.0,24.0,27.0
+2004-04-21,Tamps. : Rastro TIF de Aldama,Vaca,290.0,34.0,16.8,20.0
+2004-04-22,Tamps. : Rastro TIF de Aldama,Corral,260.0,25.0,28.0,28.0
+2004-04-22,Tamps. : Rastro TIF de Aldama,Novillona,252.0,8.0,24.0,27.0
+2004-04-22,Tamps. : Rastro TIF de Aldama,Vaca,276.0,2.0,16.8,20.0
+2004-04-23,Tamps. : Rastro TIF de Aldama,Corral,290.0,43.0,28.0,28.0
+2004-04-23,Tamps. : Rastro TIF de Aldama,Novillona,210.0,4.0,24.0,27.0
+2004-04-23,Tamps. : Rastro TIF de Aldama,Toros,358.0,3.0,16.8,21.0
+2004-04-23,Tamps. : Rastro TIF de Aldama,Vaca,227.0,12.0,16.8,20.0
+2004-04-24,Tamps. : Rastro TIF de Aldama,Corral,293.0,157.0,28.0,28.0
+2004-04-24,Tamps. : Rastro TIF de Aldama,Novillona,206.0,141.0,24.0,27.0
+2004-04-24,Tamps. : Rastro TIF de Aldama,Toros,526.0,1.0,16.8,21.0
+2004-04-24,Tamps. : Rastro TIF de Aldama,Vaca,227.0,11.0,16.8,20.0
+2004-04-26,Tamps. : Rastro TIF de Aldama,Corral,286.0,298.0,28.0,28.0
+2004-04-26,Tamps. : Rastro TIF de Aldama,Novillona,248.0,128.0,24.0,27.0
+2004-04-26,Tamps. : Rastro TIF de Aldama,Vaca,263.0,5.0,16.8,20.0
+2004-04-27,Tamps. : Rastro TIF de Aldama,Corral,296.0,243.0,28.0,28.0
+2004-04-27,Tamps. : Rastro TIF de Aldama,Novillona,230.0,14.0,24.0,27.0
+2004-04-27,Tamps. : Rastro TIF de Aldama,Vaca,223.0,3.0,16.8,20.0
+2004-04-29,Tamps. : Rastro TIF de Aldama,Corral,276.0,40.0,28.0,28.0
+2004-04-29,Tamps. : Rastro TIF de Aldama,Novillona,222.0,115.0,24.0,27.0
+2004-04-29,Tamps. : Rastro TIF de Aldama,Toros,369.0,1.0,16.8,21.0
+2004-04-29,Tamps. : Rastro TIF de Aldama,Vaca,230.0,7.0,16.8,20.0
+2004-04-30,Tamps. : Rastro TIF de Aldama,Corral,296.0,289.0,28.0,28.0
+2004-04-30,Tamps. : Rastro TIF de Aldama,Vaca,186.0,2.0,16.8,20.0
+2004-04-01,Ver. : Rastro Municipal de Xalapa,Corral,258.0,4.0,33.0,35.0
+2004-04-01,Ver. : Rastro Municipal de Xalapa,Toros,248.0,25.0,24.0,26.0
+2004-04-01,Ver. : Rastro Municipal de Xalapa,Vaca,207.0,4.0,18.0,21.0
+2004-04-02,Ver. : Rastro Municipal de Xalapa,Corral,220.0,2.0,32.0,34.0
+2004-04-02,Ver. : Rastro Municipal de Xalapa,Toros,242.0,14.0,24.0,26.0
+2004-04-02,Ver. : Rastro Municipal de Xalapa,Vaca,169.0,1.0,18.0,20.0
+2004-04-05,Ver. : Rastro Municipal de Xalapa,Corral,249.0,6.0,32.0,34.0
+2004-04-05,Ver. : Rastro Municipal de Xalapa,Toros,252.0,23.0,24.0,26.0
+2004-04-05,Ver. : Rastro Municipal de Xalapa,Vaca,231.0,6.0,18.0,20.0
+2004-04-06,Ver. : Rastro Municipal de Xalapa,Corral,265.0,3.0,32.0,34.0
+2004-04-06,Ver. : Rastro Municipal de Xalapa,Toros,239.0,4.0,24.0,26.0
+2004-04-07,Ver. : Rastro Municipal de Xalapa,Corral,242.0,26.0,32.0,34.0
+2004-04-07,Ver. : Rastro Municipal de Xalapa,Novillona,175.0,1.0,30.0,32.0
+2004-04-07,Ver. : Rastro Municipal de Xalapa,Toros,287.0,7.0,24.0,26.0
+2004-04-07,Ver. : Rastro Municipal de Xalapa,Vaca,251.0,2.0,18.0,20.0
+2004-04-12,Ver. : Rastro Municipal de Xalapa,Corral,205.0,6.0,32.0,34.0
+2004-04-12,Ver. : Rastro Municipal de Xalapa,Novillona,174.0,4.0,30.0,32.0
+2004-04-12,Ver. : Rastro Municipal de Xalapa,Toros,275.0,58.0,24.0,26.0
+2004-04-12,Ver. : Rastro Municipal de Xalapa,Vaca,232.0,11.0,18.0,20.0
+2004-04-13,Ver. : Rastro Municipal de Xalapa,Corral,208.0,5.0,32.0,34.0
+2004-04-13,Ver. : Rastro Municipal de Xalapa,Toros,250.0,13.0,24.0,26.0
+2004-04-13,Ver. : Rastro Municipal de Xalapa,Vaca,155.0,3.0,18.0,20.0
+2004-04-14,Ver. : Rastro Municipal de Xalapa,Corral,224.0,39.0,32.0,34.0
+2004-04-14,Ver. : Rastro Municipal de Xalapa,Novillona,160.0,8.0,26.0,28.0
+2004-04-14,Ver. : Rastro Municipal de Xalapa,Toros,272.0,16.0,24.0,26.0
+2004-04-14,Ver. : Rastro Municipal de Xalapa,Vaca,224.0,6.0,18.0,20.0
+2004-04-15,Ver. : Rastro Municipal de Xalapa,Corral,294.0,17.0,32.0,34.0
+2004-04-15,Ver. : Rastro Municipal de Xalapa,Novillona,185.0,1.0,24.0,26.0
+2004-04-15,Ver. : Rastro Municipal de Xalapa,Toros,239.0,15.0,24.0,26.0
+2004-04-15,Ver. : Rastro Municipal de Xalapa,Vaca,229.0,7.0,18.0,20.0
+2004-04-16,Ver. : Rastro Municipal de Xalapa,Corral,252.0,6.0,32.0,34.0
+2004-04-16,Ver. : Rastro Municipal de Xalapa,Novillona,173.0,1.0,24.0,26.0
+2004-04-16,Ver. : Rastro Municipal de Xalapa,Toros,239.0,8.0,24.0,26.0
+2004-04-16,Ver. : Rastro Municipal de Xalapa,Vaca,247.0,1.0,18.0,20.0
+2004-04-19,Ver. : Rastro Municipal de Xalapa,Corral,257.0,22.0,32.0,34.0
+2004-04-19,Ver. : Rastro Municipal de Xalapa,Novillona,175.0,6.0,24.0,26.0
+2004-04-19,Ver. : Rastro Municipal de Xalapa,Toros,264.0,49.0,24.0,26.0
+2004-04-19,Ver. : Rastro Municipal de Xalapa,Vaca,187.0,6.0,18.0,20.0
+2004-04-20,Ver. : Rastro Municipal de Xalapa,Corral,247.0,3.0,32.0,34.0
+2004-04-20,Ver. : Rastro Municipal de Xalapa,Toros,258.0,25.0,24.0,26.0
+2004-04-20,Ver. : Rastro Municipal de Xalapa,Vaca,215.0,1.0,18.0,20.0
+2004-04-21,Ver. : Rastro Municipal de Xalapa,Corral,285.0,3.0,32.0,34.0
+2004-04-21,Ver. : Rastro Municipal de Xalapa,Novillona,153.0,1.0,23.0,25.0
+2004-04-21,Ver. : Rastro Municipal de Xalapa,Toros,281.0,45.0,24.0,26.0
+2004-04-21,Ver. : Rastro Municipal de Xalapa,Vaca,196.0,3.0,18.0,20.0
+2004-04-22,Ver. : Rastro Municipal de Xalapa,Corral,246.0,9.0,32.0,34.0
+2004-04-22,Ver. : Rastro Municipal de Xalapa,Novillona,192.0,2.0,23.0,25.0
+2004-04-22,Ver. : Rastro Municipal de Xalapa,Toros,248.0,27.0,24.0,26.0
+2004-04-22,Ver. : Rastro Municipal de Xalapa,Vaca,218.0,4.0,18.0,20.0
+2004-04-23,Ver. : Rastro Municipal de Xalapa,Corral,265.0,6.0,32.0,34.0
+2004-04-23,Ver. : Rastro Municipal de Xalapa,Novillona,211.0,1.0,22.0,24.0
+2004-04-23,Ver. : Rastro Municipal de Xalapa,Toros,257.0,17.0,24.0,26.0
+2004-04-23,Ver. : Rastro Municipal de Xalapa,Vaca,207.0,5.0,18.0,20.0
+2004-04-26,Ver. : Rastro Municipal de Xalapa,Corral,263.0,4.0,32.0,34.0
+2004-04-26,Ver. : Rastro Municipal de Xalapa,Novillona,165.0,7.0,22.0,24.0
+2004-04-26,Ver. : Rastro Municipal de Xalapa,Toros,263.0,58.0,24.0,26.0
+2004-04-26,Ver. : Rastro Municipal de Xalapa,Vaca,197.0,8.0,18.0,20.0
+2004-04-27,Ver. : Rastro Municipal de Xalapa,Corral,248.0,7.0,32.0,34.0
+2004-04-27,Ver. : Rastro Municipal de Xalapa,Toros,265.0,21.0,24.0,26.0
+2004-04-27,Ver. : Rastro Municipal de Xalapa,Vaca,315.0,1.0,18.0,20.0
+2004-04-28,Ver. : Rastro Municipal de Xalapa,Corral,215.0,29.0,32.0,34.0
+2004-04-28,Ver. : Rastro Municipal de Xalapa,Toros,293.0,15.0,24.0,26.0
+2004-04-29,Ver. : Rastro Municipal de Xalapa,Corral,239.0,5.0,32.0,34.0
+2004-04-29,Ver. : Rastro Municipal de Xalapa,Novillona,233.0,1.0,22.0,24.0
+2004-04-29,Ver. : Rastro Municipal de Xalapa,Toros,261.0,22.0,24.0,26.0
+2004-04-29,Ver. : Rastro Municipal de Xalapa,Vaca,219.0,4.0,18.0,20.0
+2004-04-30,Ver. : Rastro Municipal de Xalapa,Novillona,241.0,4.0,32.0,34.0
+2004-04-30,Ver. : Rastro Municipal de Xalapa,Toros,250.0,24.0,24.0,26.0
+2004-04-30,Ver. : Rastro Municipal de Xalapa,Vaca,242.0,3.0,18.0,20.0
+2004-04-06,Yuc. : Aric Planta TIF 170,Pradera,280.0,72.0,,25.0
+2004-04-12,Yuc. : Aric Planta TIF 170,Pradera,290.0,72.0,,25.0
+2004-04-13,Yuc. : Aric Planta TIF 170,Pradera,298.0,73.0,,25.0
+2004-04-14,Yuc. : Aric Planta TIF 170,Pradera,384.0,72.0,,25.0
+2004-04-16,Yuc. : Aric Planta TIF 170,Pradera,296.0,72.0,,25.0
+2004-04-19,Yuc. : Aric Planta TIF 170,Pradera,302.0,61.0,,25.0
+2004-04-22,Yuc. : Aric Planta TIF 170,Pradera,308.0,144.0,,25.0
+2004-04-26,Yuc. : Aric Planta TIF 170,Novillona,216.0,8.0,,20.5
+2004-04-26,Yuc. : Aric Planta TIF 170,Pradera,310.0,68.0,,25.0
+2004-04-30,Yuc. : Aric Planta TIF 170,Pradera,278.0,75.0,,25.0

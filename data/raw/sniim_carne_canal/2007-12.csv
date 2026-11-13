@@ -1,0 +1,1250 @@
+date,slaughterhouse,type,avg_weight_kg,carcasses,price_min_mxn_kg,price_max_mxn_kg
+2007-12-01,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,86.0,32.0,32.5
+2007-12-01,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,50.0,21.0,23.0
+2007-12-03,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,68.0,32.0,32.5
+2007-12-03,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,100.0,21.0,23.0
+2007-12-04,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,55.0,32.0,32.5
+2007-12-04,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,184.0,21.0,23.0
+2007-12-05,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,104.0,32.0,32.5
+2007-12-05,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,61.0,21.0,23.0
+2007-12-06,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,79.0,32.0,32.5
+2007-12-06,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,77.0,21.0,23.0
+2007-12-07,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,78.0,32.0,32.5
+2007-12-07,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,66.0,21.0,23.0
+2007-12-08,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,53.0,32.0,32.5
+2007-12-08,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,141.0,21.0,23.0
+2007-12-10,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,41.0,32.0,32.5
+2007-12-10,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,42.0,21.0,23.0
+2007-12-11,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,101.0,32.0,32.5
+2007-12-11,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,125.0,21.0,23.0
+2007-12-12,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,96.0,32.0,32.5
+2007-12-12,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,38.0,21.0,23.0
+2007-12-13,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,30.0,32.0,32.5
+2007-12-13,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,153.0,21.0,23.0
+2007-12-14,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,70.0,32.0,32.5
+2007-12-14,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,56.0,21.0,23.0
+2007-12-15,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,89.0,32.0,32.5
+2007-12-15,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,57.0,21.0,23.0
+2007-12-17,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,139.0,32.0,32.5
+2007-12-17,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,199.0,21.0,23.0
+2007-12-18,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,79.0,32.0,32.5
+2007-12-18,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,64.0,21.0,23.0
+2007-12-19,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,62.0,32.0,32.5
+2007-12-19,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,71.0,21.0,23.0
+2007-12-20,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,39.0,32.0,32.5
+2007-12-20,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,43.0,21.0,23.0
+2007-12-21,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,138.0,32.0,32.5
+2007-12-21,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,26.0,21.0,23.0
+2007-12-22,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,54.0,32.0,32.5
+2007-12-22,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,69.0,21.0,23.0
+2007-12-24,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,79.0,32.0,32.5
+2007-12-24,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,23.0,21.0,23.0
+2007-12-26,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,57.0,32.0,32.5
+2007-12-26,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,64.0,21.0,23.0
+2007-12-27,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,53.0,32.0,32.5
+2007-12-27,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,86.0,21.0,23.0
+2007-12-28,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,50.0,32.0,32.5
+2007-12-28,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,99.0,21.0,23.0
+2007-12-29,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,64.0,32.0,32.5
+2007-12-29,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,147.0,21.0,23.0
+2007-12-31,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,68.0,32.0,32.5
+2007-12-31,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,183.0,21.0,23.0
+2007-12-04,Ags. : R.M. Aguascalientes,Vaca,360.0,46.0,20.0,21.0
+2007-12-05,Ags. : R.M. Aguascalientes,Toros,455.0,11.0,30.5,31.5
+2007-12-05,Ags. : R.M. Aguascalientes,Vaca,360.0,57.0,20.0,21.0
+2007-12-06,Ags. : R.M. Aguascalientes,Toros,455.0,18.0,30.5,31.5
+2007-12-06,Ags. : R.M. Aguascalientes,Vaca,360.0,57.0,20.0,21.0
+2007-12-07,Ags. : R.M. Aguascalientes,Toros,455.0,37.0,30.5,31.5
+2007-12-07,Ags. : R.M. Aguascalientes,Vaca,360.0,74.0,20.0,21.0
+2007-12-08,Ags. : R.M. Aguascalientes,Vaca,360.0,63.0,20.0,21.0
+2007-12-10,Ags. : R.M. Aguascalientes,Toros,455.0,36.0,30.5,31.5
+2007-12-10,Ags. : R.M. Aguascalientes,Vaca,360.0,90.0,20.0,21.0
+2007-12-11,Ags. : R.M. Aguascalientes,Vaca,360.0,40.0,20.0,21.0
+2007-12-12,Ags. : R.M. Aguascalientes,Vaca,360.0,51.0,20.0,21.0
+2007-12-13,Ags. : R.M. Aguascalientes,Toros,455.0,15.0,30.5,31.5
+2007-12-13,Ags. : R.M. Aguascalientes,Vaca,360.0,40.0,20.0,21.0
+2007-12-14,Ags. : R.M. Aguascalientes,Toros,455.0,25.0,30.5,31.5
+2007-12-14,Ags. : R.M. Aguascalientes,Vaca,360.0,56.0,20.0,21.0
+2007-12-15,Ags. : R.M. Aguascalientes,Toros,455.0,28.0,30.5,31.5
+2007-12-15,Ags. : R.M. Aguascalientes,Vaca,360.0,81.0,20.0,21.0
+2007-12-17,Ags. : R.M. Aguascalientes,Novillona,295.0,3.0,25.0,26.0
+2007-12-17,Ags. : R.M. Aguascalientes,Toros,455.0,28.0,30.5,31.5
+2007-12-17,Ags. : R.M. Aguascalientes,Vaca,360.0,81.0,20.0,21.0
+2007-12-18,Ags. : R.M. Aguascalientes,Toros,455.0,13.0,30.5,31.5
+2007-12-18,Ags. : R.M. Aguascalientes,Vaca,360.0,56.0,20.0,21.0
+2007-12-19,Ags. : R.M. Aguascalientes,Toros,455.0,11.0,30.5,31.5
+2007-12-19,Ags. : R.M. Aguascalientes,Vaca,360.0,35.0,20.0,21.0
+2007-12-20,Ags. : R.M. Aguascalientes,Toros,455.0,21.0,30.5,31.5
+2007-12-20,Ags. : R.M. Aguascalientes,Vaca,360.0,46.0,20.0,21.0
+2007-12-21,Ags. : R.M. Aguascalientes,Novillona,295.0,7.0,25.0,26.0
+2007-12-21,Ags. : R.M. Aguascalientes,Toros,455.0,25.0,30.5,31.5
+2007-12-21,Ags. : R.M. Aguascalientes,Vaca,360.0,39.0,20.0,21.0
+2007-12-22,Ags. : R.M. Aguascalientes,Vaca,360.0,40.0,20.0,21.0
+2007-12-24,Ags. : R.M. Aguascalientes,Novillona,295.0,3.0,25.0,26.0
+2007-12-24,Ags. : R.M. Aguascalientes,Toros,455.0,35.0,30.5,31.5
+2007-12-24,Ags. : R.M. Aguascalientes,Vaca,360.0,63.0,20.0,21.0
+2007-12-26,Ags. : R.M. Aguascalientes,Toros,455.0,19.0,30.5,31.5
+2007-12-26,Ags. : R.M. Aguascalientes,Vaca,360.0,43.0,20.0,21.0
+2007-12-27,Ags. : R.M. Aguascalientes,Toros,455.0,23.0,30.5,31.5
+2007-12-27,Ags. : R.M. Aguascalientes,Vaca,360.0,53.0,20.0,21.0
+2007-12-28,Ags. : R.M. Aguascalientes,Novillona,295.0,3.0,25.0,26.0
+2007-12-28,Ags. : R.M. Aguascalientes,Toros,455.0,21.0,30.5,31.5
+2007-12-28,Ags. : R.M. Aguascalientes,Vaca,360.0,64.0,20.0,21.0
+2007-12-29,Ags. : R.M. Aguascalientes,Vaca,360.0,37.0,20.0,21.0
+2007-12-31,Ags. : R.M. Aguascalientes,Vaca,360.0,56.0,20.0,21.0
+2007-12-03,B.C.S. : R.M. La Paz B.C.S.,Pradera,231.0,40.0,29.0,30.0
+2007-12-10,B.C.S. : R.M. La Paz B.C.S.,Pradera,229.0,55.0,28.0,30.0
+2007-12-11,B.C.S. : R.M. La Paz B.C.S.,Pradera,262.0,13.0,28.0,30.0
+2007-12-12,B.C.S. : R.M. La Paz B.C.S.,Pradera,230.0,31.0,28.0,30.0
+2007-12-13,B.C.S. : R.M. La Paz B.C.S.,Pradera,226.0,15.0,28.0,30.0
+2007-12-14,B.C.S. : R.M. La Paz B.C.S.,Pradera,249.0,49.0,28.0,30.0
+2007-12-17,B.C.S. : R.M. La Paz B.C.S.,Pradera,233.0,59.0,28.0,30.0
+2007-12-18,B.C.S. : R.M. La Paz B.C.S.,Pradera,283.0,22.0,28.0,30.0
+2007-12-19,B.C.S. : R.M. La Paz B.C.S.,Corral,276.0,32.0,28.0,30.0
+2007-12-20,B.C.S. : R.M. La Paz B.C.S.,Pradera,243.0,19.0,28.0,30.0
+2007-12-21,B.C.S. : R.M. La Paz B.C.S.,Pradera,239.0,39.0,28.0,30.0
+2007-12-26,B.C.S. : R.M. La Paz B.C.S.,Pradera,242.0,36.0,28.0,30.0
+2007-12-28,B.C.S. : R.M. La Paz B.C.S.,Pradera,233.0,54.0,28.0,30.0
+2007-12-03,Camp. : R.M. Campeche,Pradera,190.0,7.0,30.0,32.5
+2007-12-04,Camp. : R.M. Campeche,Pradera,190.0,4.0,30.0,32.5
+2007-12-05,Camp. : R.M. Campeche,Pradera,190.0,6.0,30.0,32.5
+2007-12-06,Camp. : R.M. Campeche,Pradera,190.0,8.0,30.0,32.5
+2007-12-07,Camp. : R.M. Campeche,Pradera,190.0,11.0,30.0,32.5
+2007-12-10,Camp. : R.M. Campeche,Pradera,190.0,9.0,30.0,32.5
+2007-12-11,Camp. : R.M. Campeche,Pradera,190.0,5.0,30.0,32.5
+2007-12-12,Camp. : R.M. Campeche,Pradera,190.0,7.0,30.0,32.5
+2007-12-13,Camp. : R.M. Campeche,Pradera,190.0,4.0,30.0,32.5
+2007-12-14,Camp. : R.M. Campeche,Pradera,190.0,11.0,30.0,32.5
+2007-12-17,Camp. : R.M. Campeche,Pradera,190.0,7.0,30.0,32.5
+2007-12-18,Camp. : R.M. Campeche,Pradera,190.0,4.0,30.0,32.5
+2007-12-19,Camp. : R.M. Campeche,Pradera,190.0,6.0,30.0,32.5
+2007-12-20,Camp. : R.M. Campeche,Pradera,190.0,4.0,30.0,32.5
+2007-12-21,Camp. : R.M. Campeche,Pradera,190.0,11.0,30.0,32.5
+2007-12-24,Camp. : R.M. Campeche,Pradera,190.0,7.0,30.0,32.5
+2007-12-26,Camp. : R.M. Campeche,Pradera,190.0,4.0,30.0,32.5
+2007-12-27,Camp. : R.M. Campeche,Pradera,190.0,3.0,30.0,32.5
+2007-12-28,Camp. : R.M. Campeche,Pradera,190.0,10.0,30.0,32.5
+2007-12-31,Camp. : R.M. Campeche,Pradera,190.0,7.0,30.0,32.5
+2007-12-03,Coah. : R.M. Torreón,Corral,222.0,5.0,31.0,32.0
+2007-12-03,Coah. : R.M. Torreón,Vaca,360.0,56.0,21.0,22.0
+2007-12-04,Coah. : R.M. Torreón,Corral,222.0,24.0,31.0,32.0
+2007-12-04,Coah. : R.M. Torreón,Vaca,360.0,21.0,21.0,22.0
+2007-12-05,Coah. : R.M. Torreón,Corral,222.0,20.0,31.0,32.0
+2007-12-05,Coah. : R.M. Torreón,Vaca,360.0,105.0,21.0,22.0
+2007-12-06,Coah. : R.M. Torreón,Corral,222.0,31.0,31.0,32.0
+2007-12-06,Coah. : R.M. Torreón,Vaca,360.0,46.0,21.0,22.0
+2007-12-10,Coah. : R.M. Torreón,Corral,222.0,86.0,31.0,32.0
+2007-12-10,Coah. : R.M. Torreón,Vaca,360.0,61.0,21.0,22.0
+2007-12-11,Coah. : R.M. Torreón,Corral,222.0,31.0,31.0,32.0
+2007-12-11,Coah. : R.M. Torreón,Vaca,360.0,46.0,21.0,22.0
+2007-12-12,Coah. : R.M. Torreón,Corral,222.0,26.0,31.0,32.0
+2007-12-12,Coah. : R.M. Torreón,Vaca,360.0,96.0,21.0,22.0
+2007-12-17,Coah. : R.M. Torreón,Corral,222.0,18.0,31.0,32.0
+2007-12-17,Coah. : R.M. Torreón,Vaca,360.0,69.0,21.0,22.0
+2007-12-18,Coah. : R.M. Torreón,Corral,222.0,32.0,31.0,32.0
+2007-12-18,Coah. : R.M. Torreón,Vaca,360.0,31.0,21.0,22.0
+2007-12-19,Coah. : R.M. Torreón,Corral,222.0,51.0,31.0,32.0
+2007-12-19,Coah. : R.M. Torreón,Vaca,360.0,41.0,21.0,22.0
+2007-12-20,Coah. : R.M. Torreón,Corral,222.0,53.0,31.0,32.0
+2007-12-20,Coah. : R.M. Torreón,Vaca,360.0,82.0,21.0,22.0
+2007-12-24,Coah. : R.M. Torreón,Corral,222.0,117.0,31.0,32.0
+2007-12-24,Coah. : R.M. Torreón,Vaca,360.0,34.0,21.0,22.0
+2007-12-26,Coah. : R.M. Torreón,Corral,222.0,30.0,31.0,32.0
+2007-12-26,Coah. : R.M. Torreón,Vaca,360.0,91.0,21.0,22.0
+2007-12-27,Coah. : R.M. Torreón,Corral,222.0,30.0,31.0,32.0
+2007-12-27,Coah. : R.M. Torreón,Vaca,360.0,75.0,21.0,22.0
+2007-12-31,Coah. : R.M. Torreón,Corral,222.0,40.0,31.0,32.0
+2007-12-31,Coah. : R.M. Torreón,Vaca,360.0,55.0,21.0,22.0
+2007-12-03,Coah. : R.P. La Torrena,Corral,222.0,4.0,30.0,31.0
+2007-12-03,Coah. : R.P. La Torrena,Vaca,360.0,51.0,21.0,22.0
+2007-12-04,Coah. : R.P. La Torrena,Corral,222.0,16.0,30.0,31.0
+2007-12-04,Coah. : R.P. La Torrena,Vaca,360.0,96.0,21.0,22.0
+2007-12-05,Coah. : R.P. La Torrena,Vaca,360.0,56.0,21.0,22.0
+2007-12-06,Coah. : R.P. La Torrena,Corral,222.0,5.0,30.0,31.0
+2007-12-06,Coah. : R.P. La Torrena,Vaca,360.0,57.0,21.0,22.0
+2007-12-07,Coah. : R.P. La Torrena,Vaca,360.0,75.0,21.0,22.0
+2007-12-10,Coah. : R.P. La Torrena,Corral,222.0,10.0,30.0,31.0
+2007-12-10,Coah. : R.P. La Torrena,Vaca,360.0,58.0,21.0,22.0
+2007-12-11,Coah. : R.P. La Torrena,Corral,222.0,15.0,30.0,31.0
+2007-12-11,Coah. : R.P. La Torrena,Vaca,360.0,117.0,21.0,22.0
+2007-12-12,Coah. : R.P. La Torrena,Corral,222.0,15.0,30.0,31.0
+2007-12-12,Coah. : R.P. La Torrena,Vaca,360.0,70.0,21.0,22.0
+2007-12-14,Coah. : R.P. La Torrena,Vaca,360.0,82.0,21.0,22.0
+2007-12-17,Coah. : R.P. La Torrena,Corral,222.0,10.0,30.0,31.0
+2007-12-17,Coah. : R.P. La Torrena,Vaca,360.0,65.0,21.0,22.0
+2007-12-18,Coah. : R.P. La Torrena,Vaca,360.0,104.0,21.0,22.0
+2007-12-19,Coah. : R.P. La Torrena,Corral,222.0,4.0,30.0,31.0
+2007-12-19,Coah. : R.P. La Torrena,Vaca,360.0,85.0,21.0,22.0
+2007-12-20,Coah. : R.P. La Torrena,Corral,222.0,10.0,30.0,31.0
+2007-12-20,Coah. : R.P. La Torrena,Vaca,360.0,74.0,21.0,22.0
+2007-12-21,Coah. : R.P. La Torrena,Vaca,360.0,56.0,21.0,22.0
+2007-12-24,Coah. : R.P. La Torrena,Corral,222.0,10.0,30.0,31.0
+2007-12-24,Coah. : R.P. La Torrena,Vaca,360.0,52.0,21.0,22.0
+2007-12-26,Coah. : R.P. La Torrena,Corral,360.0,60.0,21.0,22.0
+2007-12-27,Coah. : R.P. La Torrena,Vaca,360.0,82.0,21.0,22.0
+2007-12-28,Coah. : R.P. La Torrena,Vaca,360.0,360.0,21.0,22.0
+2007-12-31,Coah. : R.P. La Torrena,Corral,222.0,270.0,30.0,30.5
+2007-12-31,Coah. : R.P. La Torrena,Vaca,360.0,31.0,21.0,22.0
+2007-12-17,Coah. : R.P. Perecederos y Derivados,Corral,222.0,315.0,30.0,30.5
+2007-12-03,"Coah. : Rastro Municipal de Matamoros, Coah.",Vaca,360.0,2.0,21.0,21.5
+2007-12-04,"Coah. : Rastro Municipal de Matamoros, Coah.",Vaca,360.0,10.0,21.0,21.5
+2007-12-05,"Coah. : Rastro Municipal de Matamoros, Coah.",Vaca,12.0,360.0,21.0,21.5
+2007-12-06,"Coah. : Rastro Municipal de Matamoros, Coah.",Vaca,360.0,15.0,21.0,21.5
+2007-12-07,"Coah. : Rastro Municipal de Matamoros, Coah.",Vaca,360.0,8.0,21.0,21.5
+2007-12-10,"Coah. : Rastro Municipal de Matamoros, Coah.",Vaca,360.0,6.0,21.0,21.5
+2007-12-11,"Coah. : Rastro Municipal de Matamoros, Coah.",Vaca,360.0,6.0,21.0,21.5
+2007-12-14,"Coah. : Rastro Municipal de Matamoros, Coah.",Vaca,360.0,7.0,21.0,21.5
+2007-12-17,"Coah. : Rastro Municipal de Matamoros, Coah.",Vaca,360.0,7.0,21.0,21.5
+2007-12-18,"Coah. : Rastro Municipal de Matamoros, Coah.",Vaca,360.0,9.0,21.0,21.5
+2007-12-19,"Coah. : Rastro Municipal de Matamoros, Coah.",Vaca,360.0,11.0,21.0,21.5
+2007-12-20,"Coah. : Rastro Municipal de Matamoros, Coah.",Vaca,360.0,10.0,21.0,21.5
+2007-12-21,"Coah. : Rastro Municipal de Matamoros, Coah.",Vaca,360.0,6.0,21.0,21.5
+2007-12-24,"Coah. : Rastro Municipal de Matamoros, Coah.",Vaca,360.0,5.0,21.0,21.5
+2007-12-03,Coah. : TIF 40 Procarne,Corral,222.0,308.0,30.0,30.5
+2007-12-04,Coah. : TIF 40 Procarne,Corral,222.0,333.0,30.0,30.5
+2007-12-05,Coah. : TIF 40 Procarne,Corral,222.0,267.0,30.0,30.5
+2007-12-06,Coah. : TIF 40 Procarne,Corral,222.0,272.0,30.0,30.5
+2007-12-07,Coah. : TIF 40 Procarne,Corral,222.0,274.0,30.0,30.5
+2007-12-10,Coah. : TIF 40 Procarne,Corral,222.0,328.0,30.0,30.5
+2007-12-11,Coah. : TIF 40 Procarne,Corral,222.0,271.0,30.0,30.5
+2007-12-12,Coah. : TIF 40 Procarne,Corral,222.0,315.0,30.0,30.5
+2007-12-14,Coah. : TIF 40 Procarne,Corral,222.0,226.0,30.0,30.5
+2007-12-18,Coah. : TIF 40 Procarne,Corral,222.0,310.0,30.0,30.5
+2007-12-19,Coah. : TIF 40 Procarne,Corral,222.0,305.0,30.0,30.5
+2007-12-20,Coah. : TIF 40 Procarne,Corral,222.0,312.0,30.0,30.5
+2007-12-21,Coah. : TIF 40 Procarne,Corral,222.0,274.0,30.0,30.5
+2007-12-24,Coah. : TIF 40 Procarne,Corral,222.0,211.0,30.0,30.5
+2007-12-26,Coah. : TIF 40 Procarne,Corral,222.0,341.0,30.0,30.5
+2007-12-27,Coah. : TIF 40 Procarne,Corral,222.0,339.0,30.0,30.5
+2007-12-28,Coah. : TIF 40 Procarne,Corral,222.0,317.0,30.0,30.5
+2007-12-01,Col. : Procesadora municipal de carne de Colima,Corral,208.0,46.0,28.0,40.0
+2007-12-03,Col. : Procesadora municipal de carne de Colima,Corral,208.0,46.0,28.0,40.0
+2007-12-04,Col. : Procesadora municipal de carne de Colima,Corral,208.0,28.0,28.0,40.0
+2007-12-05,Col. : Procesadora municipal de carne de Colima,Corral,208.0,43.0,28.0,40.0
+2007-12-07,Col. : Procesadora municipal de carne de Colima,Corral,208.0,71.0,28.0,40.0
+2007-12-08,Col. : Procesadora municipal de carne de Colima,Corral,208.0,53.0,28.0,40.0
+2007-12-10,Col. : Procesadora municipal de carne de Colima,Corral,208.0,39.0,28.0,40.0
+2007-12-11,Col. : Procesadora municipal de carne de Colima,Corral,208.0,30.0,28.0,40.0
+2007-12-12,Col. : Procesadora municipal de carne de Colima,Corral,208.0,40.0,28.0,40.0
+2007-12-14,Col. : Procesadora municipal de carne de Colima,Corral,208.0,65.0,28.0,40.0
+2007-12-15,Col. : Procesadora municipal de carne de Colima,Corral,208.0,50.0,28.0,40.0
+2007-12-17,Col. : Procesadora municipal de carne de Colima,Corral,208.0,47.0,28.0,40.0
+2007-12-18,Col. : Procesadora municipal de carne de Colima,Corral,208.0,25.0,28.0,40.0
+2007-12-19,Col. : Procesadora municipal de carne de Colima,Corral,208.0,47.0,28.0,40.0
+2007-12-21,Col. : Procesadora municipal de carne de Colima,Corral,208.0,95.0,28.0,40.0
+2007-12-24,Col. : Procesadora municipal de carne de Colima,Corral,208.0,30.0,28.0,40.0
+2007-12-26,Col. : Procesadora municipal de carne de Colima,Corral,208.0,51.0,28.0,40.0
+2007-12-28,Col. : Procesadora municipal de carne de Colima,Corral,208.0,82.0,25.0,38.0
+2007-12-29,Col. : Procesadora municipal de carne de Colima,Corral,208.0,72.0,25.0,38.0
+2007-12-31,Col. : Procesadora municipal de carne de Colima,Corral,208.0,30.0,25.0,38.0
+2007-12-03,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,251.0,109.0,,33.0
+2007-12-03,Chih. : R.M.TIF 366 Corral de San Ignacio,Toros,308.0,16.0,,31.0
+2007-12-03,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,247.0,97.0,,29.0
+2007-12-04,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,282.0,8.0,,33.0
+2007-12-04,Chih. : R.M.TIF 366 Corral de San Ignacio,Toros,300.0,2.0,,31.0
+2007-12-05,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,231.0,19.0,,33.0
+2007-12-05,Chih. : R.M.TIF 366 Corral de San Ignacio,Toros,305.0,5.0,,31.0
+2007-12-05,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,228.0,12.0,,29.0
+2007-12-06,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,243.0,14.0,,33.0
+2007-12-06,Chih. : R.M.TIF 366 Corral de San Ignacio,Toros,299.0,3.0,,31.0
+2007-12-06,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,239.0,13.0,,29.0
+2007-12-07,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,223.0,15.0,,33.0
+2007-12-07,Chih. : R.M.TIF 366 Corral de San Ignacio,Toros,301.0,1.0,,31.0
+2007-12-07,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,220.0,10.0,,29.0
+2007-12-10,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,253.0,145.0,,33.0
+2007-12-10,Chih. : R.M.TIF 366 Corral de San Ignacio,Toros,306.0,38.0,,31.0
+2007-12-10,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,249.0,93.0,,29.0
+2007-12-12,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,248.0,26.0,,33.0
+2007-12-12,Chih. : R.M.TIF 366 Corral de San Ignacio,Toros,300.0,1.0,,31.0
+2007-12-12,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,244.0,14.0,,29.0
+2007-12-13,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,242.0,19.0,,33.0
+2007-12-13,Chih. : R.M.TIF 366 Corral de San Ignacio,Toros,302.0,3.0,,31.0
+2007-12-13,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,239.0,19.0,,29.0
+2007-12-14,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,225.0,11.0,,33.0
+2007-12-14,Chih. : R.M.TIF 366 Corral de San Ignacio,Toros,305.0,3.0,,31.0
+2007-12-14,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,222.0,8.0,,29.0
+2007-12-17,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,250.0,96.0,,33.0
+2007-12-17,Chih. : R.M.TIF 366 Corral de San Ignacio,Toros,306.0,38.0,,31.0
+2007-12-17,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,246.0,61.0,,29.0
+2007-12-24,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,235.0,16.0,,33.0
+2007-12-24,Chih. : R.M.TIF 366 Corral de San Ignacio,Toros,300.0,2.0,,31.0
+2007-12-24,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,231.0,13.0,,29.0
+2007-12-26,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,263.0,85.0,,33.0
+2007-12-26,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,259.0,20.0,,29.0
+2007-12-28,Chih. : R.M.TIF 366 Corral de San Ignacio,Novillona,225.0,25.0,33.0,33.0
+2007-12-28,Chih. : R.M.TIF 366 Corral de San Ignacio,Toros,299.0,1.0,31.0,31.0
+2007-12-28,Chih. : R.M.TIF 366 Corral de San Ignacio,Vaca,222.0,15.0,29.0,29.0
+2007-12-03,Chis. : TIF 78 Frigorífico del Sureste,Pradera,270.0,137.0,28.0,31.0
+2007-12-04,Chis. : TIF 78 Frigorífico del Sureste,Pradera,312.0,50.0,28.0,31.0
+2007-12-05,Chis. : TIF 78 Frigorífico del Sureste,Pradera,279.0,53.0,28.0,31.0
+2007-12-06,Chis. : TIF 78 Frigorífico del Sureste,Pradera,308.0,76.0,28.0,31.0
+2007-12-07,Chis. : TIF 78 Frigorífico del Sureste,Pradera,272.0,115.0,28.0,31.0
+2007-12-10,Chis. : TIF 78 Frigorífico del Sureste,Pradera,218.0,99.0,28.0,31.0
+2007-12-11,Chis. : TIF 78 Frigorífico del Sureste,Pradera,286.0,73.0,28.0,31.0
+2007-12-12,Chis. : TIF 78 Frigorífico del Sureste,Pradera,276.0,91.0,28.0,31.0
+2007-12-13,Chis. : TIF 78 Frigorífico del Sureste,Pradera,285.0,10.0,28.0,31.0
+2007-12-14,Chis. : TIF 78 Frigorífico del Sureste,Pradera,285.0,100.0,28.0,31.0
+2007-12-17,Chis. : TIF 78 Frigorífico del Sureste,Pradera,280.0,154.0,28.0,31.0
+2007-12-18,Chis. : TIF 78 Frigorífico del Sureste,Pradera,276.0,106.0,28.0,31.0
+2007-12-19,Chis. : TIF 78 Frigorífico del Sureste,Pradera,249.0,106.0,28.0,31.0
+2007-12-20,Chis. : TIF 78 Frigorífico del Sureste,Pradera,265.0,113.0,28.0,31.0
+2007-12-21,Chis. : TIF 78 Frigorífico del Sureste,Pradera,288.0,133.0,28.0,31.0
+2007-12-24,Chis. : TIF 78 Frigorífico del Sureste,Pradera,256.0,60.0,28.0,31.0
+2007-12-26,Chis. : TIF 78 Frigorífico del Sureste,Pradera,280.0,152.0,28.0,31.0
+2007-12-27,Chis. : TIF 78 Frigorífico del Sureste,Pradera,298.0,83.0,28.0,31.0
+2007-12-28,Chis. : TIF 78 Frigorífico del Sureste,Pradera,270.0,146.0,28.0,31.0
+2007-12-31,Chis. : TIF 78 Frigorífico del Sureste,Pradera,272.0,114.0,28.0,31.0
+2007-12-03,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,345.0,1.0,32.0,32.0
+2007-12-03,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,200.0,4.0,25.0,27.0
+2007-12-04,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,270.0,1.0,34.0,34.0
+2007-12-04,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,220.0,8.0,26.0,27.0
+2007-12-05,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,320.0,54.0,34.0,35.0
+2007-12-05,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,220.0,67.0,25.0,27.0
+2007-12-06,Dgo. : Planta TIF No. 546 (antes TIF No.65),Novillona,260.0,4.0,31.0,32.0
+2007-12-06,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,345.0,8.0,31.0,32.0
+2007-12-06,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,200.0,31.0,25.0,27.0
+2007-12-07,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,220.0,10.0,31.0,32.0
+2007-12-07,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,200.0,65.0,23.0,27.0
+2007-12-10,Dgo. : Planta TIF No. 546 (antes TIF No.65),Novillona,220.0,2.0,32.0,32.0
+2007-12-10,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,395.0,2.0,31.0,32.0
+2007-12-10,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,290.0,45.0,23.0,27.0
+2007-12-11,Dgo. : Planta TIF No. 546 (antes TIF No.65),Novillona,240.0,5.0,32.0,32.0
+2007-12-11,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,240.0,5.0,31.0,32.0
+2007-12-11,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,220.0,13.0,25.0,27.0
+2007-12-12,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,340.0,70.0,34.0,35.0
+2007-12-12,Dgo. : Planta TIF No. 546 (antes TIF No.65),Novillona,230.0,8.0,31.0,32.0
+2007-12-12,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,200.0,64.0,25.0,27.0
+2007-12-13,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,340.0,5.0,32.0,32.0
+2007-12-13,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,220.0,42.0,24.0,27.0
+2007-12-14,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,280.0,5.0,31.0,31.0
+2007-12-14,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,220.0,36.0,24.0,27.0
+2007-12-17,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,355.0,2.0,31.0,32.0
+2007-12-17,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,200.0,11.0,25.0,25.0
+2007-12-18,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,380.0,4.0,32.0,32.0
+2007-12-18,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,200.0,31.0,24.0,27.0
+2007-12-19,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,380.0,75.0,34.0,35.0
+2007-12-19,Dgo. : Planta TIF No. 546 (antes TIF No.65),Novillona,240.0,15.0,31.0,32.0
+2007-12-19,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,200.0,35.0,24.0,27.0
+2007-12-20,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,400.0,6.0,31.0,32.0
+2007-12-20,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,200.0,27.0,24.0,27.0
+2007-12-21,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,360.0,6.0,31.0,32.0
+2007-12-21,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,200.0,67.0,24.0,27.0
+2007-12-26,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,260.0,81.0,24.0,27.0
+2007-12-27,Dgo. : Planta TIF No. 546 (antes TIF No.65),Toros,400.0,15.0,31.0,31.0
+2007-12-27,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,230.0,128.0,24.0,27.0
+2007-12-28,Dgo. : Planta TIF No. 546 (antes TIF No.65),Corral,305.0,12.0,34.0,35.0
+2007-12-28,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,230.0,28.0,25.0,27.0
+2007-12-29,Dgo. : Planta TIF No. 546 (antes TIF No.65),Vaca,200.0,2.0,25.0,25.0
+2007-12-12,Dgo. : R.M. Gómez Palacio,Vaca,360.0,8.0,21.0,21.5
+2007-12-03,Edo. Méx. : Cerro Gordo,Pradera,278.0,86.0,,33.0
+2007-12-04,Edo. Méx. : Cerro Gordo,Pradera,278.0,50.0,,33.0
+2007-12-05,Edo. Méx. : Cerro Gordo,Pradera,278.0,39.0,,33.0
+2007-12-07,Edo. Méx. : Cerro Gordo,Pradera,278.0,60.0,,33.0
+2007-12-10,Edo. Méx. : Cerro Gordo,Pradera,278.0,76.0,,33.0
+2007-12-11,Edo. Méx. : Cerro Gordo,Pradera,278.0,43.0,,33.0
+2007-12-13,Edo. Méx. : Cerro Gordo,Pradera,278.0,83.0,,33.0
+2007-12-14,Edo. Méx. : Cerro Gordo,Pradera,278.0,69.0,,33.0
+2007-12-17,Edo. Méx. : Cerro Gordo,Pradera,278.0,138.0,,33.0
+2007-12-18,Edo. Méx. : Cerro Gordo,Pradera,278.0,54.0,,33.0
+2007-12-19,Edo. Méx. : Cerro Gordo,Pradera,278.0,113.0,,33.0
+2007-12-21,Edo. Méx. : Cerro Gordo,Pradera,278.0,57.0,,33.0
+2007-12-24,Edo. Méx. : Cerro Gordo,Pradera,278.0,80.0,,33.0
+2007-12-26,Edo. Méx. : Cerro Gordo,Pradera,278.0,77.0,,33.0
+2007-12-28,Edo. Méx. : Cerro Gordo,Pradera,278.0,37.0,,33.0
+2007-12-31,Edo. Méx. : Cerro Gordo,Pradera,278.0,174.0,,33.0
+2007-12-03,Edo. Méx. : La Paz,Corral,320.0,150.0,,33.5
+2007-12-04,Edo. Méx. : La Paz,Corral,320.0,130.0,,33.5
+2007-12-05,Edo. Méx. : La Paz,Corral,320.0,115.0,,33.5
+2007-12-06,Edo. Méx. : La Paz,Corral,320.0,128.0,,33.5
+2007-12-07,Edo. Méx. : La Paz,Corral,320.0,140.0,,33.5
+2007-12-10,Edo. Méx. : La Paz,Corral,320.0,120.0,,33.5
+2007-12-11,Edo. Méx. : La Paz,Corral,320.0,168.0,,33.5
+2007-12-13,Edo. Méx. : La Paz,Corral,3250.0,153.0,,33.5
+2007-12-14,Edo. Méx. : La Paz,Corral,320.0,154.0,,33.5
+2007-12-17,Edo. Méx. : La Paz,Corral,320.0,155.0,,33.5
+2007-12-18,Edo. Méx. : La Paz,Corral,320.0,125.0,,33.5
+2007-12-19,Edo. Méx. : La Paz,Corral,320.0,119.0,,33.5
+2007-12-20,Edo. Méx. : La Paz,Corral,320.0,132.0,,33.5
+2007-12-21,Edo. Méx. : La Paz,Corral,320.0,157.0,,33.5
+2007-12-24,Edo. Méx. : La Paz,Corral,320.0,124.0,,33.5
+2007-12-26,Edo. Méx. : La Paz,Corral,320.0,145.0,,33.5
+2007-12-27,Edo. Méx. : La Paz,Corral,320.0,130.0,,33.5
+2007-12-28,Edo. Méx. : La Paz,Corral,320.0,130.0,,34.0
+2007-12-03,Edo. Méx. : Naucalpan,Corral,278.0,143.0,,35.0
+2007-12-04,Edo. Méx. : Naucalpan,Corral,278.0,169.0,,35.0
+2007-12-05,Edo. Méx. : Naucalpan,Corral,278.0,174.0,,35.0
+2007-12-06,Edo. Méx. : Naucalpan,Corral,278.0,269.0,,35.0
+2007-12-07,Edo. Méx. : Naucalpan,Corral,278.0,227.0,,35.0
+2007-12-10,Edo. Méx. : Naucalpan,Corral,278.0,257.0,,35.0
+2007-12-11,Edo. Méx. : Naucalpan,Corral,278.0,219.0,,35.0
+2007-12-13,Edo. Méx. : Naucalpan,Corral,278.0,221.0,,35.0
+2007-12-14,Edo. Méx. : Naucalpan,Corral,278.0,223.0,,35.0
+2007-12-17,Edo. Méx. : Naucalpan,Corral,278.0,296.0,,35.0
+2007-12-18,Edo. Méx. : Naucalpan,Corral,278.0,202.0,,35.0
+2007-12-19,Edo. Méx. : Naucalpan,Corral,178.0,224.0,,35.0
+2007-12-20,Edo. Méx. : Naucalpan,Corral,278.0,276.0,,35.0
+2007-12-21,Edo. Méx. : Naucalpan,Corral,278.0,255.0,,35.0
+2007-12-24,Edo. Méx. : Naucalpan,Corral,278.0,205.0,,35.0
+2007-12-26,Edo. Méx. : Naucalpan,Corral,278.0,240.0,,35.0
+2007-12-27,Edo. Méx. : Naucalpan,Corral,278.0,156.0,,35.0
+2007-12-28,Edo. Méx. : Naucalpan,Corral,278.0,338.0,,35.0
+2007-12-31,Edo. Méx. : Naucalpan,Corral,278.0,291.0,,35.0
+2007-12-03,Edo. Méx. : Temamatla,Corral,320.0,148.0,,33.0
+2007-12-04,Edo. Méx. : Temamatla,Corral,320.0,179.0,,33.0
+2007-12-05,Edo. Méx. : Temamatla,Corral,320.0,100.0,,33.0
+2007-12-06,Edo. Méx. : Temamatla,Corral,320.0,105.0,,33.0
+2007-12-07,Edo. Méx. : Temamatla,Corral,320.0,116.0,,33.5
+2007-12-10,Edo. Méx. : Temamatla,Corral,320.0,114.0,,33.0
+2007-12-11,Edo. Méx. : Temamatla,Corral,320.0,142.0,,33.0
+2007-12-13,Edo. Méx. : Temamatla,Corral,320.0,124.0,,33.0
+2007-12-14,Edo. Méx. : Temamatla,Corral,320.0,128.0,,33.0
+2007-12-17,Edo. Méx. : Temamatla,Corral,320.0,148.0,,33.0
+2007-12-18,Edo. Méx. : Temamatla,Corral,320.0,118.0,,33.0
+2007-12-19,Edo. Méx. : Temamatla,Corral,320.0,116.0,,33.0
+2007-12-20,Edo. Méx. : Temamatla,Corral,320.0,123.0,,33.0
+2007-12-21,Edo. Méx. : Temamatla,Corral,320.0,125.0,,33.0
+2007-12-24,Edo. Méx. : Temamatla,Corral,320.0,118.0,,33.5
+2007-12-26,Edo. Méx. : Temamatla,Corral,320.0,117.0,,33.0
+2007-12-27,Edo. Méx. : Temamatla,Corral,320.0,115.0,,33.0
+2007-12-28,Edo. Méx. : Temamatla,Corral,320.0,115.0,,33.0
+2007-12-03,Edo. Méx. : Tlalnepantla,Corral,290.0,74.0,,32.5
+2007-12-03,Edo. Méx. : Tlalnepantla,Vaca,190.0,38.0,,24.0
+2007-12-04,Edo. Méx. : Tlalnepantla,Corral,290.0,44.0,,32.5
+2007-12-04,Edo. Méx. : Tlalnepantla,Vaca,190.0,31.0,,24.0
+2007-12-05,Edo. Méx. : Tlalnepantla,Corral,290.0,67.0,,32.5
+2007-12-05,Edo. Méx. : Tlalnepantla,Vaca,190.0,8.0,,24.0
+2007-12-06,Edo. Méx. : Tlalnepantla,Corral,290.0,24.0,,32.5
+2007-12-06,Edo. Méx. : Tlalnepantla,Vaca,190.0,41.0,,24.0
+2007-12-07,Edo. Méx. : Tlalnepantla,Corral,290.0,23.0,,32.5
+2007-12-07,Edo. Méx. : Tlalnepantla,Vaca,190.0,50.0,,24.0
+2007-12-10,Edo. Méx. : Tlalnepantla,Corral,290.0,29.0,,32.5
+2007-12-10,Edo. Méx. : Tlalnepantla,Vaca,190.0,21.0,,24.0
+2007-12-11,Edo. Méx. : Tlalnepantla,Corral,290.0,42.0,,32.5
+2007-12-11,Edo. Méx. : Tlalnepantla,Vaca,190.0,20.0,,24.0
+2007-12-13,Edo. Méx. : Tlalnepantla,Corral,290.0,35.0,,32.5
+2007-12-13,Edo. Méx. : Tlalnepantla,Vaca,190.0,35.0,,24.0
+2007-12-14,Edo. Méx. : Tlalnepantla,Corral,290.0,46.0,,32.5
+2007-12-14,Edo. Méx. : Tlalnepantla,Vaca,190.0,35.0,,24.0
+2007-12-17,Edo. Méx. : Tlalnepantla,Corral,290.0,68.0,,32.5
+2007-12-17,Edo. Méx. : Tlalnepantla,Vaca,190.0,55.0,,24.0
+2007-12-18,Edo. Méx. : Tlalnepantla,Corral,290.0,63.0,,32.5
+2007-12-18,Edo. Méx. : Tlalnepantla,Vaca,190.0,36.0,,24.0
+2007-12-19,Edo. Méx. : Tlalnepantla,Corral,290.0,26.0,,32.5
+2007-12-19,Edo. Méx. : Tlalnepantla,Vaca,190.0,29.0,,24.0
+2007-12-20,Edo. Méx. : Tlalnepantla,Corral,290.0,32.0,,32.5
+2007-12-20,Edo. Méx. : Tlalnepantla,Vaca,190.0,15.0,,24.0
+2007-12-21,Edo. Méx. : Tlalnepantla,Corral,290.0,71.0,,32.5
+2007-12-21,Edo. Méx. : Tlalnepantla,Vaca,190.0,23.0,,24.0
+2007-12-24,Edo. Méx. : Tlalnepantla,Corral,290.0,52.0,,32.5
+2007-12-24,Edo. Méx. : Tlalnepantla,Vaca,190.0,28.0,,24.0
+2007-12-26,Edo. Méx. : Tlalnepantla,Corral,290.0,36.0,,32.5
+2007-12-26,Edo. Méx. : Tlalnepantla,Vaca,190.0,38.0,,24.0
+2007-12-27,Edo. Méx. : Tlalnepantla,Corral,290.0,60.0,,32.5
+2007-12-27,Edo. Méx. : Tlalnepantla,Vaca,190.0,21.0,,24.0
+2007-12-28,Edo. Méx. : Tlalnepantla,Corral,290.0,32.0,,32.5
+2007-12-28,Edo. Méx. : Tlalnepantla,Vaca,190.0,20.0,,24.0
+2007-12-31,Edo. Méx. : Tlalnepantla,Corral,290.0,30.0,,32.5
+2007-12-31,Edo. Méx. : Tlalnepantla,Vaca,190.0,20.0,,24.0
+2007-12-03,"Gto. : R.P. León, Serv. Integral",Novillona,,12.0,32.0,32.5
+2007-12-03,"Gto. : R.P. León, Serv. Integral",Toros,,313.0,32.5,33.5
+2007-12-03,"Gto. : R.P. León, Serv. Integral",Vaca,,1.0,24.0,26.0
+2007-12-04,"Gto. : R.P. León, Serv. Integral",Novillona,,23.0,32.0,32.5
+2007-12-04,"Gto. : R.P. León, Serv. Integral",Toros,,287.0,32.5,33.5
+2007-12-04,"Gto. : R.P. León, Serv. Integral",Vaca,,75.0,24.0,26.0
+2007-12-05,"Gto. : R.P. León, Serv. Integral",Novillona,,27.0,32.0,32.5
+2007-12-05,"Gto. : R.P. León, Serv. Integral",Toros,,285.0,32.5,33.5
+2007-12-06,"Gto. : R.P. León, Serv. Integral",Novillona,,36.0,32.0,32.5
+2007-12-06,"Gto. : R.P. León, Serv. Integral",Toros,,185.0,32.5,33.5
+2007-12-06,"Gto. : R.P. León, Serv. Integral",Vaca,,14.0,24.0,26.0
+2007-12-07,"Gto. : R.P. León, Serv. Integral",Novillona,,3.0,32.0,32.5
+2007-12-07,"Gto. : R.P. León, Serv. Integral",Toros,,170.0,32.5,33.5
+2007-12-07,"Gto. : R.P. León, Serv. Integral",Vaca,,42.0,24.0,26.0
+2007-12-10,"Gto. : R.P. León, Serv. Integral",Novillona,,12.0,32.0,32.5
+2007-12-10,"Gto. : R.P. León, Serv. Integral",Toros,,260.0,32.5,33.5
+2007-12-10,"Gto. : R.P. León, Serv. Integral",Vaca,,58.0,24.0,26.0
+2007-12-11,"Gto. : R.P. León, Serv. Integral",Novillona,,13.0,32.0,32.5
+2007-12-11,"Gto. : R.P. León, Serv. Integral",Toros,,311.0,32.5,33.5
+2007-12-11,"Gto. : R.P. León, Serv. Integral",Vaca,,73.0,24.0,26.0
+2007-12-13,"Gto. : R.P. León, Serv. Integral",Novillona,,3.0,32.0,32.5
+2007-12-13,"Gto. : R.P. León, Serv. Integral",Toros,,242.0,32.5,33.5
+2007-12-13,"Gto. : R.P. León, Serv. Integral",Vaca,,55.0,24.0,26.0
+2007-12-14,"Gto. : R.P. León, Serv. Integral",Novillona,,5.0,32.0,32.5
+2007-12-14,"Gto. : R.P. León, Serv. Integral",Toros,,296.0,32.5,33.5
+2007-12-14,"Gto. : R.P. León, Serv. Integral",Vaca,,19.0,24.0,26.0
+2007-12-17,"Gto. : R.P. León, Serv. Integral",Novillona,,24.0,32.0,32.5
+2007-12-17,"Gto. : R.P. León, Serv. Integral",Toros,,137.0,32.5,33.5
+2007-12-17,"Gto. : R.P. León, Serv. Integral",Vaca,,46.0,24.0,26.0
+2007-12-18,"Gto. : R.P. León, Serv. Integral",Novillona,,15.0,32.0,32.5
+2007-12-18,"Gto. : R.P. León, Serv. Integral",Toros,,187.0,32.5,33.5
+2007-12-18,"Gto. : R.P. León, Serv. Integral",Vaca,,23.0,24.0,26.0
+2007-12-20,"Gto. : R.P. León, Serv. Integral",Novillona,,4.0,32.0,32.5
+2007-12-20,"Gto. : R.P. León, Serv. Integral",Toros,,173.0,32.5,33.5
+2007-12-20,"Gto. : R.P. León, Serv. Integral",Vaca,,19.0,24.0,26.0
+2007-12-21,"Gto. : R.P. León, Serv. Integral",Toros,,265.0,32.5,33.5
+2007-12-21,"Gto. : R.P. León, Serv. Integral",Vaca,,3.0,24.0,26.0
+2007-12-26,"Gto. : R.P. León, Serv. Integral",Novillona,,16.0,32.0,32.5
+2007-12-26,"Gto. : R.P. León, Serv. Integral",Toros,,347.0,32.5,33.5
+2007-12-26,"Gto. : R.P. León, Serv. Integral",Vaca,,26.0,24.0,26.0
+2007-12-27,"Gto. : R.P. León, Serv. Integral",Novillona,,13.0,32.0,32.5
+2007-12-27,"Gto. : R.P. León, Serv. Integral",Toros,,181.0,32.5,33.5
+2007-12-27,"Gto. : R.P. León, Serv. Integral",Vaca,,26.0,24.0,26.0
+2007-12-28,"Gto. : R.P. León, Serv. Integral",Novillona,,20.0,32.0,32.5
+2007-12-28,"Gto. : R.P. León, Serv. Integral",Toros,,188.0,32.5,33.5
+2007-12-28,"Gto. : R.P. León, Serv. Integral",Vaca,,33.0,24.0,26.0
+2007-12-31,"Gto. : R.P. León, Serv. Integral",Novillona,,13.0,32.0,32.5
+2007-12-31,"Gto. : R.P. León, Serv. Integral",Toros,,255.0,32.5,33.5
+2007-12-31,"Gto. : R.P. León, Serv. Integral",Vaca,,57.0,24.0,26.0
+2007-12-03,Jal. : R.M. Guadalajara,Corral,300.0,553.0,,35.0
+2007-12-03,Jal. : R.M. Guadalajara,Vaca,200.0,297.0,,26.0
+2007-12-04,Jal. : R.M. Guadalajara,Corral,300.0,436.0,,35.0
+2007-12-04,Jal. : R.M. Guadalajara,Vaca,200.0,235.0,,26.0
+2007-12-05,Jal. : R.M. Guadalajara,Corral,300.0,345.0,,35.0
+2007-12-05,Jal. : R.M. Guadalajara,Vaca,200.0,185.0,,26.0
+2007-12-06,Jal. : R.M. Guadalajara,Corral,300.0,312.0,,35.0
+2007-12-06,Jal. : R.M. Guadalajara,Vaca,200.0,168.0,,26.0
+2007-12-07,Jal. : R.M. Guadalajara,Corral,300.0,434.0,,35.0
+2007-12-07,Jal. : R.M. Guadalajara,Vaca,200.0,234.0,,26.0
+2007-12-10,Jal. : R.M. Guadalajara,Corral,300.0,712.0,,35.0
+2007-12-10,Jal. : R.M. Guadalajara,Vaca,200.0,383.0,,26.0
+2007-12-11,Jal. : R.M. Guadalajara,Corral,300.0,559.0,,35.0
+2007-12-11,Jal. : R.M. Guadalajara,Vaca,200.0,301.0,,26.0
+2007-12-12,Jal. : R.M. Guadalajara,Corral,300.0,384.0,,35.0
+2007-12-12,Jal. : R.M. Guadalajara,Vaca,200.0,206.0,,26.0
+2007-12-13,Jal. : R.M. Guadalajara,Corral,300.0,384.0,,35.0
+2007-12-13,Jal. : R.M. Guadalajara,Vaca,200.0,206.0,,26.0
+2007-12-14,Jal. : R.M. Guadalajara,Corral,300.0,553.0,,35.0
+2007-12-14,Jal. : R.M. Guadalajara,Vaca,200.0,297.0,,26.0
+2007-12-17,Jal. : R.M. Guadalajara,Corral,300.0,741.0,,35.0
+2007-12-17,Jal. : R.M. Guadalajara,Vaca,200.0,399.0,,26.0
+2007-12-18,Jal. : R.M. Guadalajara,Corral,300.0,624.0,,35.0
+2007-12-18,Jal. : R.M. Guadalajara,Vaca,200.0,336.0,,26.0
+2007-12-19,Jal. : R.M. Guadalajara,Corral,300.0,384.0,,35.0
+2007-12-19,Jal. : R.M. Guadalajara,Vaca,200.0,206.0,,26.0
+2007-12-20,Jal. : R.M. Guadalajara,Corral,300.0,767.0,,35.0
+2007-12-20,Jal. : R.M. Guadalajara,Vaca,200.0,413.0,,26.0
+2007-12-21,Jal. : R.M. Guadalajara,Corral,300.0,806.0,,35.0
+2007-12-21,Jal. : R.M. Guadalajara,Vaca,200.0,434.0,,26.0
+2007-12-24,Jal. : R.M. Guadalajara,Corral,300.0,687.0,,35.0
+2007-12-24,Jal. : R.M. Guadalajara,Vaca,200.0,370.0,,26.0
+2007-12-26,Jal. : R.M. Guadalajara,Corral,300.0,384.0,,35.0
+2007-12-26,Jal. : R.M. Guadalajara,Vaca,200.0,206.0,,26.0
+2007-12-27,Jal. : R.M. Guadalajara,Corral,300.0,497.0,,35.0
+2007-12-27,Jal. : R.M. Guadalajara,Vaca,200.0,268.0,,26.0
+2007-12-28,Jal. : R.M. Guadalajara,Corral,300.0,670.0,,35.0
+2007-12-28,Jal. : R.M. Guadalajara,Vaca,200.0,360.0,,26.0
+2007-12-31,Jal. : R.M. Guadalajara,Corral,300.0,739.0,,35.0
+2007-12-31,Jal. : R.M. Guadalajara,Vaca,200.0,397.0,,26.0
+2007-12-03,Jal. : R.M. Tlaquepaque,Corral,300.0,33.0,,34.9
+2007-12-03,Jal. : R.M. Tlaquepaque,Vaca,200.0,92.0,,25.9
+2007-12-04,Jal. : R.M. Tlaquepaque,Corral,300.0,7.0,,34.8
+2007-12-04,Jal. : R.M. Tlaquepaque,Vaca,200.0,48.0,,25.8
+2007-12-05,Jal. : R.M. Tlaquepaque,Corral,300.0,17.0,,34.85
+2007-12-05,Jal. : R.M. Tlaquepaque,Vaca,200.0,52.0,,25.85
+2007-12-07,Jal. : R.M. Tlaquepaque,Corral,300.0,25.0,,34.9
+2007-12-07,Jal. : R.M. Tlaquepaque,Vaca,200.0,66.0,,25.9
+2007-12-10,Jal. : R.M. Tlaquepaque,Corral,300.0,45.0,,34.9
+2007-12-10,Jal. : R.M. Tlaquepaque,Vaca,200.0,198.0,,25.9
+2007-12-11,Jal. : R.M. Tlaquepaque,Corral,300.0,19.0,,35.0
+2007-12-11,Jal. : R.M. Tlaquepaque,Vaca,200.0,122.0,,26.0
+2007-12-12,Jal. : R.M. Tlaquepaque,Corral,300.0,40.0,,35.0
+2007-12-12,Jal. : R.M. Tlaquepaque,Vaca,200.0,120.0,,26.0
+2007-12-14,Jal. : R.M. Tlaquepaque,Corral,300.0,29.0,,35.0
+2007-12-14,Jal. : R.M. Tlaquepaque,Vaca,200.0,114.0,,26.0
+2007-12-17,Jal. : R.M. Tlaquepaque,Corral,300.0,89.0,,35.0
+2007-12-17,Jal. : R.M. Tlaquepaque,Vaca,200.0,160.0,,26.0
+2007-12-18,Jal. : R.M. Tlaquepaque,Corral,300.0,43.0,,35.0
+2007-12-18,Jal. : R.M. Tlaquepaque,Vaca,200.0,105.0,,26.0
+2007-12-20,Jal. : R.M. Tlaquepaque,Corral,300.0,28.0,,35.0
+2007-12-20,Jal. : R.M. Tlaquepaque,Vaca,200.0,104.0,,26.0
+2007-12-21,Jal. : R.M. Tlaquepaque,Corral,300.0,34.0,,35.0
+2007-12-21,Jal. : R.M. Tlaquepaque,Vaca,200.0,127.0,,26.0
+2007-12-24,Jal. : R.M. Tlaquepaque,Corral,300.0,687.0,,35.0
+2007-12-24,Jal. : R.M. Tlaquepaque,Vaca,200.0,370.0,,26.0
+2007-12-26,Jal. : R.M. Tlaquepaque,Corral,300.0,14.0,,35.0
+2007-12-26,Jal. : R.M. Tlaquepaque,Vaca,200.0,41.0,,26.0
+2007-12-28,Jal. : R.M. Tlaquepaque,Corral,300.0,15.0,,35.0
+2007-12-28,Jal. : R.M. Tlaquepaque,Vaca,200.0,64.0,,26.0
+2007-12-31,Jal. : R.M. Tlaquepaque,Corral,300.0,65.0,,35.0
+2007-12-31,Jal. : R.M. Tlaquepaque,Vaca,200.0,139.0,,26.0
+2007-12-03,Jal. : R.M. Tonalá,Corral,300.0,34.0,,35.0
+2007-12-03,Jal. : R.M. Tonalá,Vaca,200.0,108.0,,26.0
+2007-12-04,Jal. : R.M. Tonalá,Corral,300.0,14.0,,35.0
+2007-12-04,Jal. : R.M. Tonalá,Vaca,200.0,40.0,,26.0
+2007-12-05,Jal. : R.M. Tonalá,Corral,300.0,8.0,,35.0
+2007-12-05,Jal. : R.M. Tonalá,Vaca,200.0,30.0,,26.0
+2007-12-06,Jal. : R.M. Tonalá,Corral,300.0,17.0,,35.0
+2007-12-06,Jal. : R.M. Tonalá,Vaca,200.0,63.0,,26.0
+2007-12-24,Jal. : R.M. Tonalá,Corral,300.0,73.0,,35.0
+2007-12-24,Jal. : R.M. Tonalá,Vaca,200.0,140.0,,26.0
+2007-12-26,Jal. : R.M. Tonalá,Corral,300.0,14.0,,35.0
+2007-12-26,Jal. : R.M. Tonalá,Vaca,200.0,21.0,,26.0
+2007-12-27,Jal. : R.M. Tonalá,Corral,300.0,15.0,,35.0
+2007-12-27,Jal. : R.M. Tonalá,Vaca,200.0,45.0,,26.0
+2007-12-31,Jal. : R.M. Tonalá,Corral,300.0,68.0,,35.0
+2007-12-31,Jal. : R.M. Tonalá,Vaca,200.0,146.0,,26.0
+2007-12-03,Jal. : Rastro de Zapopan,Corral,300.0,192.0,,35.0
+2007-12-03,Jal. : Rastro de Zapopan,Vaca,200.0,104.0,,26.0
+2007-12-04,Jal. : Rastro de Zapopan,Corral,300.0,262.0,,35.0
+2007-12-04,Jal. : Rastro de Zapopan,Vaca,200.0,25.0,,26.0
+2007-12-05,Jal. : Rastro de Zapopan,Corral,300.0,155.0,,35.0
+2007-12-05,Jal. : Rastro de Zapopan,Vaca,200.0,14.0,,26.0
+2007-12-06,Jal. : Rastro de Zapopan,Corral,300.0,78.0,,35.0
+2007-12-06,Jal. : Rastro de Zapopan,Vaca,200.0,25.0,,26.0
+2007-12-07,Jal. : Rastro de Zapopan,Corral,300.0,129.0,,35.0
+2007-12-07,Jal. : Rastro de Zapopan,Vaca,200.0,11.0,,26.0
+2007-12-10,Jal. : Rastro de Zapopan,Corral,300.0,325.0,,35.0
+2007-12-10,Jal. : Rastro de Zapopan,Vaca,200.0,28.0,,26.0
+2007-12-11,Jal. : Rastro de Zapopan,Corral,300.0,303.0,,35.0
+2007-12-11,Jal. : Rastro de Zapopan,Vaca,200.0,26.0,,26.0
+2007-12-12,Jal. : Rastro de Zapopan,Corral,300.0,175.0,,35.0
+2007-12-12,Jal. : Rastro de Zapopan,Vaca,200.0,15.0,,26.0
+2007-12-13,Jal. : Rastro de Zapopan,Corral,300.0,75.0,,35.0
+2007-12-13,Jal. : Rastro de Zapopan,Vaca,200.0,17.0,,26.0
+2007-12-14,Jal. : Rastro de Zapopan,Corral,300.0,259.0,,35.0
+2007-12-14,Jal. : Rastro de Zapopan,Vaca,200.0,22.0,,26.0
+2007-12-17,Jal. : Rastro de Zapopan,Corral,300.0,299.0,,35.0
+2007-12-17,Jal. : Rastro de Zapopan,Vaca,200.0,26.0,,26.0
+2007-12-18,Jal. : Rastro de Zapopan,Corral,300.0,271.0,,35.0
+2007-12-18,Jal. : Rastro de Zapopan,Vaca,200.0,24.0,,26.0
+2007-12-19,Jal. : Rastro de Zapopan,Corral,300.0,156.0,,35.0
+2007-12-19,Jal. : Rastro de Zapopan,Vaca,200.0,14.0,,26.0
+2007-12-20,Jal. : Rastro de Zapopan,Vaca,300.0,57.0,,35.0
+2007-12-21,Jal. : Rastro de Zapopan,Corral,300.0,238.0,,35.0
+2007-12-21,Jal. : Rastro de Zapopan,Vaca,200.0,21.0,,26.0
+2007-12-24,Jal. : Rastro de Zapopan,Corral,300.0,267.0,,35.0
+2007-12-24,Jal. : Rastro de Zapopan,Vaca,200.0,23.0,,26.0
+2007-12-26,Jal. : Rastro de Zapopan,Corral,300.0,113.0,,35.0
+2007-12-26,Jal. : Rastro de Zapopan,Vaca,200.0,124.0,,26.0
+2007-12-27,Jal. : Rastro de Zapopan,Corral,300.0,327.0,,35.0
+2007-12-28,Jal. : Rastro de Zapopan,Corral,300.0,166.0,,35.0
+2007-12-28,Jal. : Rastro de Zapopan,Vaca,200.0,14.0,,26.0
+2007-12-31,Jal. : Rastro de Zapopan,Corral,300.0,359.0,,35.0
+2007-12-31,Jal. : Rastro de Zapopan,Vaca,200.0,31.0,,26.0
+2007-12-03,Mich. : R.M. Morelia,Corral,300.0,86.0,26.0,33.0
+2007-12-04,Mich. : R.M. Morelia,Corral,300.0,117.0,26.0,33.0
+2007-12-05,Mich. : R.M. Morelia,Corral,300.0,55.0,26.0,33.0
+2007-12-06,Mich. : R.M. Morelia,Corral,300.0,23.0,26.0,33.0
+2007-12-07,Mich. : R.M. Morelia,Corral,300.0,36.0,26.0,33.0
+2007-12-10,Mich. : R.M. Morelia,Corral,300.0,62.0,26.0,33.0
+2007-12-11,Mich. : R.M. Morelia,Corral,300.0,95.0,26.0,33.0
+2007-12-12,Mich. : R.M. Morelia,Corral,300.0,24.0,26.0,33.0
+2007-12-13,Mich. : R.M. Morelia,Corral,300.0,68.0,26.0,33.0
+2007-12-14,Mich. : R.M. Morelia,Corral,300.0,55.0,26.0,33.0
+2007-12-17,Mich. : R.M. Morelia,Corral,300.0,76.0,26.0,35.0
+2007-12-18,Mich. : R.M. Morelia,Corral,300.0,149.0,26.0,35.0
+2007-12-19,Mich. : R.M. Morelia,Corral,300.0,29.0,26.0,35.0
+2007-12-20,Mich. : R.M. Morelia,Corral,300.0,47.0,26.0,35.0
+2007-12-21,Mich. : R.M. Morelia,Corral,300.0,48.0,26.0,35.0
+2007-12-24,Mich. : R.M. Morelia,Corral,300.0,96.0,26.0,35.0
+2007-12-26,Mich. : R.M. Morelia,Corral,300.0,135.0,26.0,35.0
+2007-12-27,Mich. : R.M. Morelia,Corral,300.0,17.0,26.0,35.0
+2007-12-28,Mich. : R.M. Morelia,Corral,300.0,36.0,26.0,35.0
+2007-12-31,Mich. : R.M. Morelia,Corral,300.0,76.0,26.0,35.0
+2007-12-03,N.L. : Bodega de Productos Internacional,Corral,280.0,110.0,34.0,34.0
+2007-12-04,N.L. : Bodega de Productos Internacional,Corral,280.0,88.0,34.0,34.0
+2007-12-05,N.L. : Bodega de Productos Internacional,Corral,280.0,147.0,34.0,34.0
+2007-12-06,N.L. : Bodega de Productos Internacional,Corral,280.0,115.0,34.0,34.0
+2007-12-07,N.L. : Bodega de Productos Internacional,Corral,280.0,92.0,34.0,34.0
+2007-12-10,N.L. : Bodega de Productos Internacional,Corral,280.0,220.0,34.0,34.0
+2007-12-11,N.L. : Bodega de Productos Internacional,Corral,280.0,80.0,34.0,34.0
+2007-12-12,N.L. : Bodega de Productos Internacional,Corral,280.0,118.0,34.0,34.0
+2007-12-13,N.L. : Bodega de Productos Internacional,Corral,280.0,223.0,34.0,34.0
+2007-12-14,N.L. : Bodega de Productos Internacional,Corral,280.0,91.0,34.0,34.0
+2007-12-17,N.L. : Bodega de Productos Internacional,Corral,280.0,117.0,34.0,34.0
+2007-12-18,N.L. : Bodega de Productos Internacional,Corral,280.0,147.0,34.0,34.0
+2007-12-19,N.L. : Bodega de Productos Internacional,Corral,280.0,161.0,34.0,34.0
+2007-12-20,N.L. : Bodega de Productos Internacional,Corral,280.0,116.0,34.0,34.0
+2007-12-24,N.L. : Bodega de Productos Internacional,Corral,280.0,239.0,34.0,34.0
+2007-12-27,N.L. : Bodega de Productos Internacional,Corral,280.0,226.0,34.0,34.0
+2007-12-28,N.L. : Bodega de Productos Internacional,Corral,280.0,116.0,34.0,34.0
+2007-12-31,N.L. : Bodega de Productos Internacional,Corral,280.0,122.0,34.0,34.0
+2007-12-03,N.L. : Chamar Alimentos TIF 356,Corral,280.0,303.0,34.0,34.0
+2007-12-04,N.L. : Chamar Alimentos TIF 356,Corral,280.0,110.0,34.0,34.0
+2007-12-05,N.L. : Chamar Alimentos TIF 356,Corral,280.0,346.0,34.0,34.0
+2007-12-06,N.L. : Chamar Alimentos TIF 356,Corral,280.0,225.0,34.0,34.0
+2007-12-07,N.L. : Chamar Alimentos TIF 356,Corral,280.0,182.0,34.0,34.0
+2007-12-10,N.L. : Chamar Alimentos TIF 356,Corral,280.0,236.0,34.0,34.0
+2007-12-11,N.L. : Chamar Alimentos TIF 356,Corral,280.0,506.0,34.0,34.0
+2007-12-12,N.L. : Chamar Alimentos TIF 356,Corral,280.0,330.0,34.0,34.0
+2007-12-13,N.L. : Chamar Alimentos TIF 356,Corral,280.0,429.0,34.0,34.0
+2007-12-14,N.L. : Chamar Alimentos TIF 356,Corral,280.0,168.0,34.0,34.0
+2007-12-17,N.L. : Chamar Alimentos TIF 356,Corral,280.0,255.0,34.0,34.0
+2007-12-18,N.L. : Chamar Alimentos TIF 356,Corral,280.0,394.0,34.0,34.0
+2007-12-20,N.L. : Chamar Alimentos TIF 356,Corral,280.0,255.0,34.0,34.0
+2007-12-21,N.L. : Chamar Alimentos TIF 356,Corral,280.0,215.0,34.0,34.0
+2007-12-24,N.L. : Chamar Alimentos TIF 356,Corral,280.0,273.0,34.0,34.0
+2007-12-26,N.L. : Chamar Alimentos TIF 356,Corral,280.0,228.0,34.0,34.0
+2007-12-27,N.L. : Chamar Alimentos TIF 356,Corral,280.0,235.0,34.0,34.0
+2007-12-28,N.L. : Chamar Alimentos TIF 356,Corral,280.0,215.0,34.0,34.0
+2007-12-03,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,594.0,33.0,34.0
+2007-12-04,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,298.0,33.0,34.0
+2007-12-05,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,297.0,33.0,34.0
+2007-12-06,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,300.0,33.0,34.0
+2007-12-07,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,300.0,34.0,34.0
+2007-12-10,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,596.0,34.0,34.0
+2007-12-11,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,299.0,33.0,34.0
+2007-12-12,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,299.0,34.0,34.0
+2007-12-13,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,299.0,34.0,34.0
+2007-12-14,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,300.0,34.0,34.0
+2007-12-17,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,591.0,34.0,34.0
+2007-12-18,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,296.0,34.0,34.0
+2007-12-19,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,298.0,34.0,34.0
+2007-12-20,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,300.0,34.0,34.0
+2007-12-21,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,298.0,34.0,34.0
+2007-12-24,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,591.0,34.0,34.0
+2007-12-26,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,574.0,34.0,34.0
+2007-12-27,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,299.0,34.0,34.0
+2007-12-28,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,291.0,34.0,34.0
+2007-12-31,"N.L. : Procesadora Selecta, S.A. de C.V.",Corral,280.0,590.0,34.0,34.0
+2007-12-03,N.L. : TIF 15 Emp. Treviño,Corral,280.0,268.0,34.0,34.0
+2007-12-04,N.L. : TIF 15 Emp. Treviño,Corral,280.0,158.0,34.0,34.0
+2007-12-05,N.L. : TIF 15 Emp. Treviño,Corral,280.0,100.0,34.0,34.0
+2007-12-06,N.L. : TIF 15 Emp. Treviño,Corral,280.0,137.0,34.0,34.0
+2007-12-07,N.L. : TIF 15 Emp. Treviño,Corral,280.0,137.0,34.0,34.0
+2007-12-10,N.L. : TIF 15 Emp. Treviño,Corral,280.0,418.0,34.0,34.0
+2007-12-11,N.L. : TIF 15 Emp. Treviño,Corral,280.0,163.0,34.0,34.0
+2007-12-12,N.L. : TIF 15 Emp. Treviño,Corral,280.0,201.0,34.0,34.0
+2007-12-13,N.L. : TIF 15 Emp. Treviño,Corral,280.0,128.0,34.0,34.0
+2007-12-14,N.L. : TIF 15 Emp. Treviño,Corral,280.0,80.0,34.0,34.0
+2007-12-17,N.L. : TIF 15 Emp. Treviño,Corral,280.0,300.0,34.0,34.0
+2007-12-18,N.L. : TIF 15 Emp. Treviño,Corral,280.0,150.0,34.0,34.0
+2007-12-19,N.L. : TIF 15 Emp. Treviño,Corral,280.0,299.0,34.0,34.0
+2007-12-20,N.L. : TIF 15 Emp. Treviño,Corral,280.0,173.0,34.0,34.0
+2007-12-21,N.L. : TIF 15 Emp. Treviño,Corral,280.0,133.0,34.0,34.0
+2007-12-24,N.L. : TIF 15 Emp. Treviño,Corral,280.0,349.0,34.0,34.0
+2007-12-26,N.L. : TIF 15 Emp. Treviño,Corral,280.0,300.0,34.0,34.0
+2007-12-27,N.L. : TIF 15 Emp. Treviño,Corral,280.0,298.0,34.0,34.0
+2007-12-31,N.L. : TIF 15 Emp. Treviño,Corral,280.0,385.0,34.0,34.0
+2007-12-01,Nay. : R.M. Tepic,Toros,307.0,4.0,33.0,34.0
+2007-12-01,Nay. : R.M. Tepic,Vaca,224.0,46.0,29.0,33.0
+2007-12-03,Nay. : R.M. Tepic,Toros,307.0,6.0,33.0,34.0
+2007-12-03,Nay. : R.M. Tepic,Vaca,224.0,80.0,29.0,33.0
+2007-12-04,Nay. : R.M. Tepic,Toros,301.0,3.0,33.0,34.0
+2007-12-04,Nay. : R.M. Tepic,Vaca,221.0,53.0,29.0,33.0
+2007-12-05,Nay. : R.M. Tepic,Toros,301.0,5.0,33.0,34.0
+2007-12-05,Nay. : R.M. Tepic,Vaca,221.0,75.0,29.0,33.0
+2007-12-07,Nay. : R.M. Tepic,Toros,301.0,18.0,33.0,34.0
+2007-12-07,Nay. : R.M. Tepic,Vaca,221.0,114.0,29.0,33.0
+2007-12-08,Nay. : R.M. Tepic,Toros,361.0,7.0,33.0,34.0
+2007-12-08,Nay. : R.M. Tepic,Vaca,261.0,50.0,29.0,33.0
+2007-12-10,Nay. : R.M. Tepic,Toros,361.0,5.0,33.0,34.0
+2007-12-10,Nay. : R.M. Tepic,Vaca,261.0,76.0,29.0,33.0
+2007-12-11,Nay. : R.M. Tepic,Toros,432.0,3.0,33.0,34.0
+2007-12-11,Nay. : R.M. Tepic,Vaca,271.0,80.0,29.0,33.0
+2007-12-13,Nay. : R.M. Tepic,Toros,432.0,3.0,33.0,34.0
+2007-12-13,Nay. : R.M. Tepic,Vaca,271.0,57.0,29.0,33.0
+2007-12-14,Nay. : R.M. Tepic,Toros,432.0,8.0,33.0,34.0
+2007-12-14,Nay. : R.M. Tepic,Vaca,271.0,94.0,29.0,33.0
+2007-12-15,Nay. : R.M. Tepic,Toros,379.0,6.0,33.0,34.0
+2007-12-15,Nay. : R.M. Tepic,Vaca,281.0,60.0,29.0,33.0
+2007-12-17,Nay. : R.M. Tepic,Toros,379.0,12.0,33.0,34.0
+2007-12-17,Nay. : R.M. Tepic,Vaca,281.0,84.0,29.0,33.0
+2007-12-18,Nay. : R.M. Tepic,Toros,379.0,16.0,33.0,34.0
+2007-12-18,Nay. : R.M. Tepic,Vaca,281.0,59.0,29.0,33.0
+2007-12-19,Nay. : R.M. Tepic,Toros,476.0,8.0,33.0,34.0
+2007-12-19,Nay. : R.M. Tepic,Vaca,253.0,86.0,29.0,33.0
+2007-12-21,Nay. : R.M. Tepic,Toros,476.0,12.0,33.0,34.0
+2007-12-21,Nay. : R.M. Tepic,Vaca,253.0,100.0,29.0,33.0
+2007-12-22,Nay. : R.M. Tepic,Toros,342.0,18.0,33.0,34.0
+2007-12-22,Nay. : R.M. Tepic,Vaca,241.0,109.0,29.0,33.0
+2007-12-23,Nay. : R.M. Tepic,Toros,342.0,4.0,33.0,34.0
+2007-12-23,Nay. : R.M. Tepic,Vaca,241.0,36.0,29.0,33.0
+2007-12-24,Nay. : R.M. Tepic,Toros,342.0,4.0,33.0,34.0
+2007-12-24,Nay. : R.M. Tepic,Vaca,241.0,26.0,29.0,33.0
+2007-12-27,Nay. : R.M. Tepic,Toros,302.0,12.0,33.0,34.0
+2007-12-27,Nay. : R.M. Tepic,Vaca,224.0,93.0,29.0,33.0
+2007-12-28,Nay. : R.M. Tepic,Toros,302.0,20.0,33.0,34.0
+2007-12-28,Nay. : R.M. Tepic,Vaca,224.0,95.0,29.0,33.0
+2007-12-29,Nay. : R.M. Tepic,Toros,322.0,32.0,33.0,34.0
+2007-12-29,Nay. : R.M. Tepic,Vaca,247.0,90.0,29.0,33.0
+2007-12-30,Nay. : R.M. Tepic,Toros,322.0,7.0,33.0,34.0
+2007-12-30,Nay. : R.M. Tepic,Vaca,247.0,45.0,29.0,33.0
+2007-12-01,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,225.0,1.0,25.0,28.0
+2007-12-01,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,182.0,5.0,25.0,28.0
+2007-12-02,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,315.0,1.0,25.0,28.0
+2007-12-02,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,187.0,5.0,25.0,28.0
+2007-12-03,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,172.0,3.0,25.0,28.0
+2007-12-04,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,187.0,3.0,25.0,28.0
+2007-12-05,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,184.0,9.0,25.0,28.0
+2007-12-07,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,182.0,10.0,25.0,28.0
+2007-12-08,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,178.0,8.0,25.0,28.0
+2007-12-09,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,315.0,1.0,25.0,28.0
+2007-12-09,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,175.0,7.0,25.0,28.0
+2007-12-10,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,135.0,1.0,25.0,28.0
+2007-12-10,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,177.0,4.0,25.0,28.0
+2007-12-11,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,173.0,7.0,25.0,28.0
+2007-12-12,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,198.0,5.0,25.0,28.0
+2007-12-14,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,387.0,1.0,25.0,28.0
+2007-12-14,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,180.0,12.0,25.0,28.0
+2007-12-15,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,360.0,1.0,25.0,28.0
+2007-12-15,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,155.0,7.0,25.0,28.0
+2007-12-16,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,135.0,1.0,25.0,28.0
+2007-12-16,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,186.0,6.0,25.0,28.0
+2007-12-17,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,154.0,7.0,25.0,28.0
+2007-12-18,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,173.0,5.0,25.0,28.0
+2007-12-19,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,180.0,10.0,25.0,28.0
+2007-12-21,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,191.0,12.0,25.0,28.0
+2007-12-22,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,342.0,1.0,25.0,28.0
+2007-12-22,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,181.0,6.0,25.0,28.0
+2007-12-23,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,360.0,2.0,25.0,28.0
+2007-12-23,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,196.0,9.0,25.0,28.0
+2007-12-24,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,185.0,8.0,25.0,28.0
+2007-12-26,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,360.0,1.0,25.0,28.0
+2007-12-26,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,188.0,6.0,25.0,28.0
+2007-12-28,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,360.0,3.0,25.0,28.0
+2007-12-28,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,206.0,10.0,25.0,28.0
+2007-12-29,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,382.0,1.0,25.0,28.0
+2007-12-29,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,156.0,6.0,25.0,28.0
+2007-12-30,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,319.0,1.0,25.0,28.0
+2007-12-30,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,174.0,6.0,25.0,28.0
+2007-12-31,Nay. : Rastro Municipal de Santiago Ixcuitla,Toros,303.0,2.0,25.0,28.0
+2007-12-31,Nay. : Rastro Municipal de Santiago Ixcuitla,Vaca,176.0,3.0,25.0,28.0
+2007-12-03,Oax. : Rastro Reforma Agraria,Corral,255.0,80.0,33.0,35.0
+2007-12-03,Oax. : Rastro Reforma Agraria,Vaca,230.0,20.0,28.0,30.0
+2007-12-04,Oax. : Rastro Reforma Agraria,Corral,250.0,68.0,33.0,35.0
+2007-12-04,Oax. : Rastro Reforma Agraria,Vaca,230.0,17.0,28.0,30.0
+2007-12-05,Oax. : Rastro Reforma Agraria,Corral,250.0,48.0,33.0,35.0
+2007-12-05,Oax. : Rastro Reforma Agraria,Vaca,230.0,12.0,28.0,30.0
+2007-12-06,Oax. : Rastro Reforma Agraria,Corral,250.0,48.0,33.0,35.0
+2007-12-06,Oax. : Rastro Reforma Agraria,Vaca,230.0,12.0,28.0,30.0
+2007-12-07,Oax. : Rastro Reforma Agraria,Corral,250.0,61.0,33.0,35.0
+2007-12-07,Oax. : Rastro Reforma Agraria,Vaca,230.0,15.0,28.0,30.0
+2007-12-10,Oax. : Rastro Reforma Agraria,Corral,250.0,68.0,33.0,33.0
+2007-12-10,Oax. : Rastro Reforma Agraria,Vaca,230.0,17.0,28.0,30.0
+2007-12-11,Oax. : Rastro Reforma Agraria,Corral,250.0,76.0,28.0,34.0
+2007-12-11,Oax. : Rastro Reforma Agraria,Vaca,230.0,19.0,27.0,30.0
+2007-12-12,Oax. : Rastro Reforma Agraria,Corral,250.0,47.0,28.0,34.0
+2007-12-12,Oax. : Rastro Reforma Agraria,Vaca,75.0,11.0,27.0,30.0
+2007-12-13,Oax. : Rastro Reforma Agraria,Corral,250.0,40.0,28.0,34.0
+2007-12-13,Oax. : Rastro Reforma Agraria,Vaca,230.0,20.0,27.0,30.0
+2007-12-14,Oax. : Rastro Reforma Agraria,Corral,250.0,40.0,28.0,34.0
+2007-12-14,Oax. : Rastro Reforma Agraria,Vaca,230.0,25.0,27.0,30.0
+2007-12-17,Oax. : Rastro Reforma Agraria,Corral,250.0,40.0,28.0,34.0
+2007-12-17,Oax. : Rastro Reforma Agraria,Vaca,230.0,35.0,27.0,30.0
+2007-12-18,Oax. : Rastro Reforma Agraria,Corral,250.0,72.0,28.0,34.0
+2007-12-18,Oax. : Rastro Reforma Agraria,Vaca,230.0,18.0,27.0,30.0
+2007-12-19,Oax. : Rastro Reforma Agraria,Corral,250.0,50.0,28.0,34.0
+2007-12-19,Oax. : Rastro Reforma Agraria,Vaca,230.0,25.0,27.0,30.0
+2007-12-20,Oax. : Rastro Reforma Agraria,Corral,250.0,50.0,28.0,34.0
+2007-12-20,Oax. : Rastro Reforma Agraria,Vaca,230.0,28.0,27.0,30.0
+2007-12-21,Oax. : Rastro Reforma Agraria,Corral,250.0,50.0,28.0,34.0
+2007-12-21,Oax. : Rastro Reforma Agraria,Vaca,230.0,20.0,27.0,30.0
+2007-12-24,Oax. : Rastro Reforma Agraria,Corral,250.0,50.0,28.0,34.0
+2007-12-24,Oax. : Rastro Reforma Agraria,Vaca,230.0,20.0,27.0,30.0
+2007-12-26,Oax. : Rastro Reforma Agraria,Corral,250.0,50.0,28.0,34.0
+2007-12-26,Oax. : Rastro Reforma Agraria,Vaca,230.0,25.0,27.0,30.0
+2007-12-27,Oax. : Rastro Reforma Agraria,Corral,250.0,50.0,28.0,34.0
+2007-12-27,Oax. : Rastro Reforma Agraria,Vaca,230.0,24.0,27.0,30.0
+2007-12-28,Oax. : Rastro Reforma Agraria,Corral,250.0,50.0,28.0,34.0
+2007-12-28,Oax. : Rastro Reforma Agraria,Vaca,230.0,25.0,27.0,30.0
+2007-12-31,Oax. : Rastro Reforma Agraria,Corral,250.0,50.0,28.0,34.0
+2007-12-31,Oax. : Rastro Reforma Agraria,Vaca,230.0,22.0,27.0,30.0
+2007-12-02,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,239.0,16.0,,32.0
+2007-12-02,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,206.0,3.0,,26.0
+2007-12-03,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,252.0,11.0,,32.0
+2007-12-03,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,240.0,4.0,,26.0
+2007-12-04,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,271.0,9.0,,32.0
+2007-12-04,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,246.0,6.0,,26.0
+2007-12-05,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,261.0,10.0,,32.0
+2007-12-05,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,217.0,9.0,,26.0
+2007-12-06,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,236.0,8.0,,32.0
+2007-12-06,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,221.0,8.0,,26.0
+2007-12-07,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,248.0,13.0,,32.0
+2007-12-07,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,234.0,7.0,,26.0
+2007-12-09,"Q. Roo. : Procesadora de carnes ""La Alianza""",Novillona,200.0,1.0,,28.0
+2007-12-09,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,239.0,11.0,,32.0
+2007-12-09,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,209.0,9.0,,26.0
+2007-12-10,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,247.0,11.0,,32.0
+2007-12-10,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,240.0,2.0,,26.0
+2007-12-11,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,249.0,11.0,,32.0
+2007-12-11,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,215.0,3.0,,26.0
+2007-12-12,"Q. Roo. : Procesadora de carnes ""La Alianza""",Novillona,160.0,1.0,,26.0
+2007-12-12,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,270.0,10.0,,32.0
+2007-12-12,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,240.0,4.0,,26.0
+2007-12-13,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,252.0,11.0,,31.0
+2007-12-13,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,185.0,8.0,,26.0
+2007-12-14,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,271.0,11.0,,32.0
+2007-12-14,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,219.0,11.0,,26.0
+2007-12-16,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,228.0,15.0,,31.0
+2007-12-16,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,208.0,4.0,,26.0
+2007-12-18,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,227.0,10.0,,32.0
+2007-12-18,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,240.0,9.0,,26.0
+2007-12-19,"Q. Roo. : Procesadora de carnes ""La Alianza""",Novillona,168.0,2.0,,28.0
+2007-12-19,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,233.0,10.0,,32.0
+2007-12-19,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,237.0,6.0,,26.0
+2007-12-20,"Q. Roo. : Procesadora de carnes ""La Alianza""",Novillona,184.0,1.0,,28.0
+2007-12-20,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,244.0,11.0,,32.0
+2007-12-20,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,231.0,7.0,,26.0
+2007-12-21,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,250.0,12.0,,32.0
+2007-12-21,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,228.0,11.0,,26.0
+2007-12-23,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,243.0,12.0,,32.0
+2007-12-23,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,185.0,12.0,,26.0
+2007-12-26,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,255.0,13.0,,32.0
+2007-12-26,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,212.0,4.0,,26.0
+2007-12-27,"Q. Roo. : Procesadora de carnes ""La Alianza""",Novillona,204.0,1.0,,28.0
+2007-12-27,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,241.0,8.0,,32.0
+2007-12-27,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,231.0,6.0,,26.0
+2007-12-28,"Q. Roo. : Procesadora de carnes ""La Alianza""",Novillona,228.0,1.0,,28.0
+2007-12-28,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,243.0,7.0,,32.0
+2007-12-28,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,269.0,14.0,,26.0
+2007-12-30,"Q. Roo. : Procesadora de carnes ""La Alianza""",Toros,245.0,19.0,,32.0
+2007-12-30,"Q. Roo. : Procesadora de carnes ""La Alianza""",Vaca,223.0,9.0,,26.0
+2007-12-03,Qro. : R.M. Querétaro,Toros,260.0,274.0,31.0,36.0
+2007-12-03,Qro. : R.M. Querétaro,Vaca,200.0,266.0,24.0,26.0
+2007-12-04,Qro. : R.M. Querétaro,Toros,260.0,199.0,31.0,36.0
+2007-12-04,Qro. : R.M. Querétaro,Vaca,200.0,187.0,24.0,26.0
+2007-12-05,Qro. : R.M. Querétaro,Toros,260.0,220.0,31.0,36.0
+2007-12-05,Qro. : R.M. Querétaro,Vaca,200.0,178.0,24.0,26.0
+2007-12-06,Qro. : R.M. Querétaro,Toros,260.0,156.0,31.0,36.0
+2007-12-06,Qro. : R.M. Querétaro,Vaca,200.0,112.0,24.0,26.0
+2007-12-07,Qro. : R.M. Querétaro,Toros,260.0,178.0,31.0,36.0
+2007-12-07,Qro. : R.M. Querétaro,Vaca,200.0,155.0,24.0,26.0
+2007-12-10,Qro. : R.M. Querétaro,Toros,260.0,236.0,31.0,36.0
+2007-12-10,Qro. : R.M. Querétaro,Vaca,200.0,202.0,24.0,26.0
+2007-12-11,Qro. : R.M. Querétaro,Toros,260.0,269.0,31.0,36.0
+2007-12-11,Qro. : R.M. Querétaro,Vaca,200.0,242.0,24.0,26.0
+2007-12-12,Qro. : R.M. Querétaro,Toros,260.0,310.0,31.0,36.0
+2007-12-12,Qro. : R.M. Querétaro,Vaca,200.0,289.0,24.0,26.0
+2007-12-13,Qro. : R.M. Querétaro,Toros,260.0,299.0,31.0,36.0
+2007-12-13,Qro. : R.M. Querétaro,Vaca,200.0,275.0,24.0,26.0
+2007-12-14,Qro. : R.M. Querétaro,Toros,260.0,328.0,31.0,36.0
+2007-12-14,Qro. : R.M. Querétaro,Vaca,200.0,302.0,24.0,26.0
+2007-12-17,Qro. : R.M. Querétaro,Toros,260.0,271.0,31.0,36.0
+2007-12-17,Qro. : R.M. Querétaro,Vaca,200.0,256.0,24.0,26.0
+2007-12-18,Qro. : R.M. Querétaro,Toros,260.0,189.0,31.0,36.0
+2007-12-18,Qro. : R.M. Querétaro,Vaca,200.0,156.0,24.0,26.0
+2007-12-19,Qro. : R.M. Querétaro,Toros,260.0,179.0,31.0,36.0
+2007-12-19,Qro. : R.M. Querétaro,Vaca,200.0,146.0,24.0,26.0
+2007-12-20,Qro. : R.M. Querétaro,Toros,260.0,243.0,31.0,36.0
+2007-12-20,Qro. : R.M. Querétaro,Vaca,200.0,223.0,24.0,26.0
+2007-12-21,Qro. : R.M. Querétaro,Toros,260.0,285.0,31.0,36.0
+2007-12-21,Qro. : R.M. Querétaro,Vaca,200.0,233.0,24.0,26.0
+2007-12-24,Qro. : R.M. Querétaro,Toros,260.0,141.0,31.0,36.0
+2007-12-24,Qro. : R.M. Querétaro,Vaca,200.0,132.0,24.0,26.0
+2007-12-26,Qro. : R.M. Querétaro,Toros,260.0,188.0,31.0,36.0
+2007-12-26,Qro. : R.M. Querétaro,Vaca,200.0,128.0,24.0,26.0
+2007-12-28,Qro. : R.M. Querétaro,Toros,260.0,266.0,31.0,36.0
+2007-12-28,Qro. : R.M. Querétaro,Vaca,200.0,246.0,24.0,26.0
+2007-12-31,Qro. : R.M. Querétaro,Toros,260.0,235.0,31.0,36.0
+2007-12-31,Qro. : R.M. Querétaro,Vaca,200.0,211.0,24.0,26.0
+2007-12-03,Sin. : TIF 111 Vizur Sin,Corral,302.0,389.0,,30.0
+2007-12-03,Sin. : TIF 111 Vizur Sin,Novillona,283.0,120.0,,30.0
+2007-12-04,Sin. : TIF 111 Vizur Sin,Corral,304.0,393.0,,30.0
+2007-12-04,Sin. : TIF 111 Vizur Sin,Novillona,300.0,127.0,,30.0
+2007-12-05,Sin. : TIF 111 Vizur Sin,Corral,308.0,346.0,,30.0
+2007-12-05,Sin. : TIF 111 Vizur Sin,Novillona,289.0,180.0,,30.0
+2007-12-06,Sin. : TIF 111 Vizur Sin,Corral,296.0,544.0,,30.0
+2007-12-07,Sin. : TIF 111 Vizur Sin,Corral,297.0,301.0,,30.0
+2007-12-07,Sin. : TIF 111 Vizur Sin,Novillona,260.0,148.0,,30.0
+2007-12-10,Sin. : TIF 111 Vizur Sin,Corral,315.0,494.0,,30.0
+2007-12-10,Sin. : TIF 111 Vizur Sin,Novillona,285.0,36.0,,30.0
+2007-12-11,Sin. : TIF 111 Vizur Sin,Corral,308.0,245.0,,30.0
+2007-12-11,Sin. : TIF 111 Vizur Sin,Novillona,283.0,292.0,,30.0
+2007-12-12,Sin. : TIF 111 Vizur Sin,Corral,308.0,425.0,,30.0
+2007-12-12,Sin. : TIF 111 Vizur Sin,Novillona,280.0,116.0,,30.0
+2007-12-14,Sin. : TIF 111 Vizur Sin,Corral,295.0,296.0,,30.0
+2007-12-14,Sin. : TIF 111 Vizur Sin,Novillona,280.0,244.0,,30.0
+2007-12-17,Sin. : TIF 111 Vizur Sin,Corral,304.0,393.0,,30.0
+2007-12-17,Sin. : TIF 111 Vizur Sin,Novillona,300.0,127.0,,30.0
+2007-12-18,Sin. : TIF 111 Vizur Sin,Corral,304.0,412.0,,30.0
+2007-12-18,Sin. : TIF 111 Vizur Sin,Novillona,296.0,118.0,,30.0
+2007-12-19,Sin. : TIF 111 Vizur Sin,Corral,294.0,269.0,,30.0
+2007-12-19,Sin. : TIF 111 Vizur Sin,Novillona,288.0,211.0,,30.0
+2007-12-20,Sin. : TIF 111 Vizur Sin,Corral,305.0,389.0,,30.0
+2007-12-20,Sin. : TIF 111 Vizur Sin,Novillona,296.0,149.0,,30.0
+2007-12-21,Sin. : TIF 111 Vizur Sin,Corral,292.0,192.0,,30.0
+2007-12-21,Sin. : TIF 111 Vizur Sin,Novillona,278.0,358.0,,30.0
+2007-12-24,Sin. : TIF 111 Vizur Sin,Corral,304.0,427.0,,30.0
+2007-12-24,Sin. : TIF 111 Vizur Sin,Novillona,270.0,128.0,,30.0
+2007-12-26,Sin. : TIF 111 Vizur Sin,Corral,306.0,471.0,,30.0
+2007-12-26,Sin. : TIF 111 Vizur Sin,Novillona,324.0,36.0,,30.0
+2007-12-27,Sin. : TIF 111 Vizur Sin,Corral,314.0,331.0,,30.0
+2007-12-27,Sin. : TIF 111 Vizur Sin,Novillona,293.0,174.0,,30.0
+2007-12-28,Sin. : TIF 111 Vizur Sin,Corral,304.0,349.0,,30.0
+2007-12-28,Sin. : TIF 111 Vizur Sin,Novillona,288.0,156.0,,30.0
+2007-12-31,Sin. : TIF 111 Vizur Sin,Corral,294.0,269.0,,30.0
+2007-12-31,Sin. : TIF 111 Vizur Sin,Novillona,288.0,211.0,,30.0
+2007-12-03,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,470.0,125.0,33.0,33.0
+2007-12-04,Son. : Rastro TIF Bovinos Cd. Obregón,Corral,399.0,1.0,30.0,30.0
+2007-12-04,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,226.0,10.0,33.0,33.0
+2007-12-04,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,374.0,8.0,28.0,28.0
+2007-12-06,Son. : Rastro TIF Bovinos Cd. Obregón,Corral,437.0,1.0,30.0,30.0
+2007-12-06,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,235.0,25.0,33.0,33.0
+2007-12-06,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,382.0,9.0,28.0,28.0
+2007-12-10,Son. : Rastro TIF Bovinos Cd. Obregón,Corral,420.0,100.0,30.0,30.0
+2007-12-10,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,360.0,35.0,33.0,33.0
+2007-12-11,Son. : Rastro TIF Bovinos Cd. Obregón,Corral,560.0,37.0,30.0,30.0
+2007-12-11,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,390.0,61.0,33.0,33.0
+2007-12-12,Son. : Rastro TIF Bovinos Cd. Obregón,Corral,430.0,1.0,30.0,30.0
+2007-12-12,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,220.0,25.0,33.0,33.0
+2007-12-12,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,250.0,9.0,28.0,28.0
+2007-12-13,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,232.0,32.0,33.0,33.0
+2007-12-13,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,364.0,4.0,28.0,28.0
+2007-12-14,Son. : Rastro TIF Bovinos Cd. Obregón,Corral,430.0,4.0,30.0,30.0
+2007-12-14,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,234.0,10.0,33.0,33.0
+2007-12-14,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,362.0,14.0,28.0,28.0
+2007-12-17,Son. : Rastro TIF Bovinos Cd. Obregón,Corral,390.0,2.0,30.0,30.0
+2007-12-17,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,234.0,15.0,33.0,33.0
+2007-12-17,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,380.0,17.0,28.0,28.0
+2007-12-19,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,242.0,47.0,33.0,33.0
+2007-12-19,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,384.0,10.0,28.0,28.0
+2007-12-20,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,232.0,,33.0,
+2007-12-20,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,454.0,,30.0,
+2007-12-20,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,380.0,,28.0,
+2007-12-21,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,230.0,,33.0,
+2007-12-21,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,456.0,,30.0,
+2007-12-21,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,382.0,,28.0,
+2007-12-24,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,240.0,,33.0,33.0
+2007-12-24,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,,,30.0,30.0
+2007-12-24,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,379.0,,28.0,28.0
+2007-12-26,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,484.0,3.0,,30.0
+2007-12-26,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,382.0,25.0,,28.0
+2007-12-27,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,304.0,15.0,,28.0
+2007-12-28,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,312.0,14.0,,28.0
+2007-12-31,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,254.0,20.0,,33.0
+2007-12-31,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,386.0,28.0,,28.0
+2007-12-03,Son. : Rastro TIF Bovinos Hermosillo,Corral,,220.0,34.0,36.0
+2007-12-04,Son. : Rastro TIF Bovinos Hermosillo,Corral,,207.0,34.0,36.0
+2007-12-05,Son. : Rastro TIF Bovinos Hermosillo,Corral,,165.0,34.0,36.0
+2007-12-06,Son. : Rastro TIF Bovinos Hermosillo,Corral,,276.0,34.0,36.0
+2007-12-07,Son. : Rastro TIF Bovinos Hermosillo,Corral,,233.0,34.0,36.0
+2007-12-10,Son. : Rastro TIF Bovinos Hermosillo,Corral,,219.0,34.0,36.0
+2007-12-11,Son. : Rastro TIF Bovinos Hermosillo,Corral,,239.0,34.0,36.0
+2007-12-12,Son. : Rastro TIF Bovinos Hermosillo,Corral,,218.0,34.0,36.0
+2007-12-13,Son. : Rastro TIF Bovinos Hermosillo,Corral,,244.0,34.0,36.0
+2007-12-14,Son. : Rastro TIF Bovinos Hermosillo,Corral,,224.0,34.0,36.0
+2007-12-17,Son. : Rastro TIF Bovinos Hermosillo,Corral,,182.0,34.0,36.0
+2007-12-18,Son. : Rastro TIF Bovinos Hermosillo,Corral,,220.0,34.0,36.0
+2007-12-19,Son. : Rastro TIF Bovinos Hermosillo,Corral,,230.0,34.0,36.0
+2007-12-20,Son. : Rastro TIF Bovinos Hermosillo,Corral,,301.0,34.0,36.0
+2007-12-21,Son. : Rastro TIF Bovinos Hermosillo,Corral,,285.0,34.0,36.0
+2007-12-22,Son. : Rastro TIF Bovinos Hermosillo,Corral,,194.0,34.0,36.0
+2007-12-27,Son. : Rastro TIF Bovinos Hermosillo,Corral,,264.0,34.0,36.0
+2007-12-28,Son. : Rastro TIF Bovinos Hermosillo,Corral,,307.0,34.0,36.0
+2007-12-03,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,207.0,3.0,,27.0
+2007-12-03,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,285.0,521.0,,28.5
+2007-12-03,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,376.0,14.0,,25.5
+2007-12-03,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,238.0,89.0,,24.5
+2007-12-04,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,297.0,406.0,,28.5
+2007-12-04,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,390.0,1.0,,25.5
+2007-12-04,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,236.0,39.0,,24.5
+2007-12-05,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,215.0,56.0,,26.0
+2007-12-05,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,290.0,277.0,,27.5
+2007-12-05,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,389.0,1.0,,25.5
+2007-12-05,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,230.0,68.0,,24.5
+2007-12-06,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,276.0,31.0,,26.0
+2007-12-06,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,281.0,222.0,,27.5
+2007-12-06,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,388.0,8.0,,25.5
+2007-12-06,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,251.0,84.0,,24.5
+2007-12-07,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,254.0,87.0,,26.0
+2007-12-07,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,287.0,296.0,,27.5
+2007-12-07,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,392.0,9.0,,25.5
+2007-12-07,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,215.0,41.0,,24.5
+2007-12-10,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,198.0,12.0,,26.0
+2007-12-10,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,287.0,556.0,,27.5
+2007-12-10,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,388.0,8.0,,25.5
+2007-12-10,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,217.0,129.0,,24.5
+2007-12-11,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,239.0,11.0,,26.0
+2007-12-11,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,277.0,337.0,,27.5
+2007-12-11,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,387.0,5.0,,25.5
+2007-12-11,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,276.0,76.0,,24.5
+2007-12-12,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,227.0,35.0,,26.0
+2007-12-12,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,300.0,304.0,,27.5
+2007-12-12,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,386.0,5.0,,25.5
+2007-12-12,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,235.0,135.0,,24.5
+2007-12-13,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,235.0,67.0,,26.0
+2007-12-13,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,289.0,170.0,,27.5
+2007-12-13,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,420.0,3.0,,25.5
+2007-12-13,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,247.0,6.0,,24.5
+2007-12-14,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,268.0,257.0,,27.5
+2007-12-14,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,382.0,6.0,,25.5
+2007-12-14,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,214.0,4.0,,24.5
+2007-12-17,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,251.0,31.0,,26.0
+2007-12-17,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,274.0,343.0,,27.5
+2007-12-17,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,409.0,7.0,,25.5
+2007-12-17,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,238.0,72.0,,24.5
+2007-12-18,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,248.0,2.0,,26.0
+2007-12-18,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,319.0,378.0,,27.5
+2007-12-18,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,403.0,3.0,,25.5
+2007-12-18,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,238.0,18.0,,24.5
+2007-12-19,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,191.0,36.0,,26.0
+2007-12-19,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,309.0,315.0,,27.5
+2007-12-19,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,398.0,4.0,,25.5
+2007-12-19,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,231.0,50.0,,24.5
+2007-12-20,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,198.0,33.0,,26.0
+2007-12-20,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,327.0,327.0,,27.5
+2007-12-20,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,378.0,2.0,,25.5
+2007-12-20,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,248.0,32.0,,24.5
+2007-12-21,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,250.0,17.0,,26.0
+2007-12-21,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,287.0,334.0,,27.5
+2007-12-21,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,400.0,6.0,,25.5
+2007-12-21,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,253.0,43.0,,24.5
+2007-12-26,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,215.0,14.0,,26.0
+2007-12-26,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,291.0,342.0,,27.5
+2007-12-26,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,440.0,9.0,,25.5
+2007-12-26,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,258.0,68.0,,24.5
+2007-12-27,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,172.0,25.0,,26.0
+2007-12-27,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,308.0,205.0,,27.5
+2007-12-27,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,439.0,3.0,,25.5
+2007-12-27,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,259.0,28.0,,24.5
+2007-12-28,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,232.0,27.0,,26.0
+2007-12-28,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Pradera,297.0,276.0,,27.5
+2007-12-28,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,420.0,5.0,,25.5
+2007-12-28,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,269.0,77.0,,24.5
+2007-12-01,Tamps. : Rastro TIF de Aldama,Corral,299.0,74.0,30.5,30.5
+2007-12-01,Tamps. : Rastro TIF de Aldama,Novillona,240.0,1.0,30.0,30.0
+2007-12-03,Tamps. : Rastro TIF de Aldama,Corral,241.0,3.0,30.5,30.5
+2007-12-03,Tamps. : Rastro TIF de Aldama,Novillona,280.0,4.0,30.0,30.0
+2007-12-03,Tamps. : Rastro TIF de Aldama,Toros,412.0,14.0,22.0,26.5
+2007-12-03,Tamps. : Rastro TIF de Aldama,Vaca,281.0,59.0,21.0,23.0
+2007-12-04,Tamps. : Rastro TIF de Aldama,Novillona,287.0,66.0,30.0,30.0
+2007-12-04,Tamps. : Rastro TIF de Aldama,Toros,407.0,2.0,22.0,26.5
+2007-12-04,Tamps. : Rastro TIF de Aldama,Vaca,249.0,4.0,21.0,23.0
+2007-12-05,Tamps. : Rastro TIF de Aldama,Corral,295.0,2.0,30.5,30.5
+2007-12-05,Tamps. : Rastro TIF de Aldama,Novillona,289.0,28.0,30.0,30.0
+2007-12-05,Tamps. : Rastro TIF de Aldama,Toros,405.0,1.0,22.0,26.5
+2007-12-05,Tamps. : Rastro TIF de Aldama,Vaca,267.0,14.0,21.0,23.0
+2007-12-07,Tamps. : Rastro TIF de Aldama,Corral,298.0,14.0,30.5,30.5
+2007-12-07,Tamps. : Rastro TIF de Aldama,Novillona,287.0,35.0,30.0,30.0
+2007-12-08,Tamps. : Rastro TIF de Aldama,Corral,295.0,76.0,30.5,30.5
+2007-12-08,Tamps. : Rastro TIF de Aldama,Novillona,289.0,64.0,30.0,30.0
+2007-12-08,Tamps. : Rastro TIF de Aldama,Vaca,265.0,14.0,21.0,23.0
+2007-12-11,Tamps. : Rastro TIF de Aldama,Corral,287.0,37.0,30.5,30.5
+2007-12-11,Tamps. : Rastro TIF de Aldama,Novillona,275.0,132.0,30.0,30.0
+2007-12-11,Tamps. : Rastro TIF de Aldama,Toros,420.0,1.0,22.0,26.5
+2007-12-11,Tamps. : Rastro TIF de Aldama,Vaca,270.0,97.0,21.0,23.0
+2007-12-14,Tamps. : Rastro TIF de Aldama,Corral,298.0,1.0,30.5,30.5
+2007-12-14,Tamps. : Rastro TIF de Aldama,Novillona,285.0,49.0,30.0,30.0
+2007-12-14,Tamps. : Rastro TIF de Aldama,Toros,440.0,1.0,22.0,26.5
+2007-12-14,Tamps. : Rastro TIF de Aldama,Vaca,280.0,8.0,21.0,23.0
+2007-12-15,Tamps. : Rastro TIF de Aldama,Corral,301.0,35.0,30.5,30.5
+2007-12-15,Tamps. : Rastro TIF de Aldama,Novillona,285.0,49.0,30.0,30.0
+2007-12-15,Tamps. : Rastro TIF de Aldama,Vaca,280.0,3.0,21.0,23.0
+2007-12-18,Tamps. : Rastro TIF de Aldama,Corral,298.0,20.0,30.5,30.5
+2007-12-18,Tamps. : Rastro TIF de Aldama,Novillona,275.0,118.0,30.0,30.0
+2007-12-18,Tamps. : Rastro TIF de Aldama,Toros,415.0,13.0,22.0,26.5
+2007-12-18,Tamps. : Rastro TIF de Aldama,Vaca,280.0,36.0,21.0,23.0
+2007-12-20,Tamps. : Rastro TIF de Aldama,Corral,295.0,51.0,30.5,30.5
+2007-12-20,Tamps. : Rastro TIF de Aldama,Novillona,270.0,30.0,30.0,30.0
+2007-12-20,Tamps. : Rastro TIF de Aldama,Toros,410.0,1.0,22.0,26.5
+2007-12-20,Tamps. : Rastro TIF de Aldama,Vaca,278.0,27.0,21.0,23.0
+2007-12-21,Tamps. : Rastro TIF de Aldama,Corral,290.0,46.0,30.5,30.5
+2007-12-21,Tamps. : Rastro TIF de Aldama,Toros,450.0,1.0,22.0,26.5
+2007-12-21,Tamps. : Rastro TIF de Aldama,Vaca,288.0,24.0,21.0,23.0
+2007-12-22,Tamps. : Rastro TIF de Aldama,Corral,295.0,75.0,30.5,30.5
+2007-12-22,Tamps. : Rastro TIF de Aldama,Novillona,285.0,19.0,30.0,30.0
+2007-12-22,Tamps. : Rastro TIF de Aldama,Vaca,282.0,21.0,21.0,23.0
+2007-12-26,Tamps. : Rastro TIF de Aldama,Corral,290.0,37.0,30.5,30.5
+2007-12-26,Tamps. : Rastro TIF de Aldama,Novillona,280.0,86.0,30.0,30.0
+2007-12-26,Tamps. : Rastro TIF de Aldama,Toros,420.0,4.0,22.0,26.5
+2007-12-26,Tamps. : Rastro TIF de Aldama,Vaca,278.0,24.0,21.0,23.0
+2007-12-28,Tamps. : Rastro TIF de Aldama,Corral,296.0,85.0,30.5,30.5
+2007-12-28,Tamps. : Rastro TIF de Aldama,Novillona,278.0,1.0,30.0,30.0
+2007-12-28,Tamps. : Rastro TIF de Aldama,Vaca,275.0,16.0,21.0,23.0
+2007-12-29,Tamps. : Rastro TIF de Aldama,Corral,294.0,20.0,30.5,30.5
+2007-12-29,Tamps. : Rastro TIF de Aldama,Novillona,279.0,1.0,30.0,30.0
+2007-12-29,Tamps. : Rastro TIF de Aldama,Vaca,280.0,28.0,21.0,23.0
+2007-12-03,Ver. : Rastro Municipal de Xalapa,Corral,209.0,8.0,32.0,35.0
+2007-12-03,Ver. : Rastro Municipal de Xalapa,Novillona,192.0,9.0,29.0,31.0
+2007-12-03,Ver. : Rastro Municipal de Xalapa,Toros,308.0,22.0,28.0,30.0
+2007-12-03,Ver. : Rastro Municipal de Xalapa,Vaca,220.0,6.0,23.0,26.0
+2007-12-04,Ver. : Rastro Municipal de Xalapa,Corral,195.0,6.0,32.0,35.0
+2007-12-04,Ver. : Rastro Municipal de Xalapa,Novillona,196.0,4.0,28.0,30.0
+2007-12-04,Ver. : Rastro Municipal de Xalapa,Toros,312.0,17.0,29.0,31.0
+2007-12-04,Ver. : Rastro Municipal de Xalapa,Vaca,210.0,3.0,23.0,26.0
+2007-12-05,Ver. : Rastro Municipal de Xalapa,Corral,210.0,3.0,32.0,35.0
+2007-12-05,Ver. : Rastro Municipal de Xalapa,Novillona,191.0,2.0,29.0,31.0
+2007-12-05,Ver. : Rastro Municipal de Xalapa,Toros,307.0,14.0,28.0,30.0
+2007-12-05,Ver. : Rastro Municipal de Xalapa,Vaca,240.0,1.0,23.0,26.0
+2007-12-06,Ver. : Rastro Municipal de Xalapa,Corral,210.0,2.0,32.0,35.0
+2007-12-06,Ver. : Rastro Municipal de Xalapa,Novillona,194.0,3.0,29.0,31.0
+2007-12-06,Ver. : Rastro Municipal de Xalapa,Toros,307.0,12.0,28.0,30.0
+2007-12-06,Ver. : Rastro Municipal de Xalapa,Vaca,240.0,2.0,23.0,26.0
+2007-12-07,Ver. : Rastro Municipal de Xalapa,Corral,201.0,2.0,32.0,35.0
+2007-12-07,Ver. : Rastro Municipal de Xalapa,Novillona,192.0,2.0,29.0,31.0
+2007-12-07,Ver. : Rastro Municipal de Xalapa,Toros,301.0,9.0,28.0,30.0
+2007-12-07,Ver. : Rastro Municipal de Xalapa,Vaca,220.0,1.0,23.0,26.0
+2007-12-10,Ver. : Rastro Municipal de Xalapa,Corral,220.0,10.0,32.0,35.0
+2007-12-10,Ver. : Rastro Municipal de Xalapa,Novillona,198.0,8.0,29.0,31.0
+2007-12-10,Ver. : Rastro Municipal de Xalapa,Toros,310.0,20.0,28.0,30.0
+2007-12-10,Ver. : Rastro Municipal de Xalapa,Vaca,240.0,7.0,23.0,26.0
+2007-12-11,Ver. : Rastro Municipal de Xalapa,Corral,225.0,6.0,32.0,35.0
+2007-12-11,Ver. : Rastro Municipal de Xalapa,Novillona,197.0,2.0,29.0,31.0
+2007-12-11,Ver. : Rastro Municipal de Xalapa,Toros,306.0,17.0,28.0,30.0
+2007-12-11,Ver. : Rastro Municipal de Xalapa,Vaca,230.0,3.0,23.0,26.0
+2007-12-12,Ver. : Rastro Municipal de Xalapa,Corral,219.0,3.0,32.0,35.0
+2007-12-12,Ver. : Rastro Municipal de Xalapa,Novillona,199.0,2.0,29.0,31.0
+2007-12-12,Ver. : Rastro Municipal de Xalapa,Toros,308.0,9.0,28.0,30.0
+2007-12-12,Ver. : Rastro Municipal de Xalapa,Vaca,235.0,1.0,23.0,26.0
+2007-12-13,Ver. : Rastro Municipal de Xalapa,Corral,215.0,8.0,32.0,35.0
+2007-12-13,Ver. : Rastro Municipal de Xalapa,Novillona,200.0,6.0,29.0,31.0
+2007-12-13,Ver. : Rastro Municipal de Xalapa,Toros,306.0,11.0,28.0,30.0
+2007-12-13,Ver. : Rastro Municipal de Xalapa,Vaca,236.0,3.0,23.0,26.0
+2007-12-14,Ver. : Rastro Municipal de Xalapa,Corral,220.0,2.0,32.0,35.0
+2007-12-14,Ver. : Rastro Municipal de Xalapa,Novillona,198.0,1.0,29.0,31.0
+2007-12-14,Ver. : Rastro Municipal de Xalapa,Toros,303.0,14.0,28.0,30.0
+2007-12-14,Ver. : Rastro Municipal de Xalapa,Vaca,240.0,1.0,23.0,26.0
+2007-12-17,Ver. : Rastro Municipal de Xalapa,Corral,230.0,10.0,32.0,35.0
+2007-12-17,Ver. : Rastro Municipal de Xalapa,Novillona,197.0,8.0,29.0,31.0
+2007-12-17,Ver. : Rastro Municipal de Xalapa,Toros,303.0,18.0,28.0,30.0
+2007-12-17,Ver. : Rastro Municipal de Xalapa,Vaca,245.0,4.0,23.0,26.0
+2007-12-18,Ver. : Rastro Municipal de Xalapa,Corral,225.0,5.0,32.0,35.0
+2007-12-18,Ver. : Rastro Municipal de Xalapa,Novillona,195.0,6.0,29.0,31.0
+2007-12-18,Ver. : Rastro Municipal de Xalapa,Toros,306.0,35.0,28.0,30.0
+2007-12-18,Ver. : Rastro Municipal de Xalapa,Vaca,235.0,4.0,23.0,26.0
+2007-12-19,Ver. : Rastro Municipal de Xalapa,Corral,210.0,2.0,32.0,35.0
+2007-12-19,Ver. : Rastro Municipal de Xalapa,Novillona,198.0,1.0,29.0,31.0
+2007-12-19,Ver. : Rastro Municipal de Xalapa,Toros,308.0,14.0,28.0,30.0
+2007-12-19,Ver. : Rastro Municipal de Xalapa,Vaca,240.0,1.0,23.0,26.0
+2007-12-20,Ver. : Rastro Municipal de Xalapa,Corral,208.0,11.0,32.0,35.0
+2007-12-20,Ver. : Rastro Municipal de Xalapa,Novillona,197.0,7.0,29.0,31.0
+2007-12-20,Ver. : Rastro Municipal de Xalapa,Toros,306.0,32.0,28.0,30.0
+2007-12-20,Ver. : Rastro Municipal de Xalapa,Vaca,230.0,5.0,23.0,26.0
+2007-12-21,Ver. : Rastro Municipal de Xalapa,Corral,200.0,10.0,32.0,35.0
+2007-12-21,Ver. : Rastro Municipal de Xalapa,Novillona,199.0,2.0,29.0,31.0
+2007-12-21,Ver. : Rastro Municipal de Xalapa,Toros,298.0,17.0,28.0,30.0
+2007-12-21,Ver. : Rastro Municipal de Xalapa,Vaca,230.0,1.0,23.0,26.0
+2007-12-24,Ver. : Rastro Municipal de Xalapa,Corral,230.0,12.0,32.0,35.0
+2007-12-24,Ver. : Rastro Municipal de Xalapa,Novillona,198.0,10.0,29.0,31.0
+2007-12-24,Ver. : Rastro Municipal de Xalapa,Toros,300.0,20.0,28.0,30.0
+2007-12-24,Ver. : Rastro Municipal de Xalapa,Vaca,246.0,8.0,23.0,26.0
+2007-12-26,Ver. : Rastro Municipal de Xalapa,Corral,228.0,15.0,32.0,35.0
+2007-12-26,Ver. : Rastro Municipal de Xalapa,Novillona,200.0,12.0,29.0,31.0
+2007-12-26,Ver. : Rastro Municipal de Xalapa,Toros,299.0,25.0,28.0,30.0
+2007-12-26,Ver. : Rastro Municipal de Xalapa,Vaca,250.0,8.0,23.0,26.0
+2007-12-27,Ver. : Rastro Municipal de Xalapa,Corral,215.0,8.0,32.0,35.0
+2007-12-27,Ver. : Rastro Municipal de Xalapa,Novillona,200.0,6.0,24.0,31.0
+2007-12-27,Ver. : Rastro Municipal de Xalapa,Toros,306.0,11.0,28.0,30.0
+2007-12-27,Ver. : Rastro Municipal de Xalapa,Vaca,230.0,3.0,23.0,26.0
+2007-12-28,Ver. : Rastro Municipal de Xalapa,Corral,208.0,10.0,32.0,35.0
+2007-12-28,Ver. : Rastro Municipal de Xalapa,Novillona,197.0,7.0,29.0,31.0
+2007-12-28,Ver. : Rastro Municipal de Xalapa,Toros,305.0,28.0,28.0,30.0
+2007-12-28,Ver. : Rastro Municipal de Xalapa,Vaca,235.0,12.0,29.0,31.0
+2007-12-31,Ver. : Rastro Municipal de Xalapa,Corral,210.0,10.0,32.0,35.0
+2007-12-31,Ver. : Rastro Municipal de Xalapa,Novillona,199.0,8.0,29.0,31.0
+2007-12-31,Ver. : Rastro Municipal de Xalapa,Toros,307.0,30.0,28.0,30.0
+2007-12-31,Ver. : Rastro Municipal de Xalapa,Vaca,250.0,12.0,23.0,26.0
+2007-12-06,Yuc. : Aric Planta TIF 170,Pradera,311.0,10.0,,29.0
+2007-12-10,Yuc. : Aric Planta TIF 170,Pradera,278.0,13.0,,29.0
+2007-12-11,Yuc. : Aric Planta TIF 170,Pradera,267.0,12.0,,29.0
+2007-12-17,Yuc. : Aric Planta TIF 170,Pradera,285.0,15.0,,29.0
+2007-12-21,Yuc. : Aric Planta TIF 170,Pradera,308.0,7.0,,29.0
+2007-12-26,Yuc. : Aric Planta TIF 170,Pradera,283.0,15.0,,29.0
+2007-12-26,Yuc. : Aric Planta TIF 170,Vaca,256.0,1.0,,24.0
+2007-12-04,Zac. : R.M. Zacatecas,Corral,247.0,13.0,32.0,34.0
+2007-12-04,Zac. : R.M. Zacatecas,Toros,440.0,1.0,30.0,31.0
+2007-12-04,Zac. : R.M. Zacatecas,Vaca,216.0,38.0,25.0,26.0
+2007-12-06,Zac. : R.M. Zacatecas,Corral,247.0,9.0,32.0,34.0
+2007-12-06,Zac. : R.M. Zacatecas,Novillona,220.0,2.0,29.0,30.0
+2007-12-06,Zac. : R.M. Zacatecas,Vaca,216.0,9.0,25.0,26.0
+2007-12-11,Zac. : R.M. Zacatecas,Corral,247.0,18.0,32.0,34.0
+2007-12-11,Zac. : R.M. Zacatecas,Novillona,220.0,2.0,29.0,30.0
+2007-12-11,Zac. : R.M. Zacatecas,Toros,440.0,1.0,30.0,31.0
+2007-12-11,Zac. : R.M. Zacatecas,Vaca,216.0,5.0,25.0,26.0
+2007-12-13,Zac. : R.M. Zacatecas,Corral,247.0,25.0,32.0,34.0
+2007-12-13,Zac. : R.M. Zacatecas,Novillona,29.0,2.0,29.0,30.0
+2007-12-13,Zac. : R.M. Zacatecas,Toros,440.0,4.0,30.0,31.0
+2007-12-13,Zac. : R.M. Zacatecas,Vaca,216.0,23.0,25.0,26.0
+2007-12-18,Zac. : R.M. Zacatecas,Corral,247.0,12.0,32.0,34.0
+2007-12-18,Zac. : R.M. Zacatecas,Toros,440.0,1.0,30.0,31.0
+2007-12-18,Zac. : R.M. Zacatecas,Vaca,216.0,10.0,25.0,26.0

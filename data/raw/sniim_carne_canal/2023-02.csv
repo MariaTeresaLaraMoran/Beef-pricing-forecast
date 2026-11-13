@@ -1,0 +1,903 @@
+date,slaughterhouse,type,avg_weight_kg,carcasses,price_min_mxn_kg,price_max_mxn_kg
+2023-02-01,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,21.0,92.0,98.0
+2023-02-01,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,190.0,82.0,88.0
+2023-02-02,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,20.0,92.0,98.0
+2023-02-02,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,191.0,82.0,88.0
+2023-02-03,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,19.0,92.0,98.0
+2023-02-03,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,171.0,82.0,88.0
+2023-02-07,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,21.0,92.0,98.0
+2023-02-07,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,201.0,82.0,88.0
+2023-02-08,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,19.0,92.0,98.0
+2023-02-08,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,196.0,82.0,88.0
+2023-02-09,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,20.0,92.0,98.0
+2023-02-09,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,170.0,82.0,88.0
+2023-02-10,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,19.0,92.0,98.0
+2023-02-10,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,200.0,82.0,88.0
+2023-02-13,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,23.0,92.0,98.0
+2023-02-13,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,208.0,82.0,88.0
+2023-02-14,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,23.0,92.0,98.0
+2023-02-14,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,192.0,82.0,88.0
+2023-02-15,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,19.0,92.0,98.0
+2023-02-15,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,200.0,82.0,88.0
+2023-02-16,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,21.0,92.0,98.0
+2023-02-16,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,185.0,82.0,88.0
+2023-02-17,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,18.0,92.0,98.0
+2023-02-17,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,178.0,82.0,88.0
+2023-02-20,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,20.0,92.0,98.0
+2023-02-20,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,199.0,82.0,88.0
+2023-02-21,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,20.0,92.0,98.0
+2023-02-21,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,202.0,82.0,88.0
+2023-02-22,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,18.0,92.0,98.0
+2023-02-22,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,169.0,82.0,88.0
+2023-02-23,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,19.0,92.0,98.0
+2023-02-23,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,197.0,82.0,88.0
+2023-02-24,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,18.0,92.0,98.0
+2023-02-24,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,192.0,82.0,88.0
+2023-02-27,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,22.0,92.0,98.0
+2023-02-27,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,209.0,82.0,88.0
+2023-02-28,Ags. : Frigorífico y Empacadora de Aguascalientes,Toros,455.0,21.0,92.0,98.0
+2023-02-28,Ags. : Frigorífico y Empacadora de Aguascalientes,Vaca,360.0,177.0,82.0,88.0
+2023-02-01,Ags. : R.M. Aguascalientes,Toros,455.0,5.0,90.0,98.0
+2023-02-01,Ags. : R.M. Aguascalientes,Vaca,360.0,57.0,78.0,84.0
+2023-02-02,Ags. : R.M. Aguascalientes,Toros,455.0,5.0,90.0,98.0
+2023-02-02,Ags. : R.M. Aguascalientes,Vaca,360.0,46.0,78.0,84.0
+2023-02-03,Ags. : R.M. Aguascalientes,Toros,455.0,6.0,90.0,98.0
+2023-02-03,Ags. : R.M. Aguascalientes,Vaca,360.0,54.0,78.0,84.0
+2023-02-07,Ags. : R.M. Aguascalientes,Toros,455.0,4.0,90.0,98.0
+2023-02-07,Ags. : R.M. Aguascalientes,Vaca,360.0,60.0,78.0,84.0
+2023-02-08,Ags. : R.M. Aguascalientes,Toros,455.0,5.0,90.0,98.0
+2023-02-08,Ags. : R.M. Aguascalientes,Vaca,360.0,64.0,78.0,84.0
+2023-02-09,Ags. : R.M. Aguascalientes,Toros,455.0,4.0,90.0,98.0
+2023-02-09,Ags. : R.M. Aguascalientes,Vaca,360.0,85.0,78.0,84.0
+2023-02-10,Ags. : R.M. Aguascalientes,Toros,455.0,5.0,90.0,98.0
+2023-02-10,Ags. : R.M. Aguascalientes,Vaca,360.0,86.0,78.0,84.0
+2023-02-13,Ags. : R.M. Aguascalientes,Toros,455.0,5.0,90.0,98.0
+2023-02-13,Ags. : R.M. Aguascalientes,Vaca,360.0,63.0,78.0,84.0
+2023-02-14,Ags. : R.M. Aguascalientes,Toros,455.0,4.0,90.0,98.0
+2023-02-14,Ags. : R.M. Aguascalientes,Vaca,360.0,92.0,78.0,84.0
+2023-02-15,Ags. : R.M. Aguascalientes,Toros,455.0,5.0,90.0,98.0
+2023-02-15,Ags. : R.M. Aguascalientes,Vaca,360.0,57.0,78.0,84.0
+2023-02-16,Ags. : R.M. Aguascalientes,Toros,455.0,6.0,90.0,98.0
+2023-02-16,Ags. : R.M. Aguascalientes,Vaca,360.0,90.0,78.0,84.0
+2023-02-17,Ags. : R.M. Aguascalientes,Toros,455.0,6.0,90.0,98.0
+2023-02-17,Ags. : R.M. Aguascalientes,Vaca,360.0,100.0,78.0,84.0
+2023-02-20,Ags. : R.M. Aguascalientes,Toros,455.0,5.0,90.0,98.0
+2023-02-20,Ags. : R.M. Aguascalientes,Vaca,360.0,89.0,78.0,84.0
+2023-02-21,Ags. : R.M. Aguascalientes,Toros,455.0,5.0,90.0,98.0
+2023-02-21,Ags. : R.M. Aguascalientes,Vaca,360.0,85.0,78.0,84.0
+2023-02-22,Ags. : R.M. Aguascalientes,Toros,455.0,5.0,90.0,98.0
+2023-02-22,Ags. : R.M. Aguascalientes,Vaca,360.0,74.0,78.0,84.0
+2023-02-23,Ags. : R.M. Aguascalientes,Toros,455.0,4.0,90.0,98.0
+2023-02-23,Ags. : R.M. Aguascalientes,Vaca,360.0,87.0,78.0,84.0
+2023-02-24,Ags. : R.M. Aguascalientes,Toros,455.0,8.0,90.0,98.0
+2023-02-24,Ags. : R.M. Aguascalientes,Vaca,360.0,101.0,78.0,84.0
+2023-02-27,Ags. : R.M. Aguascalientes,Toros,455.0,5.0,90.0,98.0
+2023-02-27,Ags. : R.M. Aguascalientes,Vaca,360.0,87.0,78.0,84.0
+2023-02-28,Ags. : R.M. Aguascalientes,Toros,455.0,6.0,90.0,98.0
+2023-02-28,Ags. : R.M. Aguascalientes,Vaca,360.0,76.0,78.0,84.0
+2023-02-13,B.C.S. : R.M. La Paz B.C.S.,Corral,290.0,22.0,75.0,75.0
+2023-02-13,B.C.S. : R.M. La Paz B.C.S.,Toros,260.0,15.0,70.0,70.0
+2023-02-13,B.C.S. : R.M. La Paz B.C.S.,Vaca,190.0,51.0,56.0,56.0
+2023-02-20,B.C.S. : R.M. La Paz B.C.S.,Corral,290.0,17.0,75.0,75.0
+2023-02-20,B.C.S. : R.M. La Paz B.C.S.,Toros,260.0,24.0,70.0,70.0
+2023-02-20,B.C.S. : R.M. La Paz B.C.S.,Vaca,190.0,60.0,56.0,56.0
+2023-02-27,B.C.S. : R.M. La Paz B.C.S.,Corral,290.0,21.0,75.0,75.0
+2023-02-27,B.C.S. : R.M. La Paz B.C.S.,Toros,260.0,18.0,70.0,70.0
+2023-02-27,B.C.S. : R.M. La Paz B.C.S.,Vaca,190.0,62.0,56.0,56.0
+2023-02-01,Camp. : R.M. Campeche,Pradera,270.0,1.0,75.0,85.0
+2023-02-01,Camp. : R.M. Campeche,Toros,193.0,12.0,73.0,76.0
+2023-02-01,Camp. : R.M. Campeche,Vaca,190.0,10.0,66.0,71.0
+2023-02-02,Camp. : R.M. Campeche,Pradera,268.0,1.0,75.0,85.0
+2023-02-02,Camp. : R.M. Campeche,Toros,192.0,10.0,73.0,76.0
+2023-02-02,Camp. : R.M. Campeche,Vaca,191.0,10.0,66.0,71.0
+2023-02-03,Camp. : R.M. Campeche,Pradera,270.0,1.0,75.0,85.0
+2023-02-03,Camp. : R.M. Campeche,Toros,194.0,21.0,73.0,76.0
+2023-02-03,Camp. : R.M. Campeche,Vaca,192.0,22.0,66.0,71.0
+2023-02-07,Camp. : R.M. Campeche,Pradera,268.0,1.0,75.0,85.0
+2023-02-07,Camp. : R.M. Campeche,Toros,194.0,13.0,73.0,76.0
+2023-02-07,Camp. : R.M. Campeche,Vaca,192.0,12.0,66.0,71.0
+2023-02-08,Camp. : R.M. Campeche,Pradera,270.0,1.0,75.0,85.0
+2023-02-08,Camp. : R.M. Campeche,Toros,193.0,12.0,73.0,76.0
+2023-02-08,Camp. : R.M. Campeche,Vaca,190.0,11.0,66.0,71.0
+2023-02-09,Camp. : R.M. Campeche,Pradera,270.0,1.0,75.0,85.0
+2023-02-09,Camp. : R.M. Campeche,Toros,193.0,11.0,73.0,76.0
+2023-02-09,Camp. : R.M. Campeche,Vaca,191.0,10.0,66.0,71.0
+2023-02-10,Camp. : R.M. Campeche,Pradera,271.0,1.0,75.0,85.0
+2023-02-10,Camp. : R.M. Campeche,Toros,194.0,12.0,73.0,76.0
+2023-02-10,Camp. : R.M. Campeche,Vaca,192.0,11.0,66.0,71.0
+2023-02-13,Camp. : R.M. Campeche,Pradera,273.0,1.0,75.0,85.0
+2023-02-13,Camp. : R.M. Campeche,Toros,194.0,11.0,73.0,76.0
+2023-02-13,Camp. : R.M. Campeche,Vaca,192.0,12.0,66.0,71.0
+2023-02-14,Camp. : R.M. Campeche,Pradera,269.0,1.0,75.0,85.0
+2023-02-14,Camp. : R.M. Campeche,Toros,192.0,11.0,73.0,76.0
+2023-02-14,Camp. : R.M. Campeche,Vaca,190.0,9.0,66.0,71.0
+2023-02-15,Camp. : R.M. Campeche,Pradera,271.0,1.0,75.0,85.0
+2023-02-15,Camp. : R.M. Campeche,Toros,194.0,11.0,73.0,76.0
+2023-02-15,Camp. : R.M. Campeche,Vaca,191.0,11.0,66.0,71.0
+2023-02-16,Camp. : R.M. Campeche,Pradera,270.0,1.0,75.0,85.0
+2023-02-16,Camp. : R.M. Campeche,Toros,193.0,10.0,73.0,76.0
+2023-02-16,Camp. : R.M. Campeche,Vaca,190.0,9.0,66.0,71.0
+2023-02-17,Camp. : R.M. Campeche,Pradera,270.0,1.0,75.0,85.0
+2023-02-17,Camp. : R.M. Campeche,Toros,194.0,12.0,73.0,76.0
+2023-02-17,Camp. : R.M. Campeche,Vaca,191.0,11.0,66.0,71.0
+2023-02-20,Camp. : R.M. Campeche,Pradera,268.0,1.0,75.0,85.0
+2023-02-20,Camp. : R.M. Campeche,Toros,193.0,13.0,73.0,76.0
+2023-02-20,Camp. : R.M. Campeche,Vaca,191.0,11.0,66.0,71.0
+2023-02-21,Camp. : R.M. Campeche,Pradera,270.0,1.0,75.0,85.0
+2023-02-21,Camp. : R.M. Campeche,Toros,192.0,10.0,73.0,76.0
+2023-02-21,Camp. : R.M. Campeche,Vaca,191.0,11.0,66.0,71.0
+2023-02-22,Camp. : R.M. Campeche,Pradera,267.0,1.0,75.0,85.0
+2023-02-22,Camp. : R.M. Campeche,Toros,192.0,10.0,73.0,76.0
+2023-02-22,Camp. : R.M. Campeche,Vaca,190.0,9.0,66.0,71.0
+2023-02-23,Camp. : R.M. Campeche,Pradera,270.0,1.0,75.0,85.0
+2023-02-23,Camp. : R.M. Campeche,Toros,194.0,10.0,73.0,76.0
+2023-02-23,Camp. : R.M. Campeche,Vaca,191.0,11.0,66.0,71.0
+2023-02-24,Camp. : R.M. Campeche,Pradera,270.0,1.0,75.0,85.0
+2023-02-24,Camp. : R.M. Campeche,Toros,194.0,11.0,73.0,76.0
+2023-02-24,Camp. : R.M. Campeche,Vaca,192.0,12.0,66.0,71.0
+2023-02-27,Camp. : R.M. Campeche,Pradera,269.0,1.0,75.0,85.0
+2023-02-27,Camp. : R.M. Campeche,Toros,193.0,13.0,73.0,76.0
+2023-02-27,Camp. : R.M. Campeche,Vaca,191.0,12.0,66.0,71.0
+2023-02-28,Camp. : R.M. Campeche,Pradera,267.0,1.0,75.0,85.0
+2023-02-28,Camp. : R.M. Campeche,Toros,192.0,12.0,73.0,76.0
+2023-02-28,Camp. : R.M. Campeche,Vaca,190.0,10.0,66.0,71.0
+2023-02-01,Coah. : R.M. Torreón,Corral,222.0,41.0,75.0,76.0
+2023-02-01,Coah. : R.M. Torreón,Vaca,360.0,53.0,60.0,65.0
+2023-02-02,Coah. : R.M. Torreón,Corral,222.0,35.0,75.0,76.0
+2023-02-02,Coah. : R.M. Torreón,Vaca,360.0,63.0,60.0,65.0
+2023-02-07,Coah. : R.M. Torreón,Corral,222.0,41.0,75.0,76.0
+2023-02-07,Coah. : R.M. Torreón,Vaca,360.0,55.0,60.0,65.0
+2023-02-08,Coah. : R.M. Torreón,Corral,222.0,70.0,75.0,76.0
+2023-02-08,Coah. : R.M. Torreón,Vaca,360.0,85.0,60.0,65.0
+2023-02-09,Coah. : R.M. Torreón,Corral,222.0,42.0,75.0,76.0
+2023-02-09,Coah. : R.M. Torreón,Vaca,360.0,85.0,60.0,65.0
+2023-02-13,Coah. : R.M. Torreón,Corral,222.0,28.0,75.0,76.0
+2023-02-13,Coah. : R.M. Torreón,Vaca,360.0,41.0,60.0,65.0
+2023-02-14,Coah. : R.M. Torreón,Corral,222.0,52.0,75.0,76.0
+2023-02-14,Coah. : R.M. Torreón,Vaca,360.0,63.0,60.0,65.0
+2023-02-15,Coah. : R.M. Torreón,Corral,222.0,45.0,75.0,76.0
+2023-02-15,Coah. : R.M. Torreón,Vaca,360.0,81.0,60.0,65.0
+2023-02-16,Coah. : R.M. Torreón,Corral,222.0,28.0,75.0,76.0
+2023-02-20,Coah. : R.M. Torreón,Corral,222.0,55.0,75.0,76.0
+2023-02-20,Coah. : R.M. Torreón,Vaca,360.0,62.0,60.0,65.0
+2023-02-21,Coah. : R.M. Torreón,Corral,222.0,32.0,75.0,76.0
+2023-02-21,Coah. : R.M. Torreón,Vaca,360.0,45.0,60.0,65.0
+2023-02-22,Coah. : R.M. Torreón,Corral,222.0,58.0,75.0,76.0
+2023-02-22,Coah. : R.M. Torreón,Vaca,360.0,65.0,60.0,65.0
+2023-02-23,Coah. : R.M. Torreón,Corral,222.0,55.0,75.0,76.0
+2023-02-23,Coah. : R.M. Torreón,Vaca,360.0,66.0,60.0,65.0
+2023-02-27,Coah. : R.M. Torreón,Corral,222.0,30.0,75.0,76.0
+2023-02-27,Coah. : R.M. Torreón,Vaca,360.0,110.0,60.0,65.0
+2023-02-28,Coah. : R.M. Torreón,Corral,222.0,42.0,75.0,76.0
+2023-02-28,Coah. : R.M. Torreón,Vaca,360.0,73.0,60.0,65.0
+2023-02-01,Coah. : TIF 40 Procarne,Corral,222.0,237.0,69.0,70.0
+2023-02-02,Coah. : TIF 40 Procarne,Corral,222.0,270.0,69.0,70.0
+2023-02-03,Coah. : TIF 40 Procarne,Corral,222.0,280.0,69.0,70.0
+2023-02-07,Coah. : TIF 40 Procarne,Corral,222.0,210.0,69.0,70.0
+2023-02-08,Coah. : TIF 40 Procarne,Corral,222.0,275.0,69.0,70.0
+2023-02-09,Coah. : TIF 40 Procarne,Corral,222.0,215.0,69.0,70.0
+2023-02-10,Coah. : TIF 40 Procarne,Corral,222.0,370.0,69.0,70.0
+2023-02-13,Coah. : TIF 40 Procarne,Corral,222.0,200.0,69.0,70.0
+2023-02-14,Coah. : TIF 40 Procarne,Corral,222.0,180.0,69.0,70.0
+2023-02-15,Coah. : TIF 40 Procarne,Corral,222.0,311.0,69.0,70.0
+2023-02-16,Coah. : TIF 40 Procarne,Corral,222.0,286.0,69.0,70.0
+2023-02-20,Coah. : TIF 40 Procarne,Corral,222.0,270.0,69.0,70.0
+2023-02-21,Coah. : TIF 40 Procarne,Corral,222.0,190.0,69.0,70.0
+2023-02-22,Coah. : TIF 40 Procarne,Corral,222.0,222.0,69.0,70.0
+2023-02-23,Coah. : TIF 40 Procarne,Corral,222.0,215.0,69.0,70.0
+2023-02-24,Coah. : TIF 40 Procarne,Corral,222.0,380.0,69.0,70.0
+2023-02-27,Coah. : TIF 40 Procarne,Corral,222.0,200.0,69.0,70.0
+2023-02-28,Coah. : TIF 40 Procarne,Corral,222.0,155.0,69.0,70.0
+2023-02-01,Col.: Rastro municipal de Coquimatlan Colima,Corral,320.0,4.0,105.0,105.0
+2023-02-03,Col.: Rastro municipal de Coquimatlan Colima,Corral,320.0,7.0,105.0,105.0
+2023-02-07,Col.: Rastro municipal de Coquimatlan Colima,Corral,320.0,2.0,105.0,105.0
+2023-02-08,Col.: Rastro municipal de Coquimatlan Colima,Corral,320.0,3.0,105.0,105.0
+2023-02-10,Col.: Rastro municipal de Coquimatlan Colima,Corral,320.0,10.0,105.0,105.0
+2023-02-13,Col.: Rastro municipal de Coquimatlan Colima,Corral,320.0,5.0,105.0,105.0
+2023-02-14,Col.: Rastro municipal de Coquimatlan Colima,Corral,320.0,2.0,105.0,105.0
+2023-02-15,Col.: Rastro municipal de Coquimatlan Colima,Corral,320.0,4.0,105.0,105.0
+2023-02-17,Col.: Rastro municipal de Coquimatlan Colima,Corral,320.0,8.0,105.0,105.0
+2023-02-20,Col.: Rastro municipal de Coquimatlan Colima,Corral,320.0,2.0,105.0,105.0
+2023-02-21,Col.: Rastro municipal de Coquimatlan Colima,Corral,320.0,5.0,105.0,105.0
+2023-02-24,Col.: Rastro municipal de Coquimatlan Colima,Corral,320.0,9.0,105.0,105.0
+2023-02-27,Col.: Rastro municipal de Coquimatlan Colima,Corral,320.0,3.0,105.0,105.0
+2023-02-28,Col.: Rastro municipal de Coquimatlan Colima,Corral,320.0,3.0,105.0,105.0
+2023-02-01,Chis. : TIF 78 Frigorífico del Sureste,Pradera,281.0,3.0,76.0,76.0
+2023-02-01,Chis. : TIF 78 Frigorífico del Sureste,Toros,281.0,2.0,75.0,75.0
+2023-02-01,Chis. : TIF 78 Frigorífico del Sureste,Vaca,281.0,41.0,72.0,72.0
+2023-02-02,Chis. : TIF 78 Frigorífico del Sureste,Pradera,269.0,5.0,76.0,76.0
+2023-02-02,Chis. : TIF 78 Frigorífico del Sureste,Toros,269.0,5.0,75.0,75.0
+2023-02-02,Chis. : TIF 78 Frigorífico del Sureste,Vaca,269.0,19.0,72.0,72.0
+2023-02-03,Chis. : TIF 78 Frigorífico del Sureste,Pradera,267.0,2.0,76.0,76.0
+2023-02-03,Chis. : TIF 78 Frigorífico del Sureste,Toros,267.0,1.0,75.0,75.0
+2023-02-03,Chis. : TIF 78 Frigorífico del Sureste,Vaca,267.0,27.0,72.0,72.0
+2023-02-07,Chis. : TIF 78 Frigorífico del Sureste,Pradera,245.0,5.0,76.0,76.0
+2023-02-07,Chis. : TIF 78 Frigorífico del Sureste,Toros,245.0,1.0,75.0,75.0
+2023-02-07,Chis. : TIF 78 Frigorífico del Sureste,Vaca,245.0,30.0,72.0,72.0
+2023-02-08,Chis. : TIF 78 Frigorífico del Sureste,Pradera,266.0,1.0,76.0,76.0
+2023-02-08,Chis. : TIF 78 Frigorífico del Sureste,Toros,266.0,1.0,75.0,75.0
+2023-02-08,Chis. : TIF 78 Frigorífico del Sureste,Vaca,266.0,40.0,72.0,72.0
+2023-02-09,Chis. : TIF 78 Frigorífico del Sureste,Pradera,268.0,3.0,76.0,76.0
+2023-02-09,Chis. : TIF 78 Frigorífico del Sureste,Toros,268.0,2.0,75.0,75.0
+2023-02-09,Chis. : TIF 78 Frigorífico del Sureste,Vaca,268.0,56.0,72.0,72.0
+2023-02-10,Chis. : TIF 78 Frigorífico del Sureste,Pradera,290.0,2.0,76.0,76.0
+2023-02-10,Chis. : TIF 78 Frigorífico del Sureste,Toros,290.0,3.0,75.0,75.0
+2023-02-10,Chis. : TIF 78 Frigorífico del Sureste,Vaca,290.0,27.0,72.0,72.0
+2023-02-13,Chis. : TIF 78 Frigorífico del Sureste,Pradera,289.0,6.0,76.0,76.0
+2023-02-13,Chis. : TIF 78 Frigorífico del Sureste,Toros,289.0,2.0,75.0,75.0
+2023-02-13,Chis. : TIF 78 Frigorífico del Sureste,Vaca,289.0,50.0,72.0,72.0
+2023-02-14,Chis. : TIF 78 Frigorífico del Sureste,Pradera,277.0,1.0,76.0,76.0
+2023-02-14,Chis. : TIF 78 Frigorífico del Sureste,Toros,277.0,1.0,75.0,75.0
+2023-02-14,Chis. : TIF 78 Frigorífico del Sureste,Vaca,277.0,29.0,72.0,72.0
+2023-02-15,Chis. : TIF 78 Frigorífico del Sureste,Pradera,255.0,2.0,76.0,76.0
+2023-02-15,Chis. : TIF 78 Frigorífico del Sureste,Toros,255.0,1.0,75.0,75.0
+2023-02-15,Chis. : TIF 78 Frigorífico del Sureste,Vaca,255.0,28.0,72.0,72.0
+2023-02-16,Chis. : TIF 78 Frigorífico del Sureste,Pradera,265.0,1.0,76.0,76.0
+2023-02-16,Chis. : TIF 78 Frigorífico del Sureste,Toros,265.0,1.0,75.0,75.0
+2023-02-16,Chis. : TIF 78 Frigorífico del Sureste,Vaca,265.0,38.0,72.0,72.0
+2023-02-17,Chis. : TIF 78 Frigorífico del Sureste,Pradera,175.0,3.0,76.0,76.0
+2023-02-17,Chis. : TIF 78 Frigorífico del Sureste,Toros,175.0,2.0,75.0,75.0
+2023-02-17,Chis. : TIF 78 Frigorífico del Sureste,Vaca,175.0,30.0,72.0,72.0
+2023-02-20,Chis. : TIF 78 Frigorífico del Sureste,Pradera,280.0,1.0,76.0,76.0
+2023-02-20,Chis. : TIF 78 Frigorífico del Sureste,Toros,280.0,1.0,75.0,75.0
+2023-02-20,Chis. : TIF 78 Frigorífico del Sureste,Vaca,280.0,18.0,72.0,72.0
+2023-02-21,Chis. : TIF 78 Frigorífico del Sureste,Pradera,270.0,6.0,76.0,76.0
+2023-02-21,Chis. : TIF 78 Frigorífico del Sureste,Toros,270.0,5.0,75.0,75.0
+2023-02-21,Chis. : TIF 78 Frigorífico del Sureste,Vaca,270.0,31.0,72.0,72.0
+2023-02-22,Chis. : TIF 78 Frigorífico del Sureste,Pradera,280.0,6.0,76.0,76.0
+2023-02-22,Chis. : TIF 78 Frigorífico del Sureste,Toros,280.0,2.0,75.0,75.0
+2023-02-22,Chis. : TIF 78 Frigorífico del Sureste,Vaca,280.0,50.0,72.0,72.0
+2023-02-23,Chis. : TIF 78 Frigorífico del Sureste,Pradera,270.0,6.0,76.0,76.0
+2023-02-23,Chis. : TIF 78 Frigorífico del Sureste,Toros,270.0,6.0,75.0,75.0
+2023-02-23,Chis. : TIF 78 Frigorífico del Sureste,Vaca,270.0,48.0,72.0,72.0
+2023-02-24,Chis. : TIF 78 Frigorífico del Sureste,Pradera,264.0,5.0,76.0,76.0
+2023-02-24,Chis. : TIF 78 Frigorífico del Sureste,Toros,264.0,4.0,75.0,75.0
+2023-02-24,Chis. : TIF 78 Frigorífico del Sureste,Vaca,264.0,61.0,72.0,72.0
+2023-02-27,Chis. : TIF 78 Frigorífico del Sureste,Pradera,275.0,3.0,76.0,76.0
+2023-02-27,Chis. : TIF 78 Frigorífico del Sureste,Toros,275.0,17.0,75.0,75.0
+2023-02-27,Chis. : TIF 78 Frigorífico del Sureste,Vaca,275.0,78.0,72.0,72.0
+2023-02-28,Chis. : TIF 78 Frigorífico del Sureste,Pradera,254.0,2.0,76.0,76.0
+2023-02-28,Chis. : TIF 78 Frigorífico del Sureste,Toros,254.0,2.0,75.0,75.0
+2023-02-28,Chis. : TIF 78 Frigorífico del Sureste,Vaca,254.0,43.0,72.0,72.0
+2023-02-01,Edo. Méx. : Tlalnepantla,Corral,290.0,97.0,89.0,91.5
+2023-02-02,Edo. Méx. : Tlalnepantla,Corral,290.0,79.0,89.0,91.5
+2023-02-03,Edo. Méx. : Tlalnepantla,Corral,290.0,106.0,89.0,91.5
+2023-02-07,Edo. Méx. : Tlalnepantla,Corral,290.0,82.0,89.0,91.0
+2023-02-08,Edo. Méx. : Tlalnepantla,Corral,290.0,80.0,92.0,100.0
+2023-02-09,Edo. Méx. : Tlalnepantla,Corral,290.0,87.0,92.0,100.0
+2023-02-10,Edo. Méx. : Tlalnepantla,Corral,290.0,77.0,92.0,100.0
+2023-02-13,Edo. Méx. : Tlalnepantla,Corral,290.0,85.0,92.0,100.0
+2023-02-14,Edo. Méx. : Tlalnepantla,Corral,290.0,82.0,90.0,93.0
+2023-02-15,Edo. Méx. : Tlalnepantla,Corral,290.0,76.0,90.0,93.0
+2023-02-16,Edo. Méx. : Tlalnepantla,Corral,290.0,82.0,90.0,93.0
+2023-02-17,Edo. Méx. : Tlalnepantla,Corral,290.0,69.0,90.0,93.0
+2023-02-20,Edo. Méx. : Tlalnepantla,Corral,290.0,81.0,90.0,93.0
+2023-02-21,Edo. Méx. : Tlalnepantla,Corral,290.0,76.0,98.0,100.0
+2023-02-22,Edo. Méx. : Tlalnepantla,Corral,290.0,89.0,98.0,100.0
+2023-02-23,Edo. Méx. : Tlalnepantla,Corral,290.0,80.0,98.0,100.0
+2023-02-24,Edo. Méx. : Tlalnepantla,Corral,290.0,81.0,98.0,100.0
+2023-02-27,Edo. Méx. : Tlalnepantla,Corral,290.0,79.0,98.0,100.0
+2023-02-28,Edo. Méx. : Tlalnepantla,Corral,290.0,95.0,95.0,97.0
+2023-02-01,Jal. : R.M. Guadalajara,Corral,300.0,409.0,,92.0
+2023-02-01,Jal. : R.M. Guadalajara,Vaca,200.0,165.0,,76.0
+2023-02-02,Jal. : R.M. Guadalajara,Corral,300.0,255.0,,92.0
+2023-02-02,Jal. : R.M. Guadalajara,Vaca,200.0,109.0,,76.0
+2023-02-03,Jal. : R.M. Guadalajara,Corral,300.0,339.0,,92.0
+2023-02-03,Jal. : R.M. Guadalajara,Vaca,200.0,146.0,,76.0
+2023-02-07,Jal. : R.M. Guadalajara,Corral,300.0,192.0,,92.0
+2023-02-07,Jal. : R.M. Guadalajara,Vaca,200.0,82.0,,76.0
+2023-02-08,Jal. : R.M. Guadalajara,Corral,300.0,329.0,,92.0
+2023-02-08,Jal. : R.M. Guadalajara,Vaca,200.0,142.0,,76.0
+2023-02-09,Jal. : R.M. Guadalajara,Corral,300.0,313.0,,92.0
+2023-02-09,Jal. : R.M. Guadalajara,Vaca,200.0,134.0,,76.0
+2023-02-10,Jal. : R.M. Guadalajara,Corral,300.0,388.0,,92.0
+2023-02-10,Jal. : R.M. Guadalajara,Vaca,200.0,167.0,,76.0
+2023-02-13,Jal. : R.M. Guadalajara,Corral,300.0,157.0,,92.0
+2023-02-13,Jal. : R.M. Guadalajara,Vaca,200.0,68.0,,76.0
+2023-02-14,Jal. : R.M. Guadalajara,Corral,300.0,20.0,,92.0
+2023-02-14,Jal. : R.M. Guadalajara,Vaca,200.0,9.0,,76.0
+2023-02-15,Jal. : R.M. Guadalajara,Corral,300.0,423.0,,92.0
+2023-02-15,Jal. : R.M. Guadalajara,Vaca,200.0,181.0,,76.0
+2023-02-16,Jal. : R.M. Guadalajara,Corral,300.0,213.0,,92.0
+2023-02-16,Jal. : R.M. Guadalajara,Vaca,200.0,92.0,,76.0
+2023-02-17,Jal. : R.M. Guadalajara,Corral,300.0,316.0,,92.0
+2023-02-17,Jal. : R.M. Guadalajara,Vaca,200.0,135.0,,76.0
+2023-02-24,Jal. : R.M. Guadalajara,Corral,300.0,334.0,,90.0
+2023-02-24,Jal. : R.M. Guadalajara,Vaca,200.0,144.0,,76.0
+2023-02-27,Jal. : R.M. Guadalajara,Corral,300.0,308.0,,90.0
+2023-02-27,Jal. : R.M. Guadalajara,Vaca,200.0,132.0,,76.0
+2023-02-28,Jal. : R.M. Guadalajara,Corral,300.0,185.0,,90.0
+2023-02-28,Jal. : R.M. Guadalajara,Vaca,200.0,80.0,,76.0
+2023-02-02,Jal. : R.M. Tlaquepaque,Corral,300.0,22.0,,92.0
+2023-02-02,Jal. : R.M. Tlaquepaque,Vaca,200.0,10.0,,76.0
+2023-02-03,Jal. : R.M. Tlaquepaque,Corral,300.0,14.0,,92.0
+2023-02-03,Jal. : R.M. Tlaquepaque,Vaca,200.0,7.0,,76.0
+2023-02-07,Jal. : R.M. Tlaquepaque,Corral,300.0,87.0,,92.0
+2023-02-07,Jal. : R.M. Tlaquepaque,Vaca,200.0,37.0,,76.0
+2023-02-09,Jal. : R.M. Tlaquepaque,Corral,300.0,35.0,,92.0
+2023-02-09,Jal. : R.M. Tlaquepaque,Vaca,200.0,15.0,,76.0
+2023-02-10,Jal. : R.M. Tlaquepaque,Corral,300.0,21.0,,92.0
+2023-02-10,Jal. : R.M. Tlaquepaque,Vaca,200.0,9.0,,76.0
+2023-02-13,Jal. : R.M. Tlaquepaque,Corral,300.0,17.0,,92.0
+2023-02-13,Jal. : R.M. Tlaquepaque,Vaca,200.0,8.0,,76.0
+2023-02-14,Jal. : R.M. Tlaquepaque,Corral,300.0,29.0,,92.0
+2023-02-14,Jal. : R.M. Tlaquepaque,Vaca,200.0,12.0,,76.0
+2023-02-16,Jal. : R.M. Tlaquepaque,Corral,300.0,17.0,,92.0
+2023-02-16,Jal. : R.M. Tlaquepaque,Vaca,200.0,7.0,,76.0
+2023-02-17,Jal. : R.M. Tlaquepaque,Corral,300.0,31.0,,92.0
+2023-02-17,Jal. : R.M. Tlaquepaque,Vaca,200.0,14.0,,76.0
+2023-02-27,Jal. : R.M. Tlaquepaque,Corral,300.0,31.0,,90.0
+2023-02-27,Jal. : R.M. Tlaquepaque,Vaca,200.0,13.0,,76.0
+2023-02-28,Jal. : R.M. Tlaquepaque,Corral,300.0,36.0,,90.0
+2023-02-28,Jal. : R.M. Tlaquepaque,Vaca,200.0,16.0,,76.0
+2023-02-01,Jal. : R.M. Tonalá,Corral,300.0,12.0,,92.0
+2023-02-01,Jal. : R.M. Tonalá,Vaca,200.0,21.0,,76.0
+2023-02-03,Jal. : R.M. Tonalá,Corral,300.0,29.0,,92.0
+2023-02-03,Jal. : R.M. Tonalá,Vaca,200.0,29.0,,76.0
+2023-02-07,Jal. : R.M. Tonalá,Corral,300.0,30.0,,92.0
+2023-02-07,Jal. : R.M. Tonalá,Vaca,200.0,31.0,,76.0
+2023-02-08,Jal. : R.M. Tonalá,Corral,300.0,31.0,,92.0
+2023-02-08,Jal. : R.M. Tonalá,Vaca,200.0,29.0,,76.0
+2023-02-10,Jal. : R.M. Tonalá,Corral,300.0,15.0,,92.0
+2023-02-10,Jal. : R.M. Tonalá,Vaca,200.0,41.0,,76.0
+2023-02-13,Jal. : R.M. Tonalá,Corral,300.0,24.0,,92.0
+2023-02-13,Jal. : R.M. Tonalá,Vaca,200.0,20.0,,76.0
+2023-02-14,Jal. : R.M. Tonalá,Corral,300.0,15.0,,92.0
+2023-02-14,Jal. : R.M. Tonalá,Vaca,200.0,29.0,,76.0
+2023-02-15,Jal. : R.M. Tonalá,Corral,300.0,14.0,,92.0
+2023-02-15,Jal. : R.M. Tonalá,Vaca,200.0,18.0,,76.0
+2023-02-17,Jal. : R.M. Tonalá,Corral,300.0,20.0,,92.0
+2023-02-17,Jal. : R.M. Tonalá,Vaca,200.0,36.0,,76.0
+2023-02-24,Jal. : R.M. Tonalá,Corral,300.0,13.0,,90.0
+2023-02-24,Jal. : R.M. Tonalá,Vaca,200.0,16.0,,76.0
+2023-02-27,Jal. : R.M. Tonalá,Corral,300.0,20.0,,90.0
+2023-02-27,Jal. : R.M. Tonalá,Vaca,200.0,46.0,,76.0
+2023-02-28,Jal. : R.M. Tonalá,Corral,300.0,16.0,,90.0
+2023-02-28,Jal. : R.M. Tonalá,Vaca,200.0,28.0,,76.0
+2023-02-01,Jal. : Rastro de Zapopan,Corral,300.0,166.0,,92.0
+2023-02-01,Jal. : Rastro de Zapopan,Vaca,200.0,72.0,,76.0
+2023-02-02,Jal. : Rastro de Zapopan,Corral,300.0,110.0,,92.0
+2023-02-02,Jal. : Rastro de Zapopan,Vaca,200.0,48.0,,76.0
+2023-02-03,Jal. : Rastro de Zapopan,Corral,300.0,117.0,,92.0
+2023-02-03,Jal. : Rastro de Zapopan,Vaca,200.0,51.0,,76.0
+2023-02-07,Jal. : Rastro de Zapopan,Corral,300.0,178.0,,92.0
+2023-02-07,Jal. : Rastro de Zapopan,Vaca,200.0,77.0,,76.0
+2023-02-08,Jal. : Rastro de Zapopan,Corral,300.0,115.0,,92.0
+2023-02-08,Jal. : Rastro de Zapopan,Vaca,200.0,49.0,,76.0
+2023-02-09,Jal. : Rastro de Zapopan,Corral,300.0,138.0,,92.0
+2023-02-09,Jal. : Rastro de Zapopan,Vaca,200.0,59.0,,76.0
+2023-02-10,Jal. : Rastro de Zapopan,Corral,300.0,187.0,,92.0
+2023-02-10,Jal. : Rastro de Zapopan,Vaca,200.0,81.0,,76.0
+2023-02-13,Jal. : Rastro de Zapopan,Corral,300.0,122.0,,92.0
+2023-02-13,Jal. : Rastro de Zapopan,Vaca,200.0,52.0,,76.0
+2023-02-14,Jal. : Rastro de Zapopan,Corral,300.0,152.0,,92.0
+2023-02-14,Jal. : Rastro de Zapopan,Vaca,200.0,65.0,,76.0
+2023-02-15,Jal. : Rastro de Zapopan,Corral,300.0,171.0,,92.0
+2023-02-15,Jal. : Rastro de Zapopan,Vaca,200.0,73.0,,76.0
+2023-02-16,Jal. : Rastro de Zapopan,Corral,300.0,83.0,,92.0
+2023-02-16,Jal. : Rastro de Zapopan,Vaca,200.0,36.0,,76.0
+2023-02-17,Jal. : Rastro de Zapopan,Corral,300.0,133.0,,92.0
+2023-02-17,Jal. : Rastro de Zapopan,Vaca,200.0,57.0,,76.0
+2023-02-24,Jal. : Rastro de Zapopan,Corral,300.0,233.0,,90.0
+2023-02-24,Jal. : Rastro de Zapopan,Vaca,200.0,100.0,,76.0
+2023-02-27,Jal. : Rastro de Zapopan,Corral,300.0,164.0,,90.0
+2023-02-27,Jal. : Rastro de Zapopan,Vaca,200.0,71.0,,76.0
+2023-02-28,Jal. : Rastro de Zapopan,Corral,300.0,177.0,,90.0
+2023-02-28,Jal. : Rastro de Zapopan,Vaca,200.0,76.0,,76.0
+2023-02-01,Mich. : R.M. Morelia,Corral,254.0,20.0,97.0,98.0
+2023-02-01,Mich. : R.M. Morelia,Novillona,252.0,6.0,90.0,92.0
+2023-02-01,Mich. : R.M. Morelia,Toros,254.0,20.0,95.0,96.0
+2023-02-01,Mich. : R.M. Morelia,Vaca,250.0,3.0,77.0,78.0
+2023-02-02,Mich. : R.M. Morelia,Corral,254.0,20.0,97.0,98.0
+2023-02-02,Mich. : R.M. Morelia,Novillona,252.0,5.0,90.0,92.0
+2023-02-02,Mich. : R.M. Morelia,Toros,254.0,15.0,95.0,96.0
+2023-02-02,Mich. : R.M. Morelia,Vaca,250.0,3.0,77.0,78.0
+2023-02-03,Mich. : R.M. Morelia,Corral,250.0,30.0,97.0,98.0
+2023-02-03,Mich. : R.M. Morelia,Novillona,250.0,12.0,90.0,92.0
+2023-02-03,Mich. : R.M. Morelia,Toros,250.0,22.0,95.0,96.0
+2023-02-03,Mich. : R.M. Morelia,Vaca,250.0,4.0,77.0,78.0
+2023-02-07,Mich. : R.M. Morelia,Corral,250.0,55.0,97.0,98.0
+2023-02-07,Mich. : R.M. Morelia,Novillona,250.0,10.0,90.0,92.0
+2023-02-07,Mich. : R.M. Morelia,Toros,250.0,25.0,95.0,96.0
+2023-02-07,Mich. : R.M. Morelia,Vaca,250.0,8.0,77.0,78.0
+2023-02-08,Mich. : R.M. Morelia,Corral,254.0,100.0,97.0,98.0
+2023-02-08,Mich. : R.M. Morelia,Novillona,252.0,15.0,90.0,92.0
+2023-02-08,Mich. : R.M. Morelia,Toros,254.0,30.0,95.0,96.0
+2023-02-08,Mich. : R.M. Morelia,Vaca,250.0,4.0,77.0,78.0
+2023-02-09,Mich. : R.M. Morelia,Corral,254.0,40.0,97.0,98.0
+2023-02-09,Mich. : R.M. Morelia,Novillona,252.0,5.0,90.0,92.0
+2023-02-09,Mich. : R.M. Morelia,Toros,254.0,20.0,95.0,96.0
+2023-02-09,Mich. : R.M. Morelia,Vaca,250.0,4.0,77.0,78.0
+2023-02-10,Mich. : R.M. Morelia,Corral,254.0,50.0,97.0,98.0
+2023-02-10,Mich. : R.M. Morelia,Novillona,252.0,10.0,90.0,92.0
+2023-02-10,Mich. : R.M. Morelia,Toros,254.0,20.0,95.0,96.0
+2023-02-10,Mich. : R.M. Morelia,Vaca,250.0,2.0,77.0,78.0
+2023-02-13,Mich. : R.M. Morelia,Corral,254.0,30.0,97.0,98.0
+2023-02-13,Mich. : R.M. Morelia,Novillona,252.0,15.0,90.0,92.0
+2023-02-13,Mich. : R.M. Morelia,Toros,254.0,20.0,95.0,96.0
+2023-02-13,Mich. : R.M. Morelia,Vaca,250.0,1.0,77.0,78.0
+2023-02-14,Mich. : R.M. Morelia,Corral,254.0,70.0,97.0,98.0
+2023-02-14,Mich. : R.M. Morelia,Novillona,252.0,13.0,90.0,92.0
+2023-02-14,Mich. : R.M. Morelia,Toros,254.0,30.0,95.0,96.0
+2023-02-14,Mich. : R.M. Morelia,Vaca,250.0,2.0,77.0,78.0
+2023-02-15,Mich. : R.M. Morelia,Corral,254.0,50.0,97.0,98.0
+2023-02-15,Mich. : R.M. Morelia,Novillona,252.0,10.0,90.0,92.0
+2023-02-15,Mich. : R.M. Morelia,Toros,254.0,20.0,95.0,96.0
+2023-02-15,Mich. : R.M. Morelia,Vaca,250.0,1.0,77.0,78.0
+2023-02-16,Mich. : R.M. Morelia,Corral,254.0,20.0,97.0,98.0
+2023-02-16,Mich. : R.M. Morelia,Novillona,252.0,12.0,90.0,92.0
+2023-02-16,Mich. : R.M. Morelia,Toros,254.0,15.0,95.0,96.0
+2023-02-16,Mich. : R.M. Morelia,Vaca,250.0,3.0,77.0,78.0
+2023-02-17,Mich. : R.M. Morelia,Corral,254.0,50.0,97.0,98.0
+2023-02-17,Mich. : R.M. Morelia,Novillona,252.0,20.0,90.0,92.0
+2023-02-17,Mich. : R.M. Morelia,Toros,254.0,25.0,95.0,96.0
+2023-02-17,Mich. : R.M. Morelia,Vaca,250.0,5.0,77.0,78.0
+2023-02-20,Mich. : R.M. Morelia,Corral,250.0,35.0,97.0,98.0
+2023-02-20,Mich. : R.M. Morelia,Novillona,250.0,5.0,90.0,92.0
+2023-02-20,Mich. : R.M. Morelia,Toros,250.0,14.0,95.0,96.0
+2023-02-20,Mich. : R.M. Morelia,Vaca,250.0,4.0,77.0,78.0
+2023-02-21,Mich. : R.M. Morelia,Corral,250.0,50.0,97.0,98.0
+2023-02-21,Mich. : R.M. Morelia,Novillona,250.0,10.0,90.0,92.0
+2023-02-21,Mich. : R.M. Morelia,Toros,250.0,16.0,95.0,96.0
+2023-02-21,Mich. : R.M. Morelia,Vaca,250.0,4.0,77.0,78.0
+2023-02-22,Mich. : R.M. Morelia,Corral,254.0,50.0,97.0,98.0
+2023-02-22,Mich. : R.M. Morelia,Novillona,252.0,15.0,90.0,92.0
+2023-02-22,Mich. : R.M. Morelia,Toros,254.0,30.0,95.0,96.0
+2023-02-22,Mich. : R.M. Morelia,Vaca,250.0,2.0,77.0,78.0
+2023-02-23,Mich. : R.M. Morelia,Corral,254.0,40.0,97.0,98.0
+2023-02-23,Mich. : R.M. Morelia,Novillona,252.0,10.0,90.0,92.0
+2023-02-23,Mich. : R.M. Morelia,Toros,254.0,30.0,95.0,96.0
+2023-02-23,Mich. : R.M. Morelia,Vaca,250.0,2.0,77.0,78.0
+2023-02-24,Mich. : R.M. Morelia,Corral,254.0,60.0,97.0,98.0
+2023-02-24,Mich. : R.M. Morelia,Novillona,252.0,5.0,90.0,92.0
+2023-02-24,Mich. : R.M. Morelia,Toros,254.0,35.0,95.0,96.0
+2023-02-24,Mich. : R.M. Morelia,Vaca,250.0,5.0,77.0,78.0
+2023-02-27,Mich. : R.M. Morelia,Corral,254.0,30.0,97.0,98.0
+2023-02-27,Mich. : R.M. Morelia,Novillona,252.0,5.0,90.0,92.0
+2023-02-27,Mich. : R.M. Morelia,Toros,254.0,30.0,95.0,96.0
+2023-02-27,Mich. : R.M. Morelia,Vaca,250.0,2.0,77.0,78.0
+2023-02-28,Mich. : R.M. Morelia,Corral,254.0,50.0,97.0,98.0
+2023-02-28,Mich. : R.M. Morelia,Novillona,252.0,5.0,91.0,92.0
+2023-02-28,Mich. : R.M. Morelia,Toros,254.0,50.0,95.0,96.0
+2023-02-28,Mich. : R.M. Morelia,Vaca,250.0,3.0,77.0,78.0
+2023-02-01,N.L. : Chamar Alimentos TIF 356,Corral,280.0,316.0,96.0,97.0
+2023-02-02,N.L. : Chamar Alimentos TIF 356,Corral,280.0,288.0,96.0,97.0
+2023-02-03,N.L. : Chamar Alimentos TIF 356,Corral,280.0,236.0,96.0,97.0
+2023-02-07,N.L. : Chamar Alimentos TIF 356,Corral,280.0,959.0,96.0,97.0
+2023-02-08,N.L. : Chamar Alimentos TIF 356,Corral,280.0,334.0,96.0,97.0
+2023-02-09,N.L. : Chamar Alimentos TIF 356,Corral,280.0,333.0,95.0,96.0
+2023-02-13,N.L. : Chamar Alimentos TIF 356,Corral,280.0,673.0,95.0,96.0
+2023-02-14,N.L. : Chamar Alimentos TIF 356,Corral,280.0,326.0,95.0,96.0
+2023-02-15,N.L. : Chamar Alimentos TIF 356,Corral,280.0,305.0,95.0,96.0
+2023-02-16,N.L. : Chamar Alimentos TIF 356,Corral,280.0,328.0,95.0,96.0
+2023-02-17,N.L. : Chamar Alimentos TIF 356,Corral,280.0,261.0,95.0,96.0
+2023-02-20,N.L. : Chamar Alimentos TIF 356,Corral,280.0,563.0,95.0,96.0
+2023-02-21,N.L. : Chamar Alimentos TIF 356,Corral,280.0,302.0,95.0,96.0
+2023-02-22,N.L. : Chamar Alimentos TIF 356,Corral,280.0,286.0,95.0,96.0
+2023-02-23,N.L. : Chamar Alimentos TIF 356,Corral,280.0,265.0,95.0,96.0
+2023-02-24,N.L. : Chamar Alimentos TIF 356,Corral,280.0,192.0,95.0,96.0
+2023-02-27,N.L. : Chamar Alimentos TIF 356,Corral,280.0,523.0,95.0,96.0
+2023-02-28,N.L. : Chamar Alimentos TIF 356,Corral,280.0,291.0,95.0,96.0
+2023-02-01,N.L. : Sukarne,Corral,280.0,550.0,95.0,96.0
+2023-02-03,N.L. : Sukarne,Corral,280.0,550.0,95.0,96.0
+2023-02-07,N.L. : Sukarne,Corral,280.0,550.0,95.0,96.0
+2023-02-10,N.L. : Sukarne,Corral,280.0,550.0,94.0,96.0
+2023-02-13,N.L. : Sukarne,Corral,280.0,552.0,94.0,96.0
+2023-02-15,N.L. : Sukarne,Corral,280.0,550.0,94.0,96.0
+2023-02-17,N.L. : Sukarne,Corral,280.0,550.0,94.0,96.0
+2023-02-22,N.L. : Sukarne,Corral,280.0,553.0,94.0,96.0
+2023-02-24,N.L. : Sukarne,Corral,280.0,553.0,95.0,96.0
+2023-02-01,N.L. : TIF 15 Emp. Treviño,Corral,280.0,1.0,95.0,96.0
+2023-02-02,N.L. : TIF 15 Emp. Treviño,Corral,280.0,12.0,95.0,96.0
+2023-02-03,N.L. : TIF 15 Emp. Treviño,Corral,280.0,21.0,95.0,96.0
+2023-02-07,N.L. : TIF 15 Emp. Treviño,Corral,280.0,21.0,95.0,96.0
+2023-02-08,N.L. : TIF 15 Emp. Treviño,Corral,280.0,38.0,95.0,96.0
+2023-02-09,N.L. : TIF 15 Emp. Treviño,Corral,280.0,1.0,94.0,95.0
+2023-02-10,N.L. : TIF 15 Emp. Treviño,Corral,280.0,8.0,94.0,95.0
+2023-02-13,N.L. : TIF 15 Emp. Treviño,Corral,280.0,1.0,94.0,95.0
+2023-02-14,N.L. : TIF 15 Emp. Treviño,Corral,280.0,48.0,94.0,95.0
+2023-02-15,N.L. : TIF 15 Emp. Treviño,Corral,280.0,14.0,94.0,95.0
+2023-02-16,N.L. : TIF 15 Emp. Treviño,Corral,280.0,57.0,94.0,95.0
+2023-02-17,N.L. : TIF 15 Emp. Treviño,Corral,280.0,10.0,94.0,95.0
+2023-02-20,N.L. : TIF 15 Emp. Treviño,Corral,280.0,1.0,94.0,95.0
+2023-02-21,N.L. : TIF 15 Emp. Treviño,Corral,280.0,78.0,94.0,95.0
+2023-02-22,N.L. : TIF 15 Emp. Treviño,Corral,280.0,13.0,94.0,95.0
+2023-02-23,N.L. : TIF 15 Emp. Treviño,Corral,280.0,1.0,94.0,95.0
+2023-02-24,N.L. : TIF 15 Emp. Treviño,Corral,280.0,11.0,95.0,96.0
+2023-02-27,N.L. : TIF 15 Emp. Treviño,Corral,280.0,1.0,95.0,96.0
+2023-02-28,N.L. : TIF 15 Emp. Treviño,Corral,280.0,36.0,95.0,96.0
+2023-02-01,Nay. : R.M. Tepic,Vaca,279.0,196.0,119.0,120.0
+2023-02-02,Nay. : R.M. Tepic,Vaca,279.0,196.0,119.0,120.0
+2023-02-03,Nay. : R.M. Tepic,Vaca,279.0,196.0,119.0,120.0
+2023-02-07,Nay. : R.M. Tepic,Vaca,280.0,198.0,120.0,121.0
+2023-02-08,Nay. : R.M. Tepic,Vaca,280.0,198.0,120.0,121.0
+2023-02-09,Nay. : R.M. Tepic,Vaca,280.0,198.0,120.0,121.0
+2023-02-10,Nay. : R.M. Tepic,Vaca,280.0,198.0,120.0,121.0
+2023-02-13,Nay. : R.M. Tepic,Vaca,279.0,196.0,119.0,120.0
+2023-02-14,Nay. : R.M. Tepic,Vaca,279.0,196.0,119.0,120.0
+2023-02-15,Nay. : R.M. Tepic,Vaca,279.0,196.0,119.0,120.0
+2023-02-16,Nay. : R.M. Tepic,Vaca,280.0,198.0,120.0,121.0
+2023-02-17,Nay. : R.M. Tepic,Vaca,280.0,198.0,120.0,121.0
+2023-02-20,Nay. : R.M. Tepic,Vaca,280.0,198.0,120.0,121.0
+2023-02-21,Nay. : R.M. Tepic,Vaca,280.0,199.0,121.0,122.0
+2023-02-22,Nay. : R.M. Tepic,Vaca,280.0,199.0,121.0,122.0
+2023-02-23,Nay. : R.M. Tepic,Vaca,280.0,199.0,121.0,122.0
+2023-02-24,Nay. : R.M. Tepic,Vaca,280.0,199.0,121.0,122.0
+2023-02-27,Nay. : R.M. Tepic,Vaca,280.0,198.0,120.0,121.0
+2023-02-28,Nay. : R.M. Tepic,Vaca,280.0,195.0,119.0,120.0
+2023-02-01,Oax. : Rastro Reforma Agraria,Corral,400.0,42.0,78.0,83.0
+2023-02-01,Oax. : Rastro Reforma Agraria,Vaca,300.0,6.0,70.0,74.0
+2023-02-02,Oax. : Rastro Reforma Agraria,Corral,400.0,37.0,78.0,83.0
+2023-02-02,Oax. : Rastro Reforma Agraria,Vaca,300.0,8.0,70.0,74.0
+2023-02-03,Oax. : Rastro Reforma Agraria,Corral,400.0,33.0,78.0,83.0
+2023-02-03,Oax. : Rastro Reforma Agraria,Vaca,300.0,10.0,70.0,74.0
+2023-02-07,Oax. : Rastro Reforma Agraria,Corral,400.0,37.0,78.0,83.0
+2023-02-07,Oax. : Rastro Reforma Agraria,Vaca,300.0,10.0,70.0,74.0
+2023-02-08,Oax. : Rastro Reforma Agraria,Corral,400.0,33.0,78.0,83.0
+2023-02-08,Oax. : Rastro Reforma Agraria,Vaca,300.0,5.0,70.0,74.0
+2023-02-09,Oax. : Rastro Reforma Agraria,Corral,400.0,20.0,78.0,83.0
+2023-02-09,Oax. : Rastro Reforma Agraria,Vaca,300.0,7.0,70.0,74.0
+2023-02-10,Oax. : Rastro Reforma Agraria,Corral,400.0,25.0,78.0,83.0
+2023-02-10,Oax. : Rastro Reforma Agraria,Vaca,300.0,6.0,70.0,74.0
+2023-02-13,Oax. : Rastro Reforma Agraria,Corral,400.0,39.0,78.0,83.0
+2023-02-13,Oax. : Rastro Reforma Agraria,Vaca,300.0,5.0,70.0,74.0
+2023-02-14,Oax. : Rastro Reforma Agraria,Corral,400.0,39.0,78.0,83.0
+2023-02-14,Oax. : Rastro Reforma Agraria,Vaca,300.0,5.0,70.0,74.0
+2023-02-15,Oax. : Rastro Reforma Agraria,Corral,300.0,35.0,78.0,83.0
+2023-02-15,Oax. : Rastro Reforma Agraria,Vaca,300.0,8.0,70.0,74.0
+2023-02-16,Oax. : Rastro Reforma Agraria,Corral,400.0,45.0,78.0,83.0
+2023-02-16,Oax. : Rastro Reforma Agraria,Vaca,300.0,5.0,70.0,74.0
+2023-02-17,Oax. : Rastro Reforma Agraria,Corral,400.0,40.0,78.0,83.0
+2023-02-17,Oax. : Rastro Reforma Agraria,Vaca,300.0,8.0,70.0,74.0
+2023-02-20,Oax. : Rastro Reforma Agraria,Corral,400.0,40.0,78.0,83.0
+2023-02-20,Oax. : Rastro Reforma Agraria,Vaca,300.0,8.0,70.0,74.0
+2023-02-21,Oax. : Rastro Reforma Agraria,Corral,400.0,42.0,78.0,83.0
+2023-02-21,Oax. : Rastro Reforma Agraria,Vaca,300.0,9.0,70.0,74.0
+2023-02-22,Oax. : Rastro Reforma Agraria,Corral,400.0,31.0,78.0,83.0
+2023-02-22,Oax. : Rastro Reforma Agraria,Vaca,300.0,8.0,70.0,74.0
+2023-02-23,Oax. : Rastro Reforma Agraria,Corral,400.0,40.0,78.0,83.0
+2023-02-23,Oax. : Rastro Reforma Agraria,Vaca,300.0,10.0,70.0,74.0
+2023-02-24,Oax. : Rastro Reforma Agraria,Corral,400.0,21.0,78.0,83.0
+2023-02-24,Oax. : Rastro Reforma Agraria,Vaca,300.0,6.0,70.0,74.0
+2023-02-27,Oax. : Rastro Reforma Agraria,Corral,400.0,36.0,78.0,83.0
+2023-02-27,Oax. : Rastro Reforma Agraria,Vaca,300.0,10.0,70.0,74.0
+2023-02-28,Oax. : Rastro Reforma Agraria,Corral,400.0,41.0,78.0,83.0
+2023-02-28,Oax. : Rastro Reforma Agraria,Vaca,300.0,11.0,70.0,74.0
+2023-02-01,Qro. : R.M. Querétaro,Toros,260.0,87.0,100.0,100.0
+2023-02-02,Qro. : R.M. Querétaro,Toros,260.0,98.0,100.0,100.0
+2023-02-03,Qro. : R.M. Querétaro,Toros,260.0,110.0,100.0,100.0
+2023-02-07,Qro. : R.M. Querétaro,Toros,260.0,115.0,100.0,100.0
+2023-02-08,Qro. : R.M. Querétaro,Toros,260.0,87.0,100.0,100.0
+2023-02-09,Qro. : R.M. Querétaro,Toros,260.0,78.0,100.0,100.0
+2023-02-10,Qro. : R.M. Querétaro,Toros,260.0,110.0,100.0,100.0
+2023-02-13,Qro. : R.M. Querétaro,Toros,260.0,91.0,100.0,100.0
+2023-02-14,Qro. : R.M. Querétaro,Toros,260.0,45.0,100.0,100.0
+2023-02-15,Qro. : R.M. Querétaro,Toros,260.0,78.0,100.0,100.0
+2023-02-16,Qro. : R.M. Querétaro,Toros,260.0,92.0,100.0,100.0
+2023-02-17,Qro. : R.M. Querétaro,Toros,260.0,115.0,100.0,100.0
+2023-02-20,Qro. : R.M. Querétaro,Toros,260.0,109.0,100.0,100.0
+2023-02-21,Qro. : R.M. Querétaro,Toros,260.0,36.0,100.0,100.0
+2023-02-22,Qro. : R.M. Querétaro,Toros,260.0,66.0,100.0,100.0
+2023-02-23,Qro. : R.M. Querétaro,Toros,260.0,83.0,100.0,100.0
+2023-02-24,Qro. : R.M. Querétaro,Toros,260.0,122.0,100.0,100.0
+2023-02-27,Qro. : R.M. Querétaro,Toros,260.0,112.0,100.0,100.0
+2023-02-28,Qro. : R.M. Querétaro,Toros,260.0,40.0,100.0,100.0
+2023-02-01,Sin. : TIF 111 Vizur Sin,Corral,268.0,235.0,,68.0
+2023-02-01,Sin. : TIF 111 Vizur Sin,Novillona,259.0,102.0,,63.0
+2023-02-01,Sin. : TIF 111 Vizur Sin,Toros,262.0,148.0,,60.0
+2023-02-01,Sin. : TIF 111 Vizur Sin,Vaca,264.0,165.0,,52.0
+2023-02-02,Sin. : TIF 111 Vizur Sin,Corral,260.0,187.0,,68.0
+2023-02-02,Sin. : TIF 111 Vizur Sin,Novillona,254.0,136.0,,63.0
+2023-02-02,Sin. : TIF 111 Vizur Sin,Toros,258.0,161.0,,60.0
+2023-02-02,Sin. : TIF 111 Vizur Sin,Vaca,251.0,106.0,,52.0
+2023-02-03,Sin. : TIF 111 Vizur Sin,Corral,258.0,185.0,,68.0
+2023-02-03,Sin. : TIF 111 Vizur Sin,Novillona,252.0,143.0,,63.0
+2023-02-03,Sin. : TIF 111 Vizur Sin,Toros,256.0,160.0,,60.0
+2023-02-03,Sin. : TIF 111 Vizur Sin,Vaca,249.0,112.0,,52.0
+2023-02-07,Sin. : TIF 111 Vizur Sin,Corral,256.0,180.0,,68.0
+2023-02-07,Sin. : TIF 111 Vizur Sin,Novillona,245.0,112.0,,63.0
+2023-02-07,Sin. : TIF 111 Vizur Sin,Toros,251.0,158.0,,60.0
+2023-02-07,Sin. : TIF 111 Vizur Sin,Vaca,248.0,135.0,,52.0
+2023-02-08,Sin. : TIF 111 Vizur Sin,Corral,260.0,152.0,,68.0
+2023-02-08,Sin. : TIF 111 Vizur Sin,Novillona,255.0,106.0,,63.0
+2023-02-08,Sin. : TIF 111 Vizur Sin,Toros,263.0,171.0,,60.0
+2023-02-08,Sin. : TIF 111 Vizur Sin,Vaca,258.0,139.0,,52.0
+2023-02-09,Sin. : TIF 111 Vizur Sin,Corral,262.0,168.0,,68.0
+2023-02-09,Sin. : TIF 111 Vizur Sin,Novillona,255.0,96.0,,63.0
+2023-02-09,Sin. : TIF 111 Vizur Sin,Toros,258.0,139.0,,60.0
+2023-02-09,Sin. : TIF 111 Vizur Sin,Vaca,259.0,147.0,,52.0
+2023-02-10,Sin. : TIF 111 Vizur Sin,Corral,268.0,200.0,,68.0
+2023-02-10,Sin. : TIF 111 Vizur Sin,Novillona,262.0,165.0,,63.0
+2023-02-10,Sin. : TIF 111 Vizur Sin,Toros,258.0,131.0,,60.0
+2023-02-10,Sin. : TIF 111 Vizur Sin,Vaca,253.0,104.0,,52.0
+2023-02-13,Sin. : TIF 111 Vizur Sin,Corral,254.0,153.0,,68.0
+2023-02-13,Sin. : TIF 111 Vizur Sin,Novillona,249.0,129.0,,63.0
+2023-02-13,Sin. : TIF 111 Vizur Sin,Toros,255.0,168.0,,60.0
+2023-02-13,Sin. : TIF 111 Vizur Sin,Vaca,250.0,137.0,,52.0
+2023-02-14,Sin. : TIF 111 Vizur Sin,Corral,251.0,128.0,,68.0
+2023-02-14,Sin. : TIF 111 Vizur Sin,Novillona,252.0,133.0,,63.0
+2023-02-14,Sin. : TIF 111 Vizur Sin,Toros,257.0,156.0,,60.0
+2023-02-14,Sin. : TIF 111 Vizur Sin,Vaca,254.0,143.0,,52.0
+2023-02-15,Sin. : TIF 111 Vizur Sin,Corral,269.0,235.0,,68.0
+2023-02-15,Sin. : TIF 111 Vizur Sin,Novillona,257.0,116.0,,63.0
+2023-02-15,Sin. : TIF 111 Vizur Sin,Toros,268.0,217.0,,60.0
+2023-02-16,Sin. : TIF 111 Vizur Sin,Corral,272.0,336.0,,68.0
+2023-02-16,Sin. : TIF 111 Vizur Sin,Novillona,268.0,193.0,,63.0
+2023-02-17,Sin. : TIF 111 Vizur Sin,Corral,271.0,203.0,,68.0
+2023-02-17,Sin. : TIF 111 Vizur Sin,Novillona,262.0,102.0,,63.0
+2023-02-17,Sin. : TIF 111 Vizur Sin,Toros,268.0,136.0,,60.0
+2023-02-17,Sin. : TIF 111 Vizur Sin,Vaca,269.0,141.0,,52.0
+2023-02-20,Sin. : TIF 111 Vizur Sin,Corral,266.0,223.0,,68.0
+2023-02-20,Sin. : TIF 111 Vizur Sin,Novillona,258.0,138.0,,63.0
+2023-02-20,Sin. : TIF 111 Vizur Sin,Toros,262.0,152.0,,60.0
+2023-02-20,Sin. : TIF 111 Vizur Sin,Vaca,255.0,105.0,,52.0
+2023-02-21,Sin. : TIF 111 Vizur Sin,Corral,275.0,246.0,,68.0
+2023-02-21,Sin. : TIF 111 Vizur Sin,Novillona,269.0,185.0,,63.0
+2023-02-21,Sin. : TIF 111 Vizur Sin,Toros,264.0,159.0,,60.0
+2023-02-22,Sin. : TIF 111 Vizur Sin,Corral,275.0,258.0,,68.0
+2023-02-22,Sin. : TIF 111 Vizur Sin,Novillona,261.0,96.0,,63.0
+2023-02-22,Sin. : TIF 111 Vizur Sin,Toros,269.0,151.0,,60.0
+2023-02-22,Sin. : TIF 111 Vizur Sin,Vaca,264.0,115.0,,52.0
+2023-02-23,Sin. : TIF 111 Vizur Sin,Corral,272.0,230.0,,68.0
+2023-02-23,Sin. : TIF 111 Vizur Sin,Novillona,261.0,118.0,,63.0
+2023-02-23,Sin. : TIF 111 Vizur Sin,Toros,269.0,167.0,,60.0
+2023-02-23,Sin. : TIF 111 Vizur Sin,Vaca,266.0,135.0,,52.0
+2023-02-24,Sin. : TIF 111 Vizur Sin,Corral,268.0,265.0,,68.0
+2023-02-24,Sin. : TIF 111 Vizur Sin,Toros,261.0,190.0,,60.0
+2023-02-24,Sin. : TIF 111 Vizur Sin,Vaca,256.0,140.0,,52.0
+2023-02-27,Sin. : TIF 111 Vizur Sin,Corral,273.0,248.0,,68.0
+2023-02-27,Sin. : TIF 111 Vizur Sin,Novillona,264.0,135.0,,63.0
+2023-02-27,Sin. : TIF 111 Vizur Sin,Toros,267.0,151.0,,60.0
+2023-02-27,Sin. : TIF 111 Vizur Sin,Vaca,260.0,106.0,,52.0
+2023-02-28,Sin. : TIF 111 Vizur Sin,Corral,276.0,255.0,,68.0
+2023-02-28,Sin. : TIF 111 Vizur Sin,Novillona,269.0,141.0,,63.0
+2023-02-28,Sin. : TIF 111 Vizur Sin,Toros,272.0,163.0,,60.0
+2023-02-28,Sin. : TIF 111 Vizur Sin,Vaca,264.0,106.0,,52.0
+2023-02-01,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,195.0,2.0,70.0,70.0
+2023-02-01,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,408.0,6.0,72.0,72.0
+2023-02-01,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,337.0,15.0,60.0,60.0
+2023-02-02,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,209.0,6.0,70.0,70.0
+2023-02-02,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,489.0,5.0,72.0,72.0
+2023-02-02,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,321.0,10.0,60.0,60.0
+2023-02-03,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,233.0,2.0,70.0,70.0
+2023-02-03,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,444.0,1.0,72.0,72.0
+2023-02-03,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,317.0,8.0,60.0,60.0
+2023-02-07,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,242.0,6.0,70.0,70.0
+2023-02-07,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,457.0,2.0,72.0,72.0
+2023-02-07,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,311.0,18.0,60.0,60.0
+2023-02-08,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,221.0,3.0,70.0,70.0
+2023-02-08,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,485.0,1.0,72.0,72.0
+2023-02-08,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,291.0,2.0,60.0,60.0
+2023-02-09,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,407.0,2.0,70.0,70.0
+2023-02-09,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,520.0,6.0,72.0,72.0
+2023-02-09,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,327.0,9.0,60.0,60.0
+2023-02-10,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,224.0,5.0,70.0,70.0
+2023-02-10,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,488.0,2.0,72.0,72.0
+2023-02-10,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,317.0,23.0,60.0,60.0
+2023-02-13,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,407.0,4.0,70.0,70.0
+2023-02-13,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,334.0,4.0,60.0,60.0
+2023-02-14,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,204.0,5.0,70.0,70.0
+2023-02-14,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,576.0,4.0,72.0,72.0
+2023-02-14,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,300.0,14.0,60.0,60.0
+2023-02-15,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,211.0,6.0,70.0,70.0
+2023-02-15,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,453.0,4.0,72.0,72.0
+2023-02-15,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,300.0,2.0,60.0,60.0
+2023-02-16,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,243.0,1.0,70.0,70.0
+2023-02-16,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,484.0,4.0,72.0,72.0
+2023-02-16,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,296.0,2.0,60.0,60.0
+2023-02-17,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,223.0,2.0,70.0,70.0
+2023-02-17,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,518.0,1.0,72.0,72.0
+2023-02-17,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,293.0,14.0,60.0,60.0
+2023-02-20,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,234.0,2.0,70.0,70.0
+2023-02-20,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,422.0,1.0,72.0,72.0
+2023-02-20,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,367.0,1.0,60.0,60.0
+2023-02-21,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,216.0,4.0,70.0,70.0
+2023-02-21,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,493.0,3.0,72.0,72.0
+2023-02-21,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,317.0,36.0,60.0,60.0
+2023-02-22,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,211.0,3.0,70.0,70.0
+2023-02-22,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,474.0,1.0,72.0,72.0
+2023-02-22,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,335.0,8.0,60.0,60.0
+2023-02-23,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,209.0,1.0,70.0,70.0
+2023-02-23,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,560.0,1.0,72.0,72.0
+2023-02-23,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,310.0,10.0,60.0,60.0
+2023-02-24,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,201.0,8.0,70.0,70.0
+2023-02-24,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,550.0,1.0,72.0,72.0
+2023-02-24,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,304.0,12.0,60.0,60.0
+2023-02-27,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,223.0,2.0,70.0,70.0
+2023-02-27,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,461.0,2.0,72.0,72.0
+2023-02-27,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,301.0,6.0,60.0,60.0
+2023-02-28,Son. : Rastro TIF Bovinos Cd. Obregón,Novillona,201.0,2.0,70.0,70.0
+2023-02-28,Son. : Rastro TIF Bovinos Cd. Obregón,Toros,580.0,4.0,72.0,72.0
+2023-02-28,Son. : Rastro TIF Bovinos Cd. Obregón,Vaca,285.0,5.0,60.0,60.0
+2023-02-01,Son. : Rastro TIF Bovinos Hermosillo,Corral,,293.0,95.0,102.0
+2023-02-02,Son. : Rastro TIF Bovinos Hermosillo,Corral,,316.0,95.0,102.0
+2023-02-03,Son. : Rastro TIF Bovinos Hermosillo,Corral,,266.0,95.0,102.0
+2023-02-07,Son. : Rastro TIF Bovinos Hermosillo,Corral,,253.0,95.0,102.0
+2023-02-08,Son. : Rastro TIF Bovinos Hermosillo,Corral,,303.0,95.0,102.0
+2023-02-09,Son. : Rastro TIF Bovinos Hermosillo,Corral,,295.0,98.0,100.0
+2023-02-10,Son. : Rastro TIF Bovinos Hermosillo,Corral,,304.0,98.0,100.0
+2023-02-13,Son. : Rastro TIF Bovinos Hermosillo,Corral,,315.0,98.0,100.0
+2023-02-14,Son. : Rastro TIF Bovinos Hermosillo,Corral,,263.0,98.0,100.0
+2023-02-15,Son. : Rastro TIF Bovinos Hermosillo,Corral,,290.0,98.0,100.0
+2023-02-16,Son. : Rastro TIF Bovinos Hermosillo,Corral,,303.0,98.0,100.0
+2023-02-17,Son. : Rastro TIF Bovinos Hermosillo,Corral,,317.0,98.0,100.0
+2023-02-20,Son. : Rastro TIF Bovinos Hermosillo,Corral,,258.0,98.0,100.0
+2023-02-21,Son. : Rastro TIF Bovinos Hermosillo,Corral,,277.0,98.0,100.0
+2023-02-22,Son. : Rastro TIF Bovinos Hermosillo,Corral,,307.0,98.0,100.0
+2023-02-23,Son. : Rastro TIF Bovinos Hermosillo,Corral,,300.0,98.0,100.0
+2023-02-24,Son. : Rastro TIF Bovinos Hermosillo,Corral,,183.0,98.0,100.0
+2023-02-27,Son. : Rastro TIF Bovinos Hermosillo,Corral,,285.0,98.0,100.0
+2023-02-28,Son. : Rastro TIF Bovinos Hermosillo,Corral,,320.0,98.0,100.0
+2023-02-13,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Corral,386.0,99.0,86.0,95.0
+2023-02-13,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,194.0,14.0,79.0,90.0
+2023-02-13,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,398.0,1.0,78.0,83.0
+2023-02-13,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,241.0,38.0,78.0,87.0
+2023-02-24,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Corral,325.0,69.0,86.0,95.0
+2023-02-24,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,196.0,69.0,79.0,90.0
+2023-02-24,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toros,443.0,4.0,78.0,83.0
+2023-02-24,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,238.0,52.0,78.0,87.0
+2023-02-27,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Corral,331.0,88.0,86.0,95.0
+2023-02-27,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Novillona,218.0,4.0,79.0,90.0
+2023-02-27,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Toro,246.0,1.0,78.0,83.0
+2023-02-27,Tab. : Fricetab SAPI de CV de Villahermosa Tabasco,Vaca,193.0,67.0,78.0,87.0
+2023-02-01,Ver. : Rastro Municipal de Coatepec,Corral,249.0,11.0,64.0,65.0
+2023-02-01,Ver. : Rastro Municipal de Coatepec,Novillona,350.0,1.0,63.0,64.0
+2023-02-02,Ver. : Rastro Municipal de Coatepec,Corral,249.0,13.0,64.0,65.0
+2023-02-02,Ver. : Rastro Municipal de Coatepec,Novillona,350.0,1.0,63.0,64.0
+2023-02-03,Ver. : Rastro Municipal de Coatepec,Corral,249.0,19.0,64.0,65.0
+2023-02-03,Ver. : Rastro Municipal de Coatepec,Novillona,350.0,1.0,63.0,64.0
+2023-02-07,Ver. : Rastro Municipal de Coatepec,Corral,249.0,22.0,64.0,65.0
+2023-02-07,Ver. : Rastro Municipal de Coatepec,Novillona,350.0,1.0,63.0,64.0
+2023-02-08,Ver. : Rastro Municipal de Coatepec,Corral,249.0,17.0,64.0,65.0
+2023-02-08,Ver. : Rastro Municipal de Coatepec,Novillona,350.0,1.0,63.0,64.0
+2023-02-09,Ver. : Rastro Municipal de Coatepec,Corral,249.0,15.0,64.0,65.0
+2023-02-09,Ver. : Rastro Municipal de Coatepec,Novillona,350.0,1.0,63.0,64.0
+2023-02-10,Ver. : Rastro Municipal de Coatepec,Corral,250.0,14.0,64.0,65.0
+2023-02-13,Ver. : Rastro Municipal de Coatepec,Corral,249.0,22.0,64.0,65.0
+2023-02-13,Ver. : Rastro Municipal de Coatepec,Novillona,350.0,1.0,63.0,64.0
+2023-02-14,Ver. : Rastro Municipal de Coatepec,Corral,249.0,19.0,64.0,65.0
+2023-02-14,Ver. : Rastro Municipal de Coatepec,Novillona,350.0,1.0,63.0,64.0
+2023-02-15,Ver. : Rastro Municipal de Coatepec,Corral,249.0,16.0,64.0,65.0
+2023-02-15,Ver. : Rastro Municipal de Coatepec,Novillona,350.0,1.0,63.0,64.0
+2023-02-16,Ver. : Rastro Municipal de Coatepec,Corral,249.0,15.0,64.0,65.0
+2023-02-16,Ver. : Rastro Municipal de Coatepec,Novillona,350.0,1.0,63.0,64.0
+2023-02-17,Ver. : Rastro Municipal de Coatepec,Corral,249.0,20.0,64.0,65.0
+2023-02-17,Ver. : Rastro Municipal de Coatepec,Novillona,350.0,1.0,63.0,64.0
+2023-02-20,Ver. : Rastro Municipal de Coatepec,Corral,249.0,23.0,64.0,65.0
+2023-02-20,Ver. : Rastro Municipal de Coatepec,Novillona,350.0,1.0,63.0,64.0
+2023-02-21,Ver. : Rastro Municipal de Coatepec,Corral,249.0,18.0,64.0,65.0
+2023-02-21,Ver. : Rastro Municipal de Coatepec,Novillona,350.0,1.0,63.0,64.0
+2023-02-22,Ver. : Rastro Municipal de Coatepec,Corral,249.0,16.0,64.0,65.0
+2023-02-23,Ver. : Rastro Municipal de Coatepec,Corral,249.0,15.0,64.0,65.0
+2023-02-23,Ver. : Rastro Municipal de Coatepec,Novillona,350.0,1.0,63.0,64.0
+2023-02-24,Ver. : Rastro Municipal de Coatepec,Corral,249.0,16.0,64.0,65.0
+2023-02-24,Ver. : Rastro Municipal de Coatepec,Novillona,350.0,1.0,63.0,64.0
+2023-02-27,Ver. : Rastro Municipal de Coatepec,Corral,249.0,22.0,64.0,65.0
+2023-02-27,Ver. : Rastro Municipal de Coatepec,Novillona,350.0,1.0,63.0,64.0
+2023-02-28,Ver. : Rastro Municipal de Coatepec,Corral,249.0,19.0,64.0,65.0
+2023-02-28,Ver. : Rastro Municipal de Coatepec,Novillona,350.0,1.0,63.0,64.0
+2023-02-01,Ver. : Rastro Municipal de Xalapa,Corral,250.0,12.0,64.0,65.0
+2023-02-01,Ver. : Rastro Municipal de Xalapa,Novillona,350.0,1.0,63.0,64.0
+2023-02-02,Ver. : Rastro Municipal de Xalapa,Corral,250.0,15.0,64.0,65.0
+2023-02-02,Ver. : Rastro Municipal de Xalapa,Novillona,350.0,1.0,63.0,64.0
+2023-02-03,Ver. : Rastro Municipal de Xalapa,Corral,250.0,21.0,64.0,65.0
+2023-02-03,Ver. : Rastro Municipal de Xalapa,Novillona,350.0,1.0,63.0,64.0
+2023-02-07,Ver. : Rastro Municipal de Xalapa,Corral,250.0,24.0,64.0,65.0
+2023-02-07,Ver. : Rastro Municipal de Xalapa,Novillona,350.0,1.0,63.0,64.0
+2023-02-08,Ver. : Rastro Municipal de Xalapa,Corral,250.0,19.0,64.0,65.0
+2023-02-08,Ver. : Rastro Municipal de Xalapa,Novillona,350.0,1.0,63.0,64.0
+2023-02-09,Ver. : Rastro Municipal de Xalapa,Corral,250.0,17.0,64.0,65.0
+2023-02-09,Ver. : Rastro Municipal de Xalapa,Novillona,350.0,1.0,63.0,64.0
+2023-02-10,Ver. : Rastro Municipal de Xalapa,Corral,250.0,15.0,64.0,65.0
+2023-02-10,Ver. : Rastro Municipal de Xalapa,Novillona,350.0,1.0,63.0,64.0
+2023-02-13,Ver. : Rastro Municipal de Xalapa,Corral,250.0,25.0,64.0,65.0
+2023-02-13,Ver. : Rastro Municipal de Xalapa,Novillona,350.0,1.0,63.0,64.0
+2023-02-14,Ver. : Rastro Municipal de Xalapa,Corral,250.0,21.0,64.0,65.0
+2023-02-14,Ver. : Rastro Municipal de Xalapa,Novillona,350.0,1.0,63.0,64.0
+2023-02-15,Ver. : Rastro Municipal de Xalapa,Corral,250.0,17.0,64.0,65.0
+2023-02-15,Ver. : Rastro Municipal de Xalapa,Novillona,350.0,1.0,63.0,64.0
+2023-02-16,Ver. : Rastro Municipal de Xalapa,Corral,250.0,17.0,64.0,65.0
+2023-02-16,Ver. : Rastro Municipal de Xalapa,Novillona,350.0,1.0,63.0,64.0
+2023-02-17,Ver. : Rastro Municipal de Xalapa,Corral,250.0,22.0,64.0,65.0
+2023-02-17,Ver. : Rastro Municipal de Xalapa,Novillona,350.0,1.0,64.0,65.0
+2023-02-20,Ver. : Rastro Municipal de Xalapa,Corral,250.0,25.0,64.0,65.0
+2023-02-20,Ver. : Rastro Municipal de Xalapa,Novillona,350.0,1.0,63.0,64.0
+2023-02-21,Ver. : Rastro Municipal de Xalapa,Corral,250.0,20.0,64.0,65.0
+2023-02-21,Ver. : Rastro Municipal de Xalapa,Novillona,350.0,1.0,63.0,64.0
+2023-02-22,Ver. : Rastro Municipal de Xalapa,Corral,250.0,16.0,64.0,65.0
+2023-02-22,Ver. : Rastro Municipal de Xalapa,Novillona,350.0,1.0,63.0,64.0
+2023-02-23,Ver. : Rastro Municipal de Xalapa,Corral,250.0,17.0,64.0,65.0
+2023-02-23,Ver. : Rastro Municipal de Xalapa,Novillona,350.0,1.0,63.0,64.0
+2023-02-24,Ver. : Rastro Municipal de Xalapa,Corral,250.0,18.0,64.0,65.0
+2023-02-24,Ver. : Rastro Municipal de Xalapa,Novillona,350.0,1.0,63.0,64.0
+2023-02-27,Ver. : Rastro Municipal de Xalapa,Corral,250.0,25.0,64.0,65.0
+2023-02-27,Ver. : Rastro Municipal de Xalapa,Novillona,350.0,1.0,63.0,64.0
+2023-02-28,Ver. : Rastro Municipal de Xalapa,Corral,250.0,21.0,64.0,65.0
+2023-02-28,Ver. : Rastro Municipal de Xalapa,Novillona,350.0,1.0,63.0,64.0
+2023-02-01,Yuc. : Abastos de Mérida,Novillona,,,78.0,78.0
+2023-02-01,Yuc. : Abastos de Mérida,Toros,,,74.0,74.0
+2023-02-01,Yuc. : Abastos de Mérida,Vaca,,,74.0,74.0
+2023-02-02,Yuc. : Abastos de Mérida,Novillona,,,78.0,78.0
+2023-02-02,Yuc. : Abastos de Mérida,Toros,,,74.0,74.0
+2023-02-02,Yuc. : Abastos de Mérida,Vaca,,,74.0,74.0
+2023-02-03,Yuc. : Abastos de Mérida,Novillona,,,78.0,78.0
+2023-02-03,Yuc. : Abastos de Mérida,Toros,,,74.0,74.0
+2023-02-03,Yuc. : Abastos de Mérida,Vaca,,,74.0,74.0
+2023-02-07,Yuc. : Abastos de Mérida,Novillona,,,78.0,78.0
+2023-02-07,Yuc. : Abastos de Mérida,Toros,,,74.0,74.0
+2023-02-07,Yuc. : Abastos de Mérida,Vaca,,,74.0,74.0
+2023-02-08,Yuc. : Abastos de Mérida,Novillona,,,78.0,78.0
+2023-02-08,Yuc. : Abastos de Mérida,Toros,,,74.0,74.0
+2023-02-08,Yuc. : Abastos de Mérida,Vaca,,,74.0,74.0
+2023-02-10,Yuc. : Abastos de Mérida,Novillona,,,78.0,78.0
+2023-02-10,Yuc. : Abastos de Mérida,Toros,,,74.0,74.0
+2023-02-10,Yuc. : Abastos de Mérida,Vaca,,,74.0,74.0
+2023-02-13,Yuc. : Abastos de Mérida,Novillona,,,78.0,78.0
+2023-02-13,Yuc. : Abastos de Mérida,Toros,,,74.0,74.0
+2023-02-13,Yuc. : Abastos de Mérida,Vaca,,,74.0,74.0
+2023-02-14,Yuc. : Abastos de Mérida,Novillona,,,78.0,78.0
+2023-02-14,Yuc. : Abastos de Mérida,Toros,,,74.0,74.0
+2023-02-14,Yuc. : Abastos de Mérida,Vaca,,,74.0,74.0
+2023-02-15,Yuc. : Abastos de Mérida,Novillona,,,78.0,78.0
+2023-02-15,Yuc. : Abastos de Mérida,Toros,,,74.0,74.0
+2023-02-15,Yuc. : Abastos de Mérida,Vaca,,,74.0,74.0
+2023-02-17,Yuc. : Abastos de Mérida,Novillona,,,78.0,78.0
+2023-02-17,Yuc. : Abastos de Mérida,Toros,,,74.0,74.0
+2023-02-17,Yuc. : Abastos de Mérida,Vaca,,,74.0,74.0
+2023-02-22,Yuc. : Abastos de Mérida,Novillona,,,78.0,78.0
+2023-02-22,Yuc. : Abastos de Mérida,Toros,,,74.0,74.0
+2023-02-22,Yuc. : Abastos de Mérida,Vaca,,,74.0,74.0
+2023-02-23,Yuc. : Abastos de Mérida,Novillona,,,78.0,78.0
+2023-02-23,Yuc. : Abastos de Mérida,Toros,,,74.0,74.0
+2023-02-23,Yuc. : Abastos de Mérida,Vaca,,,74.0,74.0
+2023-02-24,Yuc. : Abastos de Mérida,Novillona,,,78.0,78.0
+2023-02-24,Yuc. : Abastos de Mérida,Toros,,,74.0,74.0
+2023-02-24,Yuc. : Abastos de Mérida,Vaca,,,74.0,74.0
+2023-02-27,Yuc. : Abastos de Mérida,Novillona,,,78.0,78.0
+2023-02-27,Yuc. : Abastos de Mérida,Toros,,,74.0,74.0
+2023-02-27,Yuc. : Abastos de Mérida,Vaca,,,74.0,74.0
+2023-02-28,Yuc. : Abastos de Mérida,Novillona,,,78.0,78.0
+2023-02-28,Yuc. : Abastos de Mérida,Toros,,,74.0,74.0
+2023-02-28,Yuc. : Abastos de Mérida,Vaca,,,74.0,74.0
+2023-02-03,Yuc. : Aric Planta TIF 170,Novillona,,,78.0,78.0
+2023-02-03,Yuc. : Aric Planta TIF 170,Pradera,,,94.0,94.0
+2023-02-03,Yuc. : Aric Planta TIF 170,Toros,,,74.0,74.0
+2023-02-03,Yuc. : Aric Planta TIF 170,Vaca,325.0,2.0,74.0,74.0
+2023-02-08,Yuc. : Aric Planta TIF 170,Novillona,,,78.0,78.0
+2023-02-08,Yuc. : Aric Planta TIF 170,Pradera,,,94.0,94.0
+2023-02-08,Yuc. : Aric Planta TIF 170,Toros,,,74.0,74.0
+2023-02-08,Yuc. : Aric Planta TIF 170,Vaca,282.0,3.0,74.0,74.0
+2023-02-10,Yuc. : Aric Planta TIF 170,Novillona,213.0,1.0,78.0,78.0
+2023-02-10,Yuc. : Aric Planta TIF 170,Pradera,,,94.0,94.0
+2023-02-10,Yuc. : Aric Planta TIF 170,Toros,,,74.0,74.0
+2023-02-10,Yuc. : Aric Planta TIF 170,Vaca,,,74.0,74.0
+2023-02-13,Yuc. : Aric Planta TIF 170,Novillona,,,78.0,78.0
+2023-02-13,Yuc. : Aric Planta TIF 170,Pradera,311.0,14.0,94.0,94.0
+2023-02-13,Yuc. : Aric Planta TIF 170,Toros,436.0,1.0,74.0,74.0
+2023-02-13,Yuc. : Aric Planta TIF 170,Vaca,,,74.0,74.0
+2023-02-17,Yuc. : Aric Planta TIF 170,Novillona,,,78.0,78.0
+2023-02-17,Yuc. : Aric Planta TIF 170,Pradera,,,94.0,94.0
+2023-02-17,Yuc. : Aric Planta TIF 170,Toros,,,74.0,74.0
+2023-02-17,Yuc. : Aric Planta TIF 170,Vaca,300.0,6.0,74.0,74.0
+2023-02-21,Yuc. : Aric Planta TIF 170,Novillona,,,78.0,78.0
+2023-02-21,Yuc. : Aric Planta TIF 170,Pradera,,,94.0,94.0
+2023-02-21,Yuc. : Aric Planta TIF 170,Toros,,,47.0,74.0
+2023-02-21,Yuc. : Aric Planta TIF 170,Vaca,281.0,5.0,74.0,74.0
+2023-02-28,Yuc. : Aric Planta TIF 170,Vaca,314.0,1.0,74.0,74.0
+2023-02-02,Zac. : R.M. Zacatecas,Vaca,216.0,2.0,89.0,89.0
+2023-02-07,Zac. : R.M. Zacatecas,Toros,270.0,5.0,103.0,103.0
+2023-02-07,Zac. : R.M. Zacatecas,Vaca,216.0,2.0,89.0,89.0
+2023-02-09,Zac. : R.M. Zacatecas,Corral,247.0,3.0,103.0,103.0
+2023-02-09,Zac. : R.M. Zacatecas,Toros,270.0,4.0,103.0,103.0
+2023-02-09,Zac. : R.M. Zacatecas,Vaca,216.0,6.0,89.0,89.0
+2023-02-14,Zac. : R.M. Zacatecas,Novillona,220.0,4.0,90.0,90.0
+2023-02-14,Zac. : R.M. Zacatecas,Toros,270.0,10.0,103.0,103.0
+2023-02-14,Zac. : R.M. Zacatecas,Vaca,216.0,6.0,89.0,89.0
+2023-02-16,Zac. : R.M. Zacatecas,Corral,247.0,3.0,103.0,103.0
+2023-02-16,Zac. : R.M. Zacatecas,Toros,270.0,10.0,103.0,103.0
+2023-02-16,Zac. : R.M. Zacatecas,Vaca,216.0,6.0,89.0,89.0
+2023-02-23,Zac. : R.M. Zacatecas,Novillona,220.0,4.0,90.0,90.0
+2023-02-23,Zac. : R.M. Zacatecas,Toros,270.0,25.0,103.0,103.0
+2023-02-23,Zac. : R.M. Zacatecas,Vaca,216.0,30.0,89.0,89.0
+2023-02-28,Zac. : R.M. Zacatecas,Toros,270.0,7.0,103.0,103.0
+2023-02-28,Zac. : R.M. Zacatecas,Vaca,216.0,4.0,89.0,89.0
