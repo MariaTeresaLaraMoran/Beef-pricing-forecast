@@ -4,6 +4,7 @@ Forecasting weekly wholesale beef prices in Mexico with deep learning (LSTM/GRU)
 using US beef prices, the USD/MXN exchange rate, and US beef exports to Mexico.
 The deep learning model is compared against a linear regression baseline.
 
+Deep learning course project. Presentation: December 1, 2026.
 
 ## Problem
 
@@ -25,8 +26,8 @@ All data is collected directly from the original public sources with the scripts
 |---|---|---|---|---|
 | USD/MXN FIX exchange rate | Banco de México, SIE API (series SF43718) | Daily | `src/fetch_banxico.py` | Script written |
 | US boxed beef cutout (Choice, Select) | USDA AMS Market News, report LM_XB403 | Daily | `src/fetch_usda_boxed_beef.py` | Script written |
-| US beef exports to Mexico | USDA FAS Export Sales | Weekly | pending | Pending |
-| Mexican wholesale beef prices (target) | SNIIM, Secretaría de Economía | Daily | pending | Pending |
+| US beef exports to Mexico | USDA FAS Open Data, ESR API (needs a free api.data.gov key) | Weekly | `src/fetch_usda_fas_exports.py` | Script written |
+| Mexican beef carcass prices (target) | SNIIM, Secretaría de Economía (web pages, no API) | Daily | `src/fetch_sniim_beef.py` | Script written |
 
 Raw files are saved to `data/raw/` exactly as downloaded. The merged weekly table is
 saved to `data/processed/`.
@@ -53,6 +54,11 @@ cp .env.example .env        # then paste your Banxico token into .env
 
 python src/fetch_banxico.py
 python src/fetch_usda_boxed_beef.py
+python src/fetch_sniim_beef.py
+python src/fetch_usda_fas_exports.py
 ```
 
-The Banxico token is free: https://www.banxico.org.mx/SieAPIRest/service/v1/token
+Both keys are free:
+
+- Banxico token: https://www.banxico.org.mx/SieAPIRest/service/v1/token
+- USDA FAS (api.data.gov) key: https://api.data.gov/signup/
