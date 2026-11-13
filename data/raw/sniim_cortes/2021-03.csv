@@ -1,0 +1,1339 @@
+date,establishment,origin,cut,price_min_mxn_kg,price_max_mxn_kg
+2021-03-26,N.L. : Productos y Comercialización de Alimentos,Nuevo León,Cebo limpio,,22.0
+2021-03-26,N.L. : Productos y Comercialización de Alimentos,Nuevo León,Costillar,,99.0
+2021-03-26,N.L. : Productos y Comercialización de Alimentos,Nuevo León,Chuleton Diezmillo,180.0,190.0
+2021-03-26,N.L. : Productos y Comercialización de Alimentos,Nuevo León,Paleta,,108.0
+2021-03-26,N.L. : Productos y Comercialización de Alimentos,Nuevo León,Pecho,,110.0
+2021-03-26,N.L. : Productos y Comercialización de Alimentos,Nuevo León,Pescuezo,,155.0
+2021-03-26,N.L. : Productos y Comercialización de Alimentos,Nuevo León,Pulpa Blanca,,155.0
+2021-03-26,N.L. : Productos y Comercialización de Alimentos,Nuevo León,Pulpa Bola,,135.0
+2021-03-26,N.L. : Productos y Comercialización de Alimentos,Nuevo León,Pulpa Negra,,195.0
+2021-03-26,N.L. : Productos y Comercialización de Alimentos,Nuevo León,Sirloin,,175.0
+2021-03-02,N.L. : TIF 15 Emp. Treviño,Nuevo León,Arrachera,,220.0
+2021-03-02,N.L. : TIF 15 Emp. Treviño,Nuevo León,Cebo limpio,,25.0
+2021-03-02,N.L. : TIF 15 Emp. Treviño,Nuevo León,Costillar,,85.0
+2021-03-02,N.L. : TIF 15 Emp. Treviño,Nuevo León,Cuarto,,99.0
+2021-03-02,N.L. : TIF 15 Emp. Treviño,Nuevo León,Chuleton Diezmillo,105.0,130.0
+2021-03-02,N.L. : TIF 15 Emp. Treviño,Nuevo León,Loing,,125.0
+2021-03-02,N.L. : TIF 15 Emp. Treviño,Nuevo León,Paleta,,85.0
+2021-03-02,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pata,,38.0
+2021-03-02,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pecho,,85.0
+2021-03-02,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pescuezo,,70.0
+2021-03-02,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pulpa Blanca,,99.0
+2021-03-02,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pulpa Bola,,125.0
+2021-03-02,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pulpa Negra,,130.0
+2021-03-02,N.L. : TIF 15 Emp. Treviño,Nuevo León,Sirloin,,99.0
+2021-03-04,N.L. : TIF 15 Emp. Treviño,Nuevo León,Arrachera,,220.0
+2021-03-04,N.L. : TIF 15 Emp. Treviño,Nuevo León,Cebo limpio,,25.0
+2021-03-04,N.L. : TIF 15 Emp. Treviño,Nuevo León,Costillar,,85.0
+2021-03-04,N.L. : TIF 15 Emp. Treviño,Nuevo León,Cuarto,,99.0
+2021-03-04,N.L. : TIF 15 Emp. Treviño,Nuevo León,Chuleton Diezmillo,105.0,130.0
+2021-03-04,N.L. : TIF 15 Emp. Treviño,Nuevo León,Loing,,125.0
+2021-03-04,N.L. : TIF 15 Emp. Treviño,Nuevo León,Paleta,,85.0
+2021-03-04,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pata,,38.0
+2021-03-04,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pecho,,85.0
+2021-03-04,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pescuezo,,70.0
+2021-03-04,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pulpa Blanca,,99.0
+2021-03-04,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pulpa Bola,,125.0
+2021-03-04,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pulpa Negra,,130.0
+2021-03-04,N.L. : TIF 15 Emp. Treviño,Nuevo León,Sirloin,,99.0
+2021-03-05,N.L. : TIF 15 Emp. Treviño,Nuevo León,Arrachera,,220.0
+2021-03-05,N.L. : TIF 15 Emp. Treviño,Nuevo León,Cebo limpio,,25.0
+2021-03-05,N.L. : TIF 15 Emp. Treviño,Nuevo León,Costillar,,85.0
+2021-03-05,N.L. : TIF 15 Emp. Treviño,Nuevo León,Cuarto,,99.0
+2021-03-05,N.L. : TIF 15 Emp. Treviño,Nuevo León,Chuleton Diezmillo,105.0,130.0
+2021-03-05,N.L. : TIF 15 Emp. Treviño,Nuevo León,Loing,,125.0
+2021-03-05,N.L. : TIF 15 Emp. Treviño,Nuevo León,Paleta,,85.0
+2021-03-05,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pata,,38.0
+2021-03-05,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pecho,,85.0
+2021-03-05,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pescuezo,,70.0
+2021-03-05,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pulpa Blanca,,99.0
+2021-03-05,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pulpa Bola,,125.0
+2021-03-05,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pulpa Negra,,130.0
+2021-03-05,N.L. : TIF 15 Emp. Treviño,Nuevo León,Sirloin,,99.0
+2021-03-09,N.L. : TIF 15 Emp. Treviño,Nuevo León,Arrachera,,220.0
+2021-03-09,N.L. : TIF 15 Emp. Treviño,Nuevo León,Cebo limpio,,25.0
+2021-03-09,N.L. : TIF 15 Emp. Treviño,Nuevo León,Costillar,,85.0
+2021-03-09,N.L. : TIF 15 Emp. Treviño,Nuevo León,Cuarto,,99.0
+2021-03-09,N.L. : TIF 15 Emp. Treviño,Nuevo León,Chuleton Diezmillo,105.0,130.0
+2021-03-09,N.L. : TIF 15 Emp. Treviño,Nuevo León,Loing,,125.0
+2021-03-09,N.L. : TIF 15 Emp. Treviño,Nuevo León,Paleta,,85.0
+2021-03-09,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pata,,38.0
+2021-03-09,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pecho,,85.0
+2021-03-09,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pescuezo,,70.0
+2021-03-09,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pulpa Blanca,,99.0
+2021-03-09,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pulpa Bola,,125.0
+2021-03-09,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pulpa Negra,,130.0
+2021-03-09,N.L. : TIF 15 Emp. Treviño,Nuevo León,Sirloin,,99.0
+2021-03-11,N.L. : TIF 15 Emp. Treviño,Nuevo León,Arrachera,,220.0
+2021-03-11,N.L. : TIF 15 Emp. Treviño,Nuevo León,Cebo limpio,,25.0
+2021-03-11,N.L. : TIF 15 Emp. Treviño,Nuevo León,Costillar,,85.0
+2021-03-11,N.L. : TIF 15 Emp. Treviño,Nuevo León,Cuarto,,99.0
+2021-03-11,N.L. : TIF 15 Emp. Treviño,Nuevo León,Chuleton Diezmillo,105.0,130.0
+2021-03-11,N.L. : TIF 15 Emp. Treviño,Nuevo León,Loing,,125.0
+2021-03-11,N.L. : TIF 15 Emp. Treviño,Nuevo León,Paleta,,85.0
+2021-03-11,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pata,,38.0
+2021-03-11,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pecho,,85.0
+2021-03-11,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pescuezo,,70.0
+2021-03-11,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pulpa Blanca,,99.0
+2021-03-11,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pulpa Bola,,125.0
+2021-03-11,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pulpa Negra,,130.0
+2021-03-11,N.L. : TIF 15 Emp. Treviño,Nuevo León,Sirloin,,99.0
+2021-03-12,N.L. : TIF 15 Emp. Treviño,Nuevo León,Arrachera,,220.0
+2021-03-12,N.L. : TIF 15 Emp. Treviño,Nuevo León,Cebo limpio,,25.0
+2021-03-12,N.L. : TIF 15 Emp. Treviño,Nuevo León,Costillar,,85.0
+2021-03-12,N.L. : TIF 15 Emp. Treviño,Nuevo León,Cuarto,,99.0
+2021-03-12,N.L. : TIF 15 Emp. Treviño,Nuevo León,Chuleton Diezmillo,105.0,130.0
+2021-03-12,N.L. : TIF 15 Emp. Treviño,Nuevo León,Loing,,125.0
+2021-03-12,N.L. : TIF 15 Emp. Treviño,Nuevo León,Paleta,,85.0
+2021-03-12,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pata,,38.0
+2021-03-12,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pecho,,85.0
+2021-03-12,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pescuezo,,70.0
+2021-03-12,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pulpa Blanca,,99.0
+2021-03-12,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pulpa Bola,,125.0
+2021-03-12,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pulpa Negra,,130.0
+2021-03-12,N.L. : TIF 15 Emp. Treviño,Nuevo León,Sirloin,,99.0
+2021-03-16,N.L. : TIF 15 Emp. Treviño,Nuevo León,Arrachera,,220.0
+2021-03-16,N.L. : TIF 15 Emp. Treviño,Nuevo León,Cebo limpio,,25.0
+2021-03-16,N.L. : TIF 15 Emp. Treviño,Nuevo León,Costillar,,85.0
+2021-03-16,N.L. : TIF 15 Emp. Treviño,Nuevo León,Cuarto,,99.0
+2021-03-16,N.L. : TIF 15 Emp. Treviño,Nuevo León,Chuleton Diezmillo,105.0,130.0
+2021-03-16,N.L. : TIF 15 Emp. Treviño,Nuevo León,Loing,,125.0
+2021-03-16,N.L. : TIF 15 Emp. Treviño,Nuevo León,Paleta,,85.0
+2021-03-16,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pata,,38.0
+2021-03-16,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pecho,,85.0
+2021-03-16,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pescuezo,,70.0
+2021-03-16,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pulpa Blanca,,99.0
+2021-03-16,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pulpa Bola,,125.0
+2021-03-16,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pulpa Negra,,130.0
+2021-03-16,N.L. : TIF 15 Emp. Treviño,Nuevo León,Sirloin,,99.0
+2021-03-18,N.L. : TIF 15 Emp. Treviño,Nuevo León,Arrachera,,220.0
+2021-03-18,N.L. : TIF 15 Emp. Treviño,Nuevo León,Cebo limpio,,25.0
+2021-03-18,N.L. : TIF 15 Emp. Treviño,Nuevo León,Costillar,,85.0
+2021-03-18,N.L. : TIF 15 Emp. Treviño,Nuevo León,Cuarto,,99.0
+2021-03-18,N.L. : TIF 15 Emp. Treviño,Nuevo León,Chuleton Diezmillo,105.0,130.0
+2021-03-18,N.L. : TIF 15 Emp. Treviño,Nuevo León,Loing,,125.0
+2021-03-18,N.L. : TIF 15 Emp. Treviño,Nuevo León,Paleta,,85.0
+2021-03-18,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pata,,38.0
+2021-03-18,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pecho,,85.0
+2021-03-18,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pescuezo,,70.0
+2021-03-18,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pulpa Blanca,,99.0
+2021-03-18,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pulpa Bola,,125.0
+2021-03-18,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pulpa Negra,,130.0
+2021-03-18,N.L. : TIF 15 Emp. Treviño,Nuevo León,Sirloin,,99.0
+2021-03-19,N.L. : TIF 15 Emp. Treviño,Nuevo León,Arrachera,,220.0
+2021-03-19,N.L. : TIF 15 Emp. Treviño,Nuevo León,Cebo limpio,,25.0
+2021-03-19,N.L. : TIF 15 Emp. Treviño,Nuevo León,Costillar,,85.0
+2021-03-19,N.L. : TIF 15 Emp. Treviño,Nuevo León,Cuarto,,99.0
+2021-03-19,N.L. : TIF 15 Emp. Treviño,Nuevo León,Chuleton Diezmillo,105.0,130.0
+2021-03-19,N.L. : TIF 15 Emp. Treviño,Nuevo León,Loing,,125.0
+2021-03-19,N.L. : TIF 15 Emp. Treviño,Nuevo León,Paleta,,85.0
+2021-03-19,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pata,,38.0
+2021-03-19,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pecho,,85.0
+2021-03-19,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pescuezo,,70.0
+2021-03-19,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pulpa Blanca,,99.0
+2021-03-19,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pulpa Bola,,125.0
+2021-03-19,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pulpa Negra,,130.0
+2021-03-19,N.L. : TIF 15 Emp. Treviño,Nuevo León,Sirloin,,99.0
+2021-03-23,N.L. : TIF 15 Emp. Treviño,Nuevo León,Arrachera,,220.0
+2021-03-23,N.L. : TIF 15 Emp. Treviño,Nuevo León,Cebo limpio,,25.0
+2021-03-23,N.L. : TIF 15 Emp. Treviño,Nuevo León,Costillar,,84.0
+2021-03-23,N.L. : TIF 15 Emp. Treviño,Nuevo León,Cuarto,,99.0
+2021-03-23,N.L. : TIF 15 Emp. Treviño,Nuevo León,Chuleton Diezmillo,105.0,128.0
+2021-03-23,N.L. : TIF 15 Emp. Treviño,Nuevo León,Paleta,,91.0
+2021-03-23,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pata,,31.0
+2021-03-23,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pecho,,72.0
+2021-03-23,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pescuezo,,65.0
+2021-03-23,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pulpa Blanca,,99.0
+2021-03-23,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pulpa Bola,,125.0
+2021-03-23,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pulpa Negra,,125.0
+2021-03-23,N.L. : TIF 15 Emp. Treviño,Nuevo León,Sirloin,,97.0
+2021-03-25,N.L. : TIF 15 Emp. Treviño,Nuevo León,Arrachera,,220.0
+2021-03-25,N.L. : TIF 15 Emp. Treviño,Nuevo León,Cebo limpio,,25.0
+2021-03-25,N.L. : TIF 15 Emp. Treviño,Nuevo León,Costillar,,84.0
+2021-03-25,N.L. : TIF 15 Emp. Treviño,Nuevo León,Cuarto,,99.0
+2021-03-25,N.L. : TIF 15 Emp. Treviño,Nuevo León,Chuleton Diezmillo,105.0,128.0
+2021-03-25,N.L. : TIF 15 Emp. Treviño,Nuevo León,Loing,,125.0
+2021-03-25,N.L. : TIF 15 Emp. Treviño,Nuevo León,Paleta,,91.0
+2021-03-25,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pata,,31.0
+2021-03-25,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pecho,,72.0
+2021-03-25,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pescuezo,,65.0
+2021-03-25,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pulpa Blanca,,99.0
+2021-03-25,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pulpa Bola,,125.0
+2021-03-25,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pulpa Negra,,125.0
+2021-03-25,N.L. : TIF 15 Emp. Treviño,Nuevo León,Sirloin,,97.0
+2021-03-26,N.L. : TIF 15 Emp. Treviño,Nuevo León,Arrachera,,220.0
+2021-03-26,N.L. : TIF 15 Emp. Treviño,Nuevo León,Cebo limpio,,25.0
+2021-03-26,N.L. : TIF 15 Emp. Treviño,Nuevo León,Costillar,,84.0
+2021-03-26,N.L. : TIF 15 Emp. Treviño,Nuevo León,Cuarto,,99.0
+2021-03-26,N.L. : TIF 15 Emp. Treviño,Nuevo León,Chuleton Diezmillo,105.0,128.0
+2021-03-26,N.L. : TIF 15 Emp. Treviño,Nuevo León,Loing,,125.0
+2021-03-26,N.L. : TIF 15 Emp. Treviño,Nuevo León,Paleta,,91.0
+2021-03-26,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pata,,31.0
+2021-03-26,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pecho,,72.0
+2021-03-26,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pescuezo,,65.0
+2021-03-26,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pulpa Blanca,,99.0
+2021-03-26,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pulpa Bola,,125.0
+2021-03-26,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pulpa Negra,,125.0
+2021-03-26,N.L. : TIF 15 Emp. Treviño,Nuevo León,Sirloin,,97.0
+2021-03-30,N.L. : TIF 15 Emp. Treviño,Nuevo León,Arrachera,,220.0
+2021-03-30,N.L. : TIF 15 Emp. Treviño,Nuevo León,Cebo limpio,,25.0
+2021-03-30,N.L. : TIF 15 Emp. Treviño,Nuevo León,Costillar,,84.0
+2021-03-30,N.L. : TIF 15 Emp. Treviño,Nuevo León,Cuarto,,99.0
+2021-03-30,N.L. : TIF 15 Emp. Treviño,Nuevo León,Chuleton Diezmillo,105.0,125.0
+2021-03-30,N.L. : TIF 15 Emp. Treviño,Nuevo León,Loing,,125.0
+2021-03-30,N.L. : TIF 15 Emp. Treviño,Nuevo León,Paleta,,91.0
+2021-03-30,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pata,,31.0
+2021-03-30,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pecho,,72.0
+2021-03-30,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pescuezo,,65.0
+2021-03-30,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pulpa Blanca,,99.0
+2021-03-30,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pulpa Bola,,125.0
+2021-03-30,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pulpa Negra,,125.0
+2021-03-30,N.L. : TIF 15 Emp. Treviño,Nuevo León,Sirloin,,97.0
+2021-03-31,N.L. : TIF 15 Emp. Treviño,Nuevo León,Arrachera,,220.0
+2021-03-31,N.L. : TIF 15 Emp. Treviño,Nuevo León,Cebo limpio,,25.0
+2021-03-31,N.L. : TIF 15 Emp. Treviño,Nuevo León,Costillar,,84.0
+2021-03-31,N.L. : TIF 15 Emp. Treviño,Nuevo León,Cuarto,,99.0
+2021-03-31,N.L. : TIF 15 Emp. Treviño,Nuevo León,Chuleton Diezmillo,105.0,128.0
+2021-03-31,N.L. : TIF 15 Emp. Treviño,Nuevo León,Loing,,125.0
+2021-03-31,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pata,,31.0
+2021-03-31,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pecho,,72.0
+2021-03-31,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pescuezo,,65.0
+2021-03-31,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pulpa Blanca,,99.0
+2021-03-31,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pulpa Bola,,125.0
+2021-03-31,N.L. : TIF 15 Emp. Treviño,Nuevo León,Pulpa Negra,,125.0
+2021-03-31,N.L. : TIF 15 Emp. Treviño,Nuevo León,Sirloin,,97.0
+2021-03-02,N.L.: Carnes selectas,Nuevo León,Arrachera,,180.0
+2021-03-02,N.L.: Carnes selectas,Nuevo León,Cebo limpio,,22.0
+2021-03-02,N.L.: Carnes selectas,Nuevo León,Costillar,,85.0
+2021-03-02,N.L.: Carnes selectas,Nuevo León,Cuarto,,82.0
+2021-03-02,N.L.: Carnes selectas,Nuevo León,Chuleton Diezmillo,130.0,145.0
+2021-03-02,N.L.: Carnes selectas,Nuevo León,Loing,,115.0
+2021-03-02,N.L.: Carnes selectas,Nuevo León,Paleta,,90.0
+2021-03-02,N.L.: Carnes selectas,Nuevo León,Pata,,25.0
+2021-03-02,N.L.: Carnes selectas,Nuevo León,Pecho,,85.0
+2021-03-02,N.L.: Carnes selectas,Nuevo León,Pescuezo,,85.0
+2021-03-02,N.L.: Carnes selectas,Nuevo León,Pulpa Blanca,,115.0
+2021-03-02,N.L.: Carnes selectas,Nuevo León,Pulpa Bola,,125.0
+2021-03-02,N.L.: Carnes selectas,Nuevo León,Pulpa Negra,,135.0
+2021-03-02,N.L.: Carnes selectas,Nuevo León,Sirloin,,120.0
+2021-03-04,N.L.: Carnes selectas,Nuevo León,Arrachera,,180.0
+2021-03-04,N.L.: Carnes selectas,Nuevo León,Cebo limpio,,22.0
+2021-03-04,N.L.: Carnes selectas,Nuevo León,Costillar,,85.0
+2021-03-04,N.L.: Carnes selectas,Nuevo León,Cuarto,,82.0
+2021-03-04,N.L.: Carnes selectas,Nuevo León,Chuleton Diezmillo,130.0,145.0
+2021-03-04,N.L.: Carnes selectas,Nuevo León,Loing,,115.0
+2021-03-04,N.L.: Carnes selectas,Nuevo León,Paleta,,90.0
+2021-03-04,N.L.: Carnes selectas,Nuevo León,Pata,,25.0
+2021-03-04,N.L.: Carnes selectas,Nuevo León,Pecho,,85.0
+2021-03-04,N.L.: Carnes selectas,Nuevo León,Pescuezo,,85.0
+2021-03-04,N.L.: Carnes selectas,Nuevo León,Pulpa Blanca,,115.0
+2021-03-04,N.L.: Carnes selectas,Nuevo León,Pulpa Bola,,125.0
+2021-03-04,N.L.: Carnes selectas,Nuevo León,Pulpa Negra,,135.0
+2021-03-04,N.L.: Carnes selectas,Nuevo León,Sirloin,,120.0
+2021-03-05,N.L.: Carnes selectas,Nuevo León,Arrachera,,180.0
+2021-03-05,N.L.: Carnes selectas,Nuevo León,Cebo limpio,,22.0
+2021-03-05,N.L.: Carnes selectas,Nuevo León,Costillar,,85.0
+2021-03-05,N.L.: Carnes selectas,Nuevo León,Cuarto,,82.0
+2021-03-05,N.L.: Carnes selectas,Nuevo León,Chuleton Diezmillo,115.0,145.0
+2021-03-05,N.L.: Carnes selectas,Nuevo León,Paleta,,90.0
+2021-03-05,N.L.: Carnes selectas,Nuevo León,Pata,,25.0
+2021-03-05,N.L.: Carnes selectas,Nuevo León,Pecho,,85.0
+2021-03-05,N.L.: Carnes selectas,Nuevo León,Pescuezo,,85.0
+2021-03-05,N.L.: Carnes selectas,Nuevo León,Pulpa Blanca,,115.0
+2021-03-05,N.L.: Carnes selectas,Nuevo León,Pulpa Bola,,125.0
+2021-03-05,N.L.: Carnes selectas,Nuevo León,Pulpa Negra,,135.0
+2021-03-05,N.L.: Carnes selectas,Nuevo León,Sirloin,,120.0
+2021-03-09,N.L.: Carnes selectas,Nuevo León,Arrachera,,180.0
+2021-03-09,N.L.: Carnes selectas,Nuevo León,Cebo limpio,,22.0
+2021-03-09,N.L.: Carnes selectas,Nuevo León,Costillar,,85.0
+2021-03-09,N.L.: Carnes selectas,Nuevo León,Cuarto,,82.0
+2021-03-09,N.L.: Carnes selectas,Nuevo León,Chuleton Diezmillo,130.0,145.0
+2021-03-09,N.L.: Carnes selectas,Nuevo León,Loing,,115.0
+2021-03-09,N.L.: Carnes selectas,Nuevo León,Paleta,,90.0
+2021-03-09,N.L.: Carnes selectas,Nuevo León,Pata,,25.0
+2021-03-09,N.L.: Carnes selectas,Nuevo León,Pecho,,85.0
+2021-03-09,N.L.: Carnes selectas,Nuevo León,Pescuezo,,85.0
+2021-03-09,N.L.: Carnes selectas,Nuevo León,Pulpa Blanca,,115.0
+2021-03-09,N.L.: Carnes selectas,Nuevo León,Pulpa Bola,,125.0
+2021-03-09,N.L.: Carnes selectas,Nuevo León,Pulpa Negra,,135.0
+2021-03-09,N.L.: Carnes selectas,Nuevo León,Sirloin,,120.0
+2021-03-11,N.L.: Carnes selectas,Nuevo León,Arrachera,,180.0
+2021-03-11,N.L.: Carnes selectas,Nuevo León,Cebo limpio,,22.0
+2021-03-11,N.L.: Carnes selectas,Nuevo León,Costillar,,85.0
+2021-03-11,N.L.: Carnes selectas,Nuevo León,Cuarto,,82.0
+2021-03-11,N.L.: Carnes selectas,Nuevo León,Chuleton Diezmillo,130.0,145.0
+2021-03-11,N.L.: Carnes selectas,Nuevo León,Loing,,115.0
+2021-03-11,N.L.: Carnes selectas,Nuevo León,Paleta,,90.0
+2021-03-11,N.L.: Carnes selectas,Nuevo León,Pata,,25.0
+2021-03-11,N.L.: Carnes selectas,Nuevo León,Pecho,,85.0
+2021-03-11,N.L.: Carnes selectas,Nuevo León,Pescuezo,,85.0
+2021-03-11,N.L.: Carnes selectas,Nuevo León,Pulpa Blanca,,115.0
+2021-03-11,N.L.: Carnes selectas,Nuevo León,Pulpa Bola,,125.0
+2021-03-11,N.L.: Carnes selectas,Nuevo León,Pulpa Negra,,135.0
+2021-03-11,N.L.: Carnes selectas,Nuevo León,Sirloin,,120.0
+2021-03-12,N.L.: Carnes selectas,Nuevo León,Arrachera,,180.0
+2021-03-12,N.L.: Carnes selectas,Nuevo León,Cebo limpio,,22.0
+2021-03-12,N.L.: Carnes selectas,Nuevo León,Costillar,,85.0
+2021-03-12,N.L.: Carnes selectas,Nuevo León,Cuarto,,82.0
+2021-03-12,N.L.: Carnes selectas,Nuevo León,Chuleton Diezmillo,130.0,145.0
+2021-03-12,N.L.: Carnes selectas,Nuevo León,Loing,,115.0
+2021-03-12,N.L.: Carnes selectas,Nuevo León,Paleta,,90.0
+2021-03-12,N.L.: Carnes selectas,Nuevo León,Pata,,25.0
+2021-03-12,N.L.: Carnes selectas,Nuevo León,Pecho,,85.0
+2021-03-12,N.L.: Carnes selectas,Nuevo León,Pescuezo,,85.0
+2021-03-12,N.L.: Carnes selectas,Nuevo León,Pulpa Blanca,,115.0
+2021-03-12,N.L.: Carnes selectas,Nuevo León,Pulpa Bola,,125.0
+2021-03-12,N.L.: Carnes selectas,Nuevo León,Pulpa Negra,,135.0
+2021-03-12,N.L.: Carnes selectas,Nuevo León,Sirloin,,120.0
+2021-03-16,N.L.: Carnes selectas,Nuevo León,Arrachera,,180.0
+2021-03-16,N.L.: Carnes selectas,Nuevo León,Cebo limpio,,22.0
+2021-03-16,N.L.: Carnes selectas,Nuevo León,Costillar,,85.0
+2021-03-16,N.L.: Carnes selectas,Nuevo León,Cuarto,,82.0
+2021-03-16,N.L.: Carnes selectas,Nuevo León,Chuleton Diezmillo,130.0,145.0
+2021-03-16,N.L.: Carnes selectas,Nuevo León,Loing,,115.0
+2021-03-16,N.L.: Carnes selectas,Nuevo León,Paleta,,90.0
+2021-03-16,N.L.: Carnes selectas,Nuevo León,Pata,,25.0
+2021-03-16,N.L.: Carnes selectas,Nuevo León,Pecho,,85.0
+2021-03-16,N.L.: Carnes selectas,Nuevo León,Pescuezo,,85.0
+2021-03-16,N.L.: Carnes selectas,Nuevo León,Pulpa Blanca,,115.0
+2021-03-16,N.L.: Carnes selectas,Nuevo León,Pulpa Bola,,125.0
+2021-03-16,N.L.: Carnes selectas,Nuevo León,Pulpa Negra,,135.0
+2021-03-16,N.L.: Carnes selectas,Nuevo León,Sirloin,,120.0
+2021-03-18,N.L.: Carnes selectas,Nuevo León,Arrachera,,180.0
+2021-03-18,N.L.: Carnes selectas,Nuevo León,Cebo limpio,,22.0
+2021-03-18,N.L.: Carnes selectas,Nuevo León,Costillar,,85.0
+2021-03-18,N.L.: Carnes selectas,Nuevo León,Cuarto,,82.0
+2021-03-18,N.L.: Carnes selectas,Nuevo León,Chuleton Diezmillo,130.0,145.0
+2021-03-18,N.L.: Carnes selectas,Nuevo León,Loing,,115.0
+2021-03-18,N.L.: Carnes selectas,Nuevo León,Paleta,,90.0
+2021-03-18,N.L.: Carnes selectas,Nuevo León,Pata,,25.0
+2021-03-18,N.L.: Carnes selectas,Nuevo León,Pecho,,85.0
+2021-03-18,N.L.: Carnes selectas,Nuevo León,Pescuezo,,85.0
+2021-03-18,N.L.: Carnes selectas,Nuevo León,Pulpa Blanca,,115.0
+2021-03-18,N.L.: Carnes selectas,Nuevo León,Pulpa Bola,,125.0
+2021-03-18,N.L.: Carnes selectas,Nuevo León,Pulpa Negra,,135.0
+2021-03-18,N.L.: Carnes selectas,Nuevo León,Sirloin,,120.0
+2021-03-19,N.L.: Carnes selectas,Nuevo León,Arrachera,,180.0
+2021-03-19,N.L.: Carnes selectas,Nuevo León,Cebo limpio,,22.0
+2021-03-19,N.L.: Carnes selectas,Nuevo León,Costillar,,85.0
+2021-03-19,N.L.: Carnes selectas,Nuevo León,Cuarto,,82.0
+2021-03-19,N.L.: Carnes selectas,Nuevo León,Chuleton Diezmillo,130.0,145.0
+2021-03-19,N.L.: Carnes selectas,Nuevo León,Loing,,115.0
+2021-03-19,N.L.: Carnes selectas,Nuevo León,Paleta,,90.0
+2021-03-19,N.L.: Carnes selectas,Nuevo León,Pata,,25.0
+2021-03-19,N.L.: Carnes selectas,Nuevo León,Pecho,,85.0
+2021-03-19,N.L.: Carnes selectas,Nuevo León,Pescuezo,,85.0
+2021-03-19,N.L.: Carnes selectas,Nuevo León,Pulpa Blanca,,115.0
+2021-03-19,N.L.: Carnes selectas,Nuevo León,Pulpa Bola,,125.0
+2021-03-19,N.L.: Carnes selectas,Nuevo León,Pulpa Negra,,135.0
+2021-03-19,N.L.: Carnes selectas,Nuevo León,Sirloin,,120.0
+2021-03-23,N.L.: Carnes selectas,Nuevo León,Arrachera,,180.0
+2021-03-23,N.L.: Carnes selectas,Nuevo León,Cebo limpio,,22.0
+2021-03-23,N.L.: Carnes selectas,Nuevo León,Costillar,,85.0
+2021-03-23,N.L.: Carnes selectas,Nuevo León,Cuarto,,82.0
+2021-03-23,N.L.: Carnes selectas,Nuevo León,Chuleton Diezmillo,130.0,145.0
+2021-03-23,N.L.: Carnes selectas,Nuevo León,Loing,,110.0
+2021-03-23,N.L.: Carnes selectas,Nuevo León,Paleta,,90.0
+2021-03-23,N.L.: Carnes selectas,Nuevo León,Pata,,25.0
+2021-03-23,N.L.: Carnes selectas,Nuevo León,Pecho,,85.0
+2021-03-23,N.L.: Carnes selectas,Nuevo León,Pescuezo,,85.0
+2021-03-23,N.L.: Carnes selectas,Nuevo León,Pulpa Blanca,,115.0
+2021-03-23,N.L.: Carnes selectas,Nuevo León,Pulpa Bola,,125.0
+2021-03-23,N.L.: Carnes selectas,Nuevo León,Pulpa Negra,,135.0
+2021-03-23,N.L.: Carnes selectas,Nuevo León,Sirloin,,120.0
+2021-03-25,N.L.: Carnes selectas,Nuevo León,Arrachera,,180.0
+2021-03-25,N.L.: Carnes selectas,Nuevo León,Cebo limpio,,22.0
+2021-03-25,N.L.: Carnes selectas,Nuevo León,Costillar,,85.0
+2021-03-25,N.L.: Carnes selectas,Nuevo León,Cuarto,,82.0
+2021-03-25,N.L.: Carnes selectas,Nuevo León,Chuleton Diezmillo,130.0,145.0
+2021-03-25,N.L.: Carnes selectas,Nuevo León,Loing,,115.0
+2021-03-25,N.L.: Carnes selectas,Nuevo León,Paleta,,90.0
+2021-03-25,N.L.: Carnes selectas,Nuevo León,Pata,,25.0
+2021-03-25,N.L.: Carnes selectas,Nuevo León,Pecho,,85.0
+2021-03-25,N.L.: Carnes selectas,Nuevo León,Pescuezo,,85.0
+2021-03-25,N.L.: Carnes selectas,Nuevo León,Pulpa Blanca,,115.0
+2021-03-25,N.L.: Carnes selectas,Nuevo León,Pulpa Bola,,125.0
+2021-03-25,N.L.: Carnes selectas,Nuevo León,Pulpa Negra,,135.0
+2021-03-25,N.L.: Carnes selectas,Nuevo León,Sirloin,,120.0
+2021-03-26,N.L.: Carnes selectas,Nuevo León,Arrachera,,180.0
+2021-03-26,N.L.: Carnes selectas,Nuevo León,Cebo limpio,,22.0
+2021-03-26,N.L.: Carnes selectas,Nuevo León,Costillar,,85.0
+2021-03-26,N.L.: Carnes selectas,Nuevo León,Cuarto,,82.0
+2021-03-26,N.L.: Carnes selectas,Nuevo León,Chuleton Diezmillo,130.0,145.0
+2021-03-26,N.L.: Carnes selectas,Nuevo León,Loing,,115.0
+2021-03-26,N.L.: Carnes selectas,Nuevo León,Paleta,,90.0
+2021-03-26,N.L.: Carnes selectas,Nuevo León,Pata,,25.0
+2021-03-26,N.L.: Carnes selectas,Nuevo León,Pecho,,85.0
+2021-03-26,N.L.: Carnes selectas,Nuevo León,Pescuezo,,85.0
+2021-03-26,N.L.: Carnes selectas,Nuevo León,Pulpa Blanca,,115.0
+2021-03-26,N.L.: Carnes selectas,Nuevo León,Pulpa Bola,,125.0
+2021-03-26,N.L.: Carnes selectas,Nuevo León,Pulpa Negra,,135.0
+2021-03-26,N.L.: Carnes selectas,Nuevo León,Sirloin,,120.0
+2021-03-30,N.L.: Carnes selectas,Nuevo León,Arrachera,,180.0
+2021-03-30,N.L.: Carnes selectas,Nuevo León,Cebo limpio,,22.0
+2021-03-30,N.L.: Carnes selectas,Nuevo León,Costillar,,85.0
+2021-03-30,N.L.: Carnes selectas,Nuevo León,Chuleton Diezmillo,130.0,145.0
+2021-03-30,N.L.: Carnes selectas,Nuevo León,Loing,,115.0
+2021-03-30,N.L.: Carnes selectas,Nuevo León,Paleta,,90.0
+2021-03-30,N.L.: Carnes selectas,Nuevo León,Pata,,25.0
+2021-03-30,N.L.: Carnes selectas,Nuevo León,Pecho,,85.0
+2021-03-30,N.L.: Carnes selectas,Nuevo León,Pescuezo,,85.0
+2021-03-30,N.L.: Carnes selectas,Nuevo León,Pulpa Blanca,,115.0
+2021-03-30,N.L.: Carnes selectas,Nuevo León,Pulpa Bola,,125.0
+2021-03-30,N.L.: Carnes selectas,Nuevo León,Pulpa Negra,,135.0
+2021-03-30,N.L.: Carnes selectas,Nuevo León,Sirloin,,120.0
+2021-03-31,N.L.: Carnes selectas,Nuevo León,Arrachera,,180.0
+2021-03-31,N.L.: Carnes selectas,Nuevo León,Cebo limpio,,22.0
+2021-03-31,N.L.: Carnes selectas,Nuevo León,Costillar,,85.0
+2021-03-31,N.L.: Carnes selectas,Nuevo León,Cuarto,,82.0
+2021-03-31,N.L.: Carnes selectas,Nuevo León,Chuleton Diezmillo,130.0,145.0
+2021-03-31,N.L.: Carnes selectas,Nuevo León,Loing,,115.0
+2021-03-31,N.L.: Carnes selectas,Nuevo León,Paleta,,90.0
+2021-03-31,N.L.: Carnes selectas,Nuevo León,Pata,,25.0
+2021-03-31,N.L.: Carnes selectas,Nuevo León,Pecho,,85.0
+2021-03-31,N.L.: Carnes selectas,Nuevo León,Pescuezo,,85.0
+2021-03-31,N.L.: Carnes selectas,Nuevo León,Pulpa Blanca,,115.0
+2021-03-31,N.L.: Carnes selectas,Nuevo León,Pulpa Bola,,125.0
+2021-03-31,N.L.: Carnes selectas,Nuevo León,Pulpa Negra,,135.0
+2021-03-31,N.L.: Carnes selectas,Nuevo León,Sirloin,,120.0
+2021-03-02,"N.L.: Carnes Viba, SA de CV",Nuevo León,Arrachera,,190.0
+2021-03-02,"N.L.: Carnes Viba, SA de CV",Nuevo León,Cebo greña,,18.0
+2021-03-02,"N.L.: Carnes Viba, SA de CV",Nuevo León,Cebo limpio,,21.0
+2021-03-02,"N.L.: Carnes Viba, SA de CV",Nuevo León,Costillar,,82.0
+2021-03-02,"N.L.: Carnes Viba, SA de CV",Nuevo León,Chuleton Diezmillo,130.0,150.0
+2021-03-02,"N.L.: Carnes Viba, SA de CV",Nuevo León,Lomo,,160.0
+2021-03-02,"N.L.: Carnes Viba, SA de CV",Nuevo León,Paleta,,92.0
+2021-03-02,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pecho,,76.0
+2021-03-02,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pescuezo,,85.0
+2021-03-02,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pulpa Blanca,,110.0
+2021-03-02,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pulpa Bola,,115.0
+2021-03-02,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pulpa Negra,,120.0
+2021-03-02,"N.L.: Carnes Viba, SA de CV",Nuevo León,Sirloin,,130.0
+2021-03-04,"N.L.: Carnes Viba, SA de CV",Nuevo León,Arrachera,,190.0
+2021-03-04,"N.L.: Carnes Viba, SA de CV",Nuevo León,Cebo greña,,18.0
+2021-03-04,"N.L.: Carnes Viba, SA de CV",Nuevo León,Cebo limpio,,21.0
+2021-03-04,"N.L.: Carnes Viba, SA de CV",Nuevo León,Costillar,,82.0
+2021-03-04,"N.L.: Carnes Viba, SA de CV",Nuevo León,Chuleton Diezmillo,130.0,150.0
+2021-03-04,"N.L.: Carnes Viba, SA de CV",Nuevo León,Lomo,,160.0
+2021-03-04,"N.L.: Carnes Viba, SA de CV",Nuevo León,Paleta,,92.0
+2021-03-04,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pecho,,76.0
+2021-03-04,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pescuezo,,85.0
+2021-03-04,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pulpa Blanca,,110.0
+2021-03-04,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pulpa Bola,,115.0
+2021-03-04,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pulpa Negra,,120.0
+2021-03-04,"N.L.: Carnes Viba, SA de CV",Nuevo León,Sirloin,,120.0
+2021-03-05,"N.L.: Carnes Viba, SA de CV",Nuevo León,Arrachera,,190.0
+2021-03-05,"N.L.: Carnes Viba, SA de CV",Nuevo León,Cebo greña,,18.0
+2021-03-05,"N.L.: Carnes Viba, SA de CV",Nuevo León,Cebo limpio,,21.0
+2021-03-05,"N.L.: Carnes Viba, SA de CV",Nuevo León,Costillar,,82.0
+2021-03-05,"N.L.: Carnes Viba, SA de CV",Nuevo León,Chuleton Diezmillo,130.0,150.0
+2021-03-05,"N.L.: Carnes Viba, SA de CV",Nuevo León,Lomo,,160.0
+2021-03-05,"N.L.: Carnes Viba, SA de CV",Nuevo León,Paleta,,92.0
+2021-03-05,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pecho,,76.0
+2021-03-05,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pescuezo,,85.0
+2021-03-05,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pulpa Blanca,,110.0
+2021-03-05,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pulpa Bola,,115.0
+2021-03-05,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pulpa Negra,,120.0
+2021-03-05,"N.L.: Carnes Viba, SA de CV",Nuevo León,Sirloin,,130.0
+2021-03-09,"N.L.: Carnes Viba, SA de CV",Nuevo León,Arrachera,,190.0
+2021-03-09,"N.L.: Carnes Viba, SA de CV",Nuevo León,Cebo greña,,18.0
+2021-03-09,"N.L.: Carnes Viba, SA de CV",Nuevo León,Cebo limpio,,21.0
+2021-03-09,"N.L.: Carnes Viba, SA de CV",Nuevo León,Costillar,,82.0
+2021-03-09,"N.L.: Carnes Viba, SA de CV",Nuevo León,Chuleton Diezmillo,130.0,150.0
+2021-03-09,"N.L.: Carnes Viba, SA de CV",Nuevo León,Lomo,,160.0
+2021-03-09,"N.L.: Carnes Viba, SA de CV",Nuevo León,Paleta,,92.0
+2021-03-09,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pecho,,76.0
+2021-03-09,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pescuezo,,85.0
+2021-03-09,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pulpa Blanca,,110.0
+2021-03-09,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pulpa Bola,,115.0
+2021-03-09,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pulpa Negra,,120.0
+2021-03-09,"N.L.: Carnes Viba, SA de CV",Nuevo León,Sirloin,,130.0
+2021-03-11,"N.L.: Carnes Viba, SA de CV",Nuevo León,Arrachera,,190.0
+2021-03-11,"N.L.: Carnes Viba, SA de CV",Nuevo León,Cebo greña,,18.0
+2021-03-11,"N.L.: Carnes Viba, SA de CV",Nuevo León,Cebo limpio,,21.0
+2021-03-11,"N.L.: Carnes Viba, SA de CV",Nuevo León,Costillar,,82.0
+2021-03-11,"N.L.: Carnes Viba, SA de CV",Nuevo León,Chuleton Diezmillo,130.0,150.0
+2021-03-11,"N.L.: Carnes Viba, SA de CV",Nuevo León,Lomo,,160.0
+2021-03-11,"N.L.: Carnes Viba, SA de CV",Nuevo León,Paleta,,92.0
+2021-03-11,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pecho,,76.0
+2021-03-11,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pescuezo,,85.0
+2021-03-11,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pulpa Blanca,,110.0
+2021-03-11,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pulpa Bola,,115.0
+2021-03-11,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pulpa Negra,,120.0
+2021-03-11,"N.L.: Carnes Viba, SA de CV",Nuevo León,Sirloin,,130.0
+2021-03-12,"N.L.: Carnes Viba, SA de CV",Nuevo León,Arrachera,,190.0
+2021-03-12,"N.L.: Carnes Viba, SA de CV",Nuevo León,Cebo greña,,18.0
+2021-03-12,"N.L.: Carnes Viba, SA de CV",Nuevo León,Cebo limpio,,21.0
+2021-03-12,"N.L.: Carnes Viba, SA de CV",Nuevo León,Costillar,,82.0
+2021-03-12,"N.L.: Carnes Viba, SA de CV",Nuevo León,Chuleton Diezmillo,130.0,150.0
+2021-03-12,"N.L.: Carnes Viba, SA de CV",Nuevo León,Lomo,,160.0
+2021-03-12,"N.L.: Carnes Viba, SA de CV",Nuevo León,Paleta,,92.0
+2021-03-12,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pecho,,76.0
+2021-03-12,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pescuezo,,85.0
+2021-03-12,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pulpa Blanca,,110.0
+2021-03-12,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pulpa Bola,,115.0
+2021-03-12,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pulpa Negra,,120.0
+2021-03-12,"N.L.: Carnes Viba, SA de CV",Nuevo León,Sirloin,,130.0
+2021-03-16,"N.L.: Carnes Viba, SA de CV",Nuevo León,Arrachera,,190.0
+2021-03-16,"N.L.: Carnes Viba, SA de CV",Nuevo León,Cebo greña,,18.0
+2021-03-16,"N.L.: Carnes Viba, SA de CV",Nuevo León,Cebo limpio,,21.0
+2021-03-16,"N.L.: Carnes Viba, SA de CV",Nuevo León,Costillar,,82.0
+2021-03-16,"N.L.: Carnes Viba, SA de CV",Nuevo León,Chuleton Diezmillo,130.0,150.0
+2021-03-16,"N.L.: Carnes Viba, SA de CV",Nuevo León,Lomo,,160.0
+2021-03-16,"N.L.: Carnes Viba, SA de CV",Nuevo León,Paleta,,92.0
+2021-03-16,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pecho,,76.0
+2021-03-16,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pescuezo,,85.0
+2021-03-16,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pulpa Blanca,,110.0
+2021-03-16,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pulpa Bola,,115.0
+2021-03-16,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pulpa Negra,,120.0
+2021-03-16,"N.L.: Carnes Viba, SA de CV",Nuevo León,Sirloin,,130.0
+2021-03-18,"N.L.: Carnes Viba, SA de CV",Nuevo León,Arrachera,,190.0
+2021-03-18,"N.L.: Carnes Viba, SA de CV",Nuevo León,Cebo greña,,18.0
+2021-03-18,"N.L.: Carnes Viba, SA de CV",Nuevo León,Cebo limpio,,21.0
+2021-03-18,"N.L.: Carnes Viba, SA de CV",Nuevo León,Costillar,,82.0
+2021-03-18,"N.L.: Carnes Viba, SA de CV",Nuevo León,Chuleton Diezmillo,130.0,150.0
+2021-03-18,"N.L.: Carnes Viba, SA de CV",Nuevo León,Lomo,,160.0
+2021-03-18,"N.L.: Carnes Viba, SA de CV",Nuevo León,Paleta,,92.0
+2021-03-18,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pecho,,76.0
+2021-03-18,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pescuezo,,85.0
+2021-03-18,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pulpa Blanca,,110.0
+2021-03-18,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pulpa Bola,,115.0
+2021-03-18,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pulpa Negra,,120.0
+2021-03-18,"N.L.: Carnes Viba, SA de CV",Nuevo León,Sirloin,,130.0
+2021-03-19,"N.L.: Carnes Viba, SA de CV",Nuevo León,Arrachera,,190.0
+2021-03-19,"N.L.: Carnes Viba, SA de CV",Nuevo León,Cebo greña,,18.0
+2021-03-19,"N.L.: Carnes Viba, SA de CV",Nuevo León,Cebo limpio,,21.0
+2021-03-19,"N.L.: Carnes Viba, SA de CV",Nuevo León,Costillar,,82.0
+2021-03-19,"N.L.: Carnes Viba, SA de CV",Nuevo León,Chuleton Diezmillo,130.0,150.0
+2021-03-19,"N.L.: Carnes Viba, SA de CV",Nuevo León,Lomo,,160.0
+2021-03-19,"N.L.: Carnes Viba, SA de CV",Nuevo León,Paleta,,92.0
+2021-03-19,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pecho,,76.0
+2021-03-19,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pescuezo,,85.0
+2021-03-19,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pulpa Blanca,,110.0
+2021-03-19,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pulpa Bola,,115.0
+2021-03-19,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pulpa Negra,,120.0
+2021-03-19,"N.L.: Carnes Viba, SA de CV",Nuevo León,Sirloin,,130.0
+2021-03-23,"N.L.: Carnes Viba, SA de CV",Nuevo León,Arrachera,,190.0
+2021-03-23,"N.L.: Carnes Viba, SA de CV",Nuevo León,Cebo greña,,18.0
+2021-03-23,"N.L.: Carnes Viba, SA de CV",Nuevo León,Cebo limpio,,21.0
+2021-03-23,"N.L.: Carnes Viba, SA de CV",Nuevo León,Costillar,,82.0
+2021-03-23,"N.L.: Carnes Viba, SA de CV",Nuevo León,Chuleton Diezmillo,130.0,150.0
+2021-03-23,"N.L.: Carnes Viba, SA de CV",Nuevo León,Lomo,,160.0
+2021-03-23,"N.L.: Carnes Viba, SA de CV",Nuevo León,Paleta,,92.0
+2021-03-23,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pecho,,76.0
+2021-03-23,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pescuezo,,85.0
+2021-03-23,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pulpa Blanca,,110.0
+2021-03-23,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pulpa Bola,,115.0
+2021-03-23,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pulpa Negra,,120.0
+2021-03-23,"N.L.: Carnes Viba, SA de CV",Nuevo León,Sirloin,,130.0
+2021-03-25,"N.L.: Carnes Viba, SA de CV",Nuevo León,Arrachera,,190.0
+2021-03-25,"N.L.: Carnes Viba, SA de CV",Nuevo León,Cebo greña,,18.0
+2021-03-25,"N.L.: Carnes Viba, SA de CV",Nuevo León,Cebo limpio,,21.0
+2021-03-25,"N.L.: Carnes Viba, SA de CV",Nuevo León,Costillar,,82.0
+2021-03-25,"N.L.: Carnes Viba, SA de CV",Nuevo León,Chuleton Diezmillo,130.0,150.0
+2021-03-25,"N.L.: Carnes Viba, SA de CV",Nuevo León,Lomo,,160.0
+2021-03-25,"N.L.: Carnes Viba, SA de CV",Nuevo León,Paleta,,92.0
+2021-03-25,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pecho,,76.0
+2021-03-25,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pescuezo,,85.0
+2021-03-25,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pulpa Blanca,,110.0
+2021-03-25,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pulpa Bola,,115.0
+2021-03-25,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pulpa Negra,,120.0
+2021-03-25,"N.L.: Carnes Viba, SA de CV",Nuevo León,Sirloin,,130.0
+2021-03-26,"N.L.: Carnes Viba, SA de CV",Nuevo León,Arrachera,,190.0
+2021-03-26,"N.L.: Carnes Viba, SA de CV",Nuevo León,Cebo greña,,18.0
+2021-03-26,"N.L.: Carnes Viba, SA de CV",Nuevo León,Cebo limpio,,21.0
+2021-03-26,"N.L.: Carnes Viba, SA de CV",Nuevo León,Costillar,,82.0
+2021-03-26,"N.L.: Carnes Viba, SA de CV",Nuevo León,Chuleton Diezmillo,130.0,150.0
+2021-03-26,"N.L.: Carnes Viba, SA de CV",Nuevo León,Lomo,,160.0
+2021-03-26,"N.L.: Carnes Viba, SA de CV",Nuevo León,Paleta,,92.0
+2021-03-26,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pecho,,76.0
+2021-03-26,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pescuezo,,85.0
+2021-03-26,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pulpa Blanca,,110.0
+2021-03-26,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pulpa Bola,,115.0
+2021-03-26,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pulpa Negra,,120.0
+2021-03-26,"N.L.: Carnes Viba, SA de CV",Nuevo León,Sirloin,,130.0
+2021-03-30,"N.L.: Carnes Viba, SA de CV",Nuevo León,Arrachera,,190.0
+2021-03-30,"N.L.: Carnes Viba, SA de CV",Nuevo León,Cebo greña,,18.0
+2021-03-30,"N.L.: Carnes Viba, SA de CV",Nuevo León,Cebo limpio,,21.0
+2021-03-30,"N.L.: Carnes Viba, SA de CV",Nuevo León,Costillar,,82.0
+2021-03-30,"N.L.: Carnes Viba, SA de CV",Nuevo León,Chuleton Diezmillo,130.0,150.0
+2021-03-30,"N.L.: Carnes Viba, SA de CV",Nuevo León,Paleta,,92.0
+2021-03-30,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pecho,,76.0
+2021-03-30,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pescuezo,,85.0
+2021-03-30,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pulpa Blanca,,110.0
+2021-03-30,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pulpa Bola,,115.0
+2021-03-30,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pulpa Negra,,120.0
+2021-03-30,"N.L.: Carnes Viba, SA de CV",Nuevo León,Sirloin,,130.0
+2021-03-31,"N.L.: Carnes Viba, SA de CV",Nuevo León,Arrachera,,190.0
+2021-03-31,"N.L.: Carnes Viba, SA de CV",Nuevo León,Cebo greña,,18.0
+2021-03-31,"N.L.: Carnes Viba, SA de CV",Nuevo León,Cebo limpio,,21.0
+2021-03-31,"N.L.: Carnes Viba, SA de CV",Nuevo León,Costillar,,82.0
+2021-03-31,"N.L.: Carnes Viba, SA de CV",Nuevo León,Chuleton Diezmillo,130.0,150.0
+2021-03-31,"N.L.: Carnes Viba, SA de CV",Nuevo León,Lomo,,160.0
+2021-03-31,"N.L.: Carnes Viba, SA de CV",Nuevo León,Paleta,,92.0
+2021-03-31,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pecho,,76.0
+2021-03-31,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pescuezo,,85.0
+2021-03-31,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pulpa Blanca,,110.0
+2021-03-31,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pulpa Bola,,115.0
+2021-03-31,"N.L.: Carnes Viba, SA de CV",Nuevo León,Pulpa Negra,,120.0
+2021-03-31,"N.L.: Carnes Viba, SA de CV",Nuevo León,Sirloin,,130.0
+2021-03-02,N.L.: Central de Carnes de Nuevo León,Nuevo León,Cebo greña,,19.0
+2021-03-02,N.L.: Central de Carnes de Nuevo León,Nuevo León,Cebo limpio,,23.0
+2021-03-02,N.L.: Central de Carnes de Nuevo León,Nuevo León,Costillar,,110.0
+2021-03-02,N.L.: Central de Carnes de Nuevo León,Nuevo León,Chuleton Diezmillo,150.0,160.0
+2021-03-02,N.L.: Central de Carnes de Nuevo León,Nuevo León,Paleta,,108.0
+2021-03-02,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pulpa Blanca,,155.0
+2021-03-02,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pulpa Bola,,135.0
+2021-03-02,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pulpa Negra,,160.0
+2021-03-02,N.L.: Central de Carnes de Nuevo León,Nuevo León,Sirloin,,175.0
+2021-03-04,N.L.: Central de Carnes de Nuevo León,Nuevo León,Cebo greña,,19.0
+2021-03-04,N.L.: Central de Carnes de Nuevo León,Nuevo León,Cebo limpio,,23.0
+2021-03-04,N.L.: Central de Carnes de Nuevo León,Nuevo León,Costillar,,110.0
+2021-03-04,N.L.: Central de Carnes de Nuevo León,Nuevo León,Chuleton Diezmillo,150.0,160.0
+2021-03-04,N.L.: Central de Carnes de Nuevo León,Nuevo León,Paleta,,108.0
+2021-03-04,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pulpa Blanca,,155.0
+2021-03-04,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pulpa Bola,,135.0
+2021-03-04,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pulpa Negra,,160.0
+2021-03-04,N.L.: Central de Carnes de Nuevo León,Nuevo León,Sirloin,,175.0
+2021-03-05,N.L.: Central de Carnes de Nuevo León,Nuevo León,Cebo greña,,19.0
+2021-03-05,N.L.: Central de Carnes de Nuevo León,Nuevo León,Cebo limpio,,23.0
+2021-03-05,N.L.: Central de Carnes de Nuevo León,Nuevo León,Costillar,,110.0
+2021-03-05,N.L.: Central de Carnes de Nuevo León,Nuevo León,Chuleton Diezmillo,150.0,160.0
+2021-03-05,N.L.: Central de Carnes de Nuevo León,Nuevo León,Paleta,,108.0
+2021-03-05,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pulpa Blanca,,155.0
+2021-03-05,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pulpa Bola,,135.0
+2021-03-05,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pulpa Negra,,160.0
+2021-03-05,N.L.: Central de Carnes de Nuevo León,Nuevo León,Sirloin,,175.0
+2021-03-09,N.L.: Central de Carnes de Nuevo León,Nuevo León,Cebo greña,,19.0
+2021-03-09,N.L.: Central de Carnes de Nuevo León,Nuevo León,Cebo limpio,,23.0
+2021-03-09,N.L.: Central de Carnes de Nuevo León,Nuevo León,Costillar,,110.0
+2021-03-09,N.L.: Central de Carnes de Nuevo León,Nuevo León,Chuleton Diezmillo,150.0,160.0
+2021-03-09,N.L.: Central de Carnes de Nuevo León,Nuevo León,Paleta,,108.0
+2021-03-09,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pulpa Blanca,,155.0
+2021-03-09,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pulpa Bola,,135.0
+2021-03-09,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pulpa Negra,,160.0
+2021-03-09,N.L.: Central de Carnes de Nuevo León,Nuevo León,Sirloin,,175.0
+2021-03-11,N.L.: Central de Carnes de Nuevo León,Nuevo León,Cebo greña,,19.0
+2021-03-11,N.L.: Central de Carnes de Nuevo León,Nuevo León,Cebo limpio,,23.0
+2021-03-11,N.L.: Central de Carnes de Nuevo León,Nuevo León,Costillar,,110.0
+2021-03-11,N.L.: Central de Carnes de Nuevo León,Nuevo León,Chuleton Diezmillo,150.0,160.0
+2021-03-11,N.L.: Central de Carnes de Nuevo León,Nuevo León,Paleta,,108.0
+2021-03-11,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pulpa Blanca,,155.0
+2021-03-11,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pulpa Bola,,135.0
+2021-03-11,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pulpa Negra,,160.0
+2021-03-11,N.L.: Central de Carnes de Nuevo León,Nuevo León,Sirloin,,175.0
+2021-03-12,N.L.: Central de Carnes de Nuevo León,Nuevo León,Cebo greña,,19.0
+2021-03-12,N.L.: Central de Carnes de Nuevo León,Nuevo León,Cebo limpio,,23.0
+2021-03-12,N.L.: Central de Carnes de Nuevo León,Nuevo León,Costillar,,110.0
+2021-03-12,N.L.: Central de Carnes de Nuevo León,Nuevo León,Chuleton Diezmillo,150.0,160.0
+2021-03-12,N.L.: Central de Carnes de Nuevo León,Nuevo León,Paleta,,108.0
+2021-03-12,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pulpa Blanca,,155.0
+2021-03-12,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pulpa Bola,,135.0
+2021-03-12,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pulpa Negra,,160.0
+2021-03-12,N.L.: Central de Carnes de Nuevo León,Nuevo León,Sirloin,,175.0
+2021-03-16,N.L.: Central de Carnes de Nuevo León,Nuevo León,Cebo limpio,,22.0
+2021-03-16,N.L.: Central de Carnes de Nuevo León,Nuevo León,Costillar,,99.0
+2021-03-16,N.L.: Central de Carnes de Nuevo León,Nuevo León,Chuleton Diezmillo,180.0,190.0
+2021-03-16,N.L.: Central de Carnes de Nuevo León,Nuevo León,Paleta,,108.0
+2021-03-16,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pecho,,110.0
+2021-03-16,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pescuezo,,155.0
+2021-03-16,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pulpa Blanca,,155.0
+2021-03-16,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pulpa Bola,,135.0
+2021-03-16,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pulpa Negra,,195.0
+2021-03-16,N.L.: Central de Carnes de Nuevo León,Nuevo León,Sirloin,,175.0
+2021-03-18,N.L.: Central de Carnes de Nuevo León,Nuevo León,Cebo limpio,,22.0
+2021-03-18,N.L.: Central de Carnes de Nuevo León,Nuevo León,Costillar,,99.0
+2021-03-18,N.L.: Central de Carnes de Nuevo León,Nuevo León,Chuleton Diezmillo,180.0,190.0
+2021-03-18,N.L.: Central de Carnes de Nuevo León,Nuevo León,Paleta,,108.0
+2021-03-18,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pecho,,110.0
+2021-03-18,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pescuezo,,155.0
+2021-03-18,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pulpa Blanca,,155.0
+2021-03-18,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pulpa Bola,,135.0
+2021-03-18,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pulpa Negra,,195.0
+2021-03-18,N.L.: Central de Carnes de Nuevo León,Nuevo León,Sirloin,,175.0
+2021-03-19,N.L.: Central de Carnes de Nuevo León,Nuevo León,Cebo limpio,,22.0
+2021-03-19,N.L.: Central de Carnes de Nuevo León,Nuevo León,Costillar,,99.0
+2021-03-19,N.L.: Central de Carnes de Nuevo León,Nuevo León,Chuleton Diezmillo,180.0,190.0
+2021-03-19,N.L.: Central de Carnes de Nuevo León,Nuevo León,Paleta,,108.0
+2021-03-19,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pecho,,110.0
+2021-03-19,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pescuezo,,155.0
+2021-03-19,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pulpa Blanca,,155.0
+2021-03-19,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pulpa Bola,,135.0
+2021-03-19,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pulpa Negra,,195.0
+2021-03-19,N.L.: Central de Carnes de Nuevo León,Nuevo León,Sirloin,,175.0
+2021-03-23,N.L.: Central de Carnes de Nuevo León,Nuevo León,Cebo limpio,,22.0
+2021-03-23,N.L.: Central de Carnes de Nuevo León,Nuevo León,Costillar,,99.0
+2021-03-23,N.L.: Central de Carnes de Nuevo León,Nuevo León,Chuleton Diezmillo,180.0,190.0
+2021-03-23,N.L.: Central de Carnes de Nuevo León,Nuevo León,Paleta,,108.0
+2021-03-23,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pecho,,110.0
+2021-03-23,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pescuezo,,155.0
+2021-03-23,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pulpa Bola,,135.0
+2021-03-23,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pulpa Negra,,195.0
+2021-03-23,N.L.: Central de Carnes de Nuevo León,Nuevo León,Sirloin,,175.0
+2021-03-25,N.L.: Central de Carnes de Nuevo León,Nuevo León,Cebo limpio,,22.0
+2021-03-25,N.L.: Central de Carnes de Nuevo León,Nuevo León,Costillar,,99.0
+2021-03-25,N.L.: Central de Carnes de Nuevo León,Nuevo León,Chuleton Diezmillo,180.0,190.0
+2021-03-25,N.L.: Central de Carnes de Nuevo León,Nuevo León,Paleta,,108.0
+2021-03-25,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pecho,,110.0
+2021-03-25,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pescuezo,,155.0
+2021-03-25,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pulpa Blanca,,155.0
+2021-03-25,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pulpa Bola,,135.0
+2021-03-25,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pulpa Negra,,195.0
+2021-03-25,N.L.: Central de Carnes de Nuevo León,Nuevo León,Sirloin,,175.0
+2021-03-30,N.L.: Central de Carnes de Nuevo León,Nuevo León,Cebo limpio,,22.0
+2021-03-30,N.L.: Central de Carnes de Nuevo León,Nuevo León,Costillar,,99.0
+2021-03-30,N.L.: Central de Carnes de Nuevo León,Nuevo León,Chuleton Diezmillo,180.0,190.0
+2021-03-30,N.L.: Central de Carnes de Nuevo León,Nuevo León,Paleta,,108.0
+2021-03-30,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pecho,,110.0
+2021-03-30,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pescuezo,,155.0
+2021-03-30,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pulpa Blanca,,155.0
+2021-03-30,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pulpa Bola,,135.0
+2021-03-30,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pulpa Negra,,195.0
+2021-03-30,N.L.: Central de Carnes de Nuevo León,Nuevo León,Sirloin,,175.0
+2021-03-31,N.L.: Central de Carnes de Nuevo León,Nuevo León,Cebo limpio,,22.0
+2021-03-31,N.L.: Central de Carnes de Nuevo León,Nuevo León,Costillar,,99.0
+2021-03-31,N.L.: Central de Carnes de Nuevo León,Nuevo León,Chuleton Diezmillo,180.0,190.0
+2021-03-31,N.L.: Central de Carnes de Nuevo León,Nuevo León,Paleta,,108.0
+2021-03-31,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pecho,,110.0
+2021-03-31,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pescuezo,,155.0
+2021-03-31,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pulpa Blanca,,155.0
+2021-03-31,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pulpa Bola,,135.0
+2021-03-31,N.L.: Central de Carnes de Nuevo León,Nuevo León,Pulpa Negra,,195.0
+2021-03-31,N.L.: Central de Carnes de Nuevo León,Nuevo León,Sirloin,,175.0
+2021-03-02,N.L.: El Oferton de Cantu,Nuevo León,Arrachera,,168.0
+2021-03-02,N.L.: El Oferton de Cantu,Nuevo León,Chuleton Diezmillo,,148.0
+2021-03-02,N.L.: El Oferton de Cantu,Nuevo León,Paleta,,85.0
+2021-03-02,N.L.: El Oferton de Cantu,Nuevo León,Pata,,43.0
+2021-03-02,N.L.: El Oferton de Cantu,Nuevo León,Sirloin,,142.0
+2021-03-04,N.L.: El Oferton de Cantu,Nuevo León,Arrachera,,168.0
+2021-03-04,N.L.: El Oferton de Cantu,Nuevo León,Chuleton Diezmillo,,148.0
+2021-03-04,N.L.: El Oferton de Cantu,Nuevo León,Paleta,,85.0
+2021-03-04,N.L.: El Oferton de Cantu,Nuevo León,Sirloin,,142.0
+2021-03-05,N.L.: El Oferton de Cantu,Nuevo León,Arrachera,,168.0
+2021-03-05,N.L.: El Oferton de Cantu,Nuevo León,Chuleton Diezmillo,,148.0
+2021-03-05,N.L.: El Oferton de Cantu,Nuevo León,Paleta,,85.0
+2021-03-05,N.L.: El Oferton de Cantu,Nuevo León,Sirloin,,142.0
+2021-03-09,N.L.: El Oferton de Cantu,Nuevo León,Arrachera,,168.0
+2021-03-09,N.L.: El Oferton de Cantu,Nuevo León,Chuleton Diezmillo,,148.0
+2021-03-09,N.L.: El Oferton de Cantu,Nuevo León,Paleta,,85.0
+2021-03-09,N.L.: El Oferton de Cantu,Nuevo León,Sirloin,,142.0
+2021-03-11,N.L.: El Oferton de Cantu,Nuevo León,Arrachera,,168.0
+2021-03-11,N.L.: El Oferton de Cantu,Nuevo León,Chuleton Diezmillo,,148.0
+2021-03-11,N.L.: El Oferton de Cantu,Nuevo León,Paleta,,85.0
+2021-03-11,N.L.: El Oferton de Cantu,Nuevo León,Sirloin,,142.0
+2021-03-12,N.L.: El Oferton de Cantu,Nuevo León,Arrachera,,168.0
+2021-03-12,N.L.: El Oferton de Cantu,Nuevo León,Chuleton Diezmillo,,148.0
+2021-03-12,N.L.: El Oferton de Cantu,Nuevo León,Paleta,,85.0
+2021-03-12,N.L.: El Oferton de Cantu,Nuevo León,Pata,,43.0
+2021-03-12,N.L.: El Oferton de Cantu,Nuevo León,Pulpa Negra,,142.0
+2021-03-16,N.L.: El Oferton de Cantu,Nuevo León,Arrachera,,168.0
+2021-03-16,N.L.: El Oferton de Cantu,Nuevo León,Chuleton Diezmillo,,148.0
+2021-03-16,N.L.: El Oferton de Cantu,Nuevo León,Paleta,,85.0
+2021-03-16,N.L.: El Oferton de Cantu,Nuevo León,Sirloin,,142.0
+2021-03-18,N.L.: El Oferton de Cantu,Nuevo León,Arrachera,,168.0
+2021-03-18,N.L.: El Oferton de Cantu,Nuevo León,Chuleton Diezmillo,,148.0
+2021-03-18,N.L.: El Oferton de Cantu,Nuevo León,Paleta,,85.0
+2021-03-18,N.L.: El Oferton de Cantu,Nuevo León,Sirloin,,142.0
+2021-03-19,N.L.: El Oferton de Cantu,Nuevo León,Arrachera,,168.0
+2021-03-19,N.L.: El Oferton de Cantu,Nuevo León,Chuleton Diezmillo,,148.0
+2021-03-19,N.L.: El Oferton de Cantu,Nuevo León,Paleta,,85.0
+2021-03-19,N.L.: El Oferton de Cantu,Nuevo León,Sirloin,,142.0
+2021-03-23,N.L.: El Oferton de Cantu,Nuevo León,Arrachera,,168.0
+2021-03-23,N.L.: El Oferton de Cantu,Nuevo León,Chuleton Diezmillo,,148.0
+2021-03-23,N.L.: El Oferton de Cantu,Nuevo León,Paleta,,85.0
+2021-03-23,N.L.: El Oferton de Cantu,Nuevo León,Sirloin,,142.0
+2021-03-25,N.L.: El Oferton de Cantu,Nuevo León,Arrachera,,168.0
+2021-03-25,N.L.: El Oferton de Cantu,Nuevo León,Chuleton Diezmillo,148.0,148.0
+2021-03-25,N.L.: El Oferton de Cantu,Nuevo León,Paleta,,85.0
+2021-03-25,N.L.: El Oferton de Cantu,Nuevo León,Sirloin,,142.0
+2021-03-26,N.L.: El Oferton de Cantu,Nuevo León,Arrachera,,168.0
+2021-03-26,N.L.: El Oferton de Cantu,Nuevo León,Chuleton Diezmillo,,148.0
+2021-03-26,N.L.: El Oferton de Cantu,Nuevo León,Paleta,,85.0
+2021-03-26,N.L.: El Oferton de Cantu,Nuevo León,Sirloin,,142.0
+2021-03-30,N.L.: El Oferton de Cantu,Nuevo León,Arrachera,,168.0
+2021-03-30,N.L.: El Oferton de Cantu,Nuevo León,Chuleton Diezmillo,,148.0
+2021-03-30,N.L.: El Oferton de Cantu,Nuevo León,Paleta,,85.0
+2021-03-30,N.L.: El Oferton de Cantu,Nuevo León,Sirloin,,142.0
+2021-03-31,N.L.: El Oferton de Cantu,Nuevo León,Arrachera,,168.0
+2021-03-31,N.L.: El Oferton de Cantu,Nuevo León,Chuleton Diezmillo,,148.0
+2021-03-31,N.L.: El Oferton de Cantu,Nuevo León,Paleta,,85.0
+2021-03-31,N.L.: El Oferton de Cantu,Nuevo León,Sirloin,,142.0
+2021-03-01,Z.M.: Carnes Charly,Querétaro,Cuarto,,89.0
+2021-03-01,Z.M.: Carnes Charly,Querétaro,Pata,,90.0
+2021-03-02,Z.M.: Carnes Charly,Querétaro,Cuarto,,89.0
+2021-03-02,Z.M.: Carnes Charly,Querétaro,Pata,,90.0
+2021-03-03,Z.M.: Carnes Charly,Querétaro,Cuarto,,89.0
+2021-03-03,Z.M.: Carnes Charly,Querétaro,Pata,,90.0
+2021-03-04,Z.M.: Carnes Charly,Querétaro,Cuarto,,89.0
+2021-03-04,Z.M.: Carnes Charly,Querétaro,Pata,,90.0
+2021-03-08,Z.M.: Carnes Charly,Querétaro,Cuarto,,89.0
+2021-03-08,Z.M.: Carnes Charly,Querétaro,Pata,,90.0
+2021-03-09,Z.M.: Carnes Charly,Querétaro,Cuarto,,89.0
+2021-03-09,Z.M.: Carnes Charly,Querétaro,Pata,,90.0
+2021-03-10,Z.M.: Carnes Charly,Querétaro,Cuarto,,89.0
+2021-03-10,Z.M.: Carnes Charly,Querétaro,Pata,,90.0
+2021-03-11,Z.M.: Carnes Charly,Querétaro,Cuarto,,89.0
+2021-03-11,Z.M.: Carnes Charly,Querétaro,Pata,,90.0
+2021-03-16,Z.M.: Carnes Charly,Querétaro,Cuarto,,89.0
+2021-03-16,Z.M.: Carnes Charly,Querétaro,Pata,,90.0
+2021-03-17,Z.M.: Carnes Charly,Querétaro,Cuarto,,89.0
+2021-03-17,Z.M.: Carnes Charly,Querétaro,Pata,,90.0
+2021-03-18,Z.M.: Carnes Charly,Querétaro,Cuarto,,89.0
+2021-03-18,Z.M.: Carnes Charly,Querétaro,Pata,,90.0
+2021-03-22,Z.M.: Carnes Charly,Querétaro,Cuarto,,89.0
+2021-03-22,Z.M.: Carnes Charly,Querétaro,Pata,,90.0
+2021-03-23,Z.M.: Carnes Charly,Querétaro,Cuarto,,89.0
+2021-03-23,Z.M.: Carnes Charly,Querétaro,Pata,,90.0
+2021-03-24,Z.M.: Carnes Charly,Querétaro,Cuarto,,89.0
+2021-03-24,Z.M.: Carnes Charly,Querétaro,Pata,,90.0
+2021-03-25,Z.M.: Carnes Charly,Querétaro,Cuarto,,89.0
+2021-03-25,Z.M.: Carnes Charly,Querétaro,Pata,,90.0
+2021-03-29,Z.M.: Carnes Charly,Querétaro,Cuarto,,89.0
+2021-03-29,Z.M.: Carnes Charly,Querétaro,Pata,,90.0
+2021-03-30,Z.M.: Carnes Charly,Querétaro,Cuarto,,89.0
+2021-03-30,Z.M.: Carnes Charly,Querétaro,Pata,,90.0
+2021-03-31,Z.M.: Carnes Charly,Querétaro,Cuarto,,90.0
+2021-03-31,Z.M.: Carnes Charly,Querétaro,Pata,,91.0
+2021-03-01,Z.M.: Dica Arteaga,Veracruz,Cuarto,,87.0
+2021-03-01,Z.M.: Dica Arteaga,Veracruz,Pata,,88.0
+2021-03-02,Z.M.: Dica Arteaga,Veracruz,Cuarto,,87.0
+2021-03-02,Z.M.: Dica Arteaga,Veracruz,Pata,,88.0
+2021-03-03,Z.M.: Dica Arteaga,Veracruz,Cuarto,,87.0
+2021-03-03,Z.M.: Dica Arteaga,Veracruz,Pata,,88.0
+2021-03-04,Z.M.: Dica Arteaga,Veracruz,Cuarto,,87.0
+2021-03-04,Z.M.: Dica Arteaga,Veracruz,Pata,,88.0
+2021-03-08,Z.M.: Dica Arteaga,Veracruz,Cuarto,,87.0
+2021-03-08,Z.M.: Dica Arteaga,Veracruz,Pata,,88.0
+2021-03-09,Z.M.: Dica Arteaga,Veracruz,Cuarto,,87.0
+2021-03-09,Z.M.: Dica Arteaga,Veracruz,Pata,,88.0
+2021-03-10,Z.M.: Dica Arteaga,Veracruz,Cuarto,,87.0
+2021-03-10,Z.M.: Dica Arteaga,Veracruz,Pata,,88.0
+2021-03-11,Z.M.: Dica Arteaga,Veracruz,Cuarto,,87.0
+2021-03-11,Z.M.: Dica Arteaga,Veracruz,Pata,,88.0
+2021-03-16,Z.M.: Dica Arteaga,Veracruz,Cuarto,,87.0
+2021-03-16,Z.M.: Dica Arteaga,Veracruz,Pata,,88.0
+2021-03-17,Z.M.: Dica Arteaga,Veracruz,Cuarto,,87.0
+2021-03-17,Z.M.: Dica Arteaga,Veracruz,Pata,,88.0
+2021-03-18,Z.M.: Dica Arteaga,Veracruz,Cuarto,,87.0
+2021-03-18,Z.M.: Dica Arteaga,Veracruz,Pata,,88.0
+2021-03-22,Z.M.: Dica Arteaga,Veracruz,Cuarto,,87.0
+2021-03-22,Z.M.: Dica Arteaga,Veracruz,Pata,,88.0
+2021-03-23,Z.M.: Dica Arteaga,Veracruz,Cuarto,,87.0
+2021-03-23,Z.M.: Dica Arteaga,Veracruz,Pata,,88.0
+2021-03-24,Z.M.: Dica Arteaga,Veracruz,Cuarto,,87.0
+2021-03-24,Z.M.: Dica Arteaga,Veracruz,Pata,,88.0
+2021-03-25,Z.M.: Dica Arteaga,Veracruz,Cuarto,,87.0
+2021-03-25,Z.M.: Dica Arteaga,Veracruz,Pata,,88.0
+2021-03-29,Z.M.: Dica Arteaga,Veracruz,Cuarto,,87.0
+2021-03-29,Z.M.: Dica Arteaga,Veracruz,Pata,,88.0
+2021-03-30,Z.M.: Dica Arteaga,Veracruz,Cuarto,,87.0
+2021-03-30,Z.M.: Dica Arteaga,Veracruz,Pata,,88.0
+2021-03-31,Z.M.: Dica Arteaga,Veracruz,Cuarto,,90.0
+2021-03-31,Z.M.: Dica Arteaga,Veracruz,Pata,,91.0
+2021-03-01,Z.M.: Dicas Chela,Veracruz,Cuarto,,88.0
+2021-03-01,Z.M.: Dicas Chela,Veracruz,Pata,,89.0
+2021-03-02,Z.M.: Dicas Chela,Veracruz,Cuarto,,88.0
+2021-03-02,Z.M.: Dicas Chela,Veracruz,Pata,,89.0
+2021-03-03,Z.M.: Dicas Chela,Veracruz,Cuarto,,88.0
+2021-03-03,Z.M.: Dicas Chela,Veracruz,Pata,,89.0
+2021-03-04,Z.M.: Dicas Chela,Veracruz,Cuarto,,88.0
+2021-03-04,Z.M.: Dicas Chela,Veracruz,Pata,,89.0
+2021-03-08,Z.M.: Dicas Chela,Veracruz,Cuarto,,88.0
+2021-03-08,Z.M.: Dicas Chela,Veracruz,Pata,,89.0
+2021-03-09,Z.M.: Dicas Chela,Veracruz,Cuarto,,88.0
+2021-03-09,Z.M.: Dicas Chela,Veracruz,Pata,,89.0
+2021-03-10,Z.M.: Dicas Chela,Veracruz,Cuarto,,88.0
+2021-03-10,Z.M.: Dicas Chela,Veracruz,Pata,,89.0
+2021-03-11,Z.M.: Dicas Chela,Veracruz,Cuarto,,88.0
+2021-03-11,Z.M.: Dicas Chela,Veracruz,Pata,,89.0
+2021-03-16,Z.M.: Dicas Chela,Veracruz,Cuarto,,88.0
+2021-03-16,Z.M.: Dicas Chela,Veracruz,Pata,,89.0
+2021-03-17,Z.M.: Dicas Chela,Veracruz,Cuarto,,88.0
+2021-03-17,Z.M.: Dicas Chela,Veracruz,Pata,,89.0
+2021-03-18,Z.M.: Dicas Chela,Veracruz,Cuarto,,88.0
+2021-03-18,Z.M.: Dicas Chela,Veracruz,Pata,,89.0
+2021-03-22,Z.M.: Dicas Chela,Veracruz,Cuarto,,87.0
+2021-03-22,Z.M.: Dicas Chela,Veracruz,Pata,,88.0
+2021-03-23,Z.M.: Dicas Chela,Veracruz,Cuarto,,87.0
+2021-03-23,Z.M.: Dicas Chela,Veracruz,Pata,,88.0
+2021-03-24,Z.M.: Dicas Chela,Veracruz,Cuarto,,87.0
+2021-03-24,Z.M.: Dicas Chela,Veracruz,Pata,,88.0
+2021-03-25,Z.M.: Dicas Chela,Veracruz,Cuarto,,87.0
+2021-03-25,Z.M.: Dicas Chela,Veracruz,Pata,,88.0
+2021-03-29,Z.M.: Dicas Chela,Veracruz,Cuarto,,88.0
+2021-03-29,Z.M.: Dicas Chela,Veracruz,Pata,,89.0
+2021-03-30,Z.M.: Dicas Chela,Veracruz,Cuarto,,88.0
+2021-03-30,Z.M.: Dicas Chela,Veracruz,Pata,,89.0
+2021-03-31,Z.M.: Dicas Chela,Veracruz,Cuarto,,89.0
+2021-03-31,Z.M.: Dicas Chela,Veracruz,Pata,,90.0
+2021-03-01,Z.M.: Dicas Don Capo,Veracruz,Cuarto,,87.0
+2021-03-01,Z.M.: Dicas Don Capo,Veracruz,Pata,,88.0
+2021-03-02,Z.M.: Dicas Don Capo,Veracruz,Cuarto,,88.0
+2021-03-02,Z.M.: Dicas Don Capo,Veracruz,Pata,,89.0
+2021-03-03,Z.M.: Dicas Don Capo,Veracruz,Cuarto,,87.0
+2021-03-03,Z.M.: Dicas Don Capo,Veracruz,Pata,,88.0
+2021-03-04,Z.M.: Dicas Don Capo,Veracruz,Cuarto,,87.0
+2021-03-04,Z.M.: Dicas Don Capo,Veracruz,Pata,,88.0
+2021-03-08,Z.M.: Dicas Don Capo,Veracruz,Cuarto,,87.0
+2021-03-08,Z.M.: Dicas Don Capo,Veracruz,Pata,,88.0
+2021-03-09,Z.M.: Dicas Don Capo,Veracruz,Cuarto,,87.0
+2021-03-09,Z.M.: Dicas Don Capo,Veracruz,Pata,,88.0
+2021-03-10,Z.M.: Dicas Don Capo,Veracruz,Cuarto,,87.0
+2021-03-10,Z.M.: Dicas Don Capo,Veracruz,Pata,,88.0
+2021-03-11,Z.M.: Dicas Don Capo,Veracruz,Cuarto,,87.0
+2021-03-11,Z.M.: Dicas Don Capo,Veracruz,Pata,,88.0
+2021-03-16,Z.M.: Dicas Don Capo,Veracruz,Cuarto,,87.0
+2021-03-16,Z.M.: Dicas Don Capo,Veracruz,Pata,,88.0
+2021-03-17,Z.M.: Dicas Don Capo,Veracruz,Cuarto,,87.0
+2021-03-17,Z.M.: Dicas Don Capo,Veracruz,Pata,,88.0
+2021-03-18,Z.M.: Dicas Don Capo,Veracruz,Cuarto,,87.0
+2021-03-18,Z.M.: Dicas Don Capo,Veracruz,Pata,,88.0
+2021-03-22,Z.M.: Dicas Don Capo,Veracruz,Cuarto,,88.0
+2021-03-22,Z.M.: Dicas Don Capo,Veracruz,Pata,,89.0
+2021-03-23,Z.M.: Dicas Don Capo,Veracruz,Cuarto,,88.0
+2021-03-23,Z.M.: Dicas Don Capo,Veracruz,Pata,,89.0
+2021-03-24,Z.M.: Dicas Don Capo,Veracruz,Cuarto,,88.0
+2021-03-24,Z.M.: Dicas Don Capo,Veracruz,Pata,,89.0
+2021-03-25,Z.M.: Dicas Don Capo,Veracruz,Cuarto,,88.0
+2021-03-25,Z.M.: Dicas Don Capo,Veracruz,Pata,,89.0
+2021-03-29,Z.M.: Dicas Don Capo,Veracruz,Cuarto,,87.0
+2021-03-29,Z.M.: Dicas Don Capo,Veracruz,Pata,,88.0
+2021-03-30,Z.M.: Dicas Don Capo,Veracruz,Cuarto,,87.0
+2021-03-30,Z.M.: Dicas Don Capo,Veracruz,Pata,,88.0
+2021-03-31,Z.M.: Dicas Don Capo,Veracruz,Cuarto,,89.0
+2021-03-31,Z.M.: Dicas Don Capo,Veracruz,Pata,,90.0
+2021-03-01,Z.M.: El Capricho,Aguascalientes,Cuarto,,88.0
+2021-03-01,Z.M.: El Capricho,Aguascalientes,Pata,,89.0
+2021-03-01,Z.M.: El Capricho,Edo. de México,Cuarto,,89.0
+2021-03-01,Z.M.: El Capricho,Edo. de México,Pata,,90.0
+2021-03-01,Z.M.: El Capricho,Guanajuato,Cuarto,,87.0
+2021-03-01,Z.M.: El Capricho,Guanajuato,Pata,,88.0
+2021-03-01,Z.M.: El Capricho,Jalisco,Cuarto,,88.0
+2021-03-01,Z.M.: El Capricho,Jalisco,Pata,,89.0
+2021-03-01,Z.M.: El Capricho,Querétaro,Cuarto,,89.0
+2021-03-01,Z.M.: El Capricho,Querétaro,Pata,,90.0
+2021-03-01,Z.M.: El Capricho,Tamaulipas,Cuarto,,89.0
+2021-03-01,Z.M.: El Capricho,Tamaulipas,Pata,,90.0
+2021-03-01,Z.M.: El Capricho,Veracruz,Cuarto,,88.0
+2021-03-01,Z.M.: El Capricho,Veracruz,Pata,,89.0
+2021-03-02,Z.M.: El Capricho,Aguascalientes,Cuarto,,88.0
+2021-03-02,Z.M.: El Capricho,Aguascalientes,Pata,,89.0
+2021-03-02,Z.M.: El Capricho,Edo. de México,Cuarto,,89.0
+2021-03-02,Z.M.: El Capricho,Edo. de México,Pata,,90.0
+2021-03-02,Z.M.: El Capricho,Guanajuato,Cuarto,,87.0
+2021-03-02,Z.M.: El Capricho,Guanajuato,Pata,,88.0
+2021-03-02,Z.M.: El Capricho,Jalisco,Cuarto,,88.0
+2021-03-02,Z.M.: El Capricho,Jalisco,Pata,,89.0
+2021-03-02,Z.M.: El Capricho,Querétaro,Cuarto,,89.0
+2021-03-02,Z.M.: El Capricho,Querétaro,Pata,,90.0
+2021-03-02,Z.M.: El Capricho,Tamaulipas,Cuarto,,89.0
+2021-03-02,Z.M.: El Capricho,Tamaulipas,Pata,,90.0
+2021-03-02,Z.M.: El Capricho,Veracruz,Cuarto,,88.0
+2021-03-02,Z.M.: El Capricho,Veracruz,Pata,,89.0
+2021-03-03,Z.M.: El Capricho,Aguascalientes,Cuarto,,88.0
+2021-03-03,Z.M.: El Capricho,Aguascalientes,Pata,,89.0
+2021-03-03,Z.M.: El Capricho,Edo. de México,Cuarto,,89.0
+2021-03-03,Z.M.: El Capricho,Edo. de México,Pata,,90.0
+2021-03-03,Z.M.: El Capricho,Guanajuato,Cuarto,,87.0
+2021-03-03,Z.M.: El Capricho,Guanajuato,Pata,,88.0
+2021-03-03,Z.M.: El Capricho,Jalisco,Cuarto,,88.0
+2021-03-03,Z.M.: El Capricho,Jalisco,Pata,,89.0
+2021-03-03,Z.M.: El Capricho,Querétaro,Cuarto,,89.0
+2021-03-03,Z.M.: El Capricho,Querétaro,Pata,,90.0
+2021-03-03,Z.M.: El Capricho,Tamaulipas,Cuarto,,89.0
+2021-03-03,Z.M.: El Capricho,Tamaulipas,Pata,,90.0
+2021-03-03,Z.M.: El Capricho,Veracruz,Cuarto,,88.0
+2021-03-03,Z.M.: El Capricho,Veracruz,Pata,,89.0
+2021-03-04,Z.M.: El Capricho,Aguascalientes,Cuarto,,88.0
+2021-03-04,Z.M.: El Capricho,Aguascalientes,Pata,,89.0
+2021-03-04,Z.M.: El Capricho,Edo. de México,Cuarto,,88.0
+2021-03-04,Z.M.: El Capricho,Edo. de México,Pata,,89.0
+2021-03-04,Z.M.: El Capricho,Guanajuato,Cuarto,,87.0
+2021-03-04,Z.M.: El Capricho,Guanajuato,Pata,,88.0
+2021-03-04,Z.M.: El Capricho,Jalisco,Cuarto,,88.0
+2021-03-04,Z.M.: El Capricho,Jalisco,Pata,,89.0
+2021-03-04,Z.M.: El Capricho,Querétaro,Cuarto,,89.0
+2021-03-04,Z.M.: El Capricho,Querétaro,Pata,,90.0
+2021-03-04,Z.M.: El Capricho,Tamaulipas,Cuarto,,89.0
+2021-03-04,Z.M.: El Capricho,Tamaulipas,Pata,,90.0
+2021-03-04,Z.M.: El Capricho,Veracruz,Cuarto,,88.0
+2021-03-04,Z.M.: El Capricho,Veracruz,Pata,,89.0
+2021-03-08,Z.M.: El Capricho,Aguascalientes,Cuarto,,88.0
+2021-03-08,Z.M.: El Capricho,Aguascalientes,Pata,,89.0
+2021-03-08,Z.M.: El Capricho,Edo. de México,Cuarto,,89.0
+2021-03-08,Z.M.: El Capricho,Edo. de México,Pata,,90.0
+2021-03-08,Z.M.: El Capricho,Guanajuato,Cuarto,,87.0
+2021-03-08,Z.M.: El Capricho,Guanajuato,Pata,,88.0
+2021-03-08,Z.M.: El Capricho,Jalisco,Cuarto,,88.0
+2021-03-08,Z.M.: El Capricho,Jalisco,Pata,,89.0
+2021-03-08,Z.M.: El Capricho,Querétaro,Cuarto,,89.0
+2021-03-08,Z.M.: El Capricho,Querétaro,Pata,,90.0
+2021-03-08,Z.M.: El Capricho,Tamaulipas,Cuarto,,89.0
+2021-03-08,Z.M.: El Capricho,Tamaulipas,Pata,,90.0
+2021-03-08,Z.M.: El Capricho,Veracruz,Cuarto,,88.0
+2021-03-08,Z.M.: El Capricho,Veracruz,Pata,,89.0
+2021-03-09,Z.M.: El Capricho,Aguascalientes,Cuarto,,88.0
+2021-03-09,Z.M.: El Capricho,Aguascalientes,Pata,,89.0
+2021-03-09,Z.M.: El Capricho,Edo. de México,Cuarto,,89.0
+2021-03-09,Z.M.: El Capricho,Edo. de México,Pata,,90.0
+2021-03-09,Z.M.: El Capricho,Guanajuato,Cuarto,,87.0
+2021-03-09,Z.M.: El Capricho,Guanajuato,Pata,,88.0
+2021-03-09,Z.M.: El Capricho,Jalisco,Cuarto,,88.0
+2021-03-09,Z.M.: El Capricho,Jalisco,Pata,,89.0
+2021-03-09,Z.M.: El Capricho,Querétaro,Cuarto,,89.0
+2021-03-09,Z.M.: El Capricho,Querétaro,Pata,,90.0
+2021-03-09,Z.M.: El Capricho,Tamaulipas,Cuarto,,89.0
+2021-03-09,Z.M.: El Capricho,Tamaulipas,Pata,,90.0
+2021-03-09,Z.M.: El Capricho,Veracruz,Cuarto,,88.0
+2021-03-09,Z.M.: El Capricho,Veracruz,Pata,,89.0
+2021-03-10,Z.M.: El Capricho,Aguascalientes,Cuarto,,88.0
+2021-03-10,Z.M.: El Capricho,Aguascalientes,Pata,,89.0
+2021-03-10,Z.M.: El Capricho,Edo. de México,Cuarto,,89.0
+2021-03-10,Z.M.: El Capricho,Edo. de México,Pata,,90.0
+2021-03-10,Z.M.: El Capricho,Guanajuato,Cuarto,,87.0
+2021-03-10,Z.M.: El Capricho,Guanajuato,Pata,,88.0
+2021-03-10,Z.M.: El Capricho,Jalisco,Cuarto,,88.0
+2021-03-10,Z.M.: El Capricho,Jalisco,Pata,,89.0
+2021-03-10,Z.M.: El Capricho,Querétaro,Cuarto,,89.0
+2021-03-10,Z.M.: El Capricho,Querétaro,Pata,,90.0
+2021-03-10,Z.M.: El Capricho,Tamaulipas,Cuarto,,89.0
+2021-03-10,Z.M.: El Capricho,Tamaulipas,Pata,,90.0
+2021-03-10,Z.M.: El Capricho,Veracruz,Cuarto,,88.0
+2021-03-10,Z.M.: El Capricho,Veracruz,Pata,,89.0
+2021-03-11,Z.M.: El Capricho,Aguascalientes,Cuarto,,88.0
+2021-03-11,Z.M.: El Capricho,Aguascalientes,Pata,,89.0
+2021-03-11,Z.M.: El Capricho,Edo. de México,Cuarto,,89.0
+2021-03-11,Z.M.: El Capricho,Edo. de México,Pata,,90.0
+2021-03-11,Z.M.: El Capricho,Guanajuato,Cuarto,,87.0
+2021-03-11,Z.M.: El Capricho,Guanajuato,Pata,,88.0
+2021-03-11,Z.M.: El Capricho,Jalisco,Cuarto,,88.0
+2021-03-11,Z.M.: El Capricho,Jalisco,Pata,,89.0
+2021-03-11,Z.M.: El Capricho,Querétaro,Cuarto,,89.0
+2021-03-11,Z.M.: El Capricho,Querétaro,Pata,,90.0
+2021-03-11,Z.M.: El Capricho,Tamaulipas,Cuarto,,89.0
+2021-03-11,Z.M.: El Capricho,Tamaulipas,Pata,,90.0
+2021-03-11,Z.M.: El Capricho,Veracruz,Cuarto,,88.0
+2021-03-11,Z.M.: El Capricho,Veracruz,Pata,,89.0
+2021-03-16,Z.M.: El Capricho,Aguascalientes,Cuarto,,88.0
+2021-03-16,Z.M.: El Capricho,Aguascalientes,Pata,,89.0
+2021-03-16,Z.M.: El Capricho,Edo. de México,Cuarto,,89.0
+2021-03-16,Z.M.: El Capricho,Edo. de México,Pata,,90.0
+2021-03-16,Z.M.: El Capricho,Guanajuato,Cuarto,,87.0
+2021-03-16,Z.M.: El Capricho,Guanajuato,Pata,,88.0
+2021-03-16,Z.M.: El Capricho,Jalisco,Cuarto,,88.0
+2021-03-16,Z.M.: El Capricho,Jalisco,Pata,,89.0
+2021-03-16,Z.M.: El Capricho,Querétaro,Cuarto,,89.0
+2021-03-16,Z.M.: El Capricho,Querétaro,Pata,,90.0
+2021-03-16,Z.M.: El Capricho,Tamaulipas,Cuarto,,89.0
+2021-03-16,Z.M.: El Capricho,Tamaulipas,Pata,,90.0
+2021-03-16,Z.M.: El Capricho,Veracruz,Cuarto,,88.0
+2021-03-16,Z.M.: El Capricho,Veracruz,Pata,,89.0
+2021-03-17,Z.M.: El Capricho,Aguascalientes,Cuarto,,88.0
+2021-03-17,Z.M.: El Capricho,Aguascalientes,Pata,,89.0
+2021-03-17,Z.M.: El Capricho,Edo. de México,Cuarto,,89.0
+2021-03-17,Z.M.: El Capricho,Edo. de México,Pata,,90.0
+2021-03-17,Z.M.: El Capricho,Guanajuato,Cuarto,,87.0
+2021-03-17,Z.M.: El Capricho,Guanajuato,Pata,,88.0
+2021-03-17,Z.M.: El Capricho,Jalisco,Cuarto,,88.0
+2021-03-17,Z.M.: El Capricho,Jalisco,Pata,,89.0
+2021-03-17,Z.M.: El Capricho,Querétaro,Cuarto,,89.0
+2021-03-17,Z.M.: El Capricho,Querétaro,Pata,,90.0
+2021-03-17,Z.M.: El Capricho,Tamaulipas,Cuarto,,89.0
+2021-03-17,Z.M.: El Capricho,Tamaulipas,Pata,,90.0
+2021-03-17,Z.M.: El Capricho,Veracruz,Cuarto,,88.0
+2021-03-17,Z.M.: El Capricho,Veracruz,Pata,,89.0
+2021-03-18,Z.M.: El Capricho,Aguascalientes,Cuarto,,88.0
+2021-03-18,Z.M.: El Capricho,Aguascalientes,Pata,,89.0
+2021-03-18,Z.M.: El Capricho,Edo. de México,Cuarto,,89.0
+2021-03-18,Z.M.: El Capricho,Edo. de México,Pata,,90.0
+2021-03-18,Z.M.: El Capricho,Guanajuato,Cuarto,,87.0
+2021-03-18,Z.M.: El Capricho,Guanajuato,Pata,,88.0
+2021-03-18,Z.M.: El Capricho,Jalisco,Cuarto,,88.0
+2021-03-18,Z.M.: El Capricho,Jalisco,Pata,,89.0
+2021-03-18,Z.M.: El Capricho,Querétaro,Cuarto,,89.0
+2021-03-18,Z.M.: El Capricho,Querétaro,Pata,,90.0
+2021-03-18,Z.M.: El Capricho,Tamaulipas,Cuarto,,89.0
+2021-03-18,Z.M.: El Capricho,Tamaulipas,Pata,,90.0
+2021-03-18,Z.M.: El Capricho,Veracruz,Cuarto,,88.0
+2021-03-18,Z.M.: El Capricho,Veracruz,Pata,,89.0
+2021-03-22,Z.M.: El Capricho,Aguascalientes,Cuarto,,89.0
+2021-03-22,Z.M.: El Capricho,Aguascalientes,Pata,,90.0
+2021-03-22,Z.M.: El Capricho,Edo. de México,Cuarto,,89.0
+2021-03-22,Z.M.: El Capricho,Edo. de México,Pata,,90.0
+2021-03-22,Z.M.: El Capricho,Guanajuato,Cuarto,,87.0
+2021-03-22,Z.M.: El Capricho,Guanajuato,Pata,,88.0
+2021-03-22,Z.M.: El Capricho,Jalisco,Cuarto,,87.0
+2021-03-22,Z.M.: El Capricho,Jalisco,Pata,,88.0
+2021-03-22,Z.M.: El Capricho,Querétaro,Cuarto,,89.0
+2021-03-22,Z.M.: El Capricho,Querétaro,Pata,,90.0
+2021-03-22,Z.M.: El Capricho,Tamaulipas,Cuarto,,89.0
+2021-03-22,Z.M.: El Capricho,Tamaulipas,Pata,,90.0
+2021-03-22,Z.M.: El Capricho,Veracruz,Cuarto,,87.0
+2021-03-22,Z.M.: El Capricho,Veracruz,Pata,,88.0
+2021-03-23,Z.M.: El Capricho,Aguascalientes,Cuarto,,88.0
+2021-03-23,Z.M.: El Capricho,Aguascalientes,Pata,,89.0
+2021-03-23,Z.M.: El Capricho,Edo. de México,Cuarto,,89.0
+2021-03-23,Z.M.: El Capricho,Edo. de México,Pata,,90.0
+2021-03-23,Z.M.: El Capricho,Guanajuato,Cuarto,,87.0
+2021-03-23,Z.M.: El Capricho,Guanajuato,Pata,,88.0
+2021-03-23,Z.M.: El Capricho,Jalisco,Cuarto,,87.0
+2021-03-23,Z.M.: El Capricho,Jalisco,Pata,,88.0
+2021-03-23,Z.M.: El Capricho,Querétaro,Cuarto,,89.0
+2021-03-23,Z.M.: El Capricho,Querétaro,Pata,,90.0
+2021-03-23,Z.M.: El Capricho,Tamaulipas,Cuarto,,89.0
+2021-03-23,Z.M.: El Capricho,Tamaulipas,Pata,,90.0
+2021-03-23,Z.M.: El Capricho,Veracruz,Cuarto,,87.0
+2021-03-23,Z.M.: El Capricho,Veracruz,Pata,,88.0
+2021-03-24,Z.M.: El Capricho,Aguascalientes,Cuarto,,88.0
+2021-03-24,Z.M.: El Capricho,Aguascalientes,Pata,,89.0
+2021-03-24,Z.M.: El Capricho,Edo. de México,Cuarto,,89.0
+2021-03-24,Z.M.: El Capricho,Edo. de México,Pata,,90.0
+2021-03-24,Z.M.: El Capricho,Guanajuato,Cuarto,,87.0
+2021-03-24,Z.M.: El Capricho,Guanajuato,Pata,,88.0
+2021-03-24,Z.M.: El Capricho,Jalisco,Cuarto,,87.0
+2021-03-24,Z.M.: El Capricho,Jalisco,Pata,,88.0
+2021-03-24,Z.M.: El Capricho,Querétaro,Cuarto,,89.0
+2021-03-24,Z.M.: El Capricho,Querétaro,Pata,,90.0
+2021-03-24,Z.M.: El Capricho,Tamaulipas,Cuarto,,89.0
+2021-03-24,Z.M.: El Capricho,Tamaulipas,Pata,,90.0
+2021-03-24,Z.M.: El Capricho,Veracruz,Cuarto,,87.0
+2021-03-24,Z.M.: El Capricho,Veracruz,Pata,,88.0
+2021-03-25,Z.M.: El Capricho,Aguascalientes,Cuarto,,88.0
+2021-03-25,Z.M.: El Capricho,Aguascalientes,Pata,,89.0
+2021-03-25,Z.M.: El Capricho,Edo. de México,Cuarto,,89.0
+2021-03-25,Z.M.: El Capricho,Edo. de México,Pata,,90.0
+2021-03-25,Z.M.: El Capricho,Guanajuato,Cuarto,,87.0
+2021-03-25,Z.M.: El Capricho,Guanajuato,Pata,,88.0
+2021-03-25,Z.M.: El Capricho,Jalisco,Cuarto,,87.0
+2021-03-25,Z.M.: El Capricho,Jalisco,Pata,,88.0
+2021-03-25,Z.M.: El Capricho,Querétaro,Cuarto,,89.0
+2021-03-25,Z.M.: El Capricho,Querétaro,Pata,,90.0
+2021-03-25,Z.M.: El Capricho,Tamaulipas,Cuarto,,89.0
+2021-03-25,Z.M.: El Capricho,Tamaulipas,Pata,,90.0
+2021-03-25,Z.M.: El Capricho,Veracruz,Cuarto,,87.0
+2021-03-25,Z.M.: El Capricho,Veracruz,Pata,,88.0
+2021-03-29,Z.M.: El Capricho,Aguascalientes,Cuarto,,88.0
+2021-03-29,Z.M.: El Capricho,Aguascalientes,Pata,,89.0
+2021-03-29,Z.M.: El Capricho,Edo. de México,Cuarto,,89.0
+2021-03-29,Z.M.: El Capricho,Edo. de México,Pata,,90.0
+2021-03-29,Z.M.: El Capricho,Guanajuato,Cuarto,,87.0
+2021-03-29,Z.M.: El Capricho,Guanajuato,Pata,,88.0
+2021-03-29,Z.M.: El Capricho,Jalisco,Cuarto,,87.0
+2021-03-29,Z.M.: El Capricho,Jalisco,Pata,,88.0
+2021-03-29,Z.M.: El Capricho,Querétaro,Cuarto,,89.0
+2021-03-29,Z.M.: El Capricho,Querétaro,Pata,,90.0
+2021-03-29,Z.M.: El Capricho,Tamaulipas,Cuarto,,89.0
+2021-03-29,Z.M.: El Capricho,Tamaulipas,Pata,,90.0
+2021-03-29,Z.M.: El Capricho,Veracruz,Cuarto,,88.0
+2021-03-29,Z.M.: El Capricho,Veracruz,Pata,,89.0
+2021-03-30,Z.M.: El Capricho,Aguascalientes,Cuarto,,88.0
+2021-03-30,Z.M.: El Capricho,Aguascalientes,Pata,,89.0
+2021-03-30,Z.M.: El Capricho,Edo. de México,Cuarto,,89.0
+2021-03-30,Z.M.: El Capricho,Edo. de México,Pata,,90.0
+2021-03-30,Z.M.: El Capricho,Guanajuato,Cuarto,,87.0
+2021-03-30,Z.M.: El Capricho,Guanajuato,Pata,,88.0
+2021-03-30,Z.M.: El Capricho,Jalisco,Cuarto,,87.0
+2021-03-30,Z.M.: El Capricho,Jalisco,Pata,,88.0
+2021-03-30,Z.M.: El Capricho,Querétaro,Cuarto,,89.0
+2021-03-30,Z.M.: El Capricho,Querétaro,Pata,,90.0
+2021-03-30,Z.M.: El Capricho,Tamaulipas,Cuarto,,89.0
+2021-03-30,Z.M.: El Capricho,Tamaulipas,Pata,,90.0
+2021-03-30,Z.M.: El Capricho,Veracruz,Cuarto,,88.0
+2021-03-30,Z.M.: El Capricho,Veracruz,Pata,,89.0
+2021-03-31,Z.M.: El Capricho,Aguascalientes,Cuarto,,90.0
+2021-03-31,Z.M.: El Capricho,Aguascalientes,Pata,,91.0
+2021-03-31,Z.M.: El Capricho,Edo. de México,Cuarto,,90.0
+2021-03-31,Z.M.: El Capricho,Edo. de México,Pata,,91.0
+2021-03-31,Z.M.: El Capricho,Guanajuato,Cuarto,,89.0
+2021-03-31,Z.M.: El Capricho,Guanajuato,Pata,,90.0
+2021-03-31,Z.M.: El Capricho,Jalisco,Cuarto,,90.0
+2021-03-31,Z.M.: El Capricho,Jalisco,Pata,,91.0
+2021-03-31,Z.M.: El Capricho,Querétaro,Cuarto,,90.0
+2021-03-31,Z.M.: El Capricho,Querétaro,Pata,,91.0
+2021-03-31,Z.M.: El Capricho,Tamaulipas,Cuarto,,90.0
+2021-03-31,Z.M.: El Capricho,Tamaulipas,Pata,,91.0
+2021-03-31,Z.M.: El Capricho,Veracruz,Cuarto,,90.0
+2021-03-31,Z.M.: El Capricho,Veracruz,Pata,,91.0
+2021-03-01,Z.M.: FAMILIA TELERIN,Veracruz,Cuarto,,89.0
+2021-03-01,Z.M.: FAMILIA TELERIN,Veracruz,Pata,,90.0
+2021-03-02,Z.M.: FAMILIA TELERIN,Veracruz,Cuarto,,89.0
+2021-03-02,Z.M.: FAMILIA TELERIN,Veracruz,Pata,,90.0
+2021-03-03,Z.M.: FAMILIA TELERIN,Veracruz,Cuarto,,89.0
+2021-03-03,Z.M.: FAMILIA TELERIN,Veracruz,Pata,,90.0
+2021-03-04,Z.M.: FAMILIA TELERIN,Veracruz,Cuarto,,89.0
+2021-03-04,Z.M.: FAMILIA TELERIN,Veracruz,Pata,,90.0
+2021-03-08,Z.M.: FAMILIA TELERIN,Veracruz,Cuarto,,89.0
+2021-03-08,Z.M.: FAMILIA TELERIN,Veracruz,Pata,,90.0
+2021-03-09,Z.M.: FAMILIA TELERIN,Veracruz,Cuarto,,89.0
+2021-03-09,Z.M.: FAMILIA TELERIN,Veracruz,Pata,,90.0
+2021-03-10,Z.M.: FAMILIA TELERIN,Veracruz,Cuarto,,89.0
+2021-03-10,Z.M.: FAMILIA TELERIN,Veracruz,Pata,,90.0
+2021-03-11,Z.M.: FAMILIA TELERIN,Veracruz,Cuarto,,89.0
+2021-03-11,Z.M.: FAMILIA TELERIN,Veracruz,Pata,,90.0
+2021-03-16,Z.M.: FAMILIA TELERIN,Veracruz,Cuarto,,89.0
+2021-03-16,Z.M.: FAMILIA TELERIN,Veracruz,Pata,,90.0
+2021-03-17,Z.M.: FAMILIA TELERIN,Veracruz,Cuarto,,89.0
+2021-03-17,Z.M.: FAMILIA TELERIN,Veracruz,Pata,,90.0
+2021-03-18,Z.M.: FAMILIA TELERIN,Veracruz,Cuarto,,89.0
+2021-03-18,Z.M.: FAMILIA TELERIN,Veracruz,Pata,,90.0
+2021-03-22,Z.M.: FAMILIA TELERIN,Veracruz,Cuarto,,89.0
+2021-03-22,Z.M.: FAMILIA TELERIN,Veracruz,Pata,,90.0
+2021-03-23,Z.M.: FAMILIA TELERIN,Veracruz,Cuarto,,89.0
+2021-03-23,Z.M.: FAMILIA TELERIN,Veracruz,Pata,,90.0
+2021-03-24,Z.M.: FAMILIA TELERIN,Veracruz,Cuarto,,89.0
+2021-03-24,Z.M.: FAMILIA TELERIN,Veracruz,Pata,,90.0
+2021-03-25,Z.M.: FAMILIA TELERIN,Veracruz,Cuarto,,89.0
+2021-03-25,Z.M.: FAMILIA TELERIN,Veracruz,Pata,,90.0
+2021-03-29,Z.M.: FAMILIA TELERIN,Veracruz,Cuarto,,89.0
+2021-03-29,Z.M.: FAMILIA TELERIN,Veracruz,Pata,,90.0
+2021-03-30,Z.M.: FAMILIA TELERIN,Veracruz,Cuarto,,89.0
+2021-03-30,Z.M.: FAMILIA TELERIN,Veracruz,Pata,,90.0
+2021-03-31,Z.M.: FAMILIA TELERIN,Veracruz,Cuarto,,90.0
+2021-03-31,Z.M.: FAMILIA TELERIN,Veracruz,Pata,,91.0
+2021-03-01,Z.M.: Ferrería,Aguascalientes,Cuarto,74.5,75.5
+2021-03-01,Z.M.: Ferrería,Aguascalientes,Pata,86.5,87.5
+2021-03-01,Z.M.: Ferrería,Edo. de México,Cuarto,74.0,75.0
+2021-03-01,Z.M.: Ferrería,Edo. de México,Pata,86.0,87.0
+2021-03-01,Z.M.: Ferrería,Hidalgo,Cuarto,74.0,75.0
+2021-03-01,Z.M.: Ferrería,Hidalgo,Pata,86.0,87.0
+2021-03-01,Z.M.: Ferrería,Veracruz,Cuarto,74.5,75.5
+2021-03-01,Z.M.: Ferrería,Veracruz,Pata,86.5,87.5
+2021-03-02,Z.M.: Ferrería,Aguascalientes,Cuarto,74.5,75.5
+2021-03-02,Z.M.: Ferrería,Aguascalientes,Pata,86.5,87.5
+2021-03-02,Z.M.: Ferrería,Edo. de México,Cuarto,74.0,75.0
+2021-03-02,Z.M.: Ferrería,Edo. de México,Pata,86.0,87.0
+2021-03-02,Z.M.: Ferrería,Hidalgo,Cuarto,74.0,75.0
+2021-03-02,Z.M.: Ferrería,Hidalgo,Pata,86.0,87.0
+2021-03-02,Z.M.: Ferrería,Veracruz,Cuarto,74.5,75.5
+2021-03-02,Z.M.: Ferrería,Veracruz,Pata,86.5,87.5
+2021-03-03,Z.M.: Ferrería,Aguascalientes,Cuarto,74.0,75.0
+2021-03-03,Z.M.: Ferrería,Aguascalientes,Pata,86.0,87.0
+2021-03-03,Z.M.: Ferrería,Edo. de México,Cuarto,74.5,75.5
+2021-03-03,Z.M.: Ferrería,Edo. de México,Pata,86.5,87.5
+2021-03-03,Z.M.: Ferrería,Hidalgo,Cuarto,74.5,75.5
+2021-03-03,Z.M.: Ferrería,Hidalgo,Pata,86.5,87.5
+2021-03-03,Z.M.: Ferrería,Veracruz,Cuarto,74.0,75.0
+2021-03-03,Z.M.: Ferrería,Veracruz,Pata,86.0,87.0
+2021-03-04,Z.M.: Ferrería,Aguascalientes,Cuarto,74.5,75.5
+2021-03-04,Z.M.: Ferrería,Aguascalientes,Pata,86.5,87.5
+2021-03-04,Z.M.: Ferrería,Edo. de México,Cuarto,74.0,75.0
+2021-03-04,Z.M.: Ferrería,Edo. de México,Pata,86.0,87.0
+2021-03-04,Z.M.: Ferrería,Hidalgo,Cuarto,74.0,75.0
+2021-03-04,Z.M.: Ferrería,Hidalgo,Pata,86.0,87.0
+2021-03-04,Z.M.: Ferrería,Veracruz,Cuarto,74.5,75.5
+2021-03-04,Z.M.: Ferrería,Veracruz,Pata,86.5,87.5
+2021-03-05,Z.M.: Ferrería,Aguascalientes,Cuarto,74.5,75.5
+2021-03-05,Z.M.: Ferrería,Aguascalientes,Pata,86.5,87.5
+2021-03-05,Z.M.: Ferrería,Edo. de México,Cuarto,74.0,75.0
+2021-03-05,Z.M.: Ferrería,Edo. de México,Pata,86.0,87.0
+2021-03-05,Z.M.: Ferrería,Hidalgo,Cuarto,74.0,75.0
+2021-03-05,Z.M.: Ferrería,Hidalgo,Pata,86.0,87.0
+2021-03-05,Z.M.: Ferrería,Veracruz,Cuarto,74.5,75.5
+2021-03-05,Z.M.: Ferrería,Veracruz,Pata,86.5,87.5
+2021-03-08,Z.M.: Ferrería,Aguascalientes,Cuarto,75.5,76.5
+2021-03-08,Z.M.: Ferrería,Aguascalientes,Pata,89.5,90.5
+2021-03-08,Z.M.: Ferrería,Edo. de México,Cuarto,75.0,76.0
+2021-03-08,Z.M.: Ferrería,Edo. de México,Pata,89.0,90.0
+2021-03-08,Z.M.: Ferrería,Hidalgo,Cuarto,75.0,76.0
+2021-03-08,Z.M.: Ferrería,Hidalgo,Pata,89.0,90.0
+2021-03-08,Z.M.: Ferrería,Veracruz,Cuarto,75.5,76.5
+2021-03-08,Z.M.: Ferrería,Veracruz,Pata,89.5,90.5
+2021-03-09,Z.M.: Ferrería,Aguascalientes,Cuarto,75.5,76.5
+2021-03-09,Z.M.: Ferrería,Aguascalientes,Pata,89.5,90.5
+2021-03-09,Z.M.: Ferrería,Edo. de México,Cuarto,75.0,76.0
+2021-03-09,Z.M.: Ferrería,Edo. de México,Pata,89.0,90.0
+2021-03-09,Z.M.: Ferrería,Hidalgo,Cuarto,75.0,76.0
+2021-03-09,Z.M.: Ferrería,Hidalgo,Pata,89.0,90.0
+2021-03-09,Z.M.: Ferrería,Veracruz,Cuarto,75.5,76.5
+2021-03-09,Z.M.: Ferrería,Veracruz,Pata,89.5,90.5
+2021-03-10,Z.M.: Ferrería,Edo. de México,Cuarto,75.0,76.0
+2021-03-10,Z.M.: Ferrería,Edo. de México,Pata,89.0,90.0
+2021-03-10,Z.M.: Ferrería,Hidalgo,Cuarto,75.0,76.0
+2021-03-10,Z.M.: Ferrería,Hidalgo,Pata,89.0,90.0
+2021-03-10,Z.M.: Ferrería,Veracruz,Cuarto,75.5,76.5
+2021-03-10,Z.M.: Ferrería,Veracruz,Pata,89.5,90.5
+2021-03-11,Z.M.: Ferrería,Edo. de México,Cuarto,75.0,76.0
+2021-03-11,Z.M.: Ferrería,Edo. de México,Pata,89.0,90.0
+2021-03-11,Z.M.: Ferrería,Veracruz,Cuarto,75.5,76.5
+2021-03-11,Z.M.: Ferrería,Veracruz,Pata,89.5,90.5
+2021-03-12,Z.M.: Ferrería,Edo. de México,Cuarto,75.0,76.0
+2021-03-12,Z.M.: Ferrería,Edo. de México,Pata,89.0,90.0
+2021-03-12,Z.M.: Ferrería,Hidalgo,Cuarto,75.0,76.0
+2021-03-12,Z.M.: Ferrería,Hidalgo,Pata,89.0,90.0
+2021-03-12,Z.M.: Ferrería,Veracruz,Cuarto,75.5,76.5
+2021-03-12,Z.M.: Ferrería,Veracruz,Pata,89.5,90.5
+2021-03-16,Z.M.: Ferrería,Edo. de México,Cuarto,74.0,76.0
+2021-03-16,Z.M.: Ferrería,Edo. de México,Pata,86.0,88.0
+2021-03-16,Z.M.: Ferrería,Veracruz,Cuarto,74.5,76.5
+2021-03-16,Z.M.: Ferrería,Veracruz,Pata,86.5,88.5
+2021-03-17,Z.M.: Ferrería,Aguascalientes,Cuarto,74.5,76.5
+2021-03-17,Z.M.: Ferrería,Aguascalientes,Pata,86.5,88.5
+2021-03-17,Z.M.: Ferrería,Edo. de México,Cuarto,74.0,76.0
+2021-03-17,Z.M.: Ferrería,Edo. de México,Pata,86.0,88.0
+2021-03-17,Z.M.: Ferrería,Hidalgo,Cuarto,74.0,76.0
+2021-03-17,Z.M.: Ferrería,Hidalgo,Pata,86.0,88.0
+2021-03-17,Z.M.: Ferrería,Veracruz,Cuarto,74.5,76.5
+2021-03-17,Z.M.: Ferrería,Veracruz,Pata,86.5,88.5
+2021-03-18,Z.M.: Ferrería,Aguascalientes,Cuarto,74.5,76.5
+2021-03-18,Z.M.: Ferrería,Aguascalientes,Pata,86.5,88.5
+2021-03-18,Z.M.: Ferrería,Edo. de México,Cuarto,74.0,76.0
+2021-03-18,Z.M.: Ferrería,Edo. de México,Pata,86.0,88.0
+2021-03-18,Z.M.: Ferrería,Hidalgo,Cuarto,74.0,76.0
+2021-03-18,Z.M.: Ferrería,Hidalgo,Pata,86.0,88.0
+2021-03-18,Z.M.: Ferrería,Veracruz,Cuarto,74.5,76.5
+2021-03-18,Z.M.: Ferrería,Veracruz,Pata,86.5,88.5
+2021-03-19,Z.M.: Ferrería,Aguascalientes,Cuarto,74.5,76.5
+2021-03-19,Z.M.: Ferrería,Aguascalientes,Pata,86.5,88.5
+2021-03-19,Z.M.: Ferrería,Edo. de México,Cuarto,74.0,76.0
+2021-03-19,Z.M.: Ferrería,Edo. de México,Pata,86.0,88.0
+2021-03-19,Z.M.: Ferrería,Veracruz,Cuarto,74.5,76.5
+2021-03-19,Z.M.: Ferrería,Veracruz,Pata,86.5,88.5
+2021-03-22,Z.M.: Ferrería,Aguascalientes,Cuarto,74.5,76.5
+2021-03-22,Z.M.: Ferrería,Aguascalientes,Pata,86.5,88.5
+2021-03-22,Z.M.: Ferrería,Edo. de México,Cuarto,74.0,76.0
+2021-03-22,Z.M.: Ferrería,Edo. de México,Pata,86.0,88.0
+2021-03-22,Z.M.: Ferrería,Hidalgo,Cuarto,74.0,76.0
+2021-03-22,Z.M.: Ferrería,Hidalgo,Pata,86.0,88.0
+2021-03-22,Z.M.: Ferrería,Veracruz,Cuarto,86.5,88.5
+2021-03-22,Z.M.: Ferrería,Veracruz,Pata,86.5,88.5
+2021-03-23,Z.M.: Ferrería,Aguascalientes,Cuarto,74.5,76.5
+2021-03-23,Z.M.: Ferrería,Aguascalientes,Pata,86.5,88.5
+2021-03-23,Z.M.: Ferrería,Edo. de México,Cuarto,74.0,76.0
+2021-03-23,Z.M.: Ferrería,Edo. de México,Pata,86.0,88.0
+2021-03-23,Z.M.: Ferrería,Veracruz,Cuarto,74.5,76.5
+2021-03-23,Z.M.: Ferrería,Veracruz,Pata,86.5,88.5
+2021-03-24,Z.M.: Ferrería,Aguascalientes,Cuarto,74.5,76.5
+2021-03-24,Z.M.: Ferrería,Aguascalientes,Pata,86.5,88.5
+2021-03-24,Z.M.: Ferrería,Edo. de México,Cuarto,74.0,76.0
+2021-03-24,Z.M.: Ferrería,Edo. de México,Pata,86.0,88.0
+2021-03-24,Z.M.: Ferrería,Veracruz,Cuarto,74.5,76.5
+2021-03-24,Z.M.: Ferrería,Veracruz,Pata,86.5,88.5
+2021-03-25,Z.M.: Ferrería,Aguascalientes,Cuarto,74.5,76.5
+2021-03-25,Z.M.: Ferrería,Aguascalientes,Pata,86.5,88.5
+2021-03-25,Z.M.: Ferrería,Edo. de México,Cuarto,74.0,76.0
+2021-03-25,Z.M.: Ferrería,Edo. de México,Pata,86.0,88.0
+2021-03-25,Z.M.: Ferrería,Guanajuato,Cuarto,74.0,76.0
+2021-03-25,Z.M.: Ferrería,Guanajuato,Pata,86.0,88.0
+2021-03-25,Z.M.: Ferrería,Veracruz,Cuarto,74.5,76.5
+2021-03-25,Z.M.: Ferrería,Veracruz,Pata,86.5,88.5
+2021-03-26,Z.M.: Ferrería,Aguascalientes,Cuarto,74.5,76.5
+2021-03-26,Z.M.: Ferrería,Aguascalientes,Pata,86.5,88.5
+2021-03-26,Z.M.: Ferrería,Edo. de México,Cuarto,74.0,76.0
+2021-03-26,Z.M.: Ferrería,Edo. de México,Pata,86.0,88.0
+2021-03-26,Z.M.: Ferrería,Hidalgo,Cuarto,74.0,76.0
+2021-03-26,Z.M.: Ferrería,Hidalgo,Pata,86.0,88.0
+2021-03-26,Z.M.: Ferrería,Veracruz,Cuarto,74.5,76.5
+2021-03-26,Z.M.: Ferrería,Veracruz,Pata,86.5,88.5
+2021-03-29,Z.M.: Ferrería,Aguascalientes,Cuarto,74.5,76.5
+2021-03-29,Z.M.: Ferrería,Aguascalientes,Pata,86.5,88.5
+2021-03-29,Z.M.: Ferrería,Edo. de México,Cuarto,74.0,76.0
+2021-03-29,Z.M.: Ferrería,Edo. de México,Pata,86.0,88.0
+2021-03-29,Z.M.: Ferrería,Hidalgo,Cuarto,74.0,76.0
+2021-03-29,Z.M.: Ferrería,Hidalgo,Pata,86.0,88.0
+2021-03-29,Z.M.: Ferrería,Veracruz,Cuarto,74.5,76.5
+2021-03-29,Z.M.: Ferrería,Veracruz,Pata,86.5,88.5
+2021-03-30,Z.M.: Ferrería,Edo. de México,Cuarto,76.0,78.0
+2021-03-30,Z.M.: Ferrería,Edo. de México,Pata,88.0,90.0
+2021-03-30,Z.M.: Ferrería,Veracruz,Cuarto,76.5,78.5
+2021-03-30,Z.M.: Ferrería,Veracruz,Pata,88.5,90.5

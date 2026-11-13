@@ -1,0 +1,324 @@
+date,establishment,origin,cut,price_min_mxn_kg,price_max_mxn_kg
+2020-07-20,Z.M.: Carnes Charly,Querétaro,Cuarto,,88.0
+2020-07-20,Z.M.: Carnes Charly,Querétaro,Pata,,89.0
+2020-07-21,Z.M.: Carnes Charly,Querétaro,Cuarto,,88.0
+2020-07-21,Z.M.: Carnes Charly,Querétaro,Pata,,89.0
+2020-07-22,Z.M.: Carnes Charly,Querétaro,Cuarto,,88.0
+2020-07-22,Z.M.: Carnes Charly,Querétaro,Pata,,89.0
+2020-07-23,Z.M.: Carnes Charly,Querétaro,Cuarto,,88.0
+2020-07-23,Z.M.: Carnes Charly,Querétaro,Pata,,89.0
+2020-07-24,Z.M.: Carnes Charly,Querétaro,Cuarto,,88.0
+2020-07-24,Z.M.: Carnes Charly,Querétaro,Pata,,89.0
+2020-07-27,Z.M.: Carnes Charly,Querétaro,Cuarto,,88.0
+2020-07-27,Z.M.: Carnes Charly,Querétaro,Pata,,89.0
+2020-07-28,Z.M.: Carnes Charly,Querétaro,Cuarto,,88.0
+2020-07-28,Z.M.: Carnes Charly,Querétaro,Pata,,89.0
+2020-07-29,Z.M.: Carnes Charly,Querétaro,Cuarto,,88.0
+2020-07-29,Z.M.: Carnes Charly,Querétaro,Pata,,89.0
+2020-07-30,Z.M.: Carnes Charly,Querétaro,Cuarto,,88.0
+2020-07-30,Z.M.: Carnes Charly,Querétaro,Pata,,89.0
+2020-07-31,Z.M.: Carnes Charly,Querétaro,Cuarto,,88.0
+2020-07-31,Z.M.: Carnes Charly,Querétaro,Pata,,89.0
+2020-07-20,Z.M.: Dica Arteaga,Veracruz,Cuarto,,86.0
+2020-07-20,Z.M.: Dica Arteaga,Veracruz,Pata,,87.0
+2020-07-21,Z.M.: Dica Arteaga,Veracruz,Cuarto,,86.0
+2020-07-21,Z.M.: Dica Arteaga,Veracruz,Pata,,87.0
+2020-07-22,Z.M.: Dica Arteaga,Veracruz,Cuarto,,85.0
+2020-07-22,Z.M.: Dica Arteaga,Veracruz,Pata,,86.0
+2020-07-23,Z.M.: Dica Arteaga,Veracruz,Cuarto,,85.0
+2020-07-23,Z.M.: Dica Arteaga,Veracruz,Pata,,86.0
+2020-07-24,Z.M.: Dica Arteaga,Veracruz,Cuarto,,85.0
+2020-07-24,Z.M.: Dica Arteaga,Veracruz,Pata,,86.0
+2020-07-27,Z.M.: Dica Arteaga,Veracruz,Cuarto,,85.0
+2020-07-27,Z.M.: Dica Arteaga,Veracruz,Pata,,86.0
+2020-07-28,Z.M.: Dica Arteaga,Veracruz,Cuarto,,85.0
+2020-07-28,Z.M.: Dica Arteaga,Veracruz,Pata,,86.0
+2020-07-29,Z.M.: Dica Arteaga,Veracruz,Cuarto,,86.0
+2020-07-29,Z.M.: Dica Arteaga,Veracruz,Pata,,87.0
+2020-07-30,Z.M.: Dica Arteaga,Veracruz,Cuarto,,86.0
+2020-07-30,Z.M.: Dica Arteaga,Veracruz,Pata,,87.0
+2020-07-31,Z.M.: Dica Arteaga,Veracruz,Cuarto,,86.0
+2020-07-31,Z.M.: Dica Arteaga,Veracruz,Pata,,87.0
+2020-07-20,Z.M.: Dicas Chela,Veracruz,Cuarto,,86.0
+2020-07-20,Z.M.: Dicas Chela,Veracruz,Pata,,87.0
+2020-07-21,Z.M.: Dicas Chela,Veracruz,Cuarto,,86.0
+2020-07-21,Z.M.: Dicas Chela,Veracruz,Pata,,87.0
+2020-07-22,Z.M.: Dicas Chela,Veracruz,Cuarto,,86.0
+2020-07-22,Z.M.: Dicas Chela,Veracruz,Pata,,87.0
+2020-07-23,Z.M.: Dicas Chela,Veracruz,Cuarto,,86.0
+2020-07-23,Z.M.: Dicas Chela,Veracruz,Pata,,87.0
+2020-07-24,Z.M.: Dicas Chela,Veracruz,Cuarto,,86.0
+2020-07-24,Z.M.: Dicas Chela,Veracruz,Pata,,87.0
+2020-07-27,Z.M.: Dicas Chela,Veracruz,Cuarto,,86.0
+2020-07-27,Z.M.: Dicas Chela,Veracruz,Pata,,87.0
+2020-07-28,Z.M.: Dicas Chela,Veracruz,Cuarto,,86.0
+2020-07-28,Z.M.: Dicas Chela,Veracruz,Pata,,87.0
+2020-07-29,Z.M.: Dicas Chela,Veracruz,Cuarto,,86.0
+2020-07-29,Z.M.: Dicas Chela,Veracruz,Pata,,87.0
+2020-07-30,Z.M.: Dicas Chela,Veracruz,Cuarto,,86.0
+2020-07-30,Z.M.: Dicas Chela,Veracruz,Pata,,87.0
+2020-07-31,Z.M.: Dicas Chela,Veracruz,Cuarto,,86.0
+2020-07-31,Z.M.: Dicas Chela,Veracruz,Pata,,87.0
+2020-07-20,Z.M.: Dicas Don Capo,Veracruz,Cuarto,,85.0
+2020-07-20,Z.M.: Dicas Don Capo,Veracruz,Pata,,86.0
+2020-07-21,Z.M.: Dicas Don Capo,Veracruz,Cuarto,,85.0
+2020-07-21,Z.M.: Dicas Don Capo,Veracruz,Pata,,86.0
+2020-07-22,Z.M.: Dicas Don Capo,Veracruz,Cuarto,,85.0
+2020-07-22,Z.M.: Dicas Don Capo,Veracruz,Pata,,86.0
+2020-07-23,Z.M.: Dicas Don Capo,Veracruz,Cuarto,,85.0
+2020-07-23,Z.M.: Dicas Don Capo,Veracruz,Pata,,86.0
+2020-07-24,Z.M.: Dicas Don Capo,Veracruz,Cuarto,,86.0
+2020-07-24,Z.M.: Dicas Don Capo,Veracruz,Pata,,87.0
+2020-07-27,Z.M.: Dicas Don Capo,Veracruz,Cuarto,,85.0
+2020-07-27,Z.M.: Dicas Don Capo,Veracruz,Pata,,86.0
+2020-07-28,Z.M.: Dicas Don Capo,Veracruz,Cuarto,,85.0
+2020-07-28,Z.M.: Dicas Don Capo,Veracruz,Pata,,86.0
+2020-07-29,Z.M.: Dicas Don Capo,Veracruz,Cuarto,,86.0
+2020-07-29,Z.M.: Dicas Don Capo,Veracruz,Pata,,87.0
+2020-07-30,Z.M.: Dicas Don Capo,Veracruz,Cuarto,,86.0
+2020-07-30,Z.M.: Dicas Don Capo,Veracruz,Pata,,87.0
+2020-07-31,Z.M.: Dicas Don Capo,Veracruz,Cuarto,,86.0
+2020-07-31,Z.M.: Dicas Don Capo,Veracruz,Pata,,87.0
+2020-07-20,Z.M.: El Capricho,Aguascalientes,Cuarto,,86.0
+2020-07-20,Z.M.: El Capricho,Aguascalientes,Pata,,87.0
+2020-07-20,Z.M.: El Capricho,Edo. de México,Cuarto,,88.0
+2020-07-20,Z.M.: El Capricho,Edo. de México,Pata,,89.0
+2020-07-20,Z.M.: El Capricho,Guanajuato,Cuarto,,86.0
+2020-07-20,Z.M.: El Capricho,Guanajuato,Pata,,87.0
+2020-07-20,Z.M.: El Capricho,Jalisco,Cuarto,,87.0
+2020-07-20,Z.M.: El Capricho,Jalisco,Pata,,88.0
+2020-07-20,Z.M.: El Capricho,Querétaro,Cuarto,,87.0
+2020-07-20,Z.M.: El Capricho,Querétaro,Pata,,88.0
+2020-07-20,Z.M.: El Capricho,Tamaulipas,Cuarto,,88.0
+2020-07-20,Z.M.: El Capricho,Tamaulipas,Pata,,89.0
+2020-07-20,Z.M.: El Capricho,Veracruz,Cuarto,,86.0
+2020-07-20,Z.M.: El Capricho,Veracruz,Pata,,88.0
+2020-07-21,Z.M.: El Capricho,Aguascalientes,Cuarto,,86.0
+2020-07-21,Z.M.: El Capricho,Aguascalientes,Pata,,87.0
+2020-07-21,Z.M.: El Capricho,Edo. de México,Cuarto,,88.0
+2020-07-21,Z.M.: El Capricho,Edo. de México,Pata,,89.0
+2020-07-21,Z.M.: El Capricho,Guanajuato,Cuarto,,86.0
+2020-07-21,Z.M.: El Capricho,Guanajuato,Pata,,87.0
+2020-07-21,Z.M.: El Capricho,Jalisco,Cuarto,,87.0
+2020-07-21,Z.M.: El Capricho,Jalisco,Pata,,88.0
+2020-07-21,Z.M.: El Capricho,Querétaro,Cuarto,,87.0
+2020-07-21,Z.M.: El Capricho,Querétaro,Pata,,88.0
+2020-07-21,Z.M.: El Capricho,Tamaulipas,Cuarto,,88.0
+2020-07-21,Z.M.: El Capricho,Tamaulipas,Pata,,89.0
+2020-07-21,Z.M.: El Capricho,Veracruz,Cuarto,,86.0
+2020-07-21,Z.M.: El Capricho,Veracruz,Pata,,88.0
+2020-07-22,Z.M.: El Capricho,Aguascalientes,Cuarto,,86.0
+2020-07-22,Z.M.: El Capricho,Aguascalientes,Pata,,87.0
+2020-07-22,Z.M.: El Capricho,Edo. de México,Cuarto,,88.0
+2020-07-22,Z.M.: El Capricho,Edo. de México,Pata,,89.0
+2020-07-22,Z.M.: El Capricho,Guanajuato,Cuarto,,85.0
+2020-07-22,Z.M.: El Capricho,Guanajuato,Pata,,87.0
+2020-07-22,Z.M.: El Capricho,Jalisco,Cuarto,,87.0
+2020-07-22,Z.M.: El Capricho,Jalisco,Pata,,88.0
+2020-07-22,Z.M.: El Capricho,Querétaro,Cuarto,,87.0
+2020-07-22,Z.M.: El Capricho,Querétaro,Pata,,88.0
+2020-07-22,Z.M.: El Capricho,Tamaulipas,Cuarto,,88.0
+2020-07-22,Z.M.: El Capricho,Tamaulipas,Pata,,89.0
+2020-07-22,Z.M.: El Capricho,Veracruz,Cuarto,,86.0
+2020-07-22,Z.M.: El Capricho,Veracruz,Pata,,88.0
+2020-07-23,Z.M.: El Capricho,Aguascalientes,Cuarto,,86.0
+2020-07-23,Z.M.: El Capricho,Aguascalientes,Pata,,87.0
+2020-07-23,Z.M.: El Capricho,Edo. de México,Cuarto,,88.0
+2020-07-23,Z.M.: El Capricho,Edo. de México,Pata,,89.0
+2020-07-23,Z.M.: El Capricho,Guanajuato,Cuarto,,85.0
+2020-07-23,Z.M.: El Capricho,Guanajuato,Pata,,87.0
+2020-07-23,Z.M.: El Capricho,Jalisco,Cuarto,,87.0
+2020-07-23,Z.M.: El Capricho,Jalisco,Pata,,88.0
+2020-07-23,Z.M.: El Capricho,Querétaro,Cuarto,,88.0
+2020-07-23,Z.M.: El Capricho,Querétaro,Pata,,89.0
+2020-07-23,Z.M.: El Capricho,Tamaulipas,Cuarto,,88.0
+2020-07-23,Z.M.: El Capricho,Tamaulipas,Pata,,89.0
+2020-07-23,Z.M.: El Capricho,Veracruz,Cuarto,,86.0
+2020-07-23,Z.M.: El Capricho,Veracruz,Pata,,88.0
+2020-07-24,Z.M.: El Capricho,Aguascalientes,Cuarto,,86.0
+2020-07-24,Z.M.: El Capricho,Aguascalientes,Pata,,87.0
+2020-07-24,Z.M.: El Capricho,Edo. de México,Cuarto,,88.0
+2020-07-24,Z.M.: El Capricho,Edo. de México,Pata,,89.0
+2020-07-24,Z.M.: El Capricho,Guanajuato,Cuarto,,85.0
+2020-07-24,Z.M.: El Capricho,Guanajuato,Pata,,87.0
+2020-07-24,Z.M.: El Capricho,Jalisco,Cuarto,,87.0
+2020-07-24,Z.M.: El Capricho,Jalisco,Pata,,88.0
+2020-07-24,Z.M.: El Capricho,Querétaro,Cuarto,,88.0
+2020-07-24,Z.M.: El Capricho,Querétaro,Pata,,89.0
+2020-07-24,Z.M.: El Capricho,Tamaulipas,Cuarto,,88.0
+2020-07-24,Z.M.: El Capricho,Tamaulipas,Pata,,89.0
+2020-07-24,Z.M.: El Capricho,Veracruz,Cuarto,,86.0
+2020-07-24,Z.M.: El Capricho,Veracruz,Pata,,88.0
+2020-07-27,Z.M.: El Capricho,Aguascalientes,Cuarto,,86.0
+2020-07-27,Z.M.: El Capricho,Aguascalientes,Pata,,87.0
+2020-07-27,Z.M.: El Capricho,Edo. de México,Cuarto,,88.0
+2020-07-27,Z.M.: El Capricho,Edo. de México,Pata,,89.0
+2020-07-27,Z.M.: El Capricho,Guanajuato,Cuarto,,85.0
+2020-07-27,Z.M.: El Capricho,Guanajuato,Pata,,87.0
+2020-07-27,Z.M.: El Capricho,Jalisco,Cuarto,,87.0
+2020-07-27,Z.M.: El Capricho,Jalisco,Pata,,88.0
+2020-07-27,Z.M.: El Capricho,Querétaro,Cuarto,,88.0
+2020-07-27,Z.M.: El Capricho,Querétaro,Pata,,89.0
+2020-07-27,Z.M.: El Capricho,Tamaulipas,Cuarto,,88.0
+2020-07-27,Z.M.: El Capricho,Tamaulipas,Pata,,89.0
+2020-07-27,Z.M.: El Capricho,Veracruz,Cuarto,,86.0
+2020-07-27,Z.M.: El Capricho,Veracruz,Pata,,88.0
+2020-07-28,Z.M.: El Capricho,Aguascalientes,Cuarto,,86.0
+2020-07-28,Z.M.: El Capricho,Aguascalientes,Pata,,87.0
+2020-07-28,Z.M.: El Capricho,Edo. de México,Cuarto,,88.0
+2020-07-28,Z.M.: El Capricho,Edo. de México,Pata,,89.0
+2020-07-28,Z.M.: El Capricho,Guanajuato,Cuarto,,85.0
+2020-07-28,Z.M.: El Capricho,Guanajuato,Pata,,87.0
+2020-07-28,Z.M.: El Capricho,Jalisco,Cuarto,,87.0
+2020-07-28,Z.M.: El Capricho,Jalisco,Pata,,88.0
+2020-07-28,Z.M.: El Capricho,Querétaro,Cuarto,,88.0
+2020-07-28,Z.M.: El Capricho,Querétaro,Pata,,89.0
+2020-07-28,Z.M.: El Capricho,Tamaulipas,Cuarto,,88.0
+2020-07-28,Z.M.: El Capricho,Tamaulipas,Pata,,89.0
+2020-07-28,Z.M.: El Capricho,Veracruz,Cuarto,,86.0
+2020-07-28,Z.M.: El Capricho,Veracruz,Pata,,88.0
+2020-07-29,Z.M.: El Capricho,Aguascalientes,Cuarto,,86.0
+2020-07-29,Z.M.: El Capricho,Aguascalientes,Pata,,87.0
+2020-07-29,Z.M.: El Capricho,Edo. de México,Cuarto,,88.0
+2020-07-29,Z.M.: El Capricho,Edo. de México,Pata,,89.0
+2020-07-29,Z.M.: El Capricho,Guanajuato,Cuarto,,86.0
+2020-07-29,Z.M.: El Capricho,Guanajuato,Pata,,87.0
+2020-07-29,Z.M.: El Capricho,Jalisco,Cuarto,,86.0
+2020-07-29,Z.M.: El Capricho,Jalisco,Pata,,87.0
+2020-07-29,Z.M.: El Capricho,Querétaro,Cuarto,,88.0
+2020-07-29,Z.M.: El Capricho,Querétaro,Pata,,89.0
+2020-07-29,Z.M.: El Capricho,Tamaulipas,Cuarto,,88.0
+2020-07-29,Z.M.: El Capricho,Tamaulipas,Pata,,89.0
+2020-07-29,Z.M.: El Capricho,Veracruz,Cuarto,,86.0
+2020-07-29,Z.M.: El Capricho,Veracruz,Pata,,88.0
+2020-07-30,Z.M.: El Capricho,Aguascalientes,Cuarto,,86.0
+2020-07-30,Z.M.: El Capricho,Aguascalientes,Pata,,87.0
+2020-07-30,Z.M.: El Capricho,Edo. de México,Cuarto,,88.0
+2020-07-30,Z.M.: El Capricho,Edo. de México,Pata,,89.0
+2020-07-30,Z.M.: El Capricho,Guanajuato,Cuarto,,86.0
+2020-07-30,Z.M.: El Capricho,Guanajuato,Pata,,87.0
+2020-07-30,Z.M.: El Capricho,Jalisco,Cuarto,,86.0
+2020-07-30,Z.M.: El Capricho,Jalisco,Pata,,87.0
+2020-07-30,Z.M.: El Capricho,Querétaro,Cuarto,,88.0
+2020-07-30,Z.M.: El Capricho,Querétaro,Pata,,89.0
+2020-07-30,Z.M.: El Capricho,Tamaulipas,Cuarto,,88.0
+2020-07-30,Z.M.: El Capricho,Tamaulipas,Pata,,89.0
+2020-07-30,Z.M.: El Capricho,Veracruz,Cuarto,,86.0
+2020-07-30,Z.M.: El Capricho,Veracruz,Pata,,88.0
+2020-07-31,Z.M.: El Capricho,Aguascalientes,Cuarto,,86.0
+2020-07-31,Z.M.: El Capricho,Aguascalientes,Pata,,87.0
+2020-07-31,Z.M.: El Capricho,Edo. de México,Cuarto,,88.0
+2020-07-31,Z.M.: El Capricho,Edo. de México,Pata,,89.0
+2020-07-31,Z.M.: El Capricho,Guanajuato,Cuarto,,86.0
+2020-07-31,Z.M.: El Capricho,Guanajuato,Pata,,87.0
+2020-07-31,Z.M.: El Capricho,Jalisco,Cuarto,,86.0
+2020-07-31,Z.M.: El Capricho,Jalisco,Pata,,87.0
+2020-07-31,Z.M.: El Capricho,Querétaro,Cuarto,,88.0
+2020-07-31,Z.M.: El Capricho,Querétaro,Pata,,89.0
+2020-07-31,Z.M.: El Capricho,Tamaulipas,Cuarto,,88.0
+2020-07-31,Z.M.: El Capricho,Tamaulipas,Pata,,89.0
+2020-07-31,Z.M.: El Capricho,Veracruz,Cuarto,,86.0
+2020-07-31,Z.M.: El Capricho,Veracruz,Pata,,88.0
+2020-07-20,Z.M.: FAMILIA TELERIN,Veracruz,Cuarto,,88.0
+2020-07-20,Z.M.: FAMILIA TELERIN,Veracruz,Pata,,89.0
+2020-07-21,Z.M.: FAMILIA TELERIN,Veracruz,Cuarto,,88.0
+2020-07-21,Z.M.: FAMILIA TELERIN,Veracruz,Pata,,89.0
+2020-07-22,Z.M.: FAMILIA TELERIN,Veracruz,Cuarto,,88.0
+2020-07-22,Z.M.: FAMILIA TELERIN,Veracruz,Pata,,89.0
+2020-07-23,Z.M.: FAMILIA TELERIN,Veracruz,Cuarto,,88.0
+2020-07-23,Z.M.: FAMILIA TELERIN,Veracruz,Pata,,89.0
+2020-07-24,Z.M.: FAMILIA TELERIN,Veracruz,Cuarto,,88.0
+2020-07-24,Z.M.: FAMILIA TELERIN,Veracruz,Pata,,89.0
+2020-07-27,Z.M.: FAMILIA TELERIN,Veracruz,Cuarto,,88.0
+2020-07-27,Z.M.: FAMILIA TELERIN,Veracruz,Pata,,89.0
+2020-07-28,Z.M.: FAMILIA TELERIN,Veracruz,Cuarto,,88.0
+2020-07-28,Z.M.: FAMILIA TELERIN,Veracruz,Pata,,89.0
+2020-07-29,Z.M.: FAMILIA TELERIN,Veracruz,Cuarto,,88.0
+2020-07-29,Z.M.: FAMILIA TELERIN,Veracruz,Pata,,89.0
+2020-07-30,Z.M.: FAMILIA TELERIN,Veracruz,Cuarto,,88.0
+2020-07-30,Z.M.: FAMILIA TELERIN,Veracruz,Pata,,89.0
+2020-07-31,Z.M.: FAMILIA TELERIN,Veracruz,Cuarto,,88.0
+2020-07-31,Z.M.: FAMILIA TELERIN,Veracruz,Pata,,89.0
+2020-07-13,Z.M.: Ferrería,Aguascalientes,Cuarto,65.0,66.5
+2020-07-13,Z.M.: Ferrería,Aguascalientes,Pata,78.5,80.5
+2020-07-13,Z.M.: Ferrería,Edo. de México,Cuarto,65.0,66.0
+2020-07-13,Z.M.: Ferrería,Edo. de México,Pata,78.0,80.0
+2020-07-13,Z.M.: Ferrería,Querétaro,Cuarto,65.0,66.5
+2020-07-13,Z.M.: Ferrería,Querétaro,Pata,78.5,80.5
+2020-07-14,Z.M.: Ferrería,Edo. de México,Cuarto,65.0,66.0
+2020-07-14,Z.M.: Ferrería,Edo. de México,Pata,78.0,80.0
+2020-07-14,Z.M.: Ferrería,Veracruz,Cuarto,65.5,66.5
+2020-07-14,Z.M.: Ferrería,Veracruz,Pata,78.5,80.5
+2020-07-15,Z.M.: Ferrería,Aguascalientes,Cuarto,65.5,66.5
+2020-07-15,Z.M.: Ferrería,Aguascalientes,Pata,78.5,80.5
+2020-07-15,Z.M.: Ferrería,Edo. de México,Cuarto,65.0,66.0
+2020-07-15,Z.M.: Ferrería,Edo. de México,Pata,78.0,80.0
+2020-07-15,Z.M.: Ferrería,Veracruz,Cuarto,65.5,66.5
+2020-07-15,Z.M.: Ferrería,Veracruz,Pata,78.5,80.5
+2020-07-16,Z.M.: Ferrería,Aguascalientes,Cuarto,65.5,66.5
+2020-07-16,Z.M.: Ferrería,Aguascalientes,Pata,78.5,80.5
+2020-07-16,Z.M.: Ferrería,Edo. de México,Cuarto,65.0,66.0
+2020-07-16,Z.M.: Ferrería,Edo. de México,Pata,78.0,80.0
+2020-07-16,Z.M.: Ferrería,Veracruz,Cuarto,65.5,66.6
+2020-07-16,Z.M.: Ferrería,Veracruz,Pata,78.5,80.5
+2020-07-17,Z.M.: Ferrería,Edo. de México,Cuarto,65.0,66.0
+2020-07-17,Z.M.: Ferrería,Edo. de México,Pata,78.0,80.0
+2020-07-17,Z.M.: Ferrería,Hidalgo,Cuarto,65.0,66.0
+2020-07-17,Z.M.: Ferrería,Hidalgo,Pata,78.0,80.0
+2020-07-17,Z.M.: Ferrería,Veracruz,Cuarto,65.5,66.5
+2020-07-17,Z.M.: Ferrería,Veracruz,Pata,78.5,80.5
+2020-07-20,Z.M.: Ferrería,Edo. de México,Cuarto,65.0,66.0
+2020-07-20,Z.M.: Ferrería,Edo. de México,Pata,78.0,80.0
+2020-07-20,Z.M.: Ferrería,Hidalgo,Cuarto,65.0,66.0
+2020-07-20,Z.M.: Ferrería,Hidalgo,Pata,78.0,80.0
+2020-07-20,Z.M.: Ferrería,Veracruz,Cuarto,65.5,66.5
+2020-07-20,Z.M.: Ferrería,Veracruz,Pata,78.5,80.5
+2020-07-21,Z.M.: Ferrería,Edo. de México,Cuarto,65.0,66.0
+2020-07-21,Z.M.: Ferrería,Edo. de México,Pata,78.0,80.0
+2020-07-21,Z.M.: Ferrería,Veracruz,Cuarto,65.5,66.5
+2020-07-21,Z.M.: Ferrería,Veracruz,Pata,78.5,80.5
+2020-07-22,Z.M.: Ferrería,Edo. de México,Cuarto,65.0,66.0
+2020-07-22,Z.M.: Ferrería,Edo. de México,Pata,80.0,82.0
+2020-07-22,Z.M.: Ferrería,Hidalgo,Cuarto,65.0,66.0
+2020-07-22,Z.M.: Ferrería,Hidalgo,Pata,80.0,82.0
+2020-07-22,Z.M.: Ferrería,Veracruz,Cuarto,65.5,66.5
+2020-07-22,Z.M.: Ferrería,Veracruz,Pata,80.5,82.5
+2020-07-23,Z.M.: Ferrería,Aguascalientes,Cuarto,65.5,66.5
+2020-07-23,Z.M.: Ferrería,Aguascalientes,Pata,80.5,82.5
+2020-07-23,Z.M.: Ferrería,Edo. de México,Cuarto,65.0,66.0
+2020-07-23,Z.M.: Ferrería,Edo. de México,Pata,80.0,82.0
+2020-07-23,Z.M.: Ferrería,Veracruz,Cuarto,65.5,66.5
+2020-07-23,Z.M.: Ferrería,Veracruz,Pata,80.5,82.5
+2020-07-24,Z.M.: Ferrería,Edo. de México,Cuarto,65.0,66.0
+2020-07-24,Z.M.: Ferrería,Edo. de México,Pata,80.0,82.0
+2020-07-24,Z.M.: Ferrería,Veracruz,Cuarto,65.5,66.5
+2020-07-24,Z.M.: Ferrería,Veracruz,Pata,80.5,82.5
+2020-07-27,Z.M.: Ferrería,Aguascalientes,Cuarto,65.5,66.5
+2020-07-27,Z.M.: Ferrería,Aguascalientes,Pata,80.5,82.5
+2020-07-27,Z.M.: Ferrería,Edo. de México,Cuarto,65.0,66.0
+2020-07-27,Z.M.: Ferrería,Edo. de México,Pata,80.0,82.0
+2020-07-27,Z.M.: Ferrería,Veracruz,Cuarto,65.5,66.5
+2020-07-28,Z.M.: Ferrería,Edo. de México,Cuarto,65.0,66.0
+2020-07-28,Z.M.: Ferrería,Edo. de México,Pata,80.0,82.0
+2020-07-28,Z.M.: Ferrería,Hidalgo,Cuarto,65.0,66.0
+2020-07-28,Z.M.: Ferrería,Hidalgo,Pata,80.0,82.0
+2020-07-28,Z.M.: Ferrería,Veracruz,Cuarto,65.5,66.5
+2020-07-28,Z.M.: Ferrería,Veracruz,Pata,65.5,66.5
+2020-07-29,Z.M.: Ferrería,Aguascalientes,Cuarto,67.5,69.5
+2020-07-29,Z.M.: Ferrería,Aguascalientes,Pata,86.5,88.5
+2020-07-29,Z.M.: Ferrería,Edo. de México,Cuarto,67.0,69.0
+2020-07-29,Z.M.: Ferrería,Edo. de México,Pata,86.0,88.0
+2020-07-29,Z.M.: Ferrería,Veracruz,Cuarto,67.5,69.5
+2020-07-29,Z.M.: Ferrería,Veracruz,Pata,85.5,86.5
+2020-07-30,Z.M.: Ferrería,Edo. de México,Cuarto,67.0,69.0
+2020-07-30,Z.M.: Ferrería,Edo. de México,Pata,86.0,88.0
+2020-07-30,Z.M.: Ferrería,Hidalgo,Cuarto,67.0,69.0
+2020-07-30,Z.M.: Ferrería,Hidalgo,Pata,86.0,88.0
+2020-07-30,Z.M.: Ferrería,Veracruz,Cuarto,67.5,69.0
+2020-07-30,Z.M.: Ferrería,Veracruz,Pata,86.5,88.5
+2020-07-31,Z.M.: Ferrería,Edo. de México,Cuarto,67.0,69.0
+2020-07-31,Z.M.: Ferrería,Edo. de México,Pata,86.0,88.0
+2020-07-31,Z.M.: Ferrería,Hidalgo,Cuarto,67.0,69.0
+2020-07-31,Z.M.: Ferrería,Hidalgo,Pata,86.0,88.0
+2020-07-31,Z.M.: Ferrería,Veracruz,Cuarto,67.5,69.0
+2020-07-31,Z.M.: Ferrería,Veracruz,Pata,86.5,88.5
