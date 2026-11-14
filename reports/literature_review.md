@@ -1,6 +1,6 @@
 # Literature Review
 
-Forecasting weekly wholesale beef prices in Mexico with deep learning.
+Forecasting weekly prices of individual beef cuts in Mexico with deep learning.
 
 This review covers three bodies of work: (1) how beef prices in Mexico have been
 modelled, (2) how deep learning has been applied to livestock prices, and (3) which
@@ -93,20 +93,58 @@ than ~1,300 weekly observations, and would risk overfitting here.
 | Mexican beef prices modelled with linear VECM on **monthly** data | **Weekly** data and nonlinear recurrent models |
 | Asymmetric transmission documented but modelled linearly | Nonlinearity modelled directly by LSTM/GRU |
 | Deep learning for livestock prices focused on Korea and China | **Mexico**, a market with no comparable deep learning study |
-| Most deep learning price studies are univariate, or decompose the price alone | Explicit **cross-border exogenous inputs**: US boxed beef cutout, USD/MXN exchange rate, US beef export volumes to Mexico |
-| Data typically taken from existing repositories | Data collected directly from four primary sources (SNIIM, USDA AMS, USDA FAS, Banco de México) with reproducible scripts |
+| Prices studied at the aggregate or carcass level | **Individual cuts** — five cuts spanning five primals, forecast jointly |
+| Most deep learning price studies are univariate, or decompose the price alone | Explicit **cross-border exogenous inputs**: US cut prices matched cut-to-cut by IMPS code, boxed beef cutout, USD/MXN, US beef export volumes |
+| Models fitted one series at a time | One **multi-output** network forecasting all five cuts jointly, able to exploit the fact that cuts from the same carcass share drivers |
+| Data typically taken from existing repositories | Data collected directly from four primary sources (SNIIM, USDA AMS, USDA FAS, Banco de México) with reproducible scripts, and cut names reconciled against the USMEF US–Mexico nomenclature standard |
 
 In short, the Mexican literature establishes *that* international prices drive domestic
 prices and that the relationship is asymmetric; the Asian literature establishes *that*
-recurrent networks handle such nonlinearity well. This project joins the two.
+recurrent networks handle such nonlinearity well. This project joins the two, and adds a
+level of detail neither has: individual cuts rather than an aggregate.
+
+### Three comparisons
+
+The design yields three distinct questions, each answerable from the same pipeline:
+
+1. **Does nonlinearity help?** LSTM and GRU against ARIMA on the same single series.
+2. **Does sharing across cuts help?** One joint five-output network against five
+   independent single-cut models. Six separate ARIMAs cannot use the ribeye's history
+   to inform the brisket; one network can.
+3. **Does US market information help?** The same model trained with and without the US
+   inputs — a direct ablation.
+
+### A design that was considered and deferred
+
+A two-stage cascade — forecast US cut prices first, then feed those forecasts into a
+Mexican model — was considered and deliberately not built. Stage 2 would inherit stage 1's
+forecast error, and the transmission estimates above imply it is unnecessary at a
+four-week horizon: because Mexican prices adjust only 3–4% per month toward international
+prices, the *observed* US price still carries information about Mexican prices a month
+ahead. A cascade becomes necessary only for horizons longer than the transmission lag, and
+is recorded as future work.
 
 ## 5. Feasibility and known risks
 
-- **Sample size.** About 1,290 weekly observations after merging (limited by US export
-  data starting December 2001). This is comparable to Ma et al. (2025), who used weekly
-  Chinese meat prices, but it is small for deep learning. Mitigation: a single recurrent
-  layer, modest hidden size, dropout, early stopping, and a time-ordered split rather
-  than cross-validation.
+- **Sample size.** 1,248 complete weekly observations after merging, covering December
+  2001 to October 2026, with five cut series each. The binding constraint is the US export
+  series, which begins in December 2001. This is comparable to Ma et al. (2025), who used
+  weekly Chinese meat prices, but it is small for deep learning. Mitigation: a single
+  recurrent layer, modest hidden size, dropout, early stopping, and a time-ordered split
+  rather than cross-validation. Forecasting five cuts jointly also helps here, since one
+  network trained on five correlated series has more signal to learn from than five
+  networks trained on one series each.
+
+- **Price stickiness.** Between 21% and 33% of weeks show an exactly zero price change,
+  because establishments hold reported prices unchanged for weeks at a time. A naive
+  "price stays put" forecast is therefore right surprisingly often, which makes the naive
+  baseline a harder floor to beat than it appears.
+
+- **Data entry errors.** SNIIM is hand-entered and contains occasional impossible values —
+  brisket recorded at 10 and at 2,850 MXN/kg against a median near 49. With only three to
+  five establishments reporting a cut in a given week, one such record moves the average by
+  an order of magnitude. Records beyond five times the median for their own cut in their own
+  year are dropped, which removed 284 of 364,549 records (0.078%).
 - **The benchmark may be hard to beat.** Several of the studies above report large gains
   for deep learning, but those gains come partly from decomposition and attention
   components this project does not use. A modest improvement over linear regression — or
@@ -115,9 +153,16 @@ recurrent networks handle such nonlinearity well. This project joins the two.
 - **Structural change.** US beef exports to Mexico fell roughly 70% between 2002 and 2026,
   with a sharp dip in 2004 coinciding with restrictions following the BSE case. A model
   trained across the whole period must handle a changing relationship between the series.
-- **Nominal prices.** The Mexican price rose from about 23 to 111 MXN/kg over the period.
-  Modelling nominal levels, deflated prices, or weekly changes is an open decision to be
-  settled during exploratory analysis.
+- **Nominal prices.** Prices rose roughly fivefold over the period. Exploratory analysis
+  settled this: the price levels are non-stationary (ADF p = 0.998 on the carcass series),
+  and their first differences fail KPSS marginally because the variance grows with the
+  level. The models therefore work in **weekly log returns** — logs stabilise the variance,
+  differencing removes the trend.
+
+- **One target has no US counterpart.** Arrachera (outside skirt) was in the original
+  target set but was dropped: skirts do not appear among the 42 items of USDA's daily
+  negotiated boxed beef report, so it was the only cut without a clean cross-border pair.
+  The five retained cuts each map to a USDA item by IMPS code.
 
 ## References
 
@@ -147,3 +192,14 @@ recurrent networks handle such nonlinearity well. This project joins the two.
    Economía y Finanzas*, 17(1), e570.
 10. Paredes-Garcia, W. J. et al. (2019). Price Forecasting and Span Commercialization
     Opportunities for Mexican Agricultural Products. *Agronomy*, 9(12):826.
+11. Valdez, A. (U.S. Meat Export Federation, Mexico). *Equivalencias EEUU y México en
+    Nomenclatura de Cortes de Res y Cerdo e Inspección*. Used to map SNIIM cut names to
+    US cuts: pulpa negra = top (inside) round, pulpa blanca = bottom round / gooseneck,
+    pulpa bola = knuckle.
+12. Huerta-Leidenz, N. (2013). *Guía de nomenclatura internacional de cortes de carne de
+    res para EE.UU. y diferentes países objetivo de la U.S. Meat Export Federation.*
+    U.S. Meat Export Federation, Mexico City.
+13. Calderón-Alonso, J. et al. (2021). Equivalencia de la nomenclatura y rendimiento de
+    cortes primarios de la canal bovina en el noroeste de México. *Nacameh*, 15(1), 30-45.
+    Notes that cut nomenclature and coding are not standardised across most of Latin
+    America, Mexico included - which is why the mapping in data/reference/ was needed.

@@ -1,140 +1,277 @@
-"""Download the US boxed beef cutout from USDA AMS MyMarketNews (MARS API).
+"""Download US boxed beef prices from USDA AMS, report LM_XB403 (slug 2453).
 
-Report slug 2453 (LM_XB403): National Daily Boxed Beef Cutout & Boxed Beef Cuts,
-Negotiated Sales, afternoon. The "Current Cutout Values" section holds the daily
-Choice and Select cutout values in US dollars per 100 pounds.
+Source: the Livestock Mandatory Reporting (LMR) Datamart
+        https://mpr.datamart.ams.usda.gov/
+No API key and no registration are required; unregistered callers are allowed
+99,999 rows per request.
 
-Needs a free MyMarketNews API key in .env as USDA_MMN_API_KEY (see .env.example).
-The key is sent as the HTTP basic-auth username, with no password.
+Note on which USDA service to use: boxed beef is an LMR report and lives on the
+Datamart above, NOT on the MyMarketNews MARS API (marsapi.ams.usda.gov). Report 2453
+is listed on MyMarketNews as a "Non Mars Location", and querying MARS for it returns
+401 "User is not found" whatever key is supplied. The Datamart was returning HTTP 500
+for part of 2026-11-12 and 13; if it fails, wait and retry rather than switching
+service.
 
-Note: USDA's older Datamart service (mpr.datamart.ams.usda.gov) serves the same
-report without a key, but it was unreachable when this project was built.
+Two sections are collected:
+
+  Current Cutout Values -- the daily Choice and Select cutout, USD per 100 lb
+  Choice Cuts           -- 42 individual cuts per day, each with its IMPS code,
+                           weighted average price, price range, number of trades
+                           and pounds traded
+
+The individual cuts are what pair with the Mexican SNIIM cuts; see
+data/reference/us_cut_map.csv for the pairing.
+
+The Datamart is slow on wide date ranges and times out on whole-year requests, so
+this script asks for one quarter at a time, retries with backoff, and caches each
+chunk to data/raw/usda_cache/. Re-running skips chunks already downloaded, so an
+interrupted run can simply be restarted.
 
 Usage:
-    python src/fetch_usda_boxed_beef.py --inspect       # list the report's sections
-    python src/fetch_usda_boxed_beef.py --inspect --section "Current Cutout Values"
-    python src/fetch_usda_boxed_beef.py                 # download the full history
-    python src/fetch_usda_boxed_beef.py --start-year 2015
+    python src/fetch_usda_boxed_beef.py --inspect        # sections and columns
+    python src/fetch_usda_boxed_beef.py                  # both sections, full history
+    python src/fetch_usda_boxed_beef.py --chunk month     # if quarters still time out
+    python src/fetch_usda_boxed_beef.py --start-year 2020
+    python src/fetch_usda_boxed_beef.py --section "Select Cuts"
 
 Output:
     data/raw/usda_boxed_beef_cutout.csv
+    data/raw/usda_boxed_beef_choice_cuts.csv
+    data/raw/usda_cache/<section>/<start>_<end>.csv    (resume cache)
 """
 
 import argparse
-import os
 import sys
 import time
-from datetime import date
+from datetime import date, timedelta
 from pathlib import Path
 from urllib.parse import quote
 
 import pandas as pd
 import requests
-from dotenv import load_dotenv
 
-BASE_URL = "https://marsapi.ams.usda.gov/services/v1.2/reports"
-SLUG = 2453                        # National Daily Boxed Beef Cutout (LM_XB403)
-SECTION = "Current Cutout Values"
+BASE_URL = "https://mpr.datamart.ams.usda.gov/services/v1.1/reports"
+SLUG = 2453
+CUTOUT_SECTION = "Current Cutout Values"
+CUTS_SECTION = "Choice Cuts"
 FIRST_YEAR = 2000
 ROOT = Path(__file__).resolve().parents[1]
-OUT_PATH = ROOT / "data" / "raw" / "usda_boxed_beef_cutout.csv"
-TIMEOUT_SECONDS = 90
+RAW = ROOT / "data" / "raw"
+TIMEOUT_SECONDS = 180
+RETRIES = 4
+CACHE = Path(__file__).resolve().parents[1] / "data" / "raw" / "usda_cache"
+NUMERIC_COLUMNS = ["choice_600_900_current", "select_600_900_current", "number_trades",
+                   "total_pounds", "price_range_low", "price_range_high", "weighted_average"]
 
 
-def get_json(url: str, key: str):
-    """Call the MARS API. The key is the basic-auth username; the password is empty."""
-    try:
-        response = requests.get(url, auth=(key, ""), timeout=TIMEOUT_SECONDS)
-    except requests.exceptions.Timeout:
-        sys.exit(
-            f"The USDA server did not answer within {TIMEOUT_SECONDS} seconds.\n"
-            "This is a server or network problem, not a problem with the script."
-        )
-    if not response.ok:
-        sys.exit(
-            f"USDA returned HTTP {response.status_code} for {url}\n"
-            f"Response: {response.text[:300]}\n"
-            "If this is 401 or 403, check USDA_MMN_API_KEY in .env."
-        )
-    return response.json()
+def get_json(url: str, required: bool = True):
+    """Fetch one URL, retrying on timeouts and server errors with growing backoff."""
+    last = ""
+    for attempt in range(RETRIES):
+        try:
+            response = requests.get(url, timeout=TIMEOUT_SECONDS)
+            if response.status_code < 500:
+                response.raise_for_status()
+                return response.json()
+            last = f"HTTP {response.status_code}"
+        except requests.exceptions.Timeout:
+            last = f"timed out after {TIMEOUT_SECONDS}s"
+        except requests.RequestException as error:
+            last = str(error)[:120]
+        if attempt < RETRIES - 1:
+            wait = 10 * (attempt + 1)
+            print(f"    {last}; retrying in {wait}s ({attempt + 2}/{RETRIES})")
+            time.sleep(wait)
+
+    message = (f"USDA failed {RETRIES} times ({last}). The Datamart is intermittently "
+               "unavailable; wait and re-run - completed chunks are cached and skipped.")
+    if required:
+        sys.exit(message)
+    print(f"    giving up on this chunk: {last}")
+    return None
 
 
-def inspect(key: str, section: str | None) -> None:
-    """Show the report's sections, or the columns of one section."""
-    if not section:
-        data = get_json(f"{BASE_URL}/{SLUG}", key)
-        record = data[0] if isinstance(data, list) and data else data
-        print("Report:", record.get("report_title") or record.get("reportTitle"))
-        print("Sections:", record.get("report_section") or record.get("reportSections"))
-        print("\nRun again with --section \"<name>\" to see that section's columns.")
-        return
+def service_is_up() -> bool:
+    """One small request to see whether the Datamart is answering at all.
 
+    Without this, a pass over 108 windows during an outage takes nearly two hours,
+    because each window burns its full retry backoff before being skipped. The probe
+    turns that into a few seconds, so a retry loop can check often and catch a short
+    window of availability.
+    """
     today = date.today()
-    url = (
-        f"{BASE_URL}/{SLUG}/{quote(section)}"
-        f"?q=report_begin_date={today.replace(day=1):%m/%d/%Y}:{today:%m/%d/%Y}"
-    )
-    print("Requesting:", url)
-    data = get_json(url, key)
-    rows = data.get("results", data) if isinstance(data, dict) else data
-    print(f"Rows this month: {len(rows)}")
-    if rows:
-        print("Columns:", list(rows[0].keys()))
-        print("Example row:", rows[0])
+    url = section_url(CUTOUT_SECTION, today - timedelta(days=3), today)
+    try:
+        response = requests.get(url, timeout=45)
+    except requests.RequestException as error:
+        print(f"Datamart probe failed: {str(error)[:90]}")
+        return False
+    if response.status_code >= 500:
+        print(f"Datamart probe failed: HTTP {response.status_code} (service is down)")
+        return False
+    if not response.ok:
+        print(f"Datamart probe returned HTTP {response.status_code}")
+        return False
+    print("Datamart probe OK - the service is answering.")
+    return True
 
 
-def fetch_year(year: int, key: str) -> list[dict]:
-    end = min(date(year, 12, 31), date.today())
-    url = (
-        f"{BASE_URL}/{SLUG}/{quote(SECTION)}"
-        f"?q=report_begin_date=01/01/{year}:{end:%m/%d/%Y}"
-    )
-    data = get_json(url, key)
-    return data.get("results", data) if isinstance(data, dict) else data
+def extract_rows(data) -> list[dict]:
+    """Pull the record list out of whatever shape the Datamart returned.
+
+    The service is inconsistent: a normal response is an object with a "results" list,
+    but a date range it holds no data for can come back as a bare JSON string (such as
+    a message), or as a list, or as null. Anything that is not a list of objects is
+    treated as "no rows for this window".
+    """
+    if data is None:
+        return []
+    if isinstance(data, dict):
+        rows = data.get("results", [])
+    elif isinstance(data, list):
+        rows = data
+    else:
+        return []        # a string or number: no data for this window
+    return [row for row in rows if isinstance(row, dict)]
+
+
+def section_url(section: str, start: date, end: date) -> str:
+    return (f"{BASE_URL}/{SLUG}/{quote(section)}"
+            f"?q=report_date={start:%m/%d/%Y}:{end:%m/%d/%Y}")
+
+
+def inspect() -> None:
+    today = date.today()
+    data = get_json(section_url(CUTOUT_SECTION, today.replace(day=1), today))
+    rows = extract_rows(data)
+    print("Report:", (rows or [{}])[0].get("report_title", "?"))
+    if isinstance(data, dict):
+        print("Rows allowed per request:", data.get("stats", {}).get("userAllowedRows:"))
+        print("\nSections available:")
+        for name in data.get("reportSections", []):
+            print("  -", name)
+
+    cuts = extract_rows(get_json(section_url(CUTS_SECTION, today, today)))
+    print(f"\n'{CUTS_SECTION}' for {today}: {len(cuts)} items")
+    if cuts:
+        print("Columns:", list(cuts[0].keys()))
+        print("\nFirst 8 items:")
+        for row in cuts[:8]:
+            print(f"  {row.get('item_description','?'):38s} "
+                  f"{row.get('weighted_average','-'):>10} USD/cwt  "
+                  f"{row.get('total_pounds','-'):>12} lb")
+
+
+def chunk_ranges(start_year: int, chunk: str) -> list[tuple[date, date]]:
+    """Split the history into request windows the Datamart can actually serve."""
+    today = date.today()
+    step = {"year": 12, "quarter": 3, "month": 1}[chunk]
+    ranges, year, month = [], start_year, 1
+    while date(year, month, 1) <= today:
+        start = date(year, month, 1)
+        end_index = month + step - 1
+        end_year, end_month = year + (end_index - 1) // 12, (end_index - 1) % 12 + 1
+        following = date(end_year + end_month // 12, end_month % 12 + 1, 1)
+        ranges.append((start, min(following - timedelta(days=1), today)))
+        month += step
+        if month > 12:
+            month, year = month - 12, year + 1
+    return ranges
+
+
+def fetch_section(section: str, start_year: int, chunk: str) -> pd.DataFrame:
+    cache_dir = CACHE / section.lower().replace(" ", "_")
+    cache_dir.mkdir(parents=True, exist_ok=True)
+    windows = chunk_ranges(start_year, chunk)
+    print(f"  {len(windows)} {chunk} window(s) to cover {start_year}-{date.today().year}")
+
+    frames, failed = [], []
+    for start, end in windows:
+        path = cache_dir / f"{start:%Y%m%d}_{end:%Y%m%d}.csv"
+        if path.exists():
+            cached = pd.read_csv(path, dtype=str)
+            if len(cached):
+                frames.append(cached)
+            continue
+
+        data = get_json(section_url(section, start, end), required=False)
+        if data is None:
+            failed.append((start, end))
+            continue
+        rows = extract_rows(data)
+        pd.DataFrame(rows, dtype=str).to_csv(path, index=False)
+        if rows:
+            frames.append(pd.DataFrame(rows, dtype=str))
+        print(f"  {start:%Y-%m} to {end:%Y-%m}: {len(rows):,} rows")
+        time.sleep(1)
+
+    if failed:
+        print(f"\n  {len(failed)} window(s) failed and were skipped; re-run to retry them:")
+        for start, end in failed[:5]:
+            print(f"    {start} to {end}")
+
+    if not frames:
+        return pd.DataFrame()
+    df = pd.concat(frames, ignore_index=True)
+
+    df["report_date"] = pd.to_datetime(df["report_date"], format="%m/%d/%Y", errors="coerce")
+    for column in NUMERIC_COLUMNS:
+        if column in df.columns:
+            # Values arrive as strings with thousands separators; ".00" and blanks mean
+            # no trades were reported that day.
+            df[column] = pd.to_numeric(
+                df[column].astype(str).str.replace(",", "", regex=False).str.strip(),
+                errors="coerce")
+    sort_keys = ["report_date"] + (["item_description"] if "item_description" in df.columns else [])
+    return df.sort_values(sort_keys).drop_duplicates(subset=sort_keys).reset_index(drop=True)
+
+
+def report(df: pd.DataFrame, path: Path, label: str) -> None:
+    if df.empty:
+        print(f"  no data returned for {label}")
+        return
+    path.parent.mkdir(parents=True, exist_ok=True)
+    df.to_csv(path, index=False)
+    print(f"\nSaved {len(df):,} rows to {path.relative_to(ROOT)}")
+    print(f"  date range: {df['report_date'].min().date()} to {df['report_date'].max().date()}")
+    if "item_description" in df.columns:
+        print(f"  distinct items: {df['item_description'].nunique()}")
 
 
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
-    parser.add_argument("--inspect", action="store_true", help="show the report's structure, then exit")
-    parser.add_argument("--section", default=None, help="section name to inspect")
+    parser.add_argument("--inspect", action="store_true", help="show sections and columns, then exit")
     parser.add_argument("--start-year", type=int, default=FIRST_YEAR)
+    parser.add_argument("--section", default=None,
+                        help="fetch only this section instead of both defaults")
+    parser.add_argument("--chunk", choices=["year", "quarter", "month"], default="quarter",
+                        help="request window size; use 'month' if quarters time out")
+    parser.add_argument("--no-probe", action="store_true",
+                        help="skip the health check and attempt every window regardless")
     args = parser.parse_args()
 
-    load_dotenv(ROOT / ".env")
-    key = (os.getenv("USDA_MMN_API_KEY") or "").strip().strip('"\'')
-    if not key:
-        sys.exit(
-            "USDA_MMN_API_KEY is missing. Add it to .env (see .env.example).\n"
-            "The key comes from your MyMarketNews account: https://mymarketnews.ams.usda.gov"
-        )
+    if not args.inspect and not args.no_probe and not service_is_up():
+        print("Nothing attempted. Re-run later; cached windows are kept and skipped.")
+        raise SystemExit(2)
 
     if args.inspect:
-        inspect(key, args.section)
+        inspect()
         return
 
-    rows: list[dict] = []
-    for year in range(args.start_year, date.today().year + 1):
-        year_rows = fetch_year(year, key)
-        print(f"{year}: {len(year_rows)} rows")
-        rows.extend(year_rows)
-        time.sleep(1)
+    if args.section:
+        print(f"Section: {args.section}")
+        df = fetch_section(args.section, args.start_year, args.chunk)
+        slug = args.section.lower().replace(" ", "_")
+        report(df, RAW / f"usda_boxed_beef_{slug}.csv", args.section)
+        return
 
-    if not rows:
-        sys.exit("No data returned. Run with --inspect to check the section name.")
+    print(f"Section: {CUTOUT_SECTION}")
+    report(fetch_section(CUTOUT_SECTION, args.start_year, args.chunk),
+           RAW / "usda_boxed_beef_cutout.csv", CUTOUT_SECTION)
 
-    df = pd.DataFrame(rows)
-    date_column = next((c for c in ("report_date", "report_begin_date") if c in df.columns), None)
-    if date_column:
-        df[date_column] = pd.to_datetime(df[date_column], errors="coerce")
-        df = df.sort_values(date_column).drop_duplicates(subset=[date_column])
-
-    OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
-    df.to_csv(OUT_PATH, index=False)
-
-    print(f"\nSaved {len(df):,} rows to {OUT_PATH.relative_to(ROOT)}")
-    print("Columns:", list(df.columns))
-    if date_column:
-        print(f"Date range: {df[date_column].min().date()} to {df[date_column].max().date()}")
+    print(f"\nSection: {CUTS_SECTION}")
+    report(fetch_section(CUTS_SECTION, args.start_year, args.chunk),
+           RAW / "usda_boxed_beef_choice_cuts.csv", CUTS_SECTION)
 
 
 if __name__ == "__main__":
