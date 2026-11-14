@@ -1,0 +1,25 @@
+AMS narratives attached to report 2477 (LM_CT150)
+Kept because they record regional suppressions and corrections
+that change what the 5-Area average covers.
+======================================================================
+
+[02/05/2024] ***Correction to Negotiated Live FOB Beef Type purchases***
+
+[05/05/2025] ***Correction to Steer, Heifer, Mixed Steer/Heifer: Live FOB Categories***
+
+[06/16/2025] ***Correction to Negotiated Cash***
+
+[08/19/2024] ***Correction to Negotiated Steers Live FOB***
+
+[09/14/2026] ***Correction to Negotiated Cash Dressed FOB***
+
+[09/16/2024] **Correction to Negotiated Cash and Grid Purchases**
+
+[10/26/2026] ***Correction due to Packer Submission Issue***
+
+[11/02/2026] ***Beginning 10/26/2026, this report includes aggregated data from all five regions (eight states): CO, IA/MN, KS, NE, and TX/OK/NM. There are no other changes to the report itself. Prior to 10/26/2026, 5-Area Weighted Average Direct Slaughter Cattle reports excluded data when region-level reporting was suppressed to conform with confidentiality guidelines.  Previous 5-Area reports have not included data from the following regions since (date when region was last included): Colorado (12/26/2022); Texas/Oklahoma/New Mexico (6/29/2026); and Kansas (8/17/2026). ***
+
+[11/09/2026] ***Republished for formatting only, no data has been changed***
+
+[11/20/2023] **Correction to Negotiated Cash Mixed Steer/Heifer Live Delivered and Negotiated Week to Date Total**
+

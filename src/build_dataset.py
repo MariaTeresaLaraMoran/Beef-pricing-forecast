@@ -28,6 +28,8 @@ is the only column that looks forward.
 Usage:
     python src/build_dataset.py
     python src/build_dataset.py --horizon 4 --origin domestic
+    python src/build_dataset.py --targets us          # forecast US prices instead
+    python src/build_dataset.py --targets both        # both, to compare them (default)
 
 Output:
     data/processed/weekly_model_table.csv
@@ -71,12 +73,16 @@ PUBLICATION_LAG_WEEKS = {
     "us_top_butt": 1,
     "us_cutout_choice": 1,
     "us_cutout_select": 1,
+    # LM_CT150 covers a week and is published the Monday after it closes.
+    "us_steer_dressed": 1,
+    "us_steer_live": 1,
 }
 
 # Columns reserved for the US series, created empty so the table's shape is stable
 # and they can be filled in without changing anything downstream.
 US_COLUMNS = ["us_ribeye", "us_chuck_roll", "us_brisket", "us_top_inside_round",
-              "us_top_butt", "us_cutout_choice", "us_cutout_select"]
+              "us_top_butt", "us_cutout_choice", "us_cutout_select",
+              "us_steer_dressed", "us_steer_live"]
 
 # USDA boxed beef items paired with each Mexican target, by IMPS code. See
 # data/reference/us_cut_map.csv for why each pairing was chosen.
@@ -87,6 +93,15 @@ US_ITEMS = {
     "us_top_inside_round":  "Round, top inside round (168  3)",       # <- Pulpa Negra
     "us_top_butt":          "Loin, top butt, boneless (184  3)",      # <- Sirloin
 }
+
+# The US series that can be forecast instead of, or alongside, the Mexican cuts.
+# Chosen with --targets us or --targets both. The cutout comes first because it is the
+# headline series: a volume-weighted index of the whole carcass, and the number the US
+# trade actually quotes.
+US_TARGET_SERIES = [
+    "us_cutout_choice", "us_cutout_select",
+    "us_ribeye", "us_chuck_roll", "us_brisket", "us_top_inside_round", "us_top_butt",
+]
 
 
 def week_of(dates: pd.Series) -> pd.Series:
@@ -255,6 +270,29 @@ def load_us_cutout() -> pd.DataFrame:
     return out
 
 
+def load_cattle() -> pd.DataFrame:
+    """Weekly US fed cattle prices from AMS report LM_CT150, USD per cwt.
+
+    Produced by fetch_usda_cattle.py. The dressed series is quoted per hundredweight
+    of CARCASS, the same basis as the boxed beef cutout, which is what makes the
+    packer margin below a meaningful subtraction.
+    """
+    path = RAW / "usda_5area_cattle_weekly.csv"
+    if not path.exists():
+        print("  usda_5area_cattle_weekly.csv not found - run fetch_usda_cattle.py; "
+              "cattle columns left empty")
+        return pd.DataFrame(columns=["us_steer_dressed", "us_steer_live"])
+
+    df = pd.read_csv(path, parse_dates=["report_date"])
+    df["week"] = week_of(df["report_date"])
+    out = pd.DataFrame()
+    for column in ("us_steer_dressed", "us_steer_live"):
+        if column in df.columns:
+            out[column] = df.groupby("week")[column].mean()
+    print(f"  joined fed cattle ({out.index.min().date() if len(out) else '-'} onwards)")
+    return out
+
+
 def load_exports() -> pd.DataFrame:
     df = pd.read_csv(RAW / "usda_fas_beef_exports_mexico.csv", parse_dates=["weekEndingDate"])
     df["week"] = week_of(df["weekEndingDate"])
@@ -326,8 +364,42 @@ def add_spreads(out: pd.DataFrame) -> pd.DataFrame:
     return out
 
 
+def add_margins(out: pd.DataFrame) -> pd.DataFrame:
+    """Add the gross packer margin: what the packer sells minus what it buys.
+
+    The boxed beef cutout is the packer's revenue per hundredweight of carcass; the
+    dressed fed cattle price is its raw material cost on the same basis. The gap drives
+    slaughter decisions: a wide margin pulls cattle forward and puts more beef on the
+    market a few weeks later, a thin one makes packers cut kills and firms prices. So
+    unlike the cutout's own return, which is already in the price, the margin is a
+    supply-side state variable with a lag built into it.
+
+    Both forms are kept: the dollar margin because that is what the trade quotes, and
+    the log ratio because it is scale-free across a period when the price level
+    roughly tripled.
+    """
+    cost = "us_steer_dressed"
+    if cost not in out.columns or out[cost].notna().sum() == 0:
+        return out
+
+    added = []
+    for cutout in ("us_cutout_choice", "us_cutout_select"):
+        if cutout not in out.columns:
+            continue
+        grade = cutout.replace("us_cutout_", "")
+        revenue = out[cutout]
+        out[f"margin_{grade}_usd"] = revenue - out[cost]
+        out[f"margin_{grade}_log"] = (np.log(revenue.where(revenue > 0))
+                                      - np.log(out[cost].where(out[cost] > 0)))
+        out[f"margin_{grade}_log_change"] = out[f"margin_{grade}_log"].diff()
+        added.append(f"margin_{grade}")
+    if added:
+        print(f"  built {len(added)} packer margin(s): {', '.join(added)}")
+    return out
+
+
 def add_features(table: pd.DataFrame, price_columns: list[str], horizon: int,
-                 add_lags: bool) -> pd.DataFrame:
+                 add_lags: bool, target_columns: list[str] | None = None) -> pd.DataFrame:
     out = table.copy()
 
     # Log levels and weekly log returns for every price or volume series.
@@ -351,21 +423,46 @@ def add_features(table: pd.DataFrame, price_columns: list[str], horizon: int,
     out["season_cos"] = np.cos(2 * np.pi * week_number / 52.0)
 
     out = add_spreads(out)
+    out = add_margins(out)
 
     # Lagged returns, for the ARIMA and linear-regression baselines. The recurrent
     # models build their own windows from the return columns instead.
     if add_lags:
         return_columns = [c for c in out.columns
-                          if c.startswith("ret_") or c.startswith("spread_")]
-        for column in return_columns:
-            for lag in FEATURE_LAGS:
-                out[f"{column}_lag{lag}"] = out[column].shift(lag)
+                          if c.startswith("ret_") or c.startswith("spread_")
+                          or c.startswith("margin_")]
+        # Built in one concat rather than hundreds of inserts: adding ~500 columns one
+        # at a time makes pandas re-block the frame each time and emit a
+        # PerformanceWarning for every one.
+        lagged = {f"{column}_lag{lag}": out[column].shift(lag)
+                  for column in return_columns for lag in FEATURE_LAGS}
+        out = pd.concat([out, pd.DataFrame(lagged, index=out.index)], axis=1)
 
     # Targets: the log return over the next `horizon` weeks. The only forward-looking
     # columns in the table.
-    for column in price_columns:
-        log_price = out[f"log_{column}"]
-        out[f"target_{column}_h{horizon}"] = log_price.shift(-horizon) - log_price
+    #
+    # A series with a publication lag needs care when it is the target rather than a
+    # predictor. The lag belongs on the features (what was knowable at week t), not on
+    # the thing being forecast. So main() stashes an unlagged copy as tgt_<column>
+    # before the lags are applied, and the target is built from that when it exists.
+    if target_columns is None:
+        target_columns = price_columns
+    targets = {}
+    for column in target_columns:
+        stash = f"tgt_{column}"
+        if stash in out.columns:
+            base = np.log(out[stash].where(out[stash] > 0))
+        elif f"log_{column}" in out.columns:
+            base = out[f"log_{column}"]
+        else:
+            print(f"  WARNING: no series available for target {column}")
+            continue
+        targets[f"target_{column}_h{horizon}"] = base.shift(-horizon) - base
+    out = pd.concat([out, pd.DataFrame(targets, index=out.index)], axis=1)
+
+    # The unlagged stash columns would be leakage if a model were handed every column,
+    # so they are removed now that the targets are built.
+    out = out.drop(columns=[c for c in out.columns if c.startswith("tgt_")])
 
     return out
 
@@ -374,7 +471,11 @@ def add_features(table: pd.DataFrame, price_columns: list[str], horizon: int,
 
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
-    parser.add_argument("--horizon", type=int, default=HORIZON, help="forecast horizon in weeks")
+    parser.add_argument("--horizon", type=int, nargs="+", default=[HORIZON],
+                        help="forecast horizon(s) in weeks. Several may be given, e.g. "
+                             "--horizon 4 12: one table then carries target_<series>_h4 "
+                             "and target_<series>_h12 side by side, so the two can be "
+                             "compared without rebuilding or overwriting anything")
     parser.add_argument("--origin", choices=["all", "domestic"], default="all",
                         help="'domestic' excludes imported and frozen stock from the target")
     parser.add_argument("--no-lags", action="store_true", help="skip the lagged feature columns")
@@ -383,6 +484,10 @@ def main() -> None:
     parser.add_argument("--outlier-factor", type=float, default=5.0,
                         help="drop records beyond this multiple of the cut's yearly median; "
                              "0 disables the filter")
+    parser.add_argument("--targets", choices=["mexico", "us", "both"], default="both",
+                        help="which series to build target columns for: the five Mexican "
+                             "cuts, the US cutout and cuts, or both (the default, so the "
+                             "two can be compared from one table)")
     args = parser.parse_args()
 
     global AGGREGATION, OUTLIER_FACTOR
@@ -412,33 +517,68 @@ def main() -> None:
         print(f"  {missing} calendar week(s) had no cut report and were inserted as blank rows")
 
     print("\n4. US series")
-    for frame in (load_us_cuts(), load_us_cutout()):
+    for frame in (load_us_cuts(), load_us_cutout(), load_cattle()):
         for column in frame.columns:
             table[column] = frame[column].reindex(table.index)
     for column in US_COLUMNS:               # keep the shape stable if a file is missing
         if column not in table.columns:
             table[column] = np.nan
 
+    # Which series get target columns.
+    target_columns = []
+    if args.targets in ("mexico", "both"):
+        target_columns += price_columns
+    if args.targets in ("us", "both"):
+        target_columns += [c for c in US_TARGET_SERIES if c in table.columns]
+    print(f"\n  targets ({args.targets}): {len(target_columns)} series")
+
+    # Stash an unlagged copy of any target that carries a publication lag, so the lag
+    # lands on the predictors only. See the note in add_features().
+    for column in target_columns:
+        if PUBLICATION_LAG_WEEKS.get(column, 0) > 0:
+            table[f"tgt_{column}"] = table[column]
+
     print("\n5. Publication lags")
     table = apply_publication_lags(table)
 
     print("\n6. Features")
-    table = add_features(table, price_columns, args.horizon, add_lags=not args.no_lags)
+    horizons = sorted(set(args.horizon))
+    for position, horizon in enumerate(horizons):
+        # Features are identical across horizons, so they are built once on the first
+        # pass and only the target columns are added on later passes.
+        table = add_features(table, price_columns, horizon,
+                             add_lags=(not args.no_lags) and position == 0,
+                             target_columns=target_columns)
+    primary = horizons[0]
 
     PROCESSED.mkdir(parents=True, exist_ok=True)
     out_path = PROCESSED / "weekly_model_table.csv"
     table.to_csv(out_path)
 
-    target_columns = [c for c in table.columns if c.startswith("target_")]
     core = price_columns + ["carcass", "usd_mxn", "exports_tonnes"]
-    complete = table.dropna(subset=core + target_columns)
 
     print(f"\nSaved {out_path.relative_to(ROOT)}")
     print(f"  rows: {len(table):,}  columns: {len(table.columns)}")
     print(f"  weeks: {table.index.min().date()} to {table.index.max().date()}")
-    print(f"  rows with all six targets and the core predictors present: {len(complete):,}")
-    if len(complete):
-        print(f"  usable modelling range: {complete.index.min().date()} to {complete.index.max().date()}")
+
+    # Report each target family separately: the Mexican and US series start in different
+    # years, so one combined count would hide how much data each model actually has.
+    families = []
+    if args.targets in ("mexico", "both"):
+        families.append(("Mexican cuts", price_columns, core))
+    if args.targets in ("us", "both"):
+        us_present = [c for c in US_TARGET_SERIES if c in table.columns]
+        families.append(("US cutout and cuts", us_present,
+                         [c for c in us_present if c in table.columns] + ["usd_mxn"]))
+    for label, series, required in families:
+        targets = [f"target_{c}_h{h}" for c in series for h in horizons]
+        targets = [c for c in targets if c in table.columns]
+        needed = [c for c in required + targets if c in table.columns]
+        complete = table.dropna(subset=needed)
+        print(f"  {label}: {len(complete):,} rows with every target and predictor present")
+        if len(complete):
+            print(f"    usable modelling range: "
+                  f"{complete.index.min().date()} to {complete.index.max().date()}")
 
     print("\nMissing values per core column:")
     print(table[core].isna().sum().to_string())
@@ -463,8 +603,15 @@ def main() -> None:
         handle.write("                     informative US-derived feature; the raw US series\n")
         handle.write("                     carry almost nothing at weekly frequency.\n")
         handle.write("spread_<cut>_change  weekly change in that spread\n")
+        handle.write("us_steer_dressed     5-Area fed steer price, USD/cwt CARCASS\n")
+        handle.write("                     (LM_CT150) - the packer's input cost\n")
+        handle.write("us_steer_live        the same cattle quoted per cwt LIVE weight\n")
+        handle.write("margin_<grade>_usd   cutout minus dressed steer price, USD/cwt:\n")
+        handle.write("                     the gross packer margin, a supply-side driver\n")
+        handle.write("margin_<grade>_log   the same as a log ratio, scale-free\n")
+        handle.write("margin_<grade>_log_change   weekly change in that log margin\n")
         handle.write("season_sin, season_cos   week of year as a smooth annual cycle\n")
-        handle.write(f"target_<cut>_h{args.horizon}    log return over the NEXT {args.horizon} weeks "
+        handle.write(f"target_<cut>_h{primary}    log return over the NEXT {primary} weeks "
                      "(the only forward-looking columns)\n\n")
         handle.write("Publication lags applied (weeks):\n")
         for key, value in PUBLICATION_LAG_WEEKS.items():
