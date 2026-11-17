@@ -12,3 +12,4 @@ __pycache__/
 .vscode/
 
 
+data/processed/weekly_model_table.csv
