@@ -1,12 +1,11 @@
 # Beef Price Forecast
 
-Forecasting weekly **US boxed beef prices** four weeks ahead with deep learning
+Forecasting weekly **US boxed beef prices**  four weeks ahead with deep learning
 (LSTM/GRU), benchmarked against naive, drift, ridge regression and ARIMA. The feature set
 adds the **gross packer margin** — what packers sell beef for minus what they pay for
 cattle — and the project tests, as an ablation, whether Mexican market data improves a US
 forecast.
 
-Deep learning course project. Presentation: December 1, 2026.
 
 ## Problem
 
