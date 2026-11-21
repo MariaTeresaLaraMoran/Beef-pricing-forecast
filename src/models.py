@@ -21,7 +21,7 @@ its errors, and that is the likeliest reason it loses to the naive forecast on b
 cutout series despite those series having the strongest weekly momentum in the dataset.
 Predicting the horizon directly avoids that failure mode, and matches what ridge does.
 
-Three comparisons the rubric asks for
+Three comparisons 
 -------------------------------------
   1. Does nonlinearity help?      this script against baselines.py
   2. Does sharing across cuts help?  --mode joint (one network, seven outputs) against
@@ -83,6 +83,21 @@ CORE_FEATURES = (
 # The ablation set: Mexican market information added to the US model. Mexico is the
 # largest-volume destination for US beef, so the question is whether destination-market
 # data carries anything about US prices that US data does not already contain.
+# Beef-market volume: how much cattle actually changed hands. The packer margin is the
+# incentive to slaughter; this is nearer the decision itself. Separate from the macro arm
+# because it is beef data, not economy-wide data - confounding them would make a result
+# uninterpretable.
+VOLUME_FEATURES = ["ret_us_steer_dressed_head", "ret_us_steer_live_head"]
+
+# Economy-wide conditions. Two channels, each with a specific prediction:
+#   usd_index      a stronger dollar softens export demand, so more beef stays domestic
+#   initial_claims a weakening labour market makes households trade down the carcass,
+#                  which should show up more in the premium cuts than the cheap ones
+# Note that the dollar index begins in 2006 while the US price series begin in 2004, so
+# this arm costs roughly two years of training windows. If it underperforms, check
+# plus-volume first to see whether the loss is the features or the shorter history.
+MACRO_FEATURES = ["ret_usd_index", "ret_initial_claims"]
+
 MEXICO_FEATURES = (
     [f"ret_price_{c}" for c in ["sirloin", "costillar", "chuleton_diezmillo",
                                 "pulpa_negra", "pecho"]]
@@ -326,11 +341,20 @@ def evaluate(table: pd.DataFrame, series: str, stamps: pd.DatetimeIndex,
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     parser.add_argument("--arch", choices=["lstm", "gru"], default="lstm")
-    parser.add_argument("--mode", choices=["joint", "single"], default="joint",
-                        help="joint: one network, seven outputs. single: one network "
-                             "per series. The comparison answers whether sharing helps")
-    parser.add_argument("--features", choices=["core", "plus-mexico"], default="core",
-                        help="plus-mexico adds Mexican prices and spreads: the ablation")
+    parser.add_argument("--mode", choices=["joint", "single"], default="single",
+                        help="single (default): one network per series. joint: one "
+                             "network with seven outputs - kept so the earlier "
+                             "sharing comparison stays reproducible, but single won "
+                             "it (0.893 against 0.981) and is the model to use")
+    parser.add_argument("--features",
+                        choices=["core", "plus-volume", "plus-macro", "plus-mexico",
+                                 "plus-all"],
+                        default="core",
+                        help="which ablation arm to run. core: US prices and margins "
+                             "only. plus-volume: adds negotiated head counts. "
+                             "plus-macro: adds the dollar index and jobless claims. "
+                             "plus-mexico: adds Mexican prices and spreads. "
+                             "plus-all: everything")
     parser.add_argument("--seeds", type=int, default=5)
     parser.add_argument("--window", type=int, default=WINDOW)
     parser.add_argument("--horizon", type=int, default=HORIZON)
@@ -347,11 +371,43 @@ def main() -> None:
 
     table = load_table()
     test_start = load_baseline_test_index(args.horizon).min()
-    features = CORE_FEATURES + (MEXICO_FEATURES if args.features == "plus-mexico" else [])
+    extra = {
+        "core": [],
+        "plus-volume": VOLUME_FEATURES,
+        "plus-macro": MACRO_FEATURES,
+        "plus-mexico": MEXICO_FEATURES,
+        "plus-all": VOLUME_FEATURES + MACRO_FEATURES + MEXICO_FEATURES,
+    }[args.features]
+    features = CORE_FEATURES + extra
+    # An arm whose own features are absent must not quietly become `core` under the
+    # arm's name: that writes a mislabelled row into reports/ that looks like evidence
+    # the features did not help, when in fact they were never used. Refuse instead.
+    missing_extra = [c for c in extra if c not in table.columns]
+    if missing_extra:
+        raise SystemExit(
+            f"\nArm '{args.features}' needs columns the model table does not have:\n"
+            f"  {missing_extra}\n"
+            "The table is stale or was built without the source these come from.\n"
+            "Rebuild it first:  python src/build_dataset.py\n"
+            "(For plus-macro you also need data/raw/fred_weekly.csv - "
+            "run src/fetch_fred.py.)\n"
+            "Refusing to run, because dropping them would record this arm's result "
+            "as if the features had been tested.")
+
     missing = [c for c in features if c not in table.columns]
     if missing:
-        print(f"WARNING: features not in the table, dropped: {missing}")
+        print(f"WARNING: core features not in the table, dropped: {missing}")
         features = [c for c in features if c in table.columns]
+
+    # Present but entirely empty is the same problem wearing a disguise.
+    empty_extra = [c for c in extra if table[c].notna().sum() == 0]
+    if empty_extra:
+        raise SystemExit(
+            f"\nArm '{args.features}' has these columns but they are completely "
+            f"empty:\n  {empty_extra}\n"
+            "Their source file is missing, so the arm would silently reduce to core.\n"
+            "For plus-macro: run src/fetch_fred.py (or save the CSVs by hand as "
+            "data/raw/fred_ICSA.csv and data/raw/fred_DTWEXBGS.csv), then rebuild.")
 
     targets = [t for t in US_TARGETS if f"target_{t}_h{args.horizon}" in table.columns]
     groups = [targets] if args.mode == "joint" else [[t] for t in targets]
@@ -391,9 +447,14 @@ def main() -> None:
         for series in group:
             stacked = np.mean(np.stack(collected[series]), axis=0)
             metrics = evaluate(table, series, data["test_stamps"], stacked, args.horizon)
-            spread = [r["skill_vs_naive"] for r in seed_rows
-                      if r["series"] == series and r["config"] == label]
+            own = [r for r in seed_rows
+                   if r["series"] == series and r["config"] == label]
+            spread = [r["skill_vs_naive"] for r in own]
+            errors = [r["rmse"] for r in own]
             mean_rows.append({"config": label, "series": series,
+                              "rmse_seed_mean": float(np.mean(errors)),
+                              "rmse_seed_sd": float(np.std(errors)),
+                              "rmse_ensemble": metrics["rmse"],
                               "skill_seed_mean": float(np.mean(spread)),
                               "skill_seed_sd": float(np.std(spread)),
                               "skill_ensemble": metrics["skill_vs_naive"],
@@ -438,22 +499,22 @@ def main() -> None:
     predictions.to_csv(path)
 
     print("\n" + "=" * 78)
-    print(f"{label}: skill against naive on the benchmark's own test weeks")
-    print("(seed mean +/- sd, then the across-seed ensemble; * marks DM p < 0.05)")
+    print(f"{label}: RMSE on the four-week log return, benchmark's own test weeks")
+    print("(seed mean +/- sd across runs, then the across-seed ensemble;")
+    print(" * marks a Diebold-Mariano difference from naive at p < 0.05)")
     print("=" * 78)
-    print(f"  {'series':22s} {'seeds':>14s} {'ens':>7s} {'dir':>7s} {'mape%':>7s}")
+    print(f"  {'series':22s} {'across seeds':>20s} {'ensemble':>10s} "
+          f"{'dir':>7s} {'mape%':>7s}")
     for _, row in results.iterrows():
         star = "*" if row.get("dm_p_value", 1) < 0.05 else " "
         print(f"  {row['series']:22s} "
-              f"{row['skill_seed_mean']:.3f}+/-{row['skill_seed_sd']:.3f} "
-              f"{row['skill_ensemble']:6.3f}{star} "
+              f"{row['rmse_seed_mean']:.5f}+/-{row['rmse_seed_sd']:.5f} "
+              f"{row['rmse_ensemble']:9.5f}{star} "
               f"{row.get('direction', np.nan):6.1%} {row.get('mape_pct', np.nan):7.2f}")
 
-    print("\nCompare with baselines.py. The numbers to beat on these same weeks:")
-    print("  us_top_butt      ridge 0.805   us_cutout_select ridge 0.871")
-    print("  us_cutout_choice ridge 0.877   us_chuck_roll    arima 0.878")
-    print("\nIf the seed standard deviation is comparable to the gap against ridge, the")
-    print("difference is not evidence of anything. Report it that way.")
+    print("\nRun compare.py for these against the benchmarks on the same weeks.")
+    print("If the seed standard deviation is as large as the gap to the best")
+    print("benchmark, the difference is not evidence of anything.")
 
 
 if __name__ == "__main__":

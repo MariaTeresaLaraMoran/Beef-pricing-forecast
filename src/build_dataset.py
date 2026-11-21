@@ -76,6 +76,13 @@ PUBLICATION_LAG_WEEKS = {
     # LM_CT150 covers a week and is published the Monday after it closes.
     "us_steer_dressed": 1,
     "us_steer_live": 1,
+    "us_steer_dressed_head": 1,
+    "us_steer_live_head": 1,
+    # The dollar index publishes each day's value on the next business day, so a
+    # week's average is not complete until the Monday after the week closes.
+    "usd_index": 1,
+    # Initial claims for a week ending Saturday are released the following Thursday.
+    "initial_claims": 1,
 }
 
 # Columns reserved for the US series, created empty so the table's shape is stable
@@ -83,6 +90,19 @@ PUBLICATION_LAG_WEEKS = {
 US_COLUMNS = ["us_ribeye", "us_chuck_roll", "us_brisket", "us_top_inside_round",
               "us_top_butt", "us_cutout_choice", "us_cutout_select",
               "us_steer_dressed", "us_steer_live"]
+
+# Weekly negotiated head counts from the same AMS report: how much cattle actually
+# traded. The packer margin is the incentive to slaughter; this is closer to the
+# decision itself. Counts, not prices, so they are logged with log1p alongside exports.
+#
+# One caveat for the write-up: this is 5-Area NEGOTIATED volume, not total federally
+# inspected slaughter. The negotiated share of US fed cattle trade has fallen over the
+# period as formula and contract purchasing grew, so the level carries a downward drift
+# from market structure rather than activity. Use the return, never the level.
+VOLUME_COLUMNS = ["us_steer_dressed_head", "us_steer_live_head"]
+
+# Macro series from FRED, added as a testable ablation arm rather than as core inputs.
+FRED_COLUMNS = ["usd_index", "initial_claims"]
 
 # USDA boxed beef items paired with each Mexican target, by IMPS code. See
 # data/reference/us_cut_map.csv for why each pairing was chosen.
@@ -281,7 +301,8 @@ def load_cattle() -> pd.DataFrame:
     if not path.exists():
         print("  usda_5area_cattle_weekly.csv not found - run fetch_usda_cattle.py; "
               "cattle columns left empty")
-        return pd.DataFrame(columns=["us_steer_dressed", "us_steer_live"])
+        return pd.DataFrame({c: pd.Series(dtype="float64")
+                             for c in ["us_steer_dressed", "us_steer_live"]})
 
     df = pd.read_csv(path, parse_dates=["report_date"])
     df["week"] = week_of(df["report_date"])
@@ -289,7 +310,32 @@ def load_cattle() -> pd.DataFrame:
     for column in ("us_steer_dressed", "us_steer_live"):
         if column in df.columns:
             out[column] = df.groupby("week")[column].mean()
+    for column in VOLUME_COLUMNS:
+        if column in df.columns:
+            out[column] = df.groupby("week")[column].sum(min_count=1)
     print(f"  joined fed cattle ({out.index.min().date() if len(out) else '-'} onwards)")
+    return out
+
+
+def load_fred() -> pd.DataFrame:
+    """Weekly macro series produced by fetch_fred.py.
+
+    These are not core inputs. They exist so the `plus-macro` arm of the ablation has
+    something to test: whether broad economic conditions carry information about US
+    beef prices that the beef market's own data does not already contain.
+    """
+    path = RAW / "fred_weekly.csv"
+    if not path.exists():
+        print("  fred_weekly.csv not found - run fetch_fred.py; macro columns left empty")
+        return pd.DataFrame({c: pd.Series(dtype="float64") for c in FRED_COLUMNS})
+
+    df = pd.read_csv(path, index_col="week", parse_dates=True)
+    keep = [c for c in FRED_COLUMNS if c in df.columns]
+    out = df[keep]
+    if len(out):
+        starts = ", ".join(f"{c} from {out[c].dropna().index.min().date()}"
+                           for c in keep if out[c].notna().any())
+        print(f"  joined FRED macro ({starts})")
     return out
 
 
@@ -403,18 +449,27 @@ def add_features(table: pd.DataFrame, price_columns: list[str], horizon: int,
     out = table.copy()
 
     # Log levels and weekly log returns for every price or volume series.
-    series_columns = price_columns + ["carcass", "usd_mxn"] + US_COLUMNS
+    series_columns = (price_columns + ["carcass", "usd_mxn"] + US_COLUMNS
+                      + ["usd_index"])
     for column in series_columns:
         if column not in out.columns:
             continue
-        positive = out[column].where(out[column] > 0)
+        # Coerce before taking logs. A series whose source file was absent arrives as
+        # an all-NaN column of dtype object, and np.log raises on object dtype rather
+        # than propagating NaN, which would stop the whole build over a missing
+        # optional input.
+        values = pd.to_numeric(out[column], errors="coerce")
+        positive = values.where(values > 0)
         out[f"log_{column}"] = np.log(positive)
         out[f"ret_{column}"] = out[f"log_{column}"].diff()
 
     # Export volumes can be zero, so use log1p and a simple change.
-    for column in ["exports_tonnes", "net_sales_tonnes"]:
+    # Counts rather than prices: log1p tolerates a zero, which exports hit in 2004.
+    for column in ["exports_tonnes", "net_sales_tonnes",
+                   "initial_claims"] + VOLUME_COLUMNS:
         if column in out.columns:
-            out[f"log_{column}"] = np.log1p(out[column].clip(lower=0))
+            values = pd.to_numeric(out[column], errors="coerce")
+            out[f"log_{column}"] = np.log1p(values.clip(lower=0))
             out[f"ret_{column}"] = out[f"log_{column}"].diff()
 
     # Seasonality: week of year as a smooth pair rather than 52 dummies.
@@ -517,10 +572,10 @@ def main() -> None:
         print(f"  {missing} calendar week(s) had no cut report and were inserted as blank rows")
 
     print("\n4. US series")
-    for frame in (load_us_cuts(), load_us_cutout(), load_cattle()):
+    for frame in (load_us_cuts(), load_us_cutout(), load_cattle(), load_fred()):
         for column in frame.columns:
             table[column] = frame[column].reindex(table.index)
-    for column in US_COLUMNS:               # keep the shape stable if a file is missing
+    for column in US_COLUMNS + VOLUME_COLUMNS + FRED_COLUMNS:  # stable shape if absent
         if column not in table.columns:
             table[column] = np.nan
 
@@ -610,6 +665,10 @@ def main() -> None:
         handle.write("                     the gross packer margin, a supply-side driver\n")
         handle.write("margin_<grade>_log   the same as a log ratio, scale-free\n")
         handle.write("margin_<grade>_log_change   weekly change in that log margin\n")
+        handle.write("us_steer_*_head      weekly NEGOTIATED head count, 5-Area:\n")
+        handle.write("                     throughput, not total federal slaughter\n")
+        handle.write("usd_index            FRED DTWEXBGS, broad trade-weighted dollar\n")
+        handle.write("initial_claims       FRED ICSA, weekly initial jobless claims\n")
         handle.write("season_sin, season_cos   week of year as a smooth annual cycle\n")
         handle.write(f"target_<cut>_h{primary}    log return over the NEXT {primary} weeks "
                      "(the only forward-looking columns)\n\n")

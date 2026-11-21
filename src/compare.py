@@ -1,23 +1,36 @@
-"""Final comparison: every benchmark against every deep learning configuration.
+"""Final comparison of every forecasting method, scored by RMSE.
 
-Reads what baselines.py and models.py wrote and answers the three questions the
-project set out to answer, plus the one the rubric asks last - whether the added
-complexity is justified.
+Reads what baselines.py and models.py wrote and puts them side by side on the same
+169 test weeks.
 
-Everything is reported as skill against the naive forecast on the same 169 test weeks:
+Everything is RMSE on the four-week log return - the quantity actually being forecast
+- so the numbers compare directly between methods within one series. They do NOT
+compare between series: the ribeye's four-week return is three times as volatile as
+the cutout's, so its RMSE is larger whatever the model does. Read each row on its own.
 
-    skill = RMSE(model) / RMSE(naive)
+The naive forecast is kept as a column. It is not a benchmark in the usual sense; it
+is the error you get from assuming the price in four weeks is the price today. Without
+it an RMSE of 0.0383 means nothing.
 
-Below 1.00 beats "the price in four weeks is the price today". The deep learning
-figures are the across-seed ensemble, with the seed standard deviation carried
-alongside, because a difference smaller than the seed spread is not a difference.
+Methods compared:
+    naive                 the price does not move
+    ridge                 regularised linear regression on 32 lagged features
+    arima                 ARIMA(p,1,q), order chosen by AIC search
+    lstm-single-<arm>     one LSTM per series
+    gru-single-<arm>      one GRU per series
+
+Joint multi-output runs are excluded by default. They were tested and lost, so they
+stay in the result files for the record but out of the comparison. Pass
+--include-joint to see them.
 
 Usage:
     python src/compare.py
+    python src/compare.py --include-joint
+    python src/compare.py --horizon 12
 
 Output:
-    reports/final_comparison.csv       one row per series, every model as a column
-    reports/figures/fig40_skill_by_model.png
+    reports/final_comparison.csv
+    reports/figures/fig40_rmse_by_model.png
     reports/figures/fig41_seed_stability.png
 """
 
@@ -41,7 +54,7 @@ SHORT = {
     "us_top_butt": "Top sirloin butt (184)",
 }
 ORDER = list(SHORT)
-BENCHMARKS = ["naive", "drift", "ridge", "arima"]
+BENCHMARKS = ["naive", "ridge", "arima"]
 
 
 def tagged(name: str, horizon: int) -> str:
@@ -52,7 +65,7 @@ def tagged(name: str, horizon: int) -> str:
     return f"{stem}_h{horizon}.{suffix}"
 
 
-def load(horizon: int = 4) -> tuple[pd.DataFrame, pd.DataFrame]:
+def load(horizon: int) -> tuple[pd.DataFrame, pd.DataFrame]:
     baseline_path = REPORTS / tagged("baseline_results.csv", horizon)
     dl_path = REPORTS / tagged("dl_results.csv", horizon)
     for path in (baseline_path, dl_path):
@@ -63,177 +76,233 @@ def load(horizon: int = 4) -> tuple[pd.DataFrame, pd.DataFrame]:
     return baselines[baselines["family"] == "us"], pd.read_csv(dl_path)
 
 
-def build_table(baselines: pd.DataFrame, dl: pd.DataFrame) -> pd.DataFrame:
+def pick_configs(dl: pd.DataFrame, include_joint: bool) -> list[str]:
+    configs = sorted(dl["config"].unique())
+    if include_joint:
+        return configs
+    return [c for c in configs if "-joint-" not in c]
+
+
+def short_label(config: str) -> str:
+    return config.replace("-single", "").replace("-core", "")
+
+
+def build_table(baselines: pd.DataFrame, dl: pd.DataFrame,
+                configs: list[str]) -> pd.DataFrame:
+    """One row per series, one column per method, values are RMSE."""
     rows = []
     for series in ORDER:
-        row = {"series": SHORT.get(series, series)}
+        row = {"series": SHORT[series]}
         for model in BENCHMARKS:
             match = baselines[(baselines["series"] == series)
                               & (baselines["model"] == model)]
-            row[model] = float(match["skill_vs_naive"].iloc[0]) if len(match) else np.nan
-        for config in sorted(dl["config"].unique()):
+            row[model] = float(match["rmse"].iloc[0]) if len(match) else np.nan
+        for config in configs:
             match = dl[(dl["series"] == series) & (dl["config"] == config)]
             if len(match):
-                row[config] = float(match["skill_ensemble"].iloc[0])
-                row[f"{config}__sd"] = float(match["skill_seed_sd"].iloc[0])
+                # Deep models are stochastic, so the headline number is the
+                # across-seed ensemble and the spread is carried beside it.
+                row[config] = float(match["rmse_ensemble"].iloc[0])
+                row[f"{config}__sd"] = float(match["rmse_seed_sd"].iloc[0])
         rows.append(row)
     return pd.DataFrame(rows).set_index("series")
 
 
-def winners(table: pd.DataFrame) -> pd.DataFrame:
-    """Best model per series, and by how much it beats the best benchmark."""
-    model_columns = [c for c in table.columns if not c.endswith("__sd")]
-    deep_columns = [c for c in model_columns if c not in BENCHMARKS]
-
+def winners(table: pd.DataFrame, configs: list[str]) -> pd.DataFrame:
+    """Best method per series, and whether the margin survives seed noise."""
     out = []
-    for series, row in table.iterrows():
-        best_benchmark = row[BENCHMARKS].idxmin()
-        best_deep = row[deep_columns].idxmin()
-        overall = row[model_columns].idxmin()
+    for label, row in table.iterrows():
+        benchmarks = [c for c in BENCHMARKS if np.isfinite(row.get(c, np.nan))]
+        deep = [c for c in configs if np.isfinite(row.get(c, np.nan))]
+        if not benchmarks or not deep:
+            continue
+
+        best_benchmark = min(benchmarks, key=lambda c: row[c])
+        best_deep = min(deep, key=lambda c: row[c])
         sd = row.get(f"{best_deep}__sd", np.nan)
-        gap = row[best_benchmark] - row[best_deep]
+        gain = row[best_benchmark] - row[best_deep]
+        overall = min(benchmarks + deep, key=lambda c: row[c])
+
         out.append({
-            "series": series,
-            "best benchmark": f"{best_benchmark} {row[best_benchmark]:.3f}",
-            "best deep": f"{best_deep.replace('-core', '')} {row[best_deep]:.3f}",
-            "gap": round(gap, 3),
-            "seed sd": round(sd, 3) if np.isfinite(sd) else np.nan,
-            "gap/sd": round(gap / sd, 1) if np.isfinite(sd) and sd > 0 else np.nan,
+            "series": label,
+            "naive": round(float(row.get("naive", np.nan)), 5),
+            "best benchmark": f"{best_benchmark} {row[best_benchmark]:.5f}",
+            "best deep": f"{short_label(best_deep)} {row[best_deep]:.5f}",
+            "gain": round(gain, 5),
+            "seed sd": round(sd, 5) if np.isfinite(sd) else np.nan,
+            "gain/sd": round(gain / sd, 1) if np.isfinite(sd) and sd > 0 else np.nan,
             "winner": "deep" if overall not in BENCHMARKS else "benchmark",
         })
     return pd.DataFrame(out).set_index("series")
 
 
-def figure_skill(table: pd.DataFrame) -> None:
-    model_columns = [c for c in table.columns if not c.endswith("__sd")]
-    labels = [c.replace("-core", "") for c in model_columns]
-    x = np.arange(len(table))
-    width = 0.8 / len(model_columns)
+def split_config(config: str) -> tuple[str, str, str]:
+    """lstm-single-plus-volume -> ("lstm", "single", "plus-volume")."""
+    parts = config.split("-")
+    if len(parts) < 3:
+        return config, "", "core"
+    return parts[0], parts[1], "-".join(parts[2:])
 
-    fig, ax = plt.subplots(figsize=(14, 6))
-    palette = ["#9e9e9e", "#bdbdbd", "#1f4e79", "#2e7d32",
-               "#8b0000", "#b36b00", "#5b2c6f", "#00695c"]
-    for position, (column, label) in enumerate(zip(model_columns, labels)):
-        ax.bar(x + position * width - 0.4 + width / 2, table[column], width,
-               label=label, color=palette[position % len(palette)])
-    ax.axhline(1.0, color="black", lw=1.2, ls="--")
-    ax.text(len(table) - 0.45, 1.004, "naive forecast", fontsize=8, va="bottom",
-            ha="right")
-    ax.set_xticks(x, table.index, rotation=20, ha="right", fontsize=9)
-    ax.set_ylabel("skill against naive  (RMSE / naive RMSE)")
-    ax.set_ylim(0.6, 1.2)
-    ax.set_title("Four-week-ahead forecast skill, US boxed beef - 169 test weeks, "
-                 "2023-07 to 2026-10\nbars below the dashed line beat "
-                 "'the price stays where it is'")
-    ax.legend(fontsize=8, ncol=4, loc="upper left")
-    ax.grid(axis="y", alpha=0.3)
+
+def ablation_report(dl: pd.DataFrame, configs: list[str]) -> None:
+    """Each feature arm against the core arm of the same architecture and mode."""
+    rows = []
+    for config in configs:
+        block = dl[dl["config"] == config]
+        if block.empty:
+            continue
+        arch, mode, arm = split_config(config)
+        rows.append({"arch": arch, "mode": mode, "arm": arm,
+                     "rmse": block["rmse_ensemble"].mean(),
+                     "seed sd": block["rmse_seed_sd"].mean()})
+    table = pd.DataFrame(rows)
+    if len(table) < 2:
+        return
+
+    print("\n" + "=" * 92)
+    print("FEATURE ABLATION - mean RMSE across the seven series")
+    print("delta is against the core arm of the same architecture;")
+    print("negative delta means the extra features helped")
+    print("=" * 92)
+    for (arch, mode), group in table.groupby(["arch", "mode"], sort=False):
+        core = group[group["arm"] == "core"]
+        base = float(core["rmse"].iloc[0]) if len(core) else np.nan
+        base_sd = float(core["seed sd"].iloc[0]) if len(core) else np.nan
+        print(f"\n{arch}-{mode}" + ("" if len(core) else "   (no core run)"))
+        print(f"  {'arm':14s} {'rmse':>9s} {'delta':>10s} {'seed sd':>10s} "
+              f"{'sd ratio':>9s}")
+        for _, row in group.sort_values("rmse").iterrows():
+            delta = row["rmse"] - base
+            ratio = (row["seed sd"] / base_sd
+                     if base_sd and np.isfinite(base_sd) else np.nan)
+            delta_text = f"{delta:+10.5f}" if np.isfinite(delta) else " " * 10
+            ratio_text = f"{ratio:8.2f}x" if np.isfinite(ratio) else " " * 9
+            print(f"  {row['arm']:14s} {row['rmse']:9.5f} {delta_text} "
+                  f"{row['seed sd']:10.5f} {ratio_text}")
+
+    print("\nAn arm that adds features without lowering RMSE, while raising the seed")
+    print("standard deviation, has given the network more ways to fit noise and")
+    print("nothing new to learn. That is a result, not a failure.")
+
+
+def figure_rmse(table: pd.DataFrame) -> None:
+    """One panel per series, each on its own scale.
+
+    RMSE cannot share an axis across series - the ribeye's is three times the
+    cutout's before any model is fitted - so a single grouped bar chart would say
+    more about volatility than about the models. Small multiples keep the comparison
+    where it belongs: between methods, within a series.
+    """
+    columns = [c for c in table.columns if not c.endswith("__sd")]
+    labels = [short_label(c) for c in columns]
+    palette = ["#9e9e9e", "#1f4e79", "#2e7d32", "#8b0000", "#b36b00", "#5b2c6f",
+               "#00695c"]
+
+    panels = len(table)
+    per_row = 2
+    rows_needed = int(np.ceil(panels / per_row))
+    fig, axes = plt.subplots(rows_needed, per_row, figsize=(13, 2.7 * rows_needed))
+    axes = np.atleast_1d(axes).ravel()
+
+    for ax, (series, row) in zip(axes, table.iterrows()):
+        values = [row[c] for c in columns]
+        bars = ax.bar(range(len(columns)), values,
+                      color=[palette[i % len(palette)] for i in range(len(columns))])
+        naive = row.get("naive", np.nan)
+        if np.isfinite(naive):
+            ax.axhline(naive, color="black", lw=1.0, ls="--")
+        finite = [v for v in values if np.isfinite(v)]
+        if finite:
+            best = int(np.nanargmin(values))
+            bars[best].set_edgecolor("black")
+            bars[best].set_linewidth(1.6)
+            ax.set_ylim(min(finite) * 0.88, max(finite) * 1.04)
+        ax.set_xticks(range(len(columns)), labels, rotation=35, ha="right", fontsize=7)
+        ax.set_title(series, fontsize=10, loc="left")
+        ax.set_ylabel("RMSE", fontsize=8)
+        ax.grid(axis="y", alpha=0.3)
+    for ax in axes[panels:]:
+        ax.axis("off")
+
+    fig.suptitle("RMSE on the four-week log return, 169 test weeks (2023-07 to "
+                 "2026-10)\ndashed line = naive forecast, outlined bar = best; "
+                 "each panel has its own scale", y=1.0)
     fig.tight_layout()
     FIGURES.mkdir(parents=True, exist_ok=True)
-    fig.savefig(FIGURES / "fig40_skill_by_model.png", dpi=140, bbox_inches="tight")
+    path = FIGURES / "fig40_rmse_by_model.png"
+    fig.savefig(path, dpi=140, bbox_inches="tight")
     plt.close(fig)
-    print(f"  saved {(FIGURES / 'fig40_skill_by_model.png').relative_to(ROOT)}")
+    print(f"  saved {path.relative_to(ROOT)}")
 
 
-def figure_stability(dl: pd.DataFrame) -> None:
-    """Seed spread per configuration - the cost of a bigger input space."""
-    pivot = dl.pivot_table(index="config", values="skill_seed_sd", aggfunc="mean")
-    pivot = pivot.sort_values("skill_seed_sd")
+def figure_stability(dl: pd.DataFrame, configs: list[str]) -> None:
+    block = dl[dl["config"].isin(configs)]
+    if block.empty:
+        return
+    pivot = (block.pivot_table(index="config", values="rmse_seed_sd", aggfunc="mean")
+             .sort_values("rmse_seed_sd"))
 
-    fig, ax = plt.subplots(figsize=(9, 4.5))
-    colours = ["#8b0000" if "plus-mexico" in c else "#1f4e79" for c in pivot.index]
-    ax.barh([c.replace("-core", "") for c in pivot.index],
-            pivot["skill_seed_sd"], color=colours)
-    for position, value in enumerate(pivot["skill_seed_sd"]):
-        ax.text(value + 0.002, position, f"{value:.3f}", va="center", fontsize=9)
-    ax.set_xlabel("mean standard deviation of skill across random seeds")
-    ax.set_title("Run-to-run stability.\nAdding Mexican features roughly doubles the "
-                 "spread without improving accuracy - more ways to fit noise.")
+    fig, ax = plt.subplots(figsize=(9, 0.7 * len(pivot) + 2.4))
+    ax.barh([short_label(c) for c in pivot.index], pivot["rmse_seed_sd"],
+            color="#1f4e79")
+    for position, value in enumerate(pivot["rmse_seed_sd"]):
+        ax.text(value * 1.02, position, f"{value:.5f}", va="center", fontsize=9)
+    ax.set_xlabel("mean standard deviation of RMSE across random seeds")
+    ax.set_title("Run-to-run stability: how much the answer moves with the seed")
     ax.grid(axis="x", alpha=0.3)
     fig.tight_layout()
-    fig.savefig(FIGURES / "fig41_seed_stability.png", dpi=140, bbox_inches="tight")
+    path = FIGURES / "fig41_seed_stability.png"
+    fig.savefig(path, dpi=140, bbox_inches="tight")
     plt.close(fig)
-    print(f"  saved {(FIGURES / 'fig41_seed_stability.png').relative_to(ROOT)}")
+    print(f"  saved {path.relative_to(ROOT)}")
 
 
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
-    parser.add_argument("--horizon", type=int, default=4,
-                        help="which horizon's results to compare")
+    parser.add_argument("--horizon", type=int, default=4)
+    parser.add_argument("--include-joint", action="store_true",
+                        help="also show the joint multi-output runs, which lost")
     args = parser.parse_args()
 
     baselines, dl = load(args.horizon)
-    table = build_table(baselines, dl)
+    if "rmse_ensemble" not in dl.columns:
+        raise SystemExit(
+            "dl_results.csv has no rmse_ensemble column - it was written by an "
+            "older models.py. Re-run the configurations you want to compare.")
 
+    configs = pick_configs(dl, args.include_joint)
+    if not configs:
+        raise SystemExit("No single-output deep learning runs found. "
+                         "Run models.py --features core first.")
+
+    table = build_table(baselines, dl, configs)
     display = table[[c for c in table.columns if not c.endswith("__sd")]]
-    display.columns = [c.replace("-core", "") for c in display.columns]
+    display.columns = [short_label(c) for c in display.columns]
 
-    print("=" * 100)
-    print(f"SKILL AGAINST NAIVE - horizon {args.horizon} weeks")
-    print("lower is better; 1.000 means no better than assuming no change")
-    print("=" * 100)
-    print(display.round(3).to_string())
+    print("=" * 92)
+    print(f"RMSE ON THE {args.horizon}-WEEK LOG RETURN - 169 common test weeks")
+    print("lower is better. Compare methods ACROSS a row; each series has its own")
+    print("volatility, so RMSE is not comparable between rows.")
+    print("=" * 92)
+    print(display.round(5).to_string())
 
-    print("\n" + "=" * 100)
-    print("BEST MODEL PER SERIES")
-    print("gap = best benchmark minus best deep model; gap/sd compares it with the")
-    print("seed spread, so a gap of less than about 2 sd is not evidence")
-    print("=" * 100)
-    summary = winners(table)
+    print("\n" + "=" * 92)
+    print("BEST METHOD PER SERIES")
+    print("gain = best benchmark RMSE minus best deep RMSE (positive means deep won)")
+    print("gain/sd compares that gain with the seed spread; under about 2 is noise")
+    print("=" * 92)
+    summary = winners(table, configs)
     print(summary.to_string())
-    deep_wins = int((summary["winner"] == "deep").sum())
-    print(f"\ndeep learning best on {deep_wins} of {len(summary)} series")
+    print(f"\ndeep learning best on {int((summary['winner'] == 'deep').sum())} "
+          f"of {len(summary)} series")
 
-    print("\n" + "=" * 100)
-    print("THE THREE COMPARISONS")
-    print("=" * 100)
+    ablation_report(dl, configs)
 
-    def mean_sd(config: str) -> tuple[float, float]:
-        block = dl[dl["config"] == config]
-        return block["skill_ensemble"].mean(), block["skill_seed_sd"].mean()
-
-    # Each comparison names which side represents "the answer is yes", because the
-    # better model is not always the one that says yes: in comparison 2 the winner is
-    # the model that does NOT share across cuts.
-    pairs = [
-        ("1. Does nonlinearity help?",
-         "best benchmark", "best deep",
-         float(table[BENCHMARKS].min(axis=1).mean()),
-         float(table[[c for c in table.columns
-                      if not c.endswith('__sd') and c not in BENCHMARKS]].min(axis=1).mean()),
-         "right",
-         "yes - the best deep model beats the best benchmark on average",
-         "no - the benchmarks hold on average"),
-        ("2. Does sharing across cuts help?",
-         "lstm-joint (shares)", "lstm-single (does not)",
-         mean_sd("lstm-joint-core")[0], mean_sd("lstm-single-core")[0],
-         "left",
-         "yes - one joint network beats seven separate ones",
-         "no - sharing HURTS; separate networks are better"),
-        ("3. Does Mexican information help?",
-         "lstm-joint-core", "lstm-joint-plus-mexico",
-         mean_sd("lstm-joint-core")[0], mean_sd("lstm-joint-plus-mexico")[0],
-         "right",
-         "yes - Mexican features improve the US forecast",
-         "no - Mexican features do not improve the US forecast"),
-    ]
-    for question, left_name, right_name, left, right, yes_side, yes, no in pairs:
-        better = "right" if right < left else "left"
-        print(f"\n{question}")
-        print(f"   {left_name:24s} mean skill {left:.3f}")
-        print(f"   {right_name:24s} mean skill {right:.3f}   ({right - left:+.3f})")
-        print(f"   -> {yes if better == yes_side else no}")
-
-    joint_sd = mean_sd("lstm-joint-core")[1]
-    mexico_sd = mean_sd("lstm-joint-plus-mexico")[1]
-    print(f"\n   and on stability: seed sd {joint_sd:.3f} -> {mexico_sd:.3f} "
-          f"({mexico_sd / joint_sd:.1f}x)")
-
-    REPORTS.mkdir(parents=True, exist_ok=True)
     out_name = tagged("final_comparison.csv", args.horizon)
     table.to_csv(REPORTS / out_name)
     print(f"\nWritten {(REPORTS / out_name).relative_to(ROOT)}")
-    figure_skill(table)
-    figure_stability(dl)
+    figure_rmse(table)
+    figure_stability(dl, configs)
 
 
 if __name__ == "__main__":

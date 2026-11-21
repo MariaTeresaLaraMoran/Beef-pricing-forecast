@@ -24,6 +24,10 @@ margin_<grade>_usd   cutout minus dressed steer price, USD/cwt:
                      the gross packer margin, a supply-side driver
 margin_<grade>_log   the same as a log ratio, scale-free
 margin_<grade>_log_change   weekly change in that log margin
+us_steer_*_head      weekly NEGOTIATED head count, 5-Area:
+                     throughput, not total federal slaughter
+usd_index            FRED DTWEXBGS, broad trade-weighted dollar
+initial_claims       FRED ICSA, weekly initial jobless claims
 season_sin, season_cos   week of year as a smooth annual cycle
 target_<cut>_h4    log return over the NEXT 4 weeks (the only forward-looking columns)
 
@@ -41,3 +45,7 @@ Publication lags applied (weeks):
   us_cutout_select     1
   us_steer_dressed     1
   us_steer_live        1
+  us_steer_dressed_head 1
+  us_steer_live_head   1
+  usd_index            1
+  initial_claims       1

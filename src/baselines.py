@@ -1,6 +1,6 @@
 """Benchmark models for the four-week-ahead beef price forecast.
 
-This is the "benchmark model" : traditional methods that
+This is the "benchmark model" section of the project: traditional methods that
 establish the performance floor the deep learning model has to clear. Nothing here
 is a neural network.
 
@@ -418,8 +418,12 @@ def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     parser.add_argument("--horizon", type=int, default=HORIZON)
     parser.add_argument("--family", choices=["mexico", "us", "both"], default="both")
-    parser.add_argument("--models", default="naive,drift,ridge,arima",
-                        help="comma-separated subset of naive,drift,ridge,arima")
+    parser.add_argument("--models", default="naive,ridge,arima",
+                        help="comma-separated subset of naive,drift,ridge,arima. The "
+                             "default drops drift, which scored 0.996-1.000 against "
+                             "naive on every series and carries no information. naive "
+                             "is kept because an RMSE means nothing without it: it is "
+                             "the error you get from assuming the price does not move")
     parser.add_argument("--refit-every", type=int, default=8,
                         help="re-estimate the ARIMA parameters every N test weeks")
     parser.add_argument("--max-order", type=int, default=2,
@@ -467,28 +471,31 @@ def main() -> None:
 
     # Printed summary: skill against naive is the column that matters.
     print("\n" + "=" * 78)
-    print("TEST SET: RMSE on the four-week log return, and skill against naive")
-    print("(skill below 1.00 beats the naive forecast; * marks DM p < 0.05)")
+    print("TEST SET: RMSE on the four-week log return")
+    print("(lower is better; compare models down a column, within one series;")
+    print(" * marks a Diebold-Mariano difference from naive at p < 0.05)")
     print("=" * 78)
     for family, block in results.groupby("family", sort=False):
         print(f"\n{family.upper()}")
-        print(f"  {'series':24s} {'model':7s} {'n':>5s} {'rmse':>8s} {'skill':>7s} "
+        print(f"  {'series':24s} {'model':7s} {'n':>5s} {'rmse':>9s} "
               f"{'dir':>6s} {'mape%':>7s}")
         for series, rows in block.groupby("series", sort=False):
             for _, row in rows.iterrows():
                 star = "*" if row.get("dm_p_value", 1) < 0.05 else " "
                 print(f"  {series:24s} {row['model']:7s} {row['n']:5.0f} "
-                      f"{row['rmse']:8.4f} {row.get('skill_vs_naive', np.nan):6.3f}{star} "
+                      f"{row['rmse']:9.5f}{star} "
                       f"{row.get('direction', np.nan):6.1%} "
                       f"{row.get('mape_pct', np.nan):7.2f}")
 
     best = (results[results["model"] != "naive"]
-            .sort_values("skill_vs_naive")
-            .groupby("family", sort=False).head(1))
-    print("\nBest benchmark per family:")
+            .sort_values("rmse").groupby("series", sort=False).head(1))
+    print("\nBest benchmark per series:")
     for _, row in best.iterrows():
-        print(f"  {row['family']:8s} {row['series']:24s} {row['model']:7s} "
-              f"skill {row['skill_vs_naive']:.3f}  (p={row.get('dm_p_value', np.nan):.3f})")
+        naive_row = results[(results["series"] == row["series"])
+                            & (results["model"] == "naive")]
+        naive_rmse = float(naive_row["rmse"].iloc[0]) if len(naive_row) else np.nan
+        print(f"  {row['series']:24s} {row['model']:7s} rmse {row['rmse']:.5f}  "
+              f"(naive {naive_rmse:.5f}, p={row.get('dm_p_value', np.nan):.3f})")
 
     print(f"\nWritten: {(REPORTS / tagged('baseline_results.csv', args.horizon)).relative_to(ROOT)}")
     print(f"         {(REPORTS / tagged('baseline_predictions.csv', args.horizon)).relative_to(ROOT)}")
