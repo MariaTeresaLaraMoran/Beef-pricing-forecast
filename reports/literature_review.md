@@ -107,8 +107,9 @@ Asia.
 rather than against a naive random walk, and their improvements come partly from
 decomposition and attention components not used here. Section 7 shows ARIMA losing to the
 naive forecast on two of this project's seven series, so "beats ARIMA" and "beats the
-honest floor" are different claims. This project reports skill against naive throughout
-for that reason.
+honest floor" are different claims. For that reason every model here is scored against
+the naive random walk as well as against ridge and ARIMA, and reported as RMSE on the
+log return — one metric, directly comparable across methods within a series.
 
 ## 4. Which architectures work on agricultural price series
 
@@ -269,8 +270,33 @@ only lagged returns would miss most of what is predictable here.
 
 Both targets were built and benchmarked under the same procedure. The US family produced
 four Diebold–Mariano-significant results against the naive forecast; the Mexican family
-produced none. The best Mexican skill was 0.957 (p = 0.315) against 0.805 for the US. The
-target moved accordingly, and the Mexican series became the ablation.
+produced none. The best Mexican model reduced RMSE 4.3% below naive (p = 0.315, not
+distinguishable from chance); the best US model reduced it 19.5%. The target moved
+accordingly, and the Mexican series became the ablation.
+
+### Forecastability rises with the horizon
+
+The project was first built to forecast four weeks ahead and later extended to twelve,
+with the pipeline otherwise unchanged. The advantage of the recurrent networks over the
+benchmarks roughly doubles at the longer horizon: mean improvement over naive rises from
+14.6% to 24.5%, mean improvement over the best benchmark per series from 4.1% to 8.2%,
+and the number of series a deep model wins from five to six of seven. The chuck roll
+moves from a 1.3-standard-deviation gain to 6.5.
+
+In absolute terms the forecasts are worse at twelve weeks, as they must be — a twelve-week
+return is a larger quantity to miss, and mean RMSE rises from 0.073 to 0.104. What
+improves is the *relative* standing: the naive forecast degrades faster than the networks
+do.
+
+This is consistent with the error-correction literature in section 2 rather than
+incidental to it. If the margin corrects slowly, then at four weeks most of the knowable
+variation is momentum that a random walk already contains, and only at a longer horizon
+has the adjustment had time to reach the market. The direction was visible in the raw
+correlations before any model was fitted — the packer margin against the forward return
+measures −0.301 at four weeks and −0.353 at thirteen — so the horizon result confirms a
+prediction made from the data rather than one found after the fact. It also means a single
+reported horizon would have understated the method: at four weeks alone the honest summary
+was one reliable improvement among seven series.
 
 ### Consequences for the design
 

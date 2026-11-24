@@ -79,16 +79,8 @@ US_LABELS = {
     "us_top_butt":         "US Top sirloin butt boneless (IMPS 184)",
 }
 
-# Mexican cut <-> US series, the same pairs build_dataset.py uses for the spreads.
-PAIRS = {
-    "price_costillar":          "us_ribeye",
-    "price_chuleton_diezmillo": "us_chuck_roll",
-    "price_pecho":              "us_brisket",
-    "price_pulpa_negra":        "us_top_inside_round",
-    "price_sirloin":            "us_top_butt",
-}
 
-UNITS = {"mexico": "MXN/kg", "us": "USD/cwt"}
+UNITS = {"us": "USD/cwt"}
 
 pd.set_option("display.width", 170)
 pd.set_option("display.max_columns", 40)
@@ -100,47 +92,15 @@ def heading(text: str) -> None:
     print("=" * 78)
 
 
-def english_names() -> dict[str, str]:
-    """Spanish SNIIM cut name -> English name, from the reference mapping."""
-    if not CUT_MAP.exists():
-        return {}
-    mapping = pd.read_csv(CUT_MAP)
-    pairs = mapping[["sniim_cut_normalized", "english_name"]].drop_duplicates()
-    return {row.sniim_cut_normalized.lower().replace(" ", "_"): row.english_name
-            for row in pairs.itertuples()
-            if isinstance(row.english_name, str) and row.sniim_cut_normalized != "DROP"}
-
-
-ENGLISH = english_names()
 
 
 def pretty(column: str, short: bool = False) -> str:
     """Label a series for a table or a plot title.
 
-    price_chuleton_diezmillo -> 'Chuleton Diezmillo (Chuck chop / chuck eye steak)'
-    us_chuck_roll            -> 'US Chuck roll (IMPS 116A) ~ Chuleton Diezmillo'
-
-    The English names come from data/reference/cut_name_map.csv so the labels and the
-    reference table stay in step. With short=True the name is trimmed to fit a title.
+    us_chuck_roll -> 'Chuck roll (IMPS 116A)', or 'Chuck roll' with short=True.
     """
-    if column.startswith("us_"):
-        label = US_LABELS.get(column, column)
-        if short:
-            return label.split(" (")[0]
-        partner = next((m for m, u in PAIRS.items() if u == column), None)
-        if partner:
-            spanish = partner[len("price_"):].replace("_", " ").title()
-            return f"{label} ~ {spanish}"
-        return label
-
-    key = column[len("price_"):] if column.startswith("price_") else column
-    spanish = key.replace("_", " ").title()
-    name = ENGLISH.get(key)
-    if not name:
-        return spanish
-    if short:
-        name = name.split("/")[0].strip()
-    return f"{spanish} ({name})"
+    label = US_LABELS.get(column, column)
+    return label.split(" (")[0] if short else label
 
 
 def load() -> tuple[pd.DataFrame, dict[str, list[str]]]:
@@ -148,11 +108,8 @@ def load() -> tuple[pd.DataFrame, dict[str, list[str]]]:
         raise SystemExit(f"{TABLE.relative_to(ROOT)} not found. Run build_dataset.py first.")
     table = pd.read_csv(TABLE, index_col="week", parse_dates=True)
 
-    mexican = [c for c in table.columns
-               if c.startswith("price_") and not c.startswith("price_min")]
     american = [c for c in US_SERIES if c in table.columns and table[c].notna().any()]
-    families = {name: columns for name, columns
-                in (("mexico", mexican), ("us", american)) if columns}
+    families = {"us": american} if american else {}
     if not families:
         raise SystemExit("No target series found in the modelling table.")
     return table, families
@@ -192,7 +149,6 @@ def report_statistics(table: pd.DataFrame, columns: list[str], family: str,
     rows = []
     for column in columns:
         series_returns = returns[column].dropna()
-        reporters = table.get(f"n_reporters_{column.replace('price_', '')}")
         observed = table[column].dropna()
         rows.append({
             "series": pretty(column, short=True),
@@ -201,8 +157,6 @@ def report_statistics(table: pd.DataFrame, columns: list[str], family: str,
             "last": observed.index.max().date(),
             "zero-change weeks %": round((series_returns == 0).mean() * 100, 1),
             "sd of weekly return %": round(float(series_returns.std() * 100), 2),
-            "median reporters": (round(float(reporters.median()), 1)
-                                 if reporters is not None else np.nan),
         })
     print(pd.DataFrame(rows).to_string(index=False))
     print("\nA high zero-change share means the naive forecast is a hard floor: the")
@@ -359,75 +313,146 @@ def acf_pacf_figures(table: pd.DataFrame, returns: pd.DataFrame, columns: list[s
         save(fig, f"{prefix}_acf_pacf_{stem}.png")
 
 
-def pair_figures(table: pd.DataFrame) -> None:
-    """Each Mexican cut against its US pair, both converted to MXN/kg.
-
-    This is the picture behind the spread feature: two series that drift apart and
-    then close the gap. If the gap were constant the spread would carry no
-    information; if the series were unrelated it would never close.
-    """
-    pairs = [(m, u) for m, u in PAIRS.items()
-             if m in table.columns and u in table.columns]
-    if not pairs or "usd_mxn" not in table.columns:
-        print("  pair figures skipped: need both families and usd_mxn")
-        return
-
-    fig, axes = plt.subplots(len(pairs), 1, figsize=(12, 2.3 * len(pairs)), sharex=True)
-    axes = np.atleast_1d(axes)
-    for ax, (mexican, american) in zip(axes, pairs):
-        us_mxn = table[american] / 100.0 * table["usd_mxn"] / POUNDS_PER_KG
-        ax.plot(table.index, table[mexican], lw=0.8, color="#8b0000",
-                label="Mexico (SNIIM)")
-        ax.plot(table.index, us_mxn, lw=0.8, color="#1f4e79",
-                label="US (USDA, converted)")
-        ax.set_ylabel("MXN/kg", fontsize=8)
-        ax.set_title(f"{pretty(mexican, short=True)}  vs  {pretty(american, short=True)}",
-                     fontsize=10, loc="left")
-        ax.grid(alpha=0.3)
-        ax.legend(fontsize=7, loc="upper left")
-    axes[-1].set_xlabel("week")
-    fig.suptitle("Paired cuts, both in MXN/kg - the gap is the spread", y=1.0)
-    fig.tight_layout()
-    save(fig, "fig30_pairs_mx_vs_us.png")
-
-    # Name the five spread columns explicitly. Matching on the "spread_" prefix would
-    # also pick up spread_<cut>_lag1 and spread_<cut>_change_lag1, which belong to the
-    # feature set, not to this figure.
-    spreads = [(mexican, f"spread_{mexican[len('price_'):]}") for mexican in PAIRS]
-    spreads = [(m, s) for m, s in spreads if s in table.columns]
-    if not spreads:
-        return
-
-    # One panel each: the Costillar spread sits near -1.5 while the others hover around
-    # zero, so a shared axis would flatten four of the five into a single line.
-    fig, axes = plt.subplots(len(spreads), 1, figsize=(12, 1.9 * len(spreads)),
-                             sharex=True)
-    axes = np.atleast_1d(axes)
-    for ax, (mexican, column), colour in zip(axes, spreads, PALETTE * 3):
-        series = table[column]
-        ax.plot(table.index, series, lw=0.8, color=colour)
-        ax.axhline(0, color="black", lw=0.6)
-        mean = series.mean()
-        ax.axhline(mean, color="black", lw=0.8, ls="--",
-                   label=f"mean {mean:+.2f}")
-        ax.set_ylabel("log gap", fontsize=8)
-        ax.set_title(f"{pretty(mexican, short=True)} vs "
-                     f"{pretty(PAIRS[mexican], short=True)}", fontsize=10, loc="left")
-        ax.grid(alpha=0.3)
-        ax.legend(fontsize=7, loc="upper right")
-    axes[-1].set_xlabel("week")
-    fig.suptitle("The error-correction term: log(Mexican price) - log(US price in "
-                 "MXN/kg).\nA spread that returns to its mean is forecastable; one "
-                 "that drifts away is not.", y=1.0)
-    fig.tight_layout()
-    save(fig, "fig31_spreads.png")
-
 
 # ---------------------------------------------------------------------------
 
+# ---------------------------------------------------------------------------
+# The prediction problem: does the margin lead the price, and what data exists
+# ---------------------------------------------------------------------------
+
+MAX_LEAD = 16            # weeks of forward return to test the margin against
+REPORTS = ROOT / "reports"
+
+
+def forward_return(levels: pd.Series, weeks: int) -> pd.Series:
+    """Log return over the NEXT `weeks` weeks, aligned to the week it is known from.
+
+    Computed from the price level rather than from a target_ column, so this works
+    at any lead, not only the two horizons build_dataset.py happens to emit.
+    """
+    logged = np.log(levels.where(levels > 0))
+    return logged.shift(-weeks) - logged
+
+
+def margin_lead_table(table: pd.DataFrame, columns: list[str]) -> pd.DataFrame:
+    """Correlation of today's log margin with each series' forward return, by lead."""
+    margin = table.get("margin_choice_log")
+    if margin is None:
+        return pd.DataFrame()
+    rows = {}
+    for column in columns:
+        rows[pretty(column, short=True)] = {
+            weeks: margin.corr(forward_return(table[column], weeks))
+            for weeks in range(1, MAX_LEAD + 1)
+        }
+    return pd.DataFrame(rows).T
+
+
+def report_margin_lead(table: pd.DataFrame, columns: list[str],
+                       figures: bool) -> None:
+    heading("9. The packer margin as a leading indicator")
+    if "margin_choice_log" not in table.columns:
+        print("margin_choice_log is not in the table; run build_dataset.py.")
+        return
+
+    leads = margin_lead_table(table, columns)
+    print("Correlation of today's log margin with the forward log return.")
+    print("Negative is the expected sign: a wide margin today, a falling price later.\n")
+    shown = [1, 2, 4, 8, 12, 16]
+    print(leads[shown].round(3).to_string())
+
+    best = leads.mean(axis=0)
+    print(f"\nAveraged across the {len(columns)} series, the correlation is strongest")
+    print(f"at a lead of {int(best.idxmin())} weeks ({best.min():.3f}) and weakest at "
+          f"{int(best.idxmax())} ({best.max():.3f}).")
+    print("If the margin corrected quickly the strongest lead would be short. It is not,")
+    print("which is the measured basis for forecasting at a longer horizon.")
+
+    if not figures:
+        return
+    fig, (top, bottom) = plt.subplots(2, 1, figsize=(12, 9))
+
+    for grade, colour in (("choice", "#9E2B25"), ("select", "#2C5578")):
+        column = f"margin_{grade}_usd"
+        if column in table.columns:
+            top.plot(table.index, table[column].to_numpy(), lw=1.1, color=colour,
+                     label=f"{grade.title()} cutout minus dressed steer")
+    top.axhline(0, color="black", lw=0.8)
+    top.set_title("Gross packer margin, USD/cwt on a carcass basis", loc="left")
+    top.set_ylabel("USD/cwt")
+    top.legend(fontsize=8)
+    top.grid(alpha=0.3)
+
+    for name, row in leads.iterrows():
+        bottom.plot(row.index.to_numpy(), row.to_numpy(), lw=1.3, marker="o",
+                    markersize=3, label=name)
+    bottom.axhline(0, color="black", lw=0.8)
+    bottom.set_title("Correlation of today's log margin with the forward log return",
+                     loc="left")
+    bottom.set_xlabel("lead, weeks ahead")
+    bottom.set_ylabel("correlation")
+    bottom.legend(fontsize=7, ncol=2)
+    bottom.grid(alpha=0.3)
+
+    fig.suptitle("The margin leads the price, and the signal deepens with distance",
+                 y=0.98)
+    fig.tight_layout()
+    save(fig, "fig25_margin_leading.png")
+
+
+def report_coverage(table: pd.DataFrame, figures: bool) -> None:
+    heading("10. Data coverage over time")
+    groups = {
+        "US cut and cutout prices": US_SERIES,
+        "Fed cattle price": ["us_steer_dressed", "us_steer_live"],
+        "Negotiated head counts": ["us_steer_dressed_head", "us_steer_live_head"],
+        "Packer margin": ["margin_choice_usd", "margin_select_usd"],
+        "Macro (FRED)": ["usd_index", "initial_claims"],
+        "Exports to Mexico": ["exports_tonnes"],
+        "Mexican prices": [c for c in table.columns if c.startswith("price_")][:1],
+    }
+    spans = []
+    for label, cols in groups.items():
+        present = [c for c in cols if c in table.columns and table[c].notna().any()]
+        if not present:
+            continue
+        mask = table[present].notna().any(axis=1)
+        weeks = table.index[mask]
+        spans.append((label, weeks.min(), weeks.max(),
+                      100 * mask.loc[weeks.min():].mean(), len(present)))
+
+    print(f"{'group':28s} {'from':>12s} {'to':>12s} {'weeks present':>14s}")
+    for label, lo, hi, pct, _ in spans:
+        print(f"{label:28s} {lo.date()!s:>12s} {hi.date()!s:>12s} {pct:13.1f}%")
+    print("\nThe percentage counts weeks with data from that group's own first week,")
+    print("so a late start is not scored as missing data. The broad dollar index is")
+    print("the binding constraint on the macro arm: it starts in 2006, which costs")
+    print("that arm 85 training windows.")
+
+    if not figures:
+        return
+    fig, ax = plt.subplots(figsize=(12, 4.6))
+    for position, (label, lo, hi, _, _) in enumerate(spans):
+        ax.barh(position, hi - lo, left=lo, height=0.55, color="#9E2B25", alpha=0.75)
+    ax.set_yticks(range(len(spans)))
+    ax.set_yticklabels([row[0] for row in spans], fontsize=9)
+    ax.invert_yaxis()
+    ax.grid(axis="x", alpha=0.3)
+
+    test = REPORTS / "baseline_predictions_h12.csv"
+    if test.exists():
+        scored = pd.read_csv(test, parse_dates=["week"])["week"]
+        ax.axvspan(scored.min(), scored.max(), color="#2C5578", alpha=0.12)
+        ax.text(scored.min(), -0.9, "  test period (h=12)", fontsize=8,
+                color="#2C5578", va="center")
+
+    ax.set_title("Which series exist when", loc="left")
+    fig.tight_layout()
+    save(fig, "fig26_data_coverage.png")
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
-    parser.add_argument("--family", choices=["mexico", "us", "both"], default="both")
     parser.add_argument("--max-lag", type=int, default=52,
                         help="lags shown in the ACF and PACF plots (52 = one year)")
     parser.add_argument("--no-figures", action="store_true")
@@ -437,11 +462,9 @@ def main() -> None:
     print(f"Modelling table: {len(table):,} weeks, "
           f"{table.index.min().date()} to {table.index.max().date()}")
 
-    wanted = list(families) if args.family == "both" else [args.family]
-    prefixes = {"mexico": ("fig10", "fig11", "fig12", "fig13", "fig14"),
-                "us": ("fig20", "fig21", "fig22", "fig23", "fig24")}
-    titles = {"mexico": "Mexican beef cut prices (SNIIM, weekly)",
-              "us": "US boxed beef prices (USDA, weekly)"}
+    wanted = list(families)
+    prefixes = {"us": ("fig20", "fig21", "fig22", "fig23", "fig24")}
+    titles = {"us": "US boxed beef prices (USDA, weekly)"}
 
     all_returns = {}
     for family in wanted:
@@ -475,23 +498,9 @@ def main() -> None:
                                f"{d}_{family}_seasonality.png")
             acf_pacf_figures(table, returns, columns, args.max_lag, e)
 
-    if not args.no_figures and len(all_returns) == 2:
-        heading("7. Cross-border figures")
-        pair_figures(table)
-        combined = pd.concat([all_returns["mexico"], all_returns["us"]], axis=1)
-        correlation_figure(combined,
-                           "Weekly log returns: Mexican and US series together",
-                           "fig32_cross_border_correlation.png")
-
-        heading("8. Cross-border correlation of weekly returns")
-        block = combined.corr().loc[families["mexico"], families["us"]]
-        block.index = [pretty(i, short=True) for i in block.index]
-        block.columns = [pretty(c, short=True) for c in block.columns]
-        print(block.round(3).to_string())
-        print("\nEach row is a Mexican cut, each column a US series. Values near zero")
-        print("mean US weekly moves carry no contemporaneous information about Mexican")
-        print("ones, which is why the level spread, not the US return, is the feature")
-        print("that matters. Read the paired diagonal entries first.")
+    if "us" in families:
+        report_margin_lead(table, families["us"], not args.no_figures)
+        report_coverage(table, not args.no_figures)
 
 
 if __name__ == "__main__":

@@ -26,7 +26,7 @@ Three comparisons
   1. Does nonlinearity help?      this script against baselines.py
   2. Does sharing across cuts help?  --mode joint (one network, seven outputs) against
                                      --mode single (one network per series)
-  3. Does extra information help?    --features core against --features plus-mexico,
+  3. Does extra information help?    --features core against --features plus-volume,
                                      a straight ablation on the same architecture
 
 Why several seeds
@@ -41,7 +41,7 @@ Usage:
     python src/models.py                                   # LSTM, joint, 5 seeds
     python src/models.py --arch gru
     python src/models.py --mode single
-    python src/models.py --features plus-mexico            # the ablation
+    python src/models.py --features plus-macro             # the ablation
     python src/models.py --arch gru --seeds 10 --window 12
 
 Output:
@@ -77,12 +77,9 @@ US_TARGETS = ["us_cutout_choice", "us_cutout_select", "us_ribeye", "us_chuck_rol
 CORE_FEATURES = (
     [f"ret_{s}" for s in US_TARGETS]
     + ["ret_us_steer_dressed", "margin_choice_log", "margin_select_log",
-       "margin_choice_log_change", "ret_exports_tonnes", "season_sin", "season_cos"]
+       "margin_choice_log_change", "season_sin", "season_cos"]
 )
 
-# The ablation set: Mexican market information added to the US model. Mexico is the
-# largest-volume destination for US beef, so the question is whether destination-market
-# data carries anything about US prices that US data does not already contain.
 # Beef-market volume: how much cattle actually changed hands. The packer margin is the
 # incentive to slaughter; this is nearer the decision itself. Separate from the macro arm
 # because it is beef data, not economy-wide data - confounding them would make a result
@@ -98,13 +95,6 @@ VOLUME_FEATURES = ["ret_us_steer_dressed_head", "ret_us_steer_live_head"]
 # plus-volume first to see whether the loss is the features or the shorter history.
 MACRO_FEATURES = ["ret_usd_index", "ret_initial_claims"]
 
-MEXICO_FEATURES = (
-    [f"ret_price_{c}" for c in ["sirloin", "costillar", "chuleton_diezmillo",
-                                "pulpa_negra", "pecho"]]
-    + [f"spread_{c}" for c in ["sirloin", "costillar", "chuleton_diezmillo",
-                               "pulpa_negra", "pecho"]]
-    + ["ret_carcass", "ret_usd_mxn"]
-)
 
 
 # ---------------------------------------------------------------------------
@@ -347,13 +337,11 @@ def main() -> None:
                              "sharing comparison stays reproducible, but single won "
                              "it (0.893 against 0.981) and is the model to use")
     parser.add_argument("--features",
-                        choices=["core", "plus-volume", "plus-macro", "plus-mexico",
-                                 "plus-all"],
+                        choices=["core", "plus-volume", "plus-macro", "plus-all"],
                         default="core",
                         help="which ablation arm to run. core: US prices and margins "
                              "only. plus-volume: adds negotiated head counts. "
                              "plus-macro: adds the dollar index and jobless claims. "
-                             "plus-mexico: adds Mexican prices and spreads. "
                              "plus-all: everything")
     parser.add_argument("--seeds", type=int, default=5)
     parser.add_argument("--window", type=int, default=WINDOW)
@@ -375,8 +363,7 @@ def main() -> None:
         "core": [],
         "plus-volume": VOLUME_FEATURES,
         "plus-macro": MACRO_FEATURES,
-        "plus-mexico": MEXICO_FEATURES,
-        "plus-all": VOLUME_FEATURES + MACRO_FEATURES + MEXICO_FEATURES,
+        "plus-all": VOLUME_FEATURES + MACRO_FEATURES,
     }[args.features]
     features = CORE_FEATURES + extra
     # An arm whose own features are absent must not quietly become `core` under the

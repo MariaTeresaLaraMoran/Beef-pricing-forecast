@@ -65,6 +65,13 @@ def tagged(name: str, horizon: int) -> str:
     return f"{stem}_h{horizon}.{suffix}"
 
 
+def test_weeks(baselines: pd.DataFrame) -> int:
+    """How many weeks were actually scored. The embargo grows with the horizon, so
+    this is not the same number at h=4 and h=12 and must not be hard-coded."""
+    n = baselines["n"].dropna()
+    return int(n.max()) if len(n) else 0
+
+
 def load(horizon: int) -> tuple[pd.DataFrame, pd.DataFrame]:
     baseline_path = REPORTS / tagged("baseline_results.csv", horizon)
     dl_path = REPORTS / tagged("dl_results.csv", horizon)
@@ -185,7 +192,7 @@ def ablation_report(dl: pd.DataFrame, configs: list[str]) -> None:
     print("nothing new to learn. That is a result, not a failure.")
 
 
-def figure_rmse(table: pd.DataFrame) -> None:
+def figure_rmse(table: pd.DataFrame, horizon: int) -> None:
     """One panel per series, each on its own scale.
 
     RMSE cannot share an axis across series - the ribeye's is three times the
@@ -224,18 +231,17 @@ def figure_rmse(table: pd.DataFrame) -> None:
     for ax in axes[panels:]:
         ax.axis("off")
 
-    fig.suptitle("RMSE on the four-week log return, 169 test weeks (2023-07 to "
-                 "2026-10)\ndashed line = naive forecast, outlined bar = best; "
-                 "each panel has its own scale", y=1.0)
+    fig.suptitle(f"RMSE on the {horizon}-week log return\ndashed line = naive "
+                 "forecast, outlined bar = best; each panel has its own scale", y=1.0)
     fig.tight_layout()
     FIGURES.mkdir(parents=True, exist_ok=True)
-    path = FIGURES / "fig40_rmse_by_model.png"
+    path = FIGURES / tagged("fig40_rmse_by_model.png", horizon)
     fig.savefig(path, dpi=140, bbox_inches="tight")
     plt.close(fig)
     print(f"  saved {path.relative_to(ROOT)}")
 
 
-def figure_stability(dl: pd.DataFrame, configs: list[str]) -> None:
+def figure_stability(dl: pd.DataFrame, configs: list[str], horizon: int) -> None:
     block = dl[dl["config"].isin(configs)]
     if block.empty:
         return
@@ -251,7 +257,7 @@ def figure_stability(dl: pd.DataFrame, configs: list[str]) -> None:
     ax.set_title("Run-to-run stability: how much the answer moves with the seed")
     ax.grid(axis="x", alpha=0.3)
     fig.tight_layout()
-    path = FIGURES / "fig41_seed_stability.png"
+    path = FIGURES / tagged("fig41_seed_stability.png", horizon)
     fig.savefig(path, dpi=140, bbox_inches="tight")
     plt.close(fig)
     print(f"  saved {path.relative_to(ROOT)}")
@@ -280,7 +286,8 @@ def main() -> None:
     display.columns = [short_label(c) for c in display.columns]
 
     print("=" * 92)
-    print(f"RMSE ON THE {args.horizon}-WEEK LOG RETURN - 169 common test weeks")
+    print(f"RMSE ON THE {args.horizon}-WEEK LOG RETURN - "
+          f"{test_weeks(baselines)} common test weeks")
     print("lower is better. Compare methods ACROSS a row; each series has its own")
     print("volatility, so RMSE is not comparable between rows.")
     print("=" * 92)
@@ -301,8 +308,8 @@ def main() -> None:
     out_name = tagged("final_comparison.csv", args.horizon)
     table.to_csv(REPORTS / out_name)
     print(f"\nWritten {(REPORTS / out_name).relative_to(ROOT)}")
-    figure_rmse(table)
-    figure_stability(dl, configs)
+    figure_rmse(table, args.horizon)
+    figure_stability(dl, configs, args.horizon)
 
 
 if __name__ == "__main__":

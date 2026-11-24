@@ -414,6 +414,49 @@ def run_target(table: pd.DataFrame, series: str, horizon: int, models: list[str]
     return rows, predictions
 
 
+
+def merge_results(fresh: pd.DataFrame, path: Path, models: list[str]) -> pd.DataFrame:
+    """Keep scored rows for models this run did not compute.
+
+    Re-running a subset is the normal case when a feature change cannot affect every
+    model: ARIMA and naive never see the feature set, so when only ridge changes there
+    is no reason to pay for ARIMA again. Without this, writing the file would silently
+    drop the models left out. Rows are replaced per model, not per file.
+    """
+    if not path.exists():
+        return fresh
+    previous = pd.read_csv(path)
+    if "model" not in previous.columns:
+        return fresh
+    kept = previous[~previous["model"].isin(models)]
+    if kept.empty:
+        return fresh
+    print(f"  carried forward {len(kept)} row(s) for model(s) not run this time: "
+          f"{', '.join(sorted(kept['model'].unique()))}")
+    return pd.concat([kept, fresh], ignore_index=True)
+
+
+def merge_predictions(fresh: pd.DataFrame, path: Path, models: list[str]) -> pd.DataFrame:
+    """The same carry-forward for the wide predictions file, where models are columns."""
+    if not path.exists():
+        return fresh
+    index_name = fresh.index.name or "week"
+    previous = pd.read_csv(path, index_col=0, parse_dates=True)
+    previous.index.name = index_name
+    if "series" not in previous.columns or "series" not in fresh.columns:
+        return fresh
+    carry = [c for c in previous.columns
+             if c != "series" and c not in fresh.columns and c not in models]
+    if not carry:
+        return fresh
+    key = [index_name, "series"]
+    merged = (fresh.reset_index()
+                   .merge(previous.reset_index()[key + carry], on=key, how="left")
+                   .set_index(index_name))
+    print(f"  carried forward prediction column(s): {', '.join(carry)}")
+    return merged
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     parser.add_argument("--horizon", type=int, default=HORIZON)
@@ -464,10 +507,13 @@ def main() -> None:
 
     results = pd.DataFrame(all_rows)
     REPORTS.mkdir(parents=True, exist_ok=True)
-    results.to_csv(REPORTS / tagged("baseline_results.csv", args.horizon), index=False)
+    results_path = REPORTS / tagged("baseline_results.csv", args.horizon)
+    results = merge_results(results, results_path, models)
+    results.to_csv(results_path, index=False)
     if all_predictions:
-        pd.concat(all_predictions).to_csv(
-            REPORTS / tagged("baseline_predictions.csv", args.horizon))
+        predictions_path = REPORTS / tagged("baseline_predictions.csv", args.horizon)
+        frame = merge_predictions(pd.concat(all_predictions), predictions_path, models)
+        frame.to_csv(predictions_path)
 
     # Printed summary: skill against naive is the column that matters.
     print("\n" + "=" * 78)
