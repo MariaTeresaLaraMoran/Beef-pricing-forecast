@@ -1,47 +1,37 @@
-"""Exploratory analysis of the beef cut series, Mexican and US.
+"""Exploratory analysis of the US boxed beef series.
 
 Reads the weekly modelling table produced by build_dataset.py and reports, for each
-target series in the chosen family:
+target series:
 
   - summary statistics on the price level and on the weekly log return
     (mean, median, percentiles, dispersion, skew, kurtosis)
   - stationarity: ADF and KPSS on the log level and on the log return
   - how often the price does not move at all (administered prices are sticky)
-  - how the series move together, within a family and across the border
+  - how the series move together
+  - whether the packer margin leads the price, and at what distance
+  - which series exist over which weeks
 
-Two families:
-
-  mexico   the five SNIIM target cuts, MXN/kg, weekly mean of the maximum reported
-           price across establishments
-  us       USDA boxed beef: the Choice and Select cutout plus the five cuts paired
-           with the Mexican targets by IMPS code, USD/cwt
+The targets are the USDA boxed beef Choice and Select cutouts plus five cuts by IMPS
+code, all in USD/cwt.
 
 Figures written to reports/figures/:
 
-  Mexican family
-    fig10_cuts_levels_facet.png      one panel per cut, price level over time
-    fig11_cuts_returns_facet.png     one panel per cut, weekly log return
-    fig12_cuts_correlation.png       correlation between the cuts' returns
-    fig13_cuts_seasonality.png       monthly distribution of weekly returns per cut
-    fig14_acf_pacf_<cut>.png         ACF and PACF per cut, level and log return
+    fig20_us_levels_facet.png        one panel per series, price level over time
+    fig21_us_returns_facet.png       one panel per series, weekly log return
+    fig22_us_correlation.png         correlation between the series' returns
+    fig23_us_seasonality.png         monthly distribution of weekly returns
+    fig24_acf_pacf_<series>.png      ACF and PACF per series, level and log return
+    fig25_margin_leading.png         the packer margin over time, and its correlation
+                                     with the forward return at leads of 1 to 16 weeks
+    fig26_data_coverage.png          which series exist when, against the test period
 
-  US family
-    fig20..fig24                     the same five, for the US series
-
-  Both families together
-    fig30_pairs_mx_vs_us.png         each Mexican cut against its US pair, both in
-                                     MXN/kg, so the gap between them is visible
-    fig31_spreads.png                the five log spreads, the error-correction term
-    fig32_cross_border_correlation.png  all returns against each other
-
-One caveat on the US panels. The table's us_* columns carry their one-week publication
+One caveat on the panels. The table's us_* columns carry their one-week publication
 lag, because that is what a forecast may use. A uniform one-week shift leaves the
 distribution, the autocorrelation and the stationarity verdicts untouched and moves
 only the dates on the x axis, so the plots and tables below are unaffected by it.
 
 Usage:
     python src/eda_cuts.py
-    python src/eda_cuts.py --family mexico
     python src/eda_cuts.py --max-lag 104      # two years of lags instead of one
 """
 
@@ -57,6 +47,8 @@ import pandas as pd
 from statsmodels.graphics.tsaplots import plot_acf, plot_pacf
 from statsmodels.tsa.stattools import adfuller, kpss
 
+from baselines import BREAK_END, BREAK_START  # one definition of the window
+
 ROOT = Path(__file__).resolve().parents[1]
 TABLE = ROOT / "data" / "processed" / "weekly_model_table.csv"
 CUT_MAP = ROOT / "data" / "reference" / "cut_name_map.csv"
@@ -64,7 +56,7 @@ FIGURES = ROOT / "reports" / "figures"
 PERCENTILES = [0.01, 0.05, 0.25, 0.50, 0.75, 0.95, 0.99]
 POUNDS_PER_KG = 0.45359237
 
-# The US series, in reporting order, with the Mexican cut each one is paired with.
+# The US series, in reporting order.
 # The pairings are by IMPS code and are documented in data/reference/us_cut_map.csv.
 US_SERIES = ["us_cutout_choice", "us_cutout_select", "us_ribeye", "us_chuck_roll",
              "us_brisket", "us_top_inside_round", "us_top_butt"]
@@ -309,7 +301,7 @@ def acf_pacf_figures(table: pd.DataFrame, returns: pd.DataFrame, columns: list[s
             ax.grid(alpha=0.3)
         fig.suptitle(f"{pretty(column)} - autocorrelation ({lags} weekly lags)")
         fig.tight_layout()
-        stem = column[len("price_"):] if column.startswith("price_") else column
+        stem = column
         save(fig, f"{prefix}_acf_pacf_{stem}.png")
 
 
@@ -408,8 +400,6 @@ def report_coverage(table: pd.DataFrame, figures: bool) -> None:
         "Negotiated head counts": ["us_steer_dressed_head", "us_steer_live_head"],
         "Packer margin": ["margin_choice_usd", "margin_select_usd"],
         "Macro (FRED)": ["usd_index", "initial_claims"],
-        "Exports to Mexico": ["exports_tonnes"],
-        "Mexican prices": [c for c in table.columns if c.startswith("price_")][:1],
     }
     spans = []
     for label, cols in groups.items():
@@ -449,6 +439,89 @@ def report_coverage(table: pd.DataFrame, figures: bool) -> None:
     ax.set_title("Which series exist when", loc="left")
     fig.tight_layout()
     save(fig, "fig26_data_coverage.png")
+
+
+
+def regime_table(table: pd.DataFrame) -> pd.DataFrame:
+    """The packer margin by calendar year, with each year's ratio to the 2004-19 norm.
+
+    The disruption is easiest to see at yearly resolution: the weekly series is noisy
+    enough that the 2020-21 excursion reads as volatility rather than as a regime.
+    """
+    margin = table["margin_choice_usd"].dropna()
+    by_year = margin.groupby(margin.index.year).agg(["mean", "median", "max"])
+    norm = margin.loc[:"2019"].mean()
+    by_year["vs_2004_2019"] = by_year["mean"] / norm
+    by_year.index.name = "year"
+    return by_year.round(3)
+
+
+def report_regimes(table: pd.DataFrame, figures: bool) -> None:
+    heading("11. The 2020-21 disruption, and why it is treated separately")
+    if "margin_choice_usd" not in table.columns:
+        print("margin_choice_usd is not in the table; run build_dataset.py.")
+        return
+
+    years = regime_table(table)
+    REPORTS.mkdir(parents=True, exist_ok=True)
+    out = REPORTS / "margin_by_year.csv"
+    years.to_csv(out)
+
+    margin = table["margin_choice_usd"].dropna()
+    norm = margin.loc[:"2019"].mean()
+    test = margin.loc["2023-08":]
+    print(years.to_string())
+    print(f"\n2004-2019 mean      {norm:6.1f} USD/cwt")
+    print(f"test period mean    {test.mean():6.1f} USD/cwt  "
+          f"({test.mean() / norm:.1f}x the 2004-19 norm)")
+    print(f"peak year (2021)    {years.loc[2021, 'mean']:6.1f} USD/cwt  "
+          f"({years.loc[2021, 'vs_2004_2019']:.1f}x)")
+    print("\nThe forecast period sits at roughly the historical norm while the 2020-21")
+    print("weeks sit an order of magnitude above it. That gap, not the size of the")
+    print("numbers on their own, is why those weeks are excluded from training in the")
+    print(f"--exclude-break variant ({BREAK_START.date()} to {BREAK_END.date()}).")
+    print(f"\nWritten {out.relative_to(ROOT)}")
+
+    if not figures:
+        return
+    fig, (top, bottom) = plt.subplots(2, 1, figsize=(12, 8.5),
+                                      gridspec_kw={"height_ratios": [1.25, 1]})
+
+    cutout, steer = "us_cutout_choice", "us_steer_dressed"
+    if cutout in table.columns and steer in table.columns:
+        top.fill_between(table.index, table[steer], table[cutout],
+                         where=table[cutout] >= table[steer],
+                         color="#9E2B25", alpha=0.18, linewidth=0,
+                         label="packer margin (the gap)")
+        top.plot(table.index, table[cutout], lw=1.0, color="#9E2B25",
+                 label="Choice boxed beef cutout")
+        top.plot(table.index, table[steer], lw=1.0, color="#2C5578",
+                 label="5-Area dressed fed steer")
+    top.axvspan(BREAK_START, BREAK_END, color="#524C44", alpha=0.13, linewidth=0)
+    top.text(BREAK_START, top.get_ylim()[1], " 2020-21 disruption", fontsize=8,
+             va="top", color="#524C44")
+    top.set_title("What the packer sells, what the packer pays, and the gap between",
+                  loc="left")
+    top.set_ylabel("USD/cwt carcass")
+    top.legend(fontsize=8, loc="upper left")
+    top.grid(alpha=0.3)
+
+    colour = {"normal": "#2C5578", "break": "#9E2B25"}
+    kinds = ["break" if y in (2020, 2021) else "normal" for y in years.index]
+    bottom.bar(years.index, years["mean"],
+               color=[colour[k] for k in kinds], width=0.75)
+    bottom.axhline(norm, color="black", lw=1.0, ls="--",
+                   label=f"2004-19 mean, {norm:.1f}")
+    bottom.set_title("Mean packer margin by year - the excursion, and the return",
+                     loc="left")
+    bottom.set_ylabel("USD/cwt")
+    bottom.legend(fontsize=8)
+    bottom.grid(alpha=0.3, axis="y")
+
+    fig.suptitle("The forecast period is an ordinary-margin regime; 2020-21 is not",
+                 y=0.99)
+    fig.tight_layout()
+    save(fig, "fig27_margin_regimes.png")
 
 
 def main() -> None:
@@ -501,6 +574,7 @@ def main() -> None:
     if "us" in families:
         report_margin_lead(table, families["us"], not args.no_figures)
         report_coverage(table, not args.no_figures)
+        report_regimes(table, not args.no_figures)
 
 
 if __name__ == "__main__":

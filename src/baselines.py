@@ -68,17 +68,41 @@ HORIZON = 4
 LAGS = [1, 2, 3, 4]
 
 
-def tagged(name: str, horizon: int) -> str:
-    """Output filename for a horizon.
+# The documented 2020-21 beef market disruption: plant closures, and the period USDA
+# AMS formally investigated. Declared as a fixed calendar window rather than picked
+# from the data, so the exclusion cannot be tuned to flatter a result.
+BREAK_START = pd.Timestamp("2020-03-01")
+BREAK_END = pd.Timestamp("2021-06-30")
 
-    The default four-week results keep their plain names so earlier runs and anything
-    committed against them stay valid; any other horizon gets a suffix, so h=12 results
-    sit beside h=4 instead of overwriting them.
+
+def drop_break(index: pd.DatetimeIndex, label: str) -> pd.DatetimeIndex:
+    """Remove the disruption window from a FITTING index.
+
+    Applied to training and validation only, never to test. The split is computed
+    before this runs, so both variants are scored on exactly the same weeks: only what
+    the model learned from differs, which is what makes the two directly comparable.
     """
-    if horizon == HORIZON:
-        return name
+    keep = index[(index < BREAK_START) | (index > BREAK_END)]
+    dropped = len(index) - len(keep)
+    if dropped:
+        print(f"    {label}: dropped {dropped} week(s) in the 2020-21 disruption")
+    return keep
+
+
+def tagged(name: str, horizon: int, exclude_break: bool = False) -> str:
+    """Output filename for a horizon and disruption setting.
+
+    The default four-week, full-sample results keep their plain names so earlier runs
+    stay valid; any other horizon gets an _h<N> suffix and the excluded-disruption
+    variant a _nobreak one, so all four combinations sit beside each other instead of
+    overwriting.
+    """
     stem, _, suffix = name.rpartition(".")
-    return f"{stem}_h{horizon}.{suffix}"
+    if horizon != HORIZON:
+        stem = f"{stem}_h{horizon}"
+    if exclude_break:
+        stem = f"{stem}_nobreak"
+    return f"{stem}.{suffix}"
 TRAIN_FRACTION = 0.70
 VAL_FRACTION = 0.15
 RIDGE_ALPHAS = [0.01, 0.1, 1.0, 10.0, 100.0, 1000.0]
@@ -325,7 +349,7 @@ def score(actual: pd.Series, predicted: pd.Series, price: pd.Series,
 # ---------------------------------------------------------------------------
 
 def run_target(table: pd.DataFrame, series: str, horizon: int, models: list[str],
-               refit_every: int, max_order: int
+               refit_every: int, max_order: int, exclude_break: bool = False
                ) -> tuple[list[dict], pd.DataFrame]:
     target = f"target_{series}_h{horizon}"
     features = feature_columns(table, series)
@@ -338,6 +362,9 @@ def run_target(table: pd.DataFrame, series: str, horizon: int, models: list[str]
         return [], pd.DataFrame()
 
     train, val, test = split_index(usable, horizon, TRAIN_FRACTION, VAL_FRACTION)
+    if exclude_break:
+        train = drop_break(train, "train")
+        val = drop_break(val, "validation")
     print(f"  {series}: {len(features)} features | "
           f"train {len(train)} ({train.min().date()}..{train.max().date()}) | "
           f"val {len(val)} | test {len(test)} ({test.min().date()}..{test.max().date()})")
@@ -459,6 +486,11 @@ def merge_predictions(fresh: pd.DataFrame, path: Path, models: list[str]) -> pd.
 
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
+    parser.add_argument("--exclude-break", action="store_true",
+                        help="drop the 2020-03 to 2021-06 market disruption from "
+                             "training and validation. The test period is unchanged, "
+                             "so results stay comparable with the full-sample run; "
+                             "output files gain a _nobreak suffix")
     parser.add_argument("--horizon", type=int, default=HORIZON)
     parser.add_argument("--family", choices=["mexico", "us", "both"], default="both")
     parser.add_argument("--models", default="naive,ridge,arima",
@@ -496,7 +528,8 @@ def main() -> None:
         print(f"\n{family.upper()} targets ({len(families[family])})")
         for series in families[family]:
             rows, predictions = run_target(table, series, args.horizon, models,
-                                           args.refit_every, args.max_order)
+                                           args.refit_every, args.max_order,
+                                           args.exclude_break)
             all_rows += rows
             if not predictions.empty:
                 all_predictions.append(predictions)
@@ -507,11 +540,11 @@ def main() -> None:
 
     results = pd.DataFrame(all_rows)
     REPORTS.mkdir(parents=True, exist_ok=True)
-    results_path = REPORTS / tagged("baseline_results.csv", args.horizon)
+    results_path = REPORTS / tagged("baseline_results.csv", args.horizon, args.exclude_break)
     results = merge_results(results, results_path, models)
     results.to_csv(results_path, index=False)
     if all_predictions:
-        predictions_path = REPORTS / tagged("baseline_predictions.csv", args.horizon)
+        predictions_path = REPORTS / tagged("baseline_predictions.csv", args.horizon, args.exclude_break)
         frame = merge_predictions(pd.concat(all_predictions), predictions_path, models)
         frame.to_csv(predictions_path)
 
@@ -543,8 +576,8 @@ def main() -> None:
         print(f"  {row['series']:24s} {row['model']:7s} rmse {row['rmse']:.5f}  "
               f"(naive {naive_rmse:.5f}, p={row.get('dm_p_value', np.nan):.3f})")
 
-    print(f"\nWritten: {(REPORTS / tagged('baseline_results.csv', args.horizon)).relative_to(ROOT)}")
-    print(f"         {(REPORTS / tagged('baseline_predictions.csv', args.horizon)).relative_to(ROOT)}")
+    print(f"\nWritten: {(REPORTS / tagged('baseline_results.csv', args.horizon, args.exclude_break)).relative_to(ROOT)}")
+    print(f"         {(REPORTS / tagged('baseline_predictions.csv', args.horizon, args.exclude_break)).relative_to(ROOT)}")
     print("\nThe deep learning model has to beat the best skill figure above on the "
           "same test rows. Those predictions are saved so the comparison is exact.")
 

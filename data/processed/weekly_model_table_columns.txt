@@ -2,21 +2,10 @@ Columns in weekly_model_table.csv
 ========================================
 
 week                 week ending Sunday (index)
-price_<cut>          weekly mean of the maximum reported price, MXN/kg
-n_reporters_<cut>    establishments reporting that cut that week
-carcass              Corral carcass price, weighted by carcass count, MXN/kg
-usd_mxn              weekly mean of the Banxico FIX rate
-exports_tonnes       US beef exports to Mexico, tonnes
-net_sales_tonnes     US beef net sales to Mexico, tonnes
-us_*                 reserved for US cut prices, cutout and live cattle
+us_<cut>             weekly USDA boxed beef price, USD/cwt
 log_<series>         natural log of the series
 ret_<series>         weekly log return (first difference of the log)
 ret_<series>_lagN    that return, N weeks earlier
-spread_<cut>         log(Mexican price) - log(paired US price in MXN/kg):
-                     the error-correction term. The single most
-                     informative US-derived feature; the raw US series
-                     carry almost nothing at weekly frequency.
-spread_<cut>_change  weekly change in that spread
 us_steer_dressed     5-Area fed steer price, USD/cwt CARCASS
                      (LM_CT150) - the packer's input cost
 us_steer_live        the same cattle quoted per cwt LIVE weight
@@ -29,13 +18,10 @@ us_steer_*_head      weekly NEGOTIATED head count, 5-Area:
 usd_index            FRED DTWEXBGS, broad trade-weighted dollar
 initial_claims       FRED ICSA, weekly initial jobless claims
 season_sin, season_cos   week of year as a smooth annual cycle
-target_<cut>_h4    log return over the NEXT 4 weeks (the only forward-looking columns)
+target_<cut>_h4         log return over the NEXT 4 weeks (the only forward-looking columns)
+target_<cut>_h12         log return over the NEXT 12 weeks (the only forward-looking columns)
 
 Publication lags applied (weeks):
-  carcass              0
-  usd_mxn              0
-  exports_tonnes       2
-  net_sales_tonnes     2
   us_ribeye            1
   us_chuck_roll        1
   us_brisket           1

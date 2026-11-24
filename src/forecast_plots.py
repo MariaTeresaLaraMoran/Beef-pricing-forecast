@@ -85,17 +85,20 @@ COLOURS = {"ridge": "#1f4e79", "arima": "#2e7d32", "naive": "#9e9e9e",
 DEEP_COLOURS = ["#8b0000", "#b36b00", "#5b2c6f", "#00695c"]
 
 
-def tagged(name: str, horizon: int) -> str:
-    """h=4 keeps the plain filename; other horizons get a suffix (see baselines.py).
+def tagged(name: str, horizon: int, exclude_break: bool = False) -> str:
+    """h=4 full-sample keeps the plain filename; other horizons get an _h<N> suffix and
+    the excluded-disruption variant a _nobreak one (see baselines.py).
 
     Without this a --horizon 12 run would read the four-week prediction files and
     stamp them twelve weeks forward, silently producing a plausible-looking but
     meaningless chart.
     """
-    if horizon == 4:
-        return name
     stem, _, suffix = name.rpartition(".")
-    return f"{stem}_h{horizon}.{suffix}"
+    if horizon != 4:
+        stem = f"{stem}_h{horizon}"
+    if exclude_break:
+        stem = f"{stem}_nobreak"
+    return f"{stem}.{suffix}"
 
 
 def load_prices() -> pd.DataFrame:
@@ -105,14 +108,15 @@ def load_prices() -> pd.DataFrame:
     return pd.read_csv(path, index_col=0, parse_dates=True)
 
 
-def load_predictions(horizon: int) -> tuple[pd.DataFrame, pd.DataFrame]:
-    baseline_path = REPORTS / tagged("baseline_predictions.csv", horizon)
+def load_predictions(horizon: int, exclude_break: bool = False
+                     ) -> tuple[pd.DataFrame, pd.DataFrame]:
+    baseline_path = REPORTS / tagged("baseline_predictions.csv", horizon, exclude_break)
     if not baseline_path.exists():
         raise SystemExit(f"{baseline_path.relative_to(ROOT)} not found. "
                          f"Run baselines.py --horizon {horizon}.")
     baselines = pd.read_csv(baseline_path, index_col=0, parse_dates=True)
 
-    dl_path = REPORTS / tagged("dl_predictions.csv", horizon)
+    dl_path = REPORTS / tagged("dl_predictions.csv", horizon, exclude_break)
     deep = (pd.read_csv(dl_path, index_col=0, parse_dates=True)
             if dl_path.exists() else pd.DataFrame())
     return baselines, deep
@@ -209,7 +213,8 @@ def panel(ax, series: str, prices: pd.Series, actual_return: pd.Series,
 
 def best_per_series(table: pd.DataFrame, prices_table: pd.DataFrame,
                     baselines: pd.DataFrame, deep: pd.DataFrame,
-                    horizon: int, show_bands: bool) -> None:
+                    horizon: int, show_bands: bool,
+                    exclude_break: bool = False) -> None:
     """One panel per series showing only the method that actually won it.
 
     Every other figure in this project compares methods. This one answers the
@@ -304,7 +309,7 @@ def best_per_series(table: pd.DataFrame, prices_table: pd.DataFrame,
                  f"past errors; dark band = spread across random seeds", y=1.0)
     fig.tight_layout()
     FIGURES.mkdir(parents=True, exist_ok=True)
-    path_out = FIGURES / tagged("fig52_best_per_series.png", horizon)
+    path_out = FIGURES / tagged("fig52_best_per_series.png", horizon, exclude_break)
     fig.savefig(path_out, dpi=140, bbox_inches="tight")
     plt.close(fig)
     print(f"  saved {path_out.relative_to(ROOT)}")
@@ -317,6 +322,9 @@ def main() -> None:
     parser.add_argument("--models", nargs="*", default=None,
                         help="which models to draw; default is the best benchmark and "
                              "the best deep configuration for each series")
+    parser.add_argument("--exclude-break", action="store_true",
+                        help="read the run that excluded the 2020-21 disruption "
+                             "from training (the _nobreak files)")
     parser.add_argument("--horizon", type=int, default=4)
     parser.add_argument("--no-bands", action="store_true")
     parser.add_argument("--no-best", action="store_true",
@@ -331,7 +339,7 @@ def main() -> None:
     args = parser.parse_args()
 
     prices_table = load_prices()
-    baselines, deep = load_predictions(args.horizon)
+    baselines, deep = load_predictions(args.horizon, args.exclude_break)
 
     available = [s for s in SHORT if s in baselines["series"].unique()]
     series_list = args.series or available
@@ -340,7 +348,7 @@ def main() -> None:
                          "Run baselines.py with --family us or both.")
 
     FIGURES.mkdir(parents=True, exist_ok=True)
-    comparison = REPORTS / tagged("final_comparison.csv", args.horizon)
+    comparison = REPORTS / tagged("final_comparison.csv", args.horizon, args.exclude_break)
     ranking = pd.read_csv(comparison, index_col=0) if comparison.exists() else None
 
     panels = []
@@ -415,16 +423,17 @@ def main() -> None:
         fig.suptitle(f"{args.horizon}-week-ahead forecast against what happened\n{note}",
                      y=1.04, fontsize=11)
         fig.tight_layout()
-        path = FIGURES / tagged(f"fig50_forecast_{series}.png", args.horizon)
+        path = FIGURES / tagged(f"fig50_forecast_{series}.png", args.horizon, args.exclude_break)
         fig.savefig(path, dpi=140, bbox_inches="tight")
         plt.close(fig)
         print(f"  saved {path.relative_to(ROOT)}")
         panels.append((series, prices, block, chosen))
 
-    comparison_path = REPORTS / tagged("final_comparison.csv", args.horizon)
+    comparison_path = REPORTS / tagged("final_comparison.csv", args.horizon, args.exclude_break)
     if not args.no_best and comparison_path.exists():
         best_per_series(pd.read_csv(comparison_path, index_col=0), prices_table,
-                        baselines, deep, args.horizon, not args.no_bands)
+                        baselines, deep, args.horizon, not args.no_bands,
+                        args.exclude_break)
 
     if len(panels) > 1:
         fig, axes = plt.subplots(len(panels), 1, figsize=(12, 2.6 * len(panels)),
@@ -437,7 +446,7 @@ def main() -> None:
         axes[-1].set_xlabel("week being forecast")
         fig.suptitle(f"{args.horizon}-week-ahead forecasts, US boxed beef", y=1.0)
         fig.tight_layout()
-        path = FIGURES / tagged("fig51_forecast_overview.png", args.horizon)
+        path = FIGURES / tagged("fig51_forecast_overview.png", args.horizon, args.exclude_break)
         fig.savefig(path, dpi=140, bbox_inches="tight")
         plt.close(fig)
         print(f"  saved {path.relative_to(ROOT)}")

@@ -57,12 +57,15 @@ ORDER = list(SHORT)
 BENCHMARKS = ["naive", "ridge", "arima"]
 
 
-def tagged(name: str, horizon: int) -> str:
-    """h=4 keeps the plain filename; other horizons get a suffix (see baselines.py)."""
-    if horizon == 4:
-        return name
+def tagged(name: str, horizon: int, exclude_break: bool = False) -> str:
+    """h=4 full-sample keeps the plain filename; other horizons get an _h<N> suffix and
+    the excluded-disruption variant a _nobreak one (see baselines.py)."""
     stem, _, suffix = name.rpartition(".")
-    return f"{stem}_h{horizon}.{suffix}"
+    if horizon != 4:
+        stem = f"{stem}_h{horizon}"
+    if exclude_break:
+        stem = f"{stem}_nobreak"
+    return f"{stem}.{suffix}"
 
 
 def test_weeks(baselines: pd.DataFrame) -> int:
@@ -72,9 +75,9 @@ def test_weeks(baselines: pd.DataFrame) -> int:
     return int(n.max()) if len(n) else 0
 
 
-def load(horizon: int) -> tuple[pd.DataFrame, pd.DataFrame]:
-    baseline_path = REPORTS / tagged("baseline_results.csv", horizon)
-    dl_path = REPORTS / tagged("dl_results.csv", horizon)
+def load(horizon: int, exclude_break: bool = False) -> tuple[pd.DataFrame, pd.DataFrame]:
+    baseline_path = REPORTS / tagged("baseline_results.csv", horizon, exclude_break)
+    dl_path = REPORTS / tagged("dl_results.csv", horizon, exclude_break)
     for path in (baseline_path, dl_path):
         if not path.exists():
             raise SystemExit(f"{path.relative_to(ROOT)} not found. "
@@ -192,7 +195,8 @@ def ablation_report(dl: pd.DataFrame, configs: list[str]) -> None:
     print("nothing new to learn. That is a result, not a failure.")
 
 
-def figure_rmse(table: pd.DataFrame, horizon: int) -> None:
+def figure_rmse(table: pd.DataFrame, horizon: int,
+                exclude_break: bool = False) -> None:
     """One panel per series, each on its own scale.
 
     RMSE cannot share an axis across series - the ribeye's is three times the
@@ -235,13 +239,14 @@ def figure_rmse(table: pd.DataFrame, horizon: int) -> None:
                  "forecast, outlined bar = best; each panel has its own scale", y=1.0)
     fig.tight_layout()
     FIGURES.mkdir(parents=True, exist_ok=True)
-    path = FIGURES / tagged("fig40_rmse_by_model.png", horizon)
+    path = FIGURES / tagged("fig40_rmse_by_model.png", horizon, exclude_break)
     fig.savefig(path, dpi=140, bbox_inches="tight")
     plt.close(fig)
     print(f"  saved {path.relative_to(ROOT)}")
 
 
-def figure_stability(dl: pd.DataFrame, configs: list[str], horizon: int) -> None:
+def figure_stability(dl: pd.DataFrame, configs: list[str], horizon: int,
+                     exclude_break: bool = False) -> None:
     block = dl[dl["config"].isin(configs)]
     if block.empty:
         return
@@ -257,7 +262,7 @@ def figure_stability(dl: pd.DataFrame, configs: list[str], horizon: int) -> None
     ax.set_title("Run-to-run stability: how much the answer moves with the seed")
     ax.grid(axis="x", alpha=0.3)
     fig.tight_layout()
-    path = FIGURES / tagged("fig41_seed_stability.png", horizon)
+    path = FIGURES / tagged("fig41_seed_stability.png", horizon, exclude_break)
     fig.savefig(path, dpi=140, bbox_inches="tight")
     plt.close(fig)
     print(f"  saved {path.relative_to(ROOT)}")
@@ -265,12 +270,15 @@ def figure_stability(dl: pd.DataFrame, configs: list[str], horizon: int) -> None
 
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
+    parser.add_argument("--exclude-break", action="store_true",
+                        help="read the run that excluded the 2020-21 disruption "
+                             "from training (the _nobreak files)")
     parser.add_argument("--horizon", type=int, default=4)
     parser.add_argument("--include-joint", action="store_true",
                         help="also show the joint multi-output runs, which lost")
     args = parser.parse_args()
 
-    baselines, dl = load(args.horizon)
+    baselines, dl = load(args.horizon, args.exclude_break)
     if "rmse_ensemble" not in dl.columns:
         raise SystemExit(
             "dl_results.csv has no rmse_ensemble column - it was written by an "
@@ -305,11 +313,11 @@ def main() -> None:
 
     ablation_report(dl, configs)
 
-    out_name = tagged("final_comparison.csv", args.horizon)
+    out_name = tagged("final_comparison.csv", args.horizon, args.exclude_break)
     table.to_csv(REPORTS / out_name)
     print(f"\nWritten {(REPORTS / out_name).relative_to(ROOT)}")
-    figure_rmse(table, args.horizon)
-    figure_stability(dl, configs, args.horizon)
+    figure_rmse(table, args.horizon, args.exclude_break)
+    figure_stability(dl, configs, args.horizon, args.exclude_break)
 
 
 if __name__ == "__main__":

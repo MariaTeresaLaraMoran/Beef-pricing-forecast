@@ -66,7 +66,8 @@ PROCESSED = ROOT / "data" / "processed"
 REPORTS = ROOT / "reports"
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from baselines import diebold_mariano, score, tagged  # noqa: E402  - shared with the benchmarks
+from baselines import (BREAK_END, BREAK_START, diebold_mariano, score,
+                       tagged)  # noqa: E402  - shared with the benchmarks
 
 HORIZON = 4
 WINDOW = 26
@@ -108,13 +109,20 @@ def load_table() -> pd.DataFrame:
     return pd.read_csv(path, index_col=0, parse_dates=True)
 
 
-def load_baseline_test_index(horizon: int = HORIZON) -> pd.DatetimeIndex:
+def load_baseline_test_index(horizon: int = HORIZON,
+                             exclude_break: bool = False) -> pd.DatetimeIndex:
     """The exact weeks baselines.py scored, so the comparison is like-for-like.
 
     Deriving the split again here would give almost the same weeks, and "almost" is not
     good enough when the whole point is to compare two models on identical rows.
+
+    The two disruption variants share a test period by construction, so either file
+    gives the same answer; the matching one is preferred and the plain one is the
+    fallback, which lets the variants be run in either order.
     """
-    path = REPORTS / tagged("baseline_predictions.csv", horizon)
+    path = REPORTS / tagged("baseline_predictions.csv", horizon, exclude_break)
+    if not path.exists():
+        path = REPORTS / tagged("baseline_predictions.csv", horizon)
     if not path.exists():
         raise SystemExit(f"{path.relative_to(ROOT)} not found. Run baselines.py first - "
                          "this script scores itself on the weeks it used.")
@@ -274,6 +282,16 @@ def prepare(table: pd.DataFrame, features: list[str], targets: list[str],
 
     train, val, test = split_by_test_start(stamps, test_start, args.horizon,
                                            args.val_fraction)
+    if args.exclude_break:
+        # Windows whose target week falls inside the disruption, dropped from FITTING
+        # only. Test is untouched, so the two variants are scored on identical weeks.
+        # This also keeps those weeks out of the standardisation computed below from
+        # the training rows, which is where an |z| of 8.9 does the most damage.
+        ordinary = (stamps < BREAK_START) | (stamps > BREAK_END)
+        was = (len(train), len(val))
+        train, val = train[ordinary[train]], val[ordinary[val]]
+        print(f"    disruption excluded: train {was[0]} -> {len(train)}, "
+              f"validation {was[1]} -> {len(val)}")
     if len(train) < 100 or len(val) < 20 or len(test) == 0:
         return None
 
@@ -343,6 +361,11 @@ def main() -> None:
                              "only. plus-volume: adds negotiated head counts. "
                              "plus-macro: adds the dollar index and jobless claims. "
                              "plus-all: everything")
+    parser.add_argument("--exclude-break", action="store_true",
+                        help="drop the 2020-03 to 2021-06 market disruption from "
+                             "training and validation. The test period is unchanged, "
+                             "so results stay comparable with the full-sample run; "
+                             "output files gain a _nobreak suffix")
     parser.add_argument("--seeds", type=int, default=5)
     parser.add_argument("--window", type=int, default=WINDOW)
     parser.add_argument("--horizon", type=int, default=HORIZON)
@@ -358,7 +381,7 @@ def main() -> None:
     get_keras()        # fail early and clearly if Keras is not installed
 
     table = load_table()
-    test_start = load_baseline_test_index(args.horizon).min()
+    test_start = load_baseline_test_index(args.horizon, args.exclude_break).min()
     extra = {
         "core": [],
         "plus-volume": VOLUME_FEATURES,
@@ -463,8 +486,8 @@ def main() -> None:
     REPORTS.mkdir(parents=True, exist_ok=True)
     results = pd.DataFrame(mean_rows)
     seeds_frame = pd.DataFrame(seed_rows)
-    for frame, name in ((results, tagged("dl_results.csv", args.horizon)),
-                        (seeds_frame, tagged("dl_results_seeds.csv", args.horizon))):
+    for frame, name in ((results, tagged("dl_results.csv", args.horizon, args.exclude_break)),
+                        (seeds_frame, tagged("dl_results_seeds.csv", args.horizon, args.exclude_break))):
         path = REPORTS / name
         if path.exists():                     # keep earlier configurations for comparison
             frame = pd.concat([pd.read_csv(path), frame], ignore_index=True)
@@ -476,7 +499,7 @@ def main() -> None:
     # available for the final comparison and the forecast plots.
     predictions = pd.concat(prediction_frames)
     predictions.index.name = "week"
-    path = REPORTS / tagged("dl_predictions.csv", args.horizon)
+    path = REPORTS / tagged("dl_predictions.csv", args.horizon, args.exclude_break)
     if path.exists():
         earlier = pd.read_csv(path, index_col=0, parse_dates=True)
         earlier.index.name = "week"

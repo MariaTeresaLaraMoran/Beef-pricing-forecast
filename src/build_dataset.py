@@ -358,13 +358,14 @@ def main() -> None:
     args = parser.parse_args()
 
     print("1. US cut and cutout prices, fed cattle, macro")
-    frames = [load_us_cuts(), load_us_cutout(), load_cattle(), load_fred()]
-    # Built column by column off the union of the indexes rather than by concat: the
-    # sources do not share a calendar, and a duplicate week in any one of them would
-    # make a concat raise rather than align.
-    index = frames[0].index
-    for frame in frames[1:]:
-        index = index.union(frame.index)
+    cuts, cutout = load_us_cuts(), load_us_cutout()
+    frames = [cuts, cutout, load_cattle(), load_fred()]
+    # Anchored on the price series, not on the union of every source. FRED's jobless
+    # claims run back to 1967 and the dollar index to 2006, so a union index would
+    # carry three decades of rows holding nothing but claims. Built column by column
+    # rather than by concat: a duplicate week in any one source would make a concat
+    # raise instead of align.
+    index = cuts.index.union(cutout.index)
     table = pd.DataFrame(index=index.sort_values())
     for frame in frames:
         for column in frame.columns:
@@ -389,10 +390,10 @@ def main() -> None:
         if PUBLICATION_LAG_WEEKS.get(column, 0) > 0:
             table[f"tgt_{column}"] = table[column]
 
-    print("\n5. Publication lags")
+    print("\n2. Publication lags")
     table = apply_publication_lags(table)
 
-    print("\n6. Features")
+    print("\n3. Features")
     horizons = sorted(set(args.horizon))
     for position, horizon in enumerate(horizons):
         # Features are identical across horizons, so they are built once on the first
