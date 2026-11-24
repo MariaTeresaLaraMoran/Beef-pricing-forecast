@@ -4,17 +4,20 @@ Forecasting weekly US boxed beef prices four weeks ahead with deep learning.
 
 This review covers four bodies of work: (1) how wholesale beef prices are formed and what
 is known about the spread between what packers buy and what they sell, (2) how beef prices
-move between the US and Mexico, which is what the project's ablation tests, (3) how deep
+move between the US and Mexico, which an ablation in this project tested, (3) how deep
 learning has been applied to livestock prices, and (4) which architectures perform best on
 agricultural price series. It closes with how this project differs from previous work, the
-risks known in advance, and what the data turned out to show — including two places where
-the measurements contradicted the design.
+risks known in advance, and what the data turned out to show — including several places
+where the measurements contradicted the design.
 
 A note on scope. The project began as a forecast of Mexican cut prices using US prices as
 predictors. The target moved to US boxed beef after both were built and benchmarked
-against each other; section 7 reports that test. The Mexican data was not discarded — it
-became the ablation in comparison 3, and the fact that it does *not* improve US forecasts
-is one of the project's cleaner results.
+against each other; section 7 reports that test. The Mexican data then became an ablation
+arm, and the finding that it does *not* improve US forecasts — while doubling run-to-run
+instability — is one of the project's cleaner negative results. Having been measured, the
+Mexican sources were removed from the pipeline. The transmission literature in section 2
+is kept, because it is what makes that negative result interpretable rather than merely
+disappointing.
 
 ---
 
@@ -142,7 +145,7 @@ larger datasets than the ~800 training windows available here, and would risk ov
 | Deep learning for livestock prices focused on Korea and China | **US boxed beef**, a market with no comparable published deep learning study at cut level |
 | Price studied at the aggregate or cutout level | **Seven series**: the Choice and Select cutouts plus five individual cuts identified by IMPS code |
 | Price-history models, or decomposition of the price alone | An explicit **supply-side state variable**: the gross packer margin, cutout minus dressed fed cattle price on a common carcass basis |
-| Cross-border transmission studied with monthly VECMs | The same question as a **neural-network ablation** at weekly frequency |
+| Cross-border transmission studied with monthly VECMs | The same question measured as a **neural-network ablation** at weekly frequency |
 | Deep learning benchmarked against ARIMA | Benchmarked against **naive**, with Diebold–Mariano tests and seed variance reported |
 | A single training run reported | **Five random seeds per configuration**, reported as mean ± standard deviation, with the ensemble alongside |
 | Data taken from existing repositories | Collected from **six primary sources**, two of them scraped, with reproducible scripts and cut names reconciled against the USMEF US–Mexico nomenclature standard |
@@ -153,9 +156,10 @@ larger datasets than the ~800 training windows available here, and would risk ov
    same test weeks.
 2. **Does sharing across series help?** One joint seven-output network against seven
    independent single-series networks.
-3. **Does destination-market information help?** The same architecture trained with and
-   without Mexican prices, spreads and the exchange rate — a direct ablation, and a test
-   of the transmission asymmetry in section 2.
+3. **Does extra information help?** The same architecture trained with and without each
+   added block of features, one at a time: negotiated trading volume, US macro conditions,
+   and — in the project's earlier form — Mexican prices, spreads and the exchange rate,
+   which tested the transmission asymmetry in section 2 directly.
 
 ### A design that was considered and deferred
 
@@ -274,38 +278,90 @@ produced none. The best Mexican model reduced RMSE 4.3% below naive (p = 0.315, 
 distinguishable from chance); the best US model reduced it 19.5%. The target moved
 accordingly, and the Mexican series became the ablation.
 
-### Forecastability rises with the horizon
+### Forecastability rises with the horizon, but reliability does not
 
 The project was first built to forecast four weeks ahead and later extended to twelve,
-with the pipeline otherwise unchanged. The advantage of the recurrent networks over the
-benchmarks roughly doubles at the longer horizon: mean improvement over naive rises from
-14.6% to 24.5%, mean improvement over the best benchmark per series from 4.1% to 8.2%,
-and the number of series a deep model wins from five to six of seven. The chuck roll
-moves from a 1.3-standard-deviation gain to 6.5.
+with the pipeline otherwise unchanged. Two things move in opposite directions.
+
+The **size** of the advantage rises with the horizon, as the error-correction account in
+section 2 predicts. Mean improvement over the naive forecast goes from 13.6% to 16.7% on
+the full sample, and from 16.8% to 21.0% once the 2020–21 disruption is excluded from
+training. The direction was visible in the raw correlations before any model was fitted —
+the packer margin against the forward return measures −0.301 at four weeks and −0.353 at
+thirteen — so this confirms a prediction made from the data rather than one found after
+the fact. If the margin corrects slowly, then at four weeks most of the knowable variation
+is momentum that a random walk already contains, and only at a longer horizon has the
+adjustment reached the market.
+
+The **reliability** falls. Measured as the gain over the best benchmark divided by the
+spread across five random seeds, two series clear two standard deviations at four weeks
+and none do at twelve on the full sample. The networks become noisier faster than they
+become better. A longer horizon offers more to gain and less certainty about having
+gained it.
 
 In absolute terms the forecasts are worse at twelve weeks, as they must be — a twelve-week
-return is a larger quantity to miss, and mean RMSE rises from 0.073 to 0.104. What
+return is a larger quantity to miss, and mean RMSE rises from roughly 0.073 to 0.108. What
 improves is the *relative* standing: the naive forecast degrades faster than the networks
 do.
 
-This is consistent with the error-correction literature in section 2 rather than
-incidental to it. If the margin corrects slowly, then at four weeks most of the knowable
-variation is momentum that a random walk already contains, and only at a longer horizon
-has the adjustment had time to reach the market. The direction was visible in the raw
-correlations before any model was fitted — the packer margin against the forward return
-measures −0.301 at four weeks and −0.353 at thirteen — so the horizon result confirms a
-prediction made from the data rather than one found after the fact. It also means a single
-reported horizon would have understated the method: at four weeks alone the honest summary
-was one reliable improvement among seven series.
+### A core feature that was never tested
+
+`ret_exports_tonnes`, US beef exports to Mexico, entered the feature set when Mexico was
+the target and remained in every model after the target moved to the US. Unlike the other
+candidate features — average carcass weight, grade mix, a production proxy, negotiated
+head count, price dispersion — it was never correlation-tested before admission.
+
+Measured late, its mean absolute correlation with the forward return is 0.007 at four
+weeks and 0.016 at twelve: weaker than the negotiated head count that had been explicitly
+rejected (0.037 and 0.016), and an order of magnitude below the packer margin (0.207 and
+0.228). It was removed, and every result regenerated.
+
+The general point is one the literature in section 3 does not address: a feature admitted
+under one framing of a problem does not automatically earn its place under another, and
+the cost of not re-examining it was not the feature itself but what its absence was hiding.
+
+### Seventeen weeks decided the result
+
+Removing the exports feature had a consequence nobody anticipated. USDA FAS export data
+has gaps over the COVID aftermath, and because exports was a *required* feature, the rows
+with those gaps had been silently dropped from training — seventeen weeks between
+2020-06-21 and 2021-03-07, with packer margins of 43.6 to 61.7 USD/cwt against a 2004–2019
+median of 6.34, and `margin_choice_log_change` reaching |z| = 8.9.
+
+With those weeks restored to training, the benchmarks moved under 1% while the recurrent
+networks moved 15% to 37% worse, on identical scored weeks. The earlier and much stronger
+result had rested on an accidental exclusion.
+
+This is a finding about method sensitivity rather than about the pandemic. Ridge sees the
+same features and barely moved; ARIMA and naive never saw them at all. What differs is how
+a squared-error loss over a recurrent architecture responds to a handful of observations
+several standard deviations from everything else, including through the standardisation
+computed from the training rows.
+
+All results are therefore reported in two variants: the full sample, and with a declared
+disruption window (2020-03-01 to 2021-06-30) removed from training and validation but never
+from test, so both are scored on identical weeks. The window is a fixed calendar constant
+justified by the regime rather than chosen for its effect — the forecast period averages
+8.7 USD/cwt against a 2004–2019 norm of 8.4, while the excluded weeks run an order of
+magnitude above it. Note that the margin–return relationship does not *break* inside the
+window; measured there it is stronger (−0.753 against −0.120 in 2004–2019), because one
+enormous excursion dominates the correlation. The case for exclusion rests on influence,
+not on the mechanism failing.
+
+A reader of the studies in sections 3 and 4 cannot tell how any of them treated 2020. On
+this evidence, that choice can move a headline result by more than the architecture does.
 
 ### Consequences for the design
 
-- The level spreads, not the raw foreign returns, are the features that matter.
+- The packer margin, not the raw price history, is the feature that carries the signal.
 - The multi-output argument cannot be asserted from "cuts come from one carcass"; it has
   to be measured, and when measured it did not hold.
-- Whichever market is forecast, the naive floor is harder than it looks: in Mexico because
-  prices genuinely do not move a quarter of the time, in the US because the cutout is
-  close to a random walk at four weeks.
+- The naive floor is harder than it looks: the cutout is close to a random walk at four
+  weeks, and ARIMA loses to naive on two of the seven series.
+- Every feature is correlation-tested before admission, and every claimed gain is divided
+  by the spread across random seeds before it is called a result.
+- Any decision about which rows enter training is reported, because one such decision
+  changed this project's headline more than the choice of architecture did.
 
 ---
 
