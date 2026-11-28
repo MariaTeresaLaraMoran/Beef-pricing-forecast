@@ -45,8 +45,12 @@ establishes the asymmetry that justified dropping them.
 - **Target definition:** log return over the next h weeks, predicted **directly** from one
   model, not by iterating a one-step model h times
 - **Split:** time-ordered train / validation / test with an embargo of one horizon length
-  at each boundary, so no input window straddles a split. **172 test weeks at h=4, 163 at
-  h=12.** Row counts are printed by every script and never hard-coded
+  at each boundary. Every row's target looks h weeks forward, so without the gap the last
+  h training rows would carry targets covering the first h test weeks — the model would
+  have been fitted on the outcome of weeks it is then scored on. The embargo drops those
+  rows. A longer horizon needs a longer embargo, which is why the test set shrinks:
+  **172 test weeks at h=4, 163 at h=12.** Row counts are printed by every script and
+  never hard-coded
 - **Metric:** RMSE on the log return over the horizon, plus MAPE on the recovered price
   and Diebold–Mariano tests against naive
 - **Benchmarks:** naive (random walk), ridge regression on 32 lagged features,
@@ -114,7 +118,7 @@ only the first half would overstate the case considerably.
 
 ### The 2020–21 disruption
 
-This is the project's main finding, and it was discovered by accident.
+This is the project's main finding.
 
 USDA FAS export data had gaps over the COVID aftermath. Because an exports feature was
 required by the model, **17 extreme weeks were silently dropped from training** — margins
@@ -275,7 +279,7 @@ python src/forecast_plots.py --horizon 12
 python src/forecast_plots.py --horizon 12 --exclude-break
 ```
 
-Allow a couple of hours for steps 3 and 4: five seeds times seven series per arm, plus
+Allow a q to 2  hours for steps 3 and 4: five seeds times seven series per arm, plus
 ARIMA order selection in step 3.
 
 `baselines.py` merges rather than replaces: re-running a subset of models keeps the rows
@@ -329,7 +333,3 @@ by anyone with the repository. Licensed third-party re-exports of the same data
 (commercial price-intelligence platforms) are deliberately not used, because they cannot
 be redistributed and a reader could not reproduce them.
 
-Cut names are reconciled against the USMEF US–Mexico nomenclature standard. Each pairing
-in `data/reference/us_cut_map.csv` records the IMPS code, the match quality and the
-evidence — including two cases where an initially plausible mapping was tested against
-the data and rejected.

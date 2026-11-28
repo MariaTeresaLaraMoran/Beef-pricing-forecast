@@ -18,7 +18,17 @@ us_steer_*_head      weekly NEGOTIATED head count, 5-Area:
 usd_index            FRED DTWEXBGS, broad trade-weighted dollar
 initial_claims       FRED ICSA, weekly initial jobless claims
 season_sin, season_cos   week of year as a smooth annual cycle
+target_<cut>_h1         log return over the NEXT 1 weeks (the only forward-looking columns)
+target_<cut>_h2         log return over the NEXT 2 weeks (the only forward-looking columns)
+target_<cut>_h3         log return over the NEXT 3 weeks (the only forward-looking columns)
 target_<cut>_h4         log return over the NEXT 4 weeks (the only forward-looking columns)
+target_<cut>_h5         log return over the NEXT 5 weeks (the only forward-looking columns)
+target_<cut>_h6         log return over the NEXT 6 weeks (the only forward-looking columns)
+target_<cut>_h7         log return over the NEXT 7 weeks (the only forward-looking columns)
+target_<cut>_h8         log return over the NEXT 8 weeks (the only forward-looking columns)
+target_<cut>_h9         log return over the NEXT 9 weeks (the only forward-looking columns)
+target_<cut>_h10         log return over the NEXT 10 weeks (the only forward-looking columns)
+target_<cut>_h11         log return over the NEXT 11 weeks (the only forward-looking columns)
 target_<cut>_h12         log return over the NEXT 12 weeks (the only forward-looking columns)
 
 Publication lags applied (weeks):
